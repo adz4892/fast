@@ -1036,6 +1036,9 @@ https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mnplus
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MQTV.jpg" group-title="Indonesia",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
 
 
 
