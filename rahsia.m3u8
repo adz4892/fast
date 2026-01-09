@@ -1039,8 +1039,6 @@ https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs
 #EXTINF:-1 tvg-id="411959" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MQTV.jpg" group-title="Indonesia",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/HBOSIGN.jpg" tvg-name="HBO Signature"  group-title="Indonesia",HBO Signature
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
 
 
