@@ -8,7 +8,7 @@
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
-#EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml,https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://github.com/AqFad2811/epg/blob/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz,https://www.bevy.be/bevyfiles/spain.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml,https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" refresh="1440"
+#EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/Sincan2/qe3-iptv-indonesia/refs/heads/main/qe3.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml,https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://github.com/AqFad2811/epg/blob/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz,https://www.bevy.be/bevyfiles/spain.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml,https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" refresh="1440"
 
 *************************************************************************
 ********************************MALAYSIA**********************************************************************************************************
@@ -640,10 +640,10 @@ ________________________________SD___________________________________
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205type=drm
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/INDOSIAR.jpg" group-title="Indonesia",Indosiar (Vidio)
+#EXTINF:-1 tvg-id="171847" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/INDOSIAR.jpg" group-title="Indonesia",Indosiar (Vidio)
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/INDOSIAR.jpg" group-title="Indonesia",Indosiar (IndiHome)
+#EXTINF:-1 tvg-id="171847" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/INDOSIAR.jpg" group-title="Indonesia",Indosiar (IndiHome)
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indosiar/manifest.mpd 
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RCTI.jpg" group-logo="https://raw.githubusercontent.com/adz4892/idn/refs/heads/main/TV%20INDONESIA.png" group-title="Indonesia",RCTI
@@ -654,7 +654,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/GTV.jpg" group-title="Indonesia",GTV
+#EXTINF:-1 tvg-id="171924" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/GTV.jpg" group-title="Indonesia",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 
@@ -739,7 +739,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
 
-#EXTINF:-1  tvg-id="GTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/GTV.jpg" group-title="Indonesia",GTV*
+#EXTINF:-1  tvg-id="171924" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/GTV.jpg" group-title="Indonesia",GTV*
 https://allcutv.rctiplus.id/gtv2023.m3u8
 
 #EXTINF:-1  tvg-id="MNCTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MNCTV.jpg" group-title="Indonesia",MNCTV*
@@ -755,7 +755,7 @@ https://rodjatv.com/rodjatv/live.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5dfa046b3bf14866a143470d9c8dd74d:97e354284ee7a67e5dafbce04e17c4c0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="JakTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-name="Jak TV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/JAKTV.jpg" group-title="Indonesia",JakTV
+#EXTINF:-1 tvg-id="171905" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-name="Jak TV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/JAKTV.jpg" group-title="Indonesia",JakTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/1f05c642353a4a778d8a544837e1b49c/index.mpd
 
 #EXTINF:-1 tvg-id="SurauTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SURAUTV.jpg" group-title="Indonesia",SurauTV
@@ -766,10 +766,10 @@ https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SCTV.jpg" group-title="Indonesia",SCTV (V+)
+#EXTINF:-1 tvg-id="411917" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SCTV.jpg" group-title="Indonesia",SCTV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SCTV.jpg" group-title="Indonesia",SCTV (IndiHome)
+#EXTINF:-1 tvg-id="411917" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SCTV.jpg" group-title="Indonesia",SCTV (IndiHome)
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sctv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -780,7 +780,7 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sctv/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204type=drm
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SCTV.jpg" group-title="Indonesia",SCTV (Vidio)
+#EXTINF:-1 tvg-id="411917" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SCTV.jpg" group-title="Indonesia",SCTV (Vidio)
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -808,14 +808,14 @@ https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mediampd/CartoonNetWHD.
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/NICK.jpg" group-title="Indonesia" tvg-id="Nickelodeon.id", Nickelodeon 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/NICK.jpg" group-title="Indonesia" tvg-id="171930", Nickelodeon 
 https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mediampd/Nickelodeon.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/NICK.jpg" group-title="Indonesia" tvg-id="Nickelodeon.id", Nickelodeon (V+)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/NICK.jpg" group-title="Indonesia" tvg-id="171930", Nickelodeon (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -836,7 +836,7 @@ http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="816.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SPOTV.jpg" group-title="Indonesia",SPOTV
+#EXTINF:-1 tvg-id="171915" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SPOTV.jpg" group-title="Indonesia",SPOTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
@@ -844,7 +844,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SPOTV2.jpg" group-title="Indonesia",SPOTV 2
+#EXTINF:-1 tvg-id="171878" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SPOTV2.jpg" group-title="Indonesia",SPOTV 2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd 
 
@@ -896,10 +896,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/Cit
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/VEVO9000.jpg" group-title="Indonesia", Vevo '90s & '00s
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/VEVO9000.jpg" group-title="Indonesia", Vevo '90s & '00s
 https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/VEVO2K.jpg" group-title="Indonesia", Vevo 2K
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/VEVO2K.jpg" group-title="Indonesia", Vevo 2K
 https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -984,25 +984,25 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.
 #EXTINF:-1 tvg-id="Discovery Asia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/DISCASIA.jpg" group-title="Indonesia",Discovery Asia 
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MDTV.jpg" group-title="Indonesia",MDTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MDTV.jpg" group-title="Indonesia",MDTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MUSICTV.jpg" group-title="Indonesia",MUSIC TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MUSICTV.jpg" group-title="Indonesia",MUSIC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RCTI.jpg" group-title="Indonesia",RCTI ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RCTI.jpg" group-title="Indonesia",RCTI ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MNCTV.jpg" group-title="Indonesia",MNCTV ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MNCTV.jpg" group-title="Indonesia",MNCTV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
@@ -1036,8 +1036,9 @@ https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mnplus
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MQTV.jpg" group-title="Indonesia",MQTV
+#EXTINF:-1 tvg-id="411959" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MQTV.jpg" group-title="Indonesia",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
 
 
 
