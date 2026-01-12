@@ -8,6 +8,8 @@
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/adz4892/fast/refs/heads/main/epg.xml" refresh="1440" max-conn="1" refresh="24"
+
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/mss-col/epg/refs/heads/main/unifi_epg.xml,https://raw.githubusercontent.com/Sincan2/qe3-iptv-indonesia/refs/heads/main/qe3.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml,https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://github.com/AqFad2811/epg/blob/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz,https://www.bevy.be/bevyfiles/spain.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml,https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" refresh="1440"
 
 *************************************************************************
@@ -528,7 +530,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 #EXTINF:0,tvg-id="Sarawak FM" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SARAWAK.jpg" group-title="FM" group-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FM.png",SARAWAKFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC.aac
 
-#EXTINF:0, tvg-id="CHN" tvg-url="https://raw.githubusercontent.com/aa6my/epg/refs/heads/master/mytv.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg" group-title="FM",KOOLFM
+#EXTINF:0, tvg-id="Kool FM" tvg-url="https://raw.githubusercontent.com/adz4892/fast/refs/heads/main/epg.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg" group-title="FM",KOOLFM
 https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
 
 #EXTINF:0, tvg-id="CHN" tvg-url="https://raw.githubusercontent.com/aa6my/epg/refs/heads/master/mytv.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SURIA.jpg" group-title="FM",SURIAFM
@@ -573,7 +575,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KL_FMAAC.aac
 #EXTINF:0, tvg-id="CHN" tvg-url="https://raw.githubusercontent.com/aa6my/epg/refs/heads/master/mytv.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg" group-title="FM",MANIS FM
 https://stream.rcs.revma.com/7bmtzk1z403vv/hls.m3u8
 
-#EXTINF:0, tvg-id="CHN" tvg-url="https://raw.githubusercontent.com/aa6my/epg/refs/heads/master/mytv.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/HOT.jpg" group-title="FM",HOTFM
+#EXTINF:0, tvg-id="Hot FM" tvg-url="https://raw.githubusercontent.com/adz4892/fast/refs/heads/main/epg.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/HOT.jpg" group-title="FM",HOTFM
 https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
 
 #EXTINF:0, tvg-id="CHN" tvg-url="https://raw.githubusercontent.com/aa6my/epg/refs/heads/master/mytv.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FLY.jpg" group-title="FM",FLYFM
@@ -1038,6 +1040,7 @@ https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs
 
 #EXTINF:-1 tvg-id="411959" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MQTV.jpg" group-title="Indonesia",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
 
 
 
