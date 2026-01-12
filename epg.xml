@@ -3,42 +3,42 @@
   <channel id="Hot FM">
     <display-name lang="en">Hot FM</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/HOT.jpg" />
-    <url>http://www.rtmklik.rtm.gov.my</url>
+    <url>http://www.hotfm.audio</url>
   </channel>
   <channel id="Kool FM">
     <display-name lang="en">Kool FM</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg" />
-    <url>http://www.rtmklik.rtm.gov.my</url>
+    <url>http://www.koolfm.audioy</url>
   </channel>
   <channel id="Molek FM">
     <display-name lang="en">Molek FM</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg" />
-    <url>http://www.rtmklik.rtm.gov.my</url>
+    <url>http://www.molekfm.audio</url>
   </channel>
   <channel id="Fly FM">
     <display-name lang="en">Fly FM</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FLY.jpg" />
-    <url>http://www.rtmklik.rtm.gov.my</url>
+    <url>http://www.flyfm.audio</url>
   </channel>
   <channel id="Best FM">
     <display-name lang="en">Best FM</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/BESTFM.jpg" />
-    <url>http://www.rtmklik.rtm.gov.my</url>
+    <url>https://bestfm.com.my</url>
   </channel>
   <channel id="Suria FM">
     <display-name lang="en">Suria FM</display-name>
     <icon src=https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SURIA.jpg" />
-    <url>http://www.rtmklik.rtm.gov.my</url>
+    <url>https://suria.my</url>
   </channel>
   <channel id="Manis FM">
     <display-name lang="en">Manis Fm</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg" />
-    <url>http://www.rtmklik.rtm.gov.my</url>
+    <url>https://www.manis.fm</url>
   </channel>
   <channel id="Cats FM">
     <display-name lang="en">Cats FM</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/CATS.jpg" />
-    <url>http://www.rtmklik.rtm.gov.my</url>
+    <url>https://www.catsfm.my</url>
   </channel>
   <channel id="Sarawak FM">
     <display-name lang="en">Sarawak FM</display-name>
