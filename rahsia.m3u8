@@ -645,6 +645,10 @@ ________________________________SD___________________________________
 #EXTINF:-1 tvg-id="171847" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/INDOSIAR.jpg" group-title="Indonesia",Indosiar (Vidio)
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
+#EXTINF:-1 tvg-id="171847" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/INDOSIAR.jpg" group-title="Indonesia",INDOSIAR DIGITAL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+
 #EXTINF:-1 tvg-id="171847" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/INDOSIAR.jpg" group-title="Indonesia",Indosiar (IndiHome)
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indosiar/manifest.mpd 
 
@@ -1040,6 +1044,7 @@ https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs
 
 #EXTINF:-1 tvg-id="411959" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MQTV.jpg" group-title="Indonesia",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
 
 
 
