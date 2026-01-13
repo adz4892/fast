@@ -158,6 +158,8 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 tvg-id="118" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml" ch-number="118" tvg-name="Inspirasi" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/UNIFIINSPIRASI.jpg" group-title="MYTV MANA",Inspirasi
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SELANGORTV.jpg" tvg-name="Selangor TV"  group-title="MYTV MANA",Selangor TV
+https://dedm91s0p00ib.cloudfront.net/smil:selangor/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
@@ -1062,6 +1064,7 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbo/manifest.mpd
 #EXTINF:-1 tvg-id="HBO Hits" group-title="Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/HBOHITS.jpg",HBO Hits
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
+
 
 
 
