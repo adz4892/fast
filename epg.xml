@@ -50,480 +50,444 @@
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FM.png" />
     <url>http://www.rtmklik.rtm.gov.my</url>
   </channel>
-    <programme start="20260113000000 +0000" stop="20260113055959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM - Terbaik Sentiasa Hangat</title>
-    <desc lang="en">Seleksi lagu hiburan</desc>
-  </programme>
-<programme start="20260113060000 +0000" stop="20260113095959 +0000" channel="Hot FM">
-    <title lang="en">Bekpes Hot</title>
-    <desc lang="en">Bersama AG, Fara Fauzana, Johan & KJ</desc>
-  </programme>
-<programme start="20260113100000 +0000" stop="20260113145959 +0000" channel="Hot FM">
-    <title lang="en">FYP@Hot</title>
-    <desc lang="en">Bersama Keymi</desc>
-  </programme>
-<programme start="20260113150000 +0000" stop="20260113185959 +0000" channel="Hot FM">
-    <title lang="en">Hot Squad</title>
-    <desc lang="en">Bersama Fizi Ali</desc>
-  </programme>
-<programme start="20260113190000 +0000" stop="20260113195959 +0000" channel="Hot FM">
-    <title lang="en">Drama Sangat @ Hot FM </title>
-    <desc lang="en">Seleksi lagu OST drama</desc>
-  </programme>
-<programme start="20260113200000 +0000" stop="20260113235959 +0000" channel="Hot FM">
-    <title lang="en">Hotflix</title>
-    <desc lang="en">Bersama Ayu & Aidil Fikri</desc>
-  </programme>
-<programme start="20260114000000 +0000" stop="20260114055959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM - Terbaik Sentiasa Hangat</title>
-    <desc lang="en">Seleksi lagu hiburan</desc>
-  </programme>
-<programme start="20260114060000 +0000" stop="20260114095959 +0000" channel="Hot FM">
-    <title lang="en">Bekpes Hot</title>
-    <desc lang="en">Bersama AG, Fara Fauzana, Johan & KJ</desc>
-  </programme>
-<programme start="20260114100000 +0000" stop="20260114145959 +0000" channel="Hot FM">
-    <title lang="en">FYP@Hot</title>
-    <desc lang="en">Bersama Keymi</desc>
-  </programme>
-<programme start="20260114150000 +0000" stop="20260114185959 +0000" channel="Hot FM">
-    <title lang="en">Hot Squad</title>
-    <desc lang="en">Bersama Fizi Ali</desc>
-  </programme>
-<programme start="20260114190000 +0000" stop="20260114195959 +0000" channel="Hot FM">
-    <title lang="en">Drama Sangat @ Hot FM </title>
-    <desc lang="en">Seleksi lagu OST drama</desc>
-  </programme>
-<programme start="20260114200000 +0000" stop="20260114235959 +0000" channel="Hot FM">
-    <title lang="en">Hotflix</title>
-    <desc lang="en">Bersama Ayu & Aidil Fikri</desc>
-  </programme>
-<programme start="20260115000000 +0000" stop="20260115055959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM - Terbaik Sentiasa Hangat</title>
-    <desc lang="en">Seleksi lagu hiburan</desc>
-  </programme>
-<programme start="20260115060000 +0000" stop="20260115095959 +0000" channel="Hot FM">
-    <title lang="en">Bekpes Hot</title>
-    <desc lang="en">Bersama AG, Fara Fauzana, Johan & KJ</desc>
-  </programme>
-<programme start="20260115100000 +0000" stop="20260115145959 +0000" channel="Hot FM">
-    <title lang="en">FYP@Hot</title>
-    <desc lang="en">Bersama Keymi</desc>
-  </programme>
-<programme start="20260115150000 +0000" stop="20260115185959 +0000" channel="Hot FM">
-    <title lang="en">Hot Squad</title>
-    <desc lang="en">Bersama Fizi Ali</desc>
-  </programme>
-<programme start="20260115190000 +0000" stop="20260115195959 +0000" channel="Hot FM">
-    <title lang="en">Drama Sangat @ Hot FM </title>
-    <desc lang="en">Seleksi lagu OST drama</desc>
-  </programme>
-<programme start="20260115200000 +0000" stop="20260115235959 +0000" channel="Hot FM">
-    <title lang="en">Hotflix</title>
-    <desc lang="en">Bersama Ayu & Aidil Fikri</desc>
-  </programme>
-<programme start="20260116000000 +0000" stop="20260116055959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM - Terbaik Sentiasa Hangat</title>
-    <desc lang="en">Seleksi lagu hiburan</desc>
-  </programme>
-<programme start="20260116060000 +0000" stop="20260116095959 +0000" channel="Hot FM">
-    <title lang="en">Bekpes Hot</title>
-    <desc lang="en">Bersama AG, Fara Fauzana, Johan & KJ</desc>
-  </programme>
-<programme start="20260116100000 +0000" stop="20260116145959 +0000" channel="Hot FM">
-    <title lang="en">FYP@Hot</title>
-    <desc lang="en">Bersama Keymi</desc>
-  </programme>
-<programme start="20260116150000 +0000" stop="20260116185959 +0000" channel="Hot FM">
-    <title lang="en">Hot Squad</title>
-    <desc lang="en">Bersama Fizi Ali</desc>
-  </programme>
-<programme start="20260116190000 +0000" stop="20260116195959 +0000" channel="Hot FM">
-    <title lang="en">Drama Sangat @ Hot FM </title>
-    <desc lang="en">Seleksi lagu OST drama</desc>
-  </programme>
-<programme start="20260123200000 +0000" stop="20260123235959 +0000" channel="Hot FM">
-    <title lang="en">Hotflix</title>
-    <desc lang="en">Bersama Ayu & Aidil Fikri</desc>
-  </programme>
-<programme start="20260124000000 +0000" stop="20260124055959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM - Terbaik Sentiasa Hangat</title>
-    <desc lang="en">Seleksi lagu hiburan</desc>
-  </programme>
-<programme start="20260117060000 +0000" stop="20260124095959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM - Terbaik Sentiasa Hangat</title>
-    <desc lang="en">Seleksi lagu hiburan</desc>
-  </programme>
-<programme start="20260124100000 +0000" stop="20260124135959 +0000" channel="Hot FM">
-    <title lang="en">Hot JL 40</title>
-    <desc lang="en">Carta Hot JL 40</desc>
-  </programme>
-<programme start="20260124140000 +0000" stop="20260124175959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM Ucap Seru</title>
-    <desc lang="en"> Hot FM Ucap Seru </desc>
-  </programme>
-<programme start="20260124180000 +0000" stop="20260124185959 +0000" channel="Hot FM">
-    <title lang="en">Lagu Hot Yang Fresh</title>
-    <desc lang="en"> Lagu Hot Yang Fresh </desc>
-  </programme>
-<programme start="20260124190000 +0000" stop="20260124195959 +0000" channel="Hot FM">
-    <title lang="en">Drama Sangat @ Hot FM </title>
-    <desc lang="en">Seleksi lagu OST drama</desc>
-  </programme>
-<programme start="20260124200000 +0000" stop="20260124205959 +0000" channel="Hot FM">
-        <title lang="en">Hot FM - Terbaik Sentiasa Hangat</title>
-    <desc lang="en">Seleksi lagu hiburan</desc>
-  </programme>
-<programme start="20260124210000 +0000" stop="20260124215959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM HMO</title>
-    <desc lang="en"> Hot FM HMO </desc>
-  </programme>
-<programme start="20260124220000 +0000" stop="20260124225959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM Kpop Show</title>
-    <desc lang="en"> Hot FM Kpop Show </desc>
-  </programme>
-<programme start="20260124230000 +0000" stop="20260124235959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM - Terbaik Sentiasa Hangat</title>
-    <desc lang="en">Seleksi lagu hiburan</desc>
-  </programme>
-<programme start="20260125000000 +0000" stop="20260125055959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM - Terbaik Sentiasa Hangat</title>
-    <desc lang="en">Seleksi lagu hiburan</desc>
-  </programme>
-<programme start="20260125060000 +0000" stop="20260125095959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM - Terbaik Sentiasa Hangat</title>
-    <desc lang="en">Seleksi lagu hiburan</desc>
-  </programme>
-<programme start="20260125100000 +0000" stop="20260125135959 +0000" channel="Hot FM">
-    <title lang="en">Hot JL 40 (Ulangan)</title>
-    <desc lang="en">Carta Hot JL 40 (Ulangan)</desc>
-  </programme>
-<programme start="20260125140000 +0000" stop="20260125175959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM Ucap Seru</title>
-    <desc lang="en"> Hot FM Ucap Seru </desc>
-  </programme>
-<programme start="20260118180000 +0000" stop="20260118185959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM Kpop Show (Ulangan)</title>
-    <desc lang="en"> Hot FM Kpop Show (Ulangan) </desc>
-  </programme>
-<programme start="20260125190000 +0000" stop="20260125195959 +0000" channel="Hot FM">
-    <title lang="en">Drama Sangat @ Hot FM </title>
-    <desc lang="en">Seleksi lagu OST drama</desc>
-  </programme>
-<programme start="20260125200000 +0000" stop="20260125235959 +0000" channel="Hot FM">
-        <title lang="en">Hot FM - Terbaik Sentiasa Hangat</title>
-    <desc lang="en">Seleksi lagu hiburan</desc>
-  </programme>
-<programme start="20260126000000 +0000" stop="20260126055959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM - Terbaik Sentiasa Hangat</title>
-    <desc lang="en">Seleksi lagu hiburan</desc>
-  </programme>
-<programme start="20260126060000 +0000" stop="20260126095959 +0000" channel="Hot FM">
-    <title lang="en">Bekpes Hot</title>
-    <desc lang="en">Bersama AG, Fara Fauzana, Johan & KJ</desc>
-  </programme>
-<programme start="20260126100000 +0000" stop="20260126145959 +0000" channel="Hot FM">
-    <title lang="en">FYP@Hot</title>
-    <desc lang="en">Bersama Keymi</desc>
-  </programme>
-<programme start="20260126150000 +0000" stop="20260126185959 +0000" channel="Hot FM">
-    <title lang="en">Hot Squad</title>
-    <desc lang="en">Bersama Fizi Ali</desc>
-  </programme>
-<programme start="20260126190000 +0000" stop="20260126195959 +0000" channel="Hot FM">
-    <title lang="en">Drama Sangat @ Hot FM </title>
-    <desc lang="en">Seleksi lagu OST drama</desc>
-  </programme>
-<programme start="20260126200000 +0000" stop="20260126235959 +0000" channel="Hot FM">
-    <title lang="en">Hotflix</title>
-    <desc lang="en">Bersama Ayu & Aidil Fikri</desc>
-  </programme>
-<programme start="20260120000000 +0000" stop="20260120055959 +0000" channel="Hot FM">
-    <title lang="en">Hot FM - Terbaik Sentiasa Hangat</title>
-    <desc lang="en">Seleksi lagu hiburan</desc>
-  </programme>
-<programme start="20260120060000 +0000" stop="20260120095959 +0000" channel="Hot FM">
-    <title lang="en">Bekpes Hot</title>
-    <desc lang="en">Bersama AG, Fara Fauzana, Johan & KJ</desc>
-  </programme>
-<programme start="20260120100000 +0000" stop="20260120145959 +0000" channel="Hot FM">
-    <title lang="en">FYP@Hot</title>
-    <desc lang="en">Bersama Keymi</desc>
-  </programme>
-<programme start="20260120150000 +0000" stop="20260120185959 +0000" channel="Hot FM">
-    <title lang="en">Hot Squad</title>
-    <desc lang="en">Bersama Fizi Ali</desc>
-  </programme>
-<programme start="20260120190000 +0000" stop="20260120195959 +0000" channel="Hot FM">
-    <title lang="en">Drama Sangat @ Hot FM </title>
-    <desc lang="en">Seleksi lagu OST drama</desc>
-  </programme>
-<programme start="20260120200000 +0000" stop="20260120235959 +0000" channel="Hot FM">
-    <title lang="en">Hotflix</title>
-    <desc lang="en">Bersama Ayu & Aidil Fikri</desc>
-  </programme>
-<programme start="20260113000000 +0000" stop="20260113045959 +0000" channel="Kool FM">
-    <title lang="en">Kool FM – Malaysia Dah Kool</title>
-    <desc lang="en"> Kool FM – Malaysia Dah Kool </desc>
-  </programme>
-<programme start="20260113050000 +0000" stop="20260113055959 +0000" channel="Kool FM">
-    <title lang="en">Kooliah Kool FM (Ulangan)</title>
-    <desc lang="en"> Kooliah Kool FM (Ulangan)</desc>
-  </programme>
-<programme start="20260113060000 +0000" stop="20260113095959 +0000" channel="Kool FM">
-    <title lang="en">Pagi On Point</title>
-    <desc lang="en">Bersama Paknil, Haiza & Muaz</desc>
-  </programme>
-<programme start="20260113100000 +0000" stop="20260113145959 +0000" channel="Kool FM">
-    <title lang="en">Santai Kool</title>
-    <desc lang="en">10 di 10 (Lagu bertema) </desc>
-  </programme>
-<programme start="20260113150000 +0000" stop="20260113185959 +0000" channel="Kool FM">
-    <title lang="en">PM Kool </title>
-    <desc lang="en">Bersama Kieran</desc>
-  </programme>
-<programme start="20260113190000 +0000" stop="20260113195959 +0000" channel="Kool FM">
-    <title lang="en"> Kooliah Kool FM </title>
-    <desc lang="en"> Kooliah Kool FM </desc>
-  </programme>
-<programme start="20260113200000 +0000" stop="20260113235959 +0000" channel="Kool FM">
-    <title lang="en">Cerita Malam Kita</title>
-    <desc lang="en">Bersama Jamal Jamaluddin</desc>
-  </programme>
-<programme start="20260114000000 +0000" stop="20260114045959 +0000" channel="Kool FM">
-    <title lang="en">Kool FM – Malaysia Dah Kool</title>
-    <desc lang="en"> Kool FM – Malaysia Dah Kool </desc>
-  </programme>
-<programme start="20260114050000 +0000" stop="20260114055959 +0000" channel="Kool FM">
-    <title lang="en">Kooliah Kool FM (Ulangan)</title>
-    <desc lang="en"> Kooliah Kool FM (Ulangan)</desc>
-  </programme>
-<programme start="20260114060000 +0000" stop="20260114095959 +0000" channel="Kool FM">
-    <title lang="en">Pagi On Point</title>
-    <desc lang="en">Bersama Paknil, Haiza & Muaz</desc>
-  </programme>
-<programme start="20260114100000 +0000" stop="20260114145959 +0000" channel="Kool FM">
-    <title lang="en">Santai Kool</title>
-    <desc lang="en">10 di 10 (Lagu bertema) </desc>
-  </programme>
-<programme start="20260114150000 +0000" stop="20260114185959 +0000" channel="Kool FM">
-    <title lang="en">PM Kool </title>
-    <desc lang="en">Bersama Kieran</desc>
-  </programme>
-<programme start="20260114190000 +0000" stop="20260114195959 +0000" channel="Kool FM">
-    <title lang="en"> Kooliah Kool FM </title>
-    <desc lang="en"> Kooliah Kool FM </desc>
-  </programme>
-<programme start="20260114200000 +0000" stop="20260114235959 +0000" channel="Kool FM">
-    <title lang="en">Cerita Malam Kita</title>
-    <desc lang="en">Bersama Jamal Jamaluddin</desc>
-  </programme>
-<programme start="20260115000000 +0000" stop="20260115045959 +0000" channel="Kool FM">
-    <title lang="en">Kool FM – Malaysia Dah Kool</title>
-    <desc lang="en"> Kool FM – Malaysia Dah Kool </desc>
-  </programme>
-<programme start="20260115050000 +0000" stop="20260115055959 +0000" channel="Kool FM">
-    <title lang="en">Kooliah Kool FM (Ulangan)</title>
-    <desc lang="en"> Kooliah Kool FM (Ulangan)</desc>
-  </programme>
-<programme start="20260115060000 +0000" stop="20260115095959 +0000" channel="Kool FM">
-    <title lang="en">Pagi On Point</title>
-    <desc lang="en">Bersama Paknil, Haiza & Muaz</desc>
-  </programme>
-<programme start="20260115100000 +0000" stop="20260115145959 +0000" channel="Kool FM">
-    <title lang="en">Santai Kool</title>
-    <desc lang="en">10 di 10 (Lagu bertema) </desc>
-  </programme>
-<programme start="20260115150000 +0000" stop="20260115185959 +0000" channel="Kool FM">
-    <title lang="en">PM Kool </title>
-    <desc lang="en">Bersama Kieran</desc>
-  </programme>
-<programme start="20260115190000 +0000" stop="20260115195959 +0000" channel="Kool FM">
-    <title lang="en"> Kooliah Kool FM </title>
-    <desc lang="en"> Kooliah Kool FM </desc>
-  </programme>
-<programme start="20260115200000 +0000" stop="20260115235959 +0000" channel="Kool FM">
-    <title lang="en">Cerita Malam Kita</title>
-    <desc lang="en">Bersama Jamal Jamaluddin</desc>
-  </programme>
-<programme start="20260116000000 +0000" stop="20260116045959 +0000" channel="Kool FM">
-    <title lang="en">Kool FM - Malaysia Dah Kool</title>
-    <desc lang="en">Kool FM - Malaysia Dah Kool</desc>
-  </programme>
-<programme start="20260116050000 +0000" stop="20260116055959 +0000" channel="Kool FM">
-    <title lang="en">Kooliah Kool FM (Ulangan)</title>
-    <desc lang="en"> Kooliah Kool FM (Ulangan)</desc>
-  </programme>
-<programme start="20260116060000 +0000" stop="20260116095959 +0000" channel="Kool FM">
-    <title lang="en">Pagi On Point</title>
-    <desc lang="en">Bersama Paknil, Haiza & Muaz</desc>
-  </programme>
-<programme start="20260116100000 +0000" stop="20260116145959 +0000" channel="Kool FM">
-    <title lang="en">Santai Kool</title>
-    <desc lang="en">10 di 10 (Lagu bertema) </desc>
-  </programme>
-<programme start="20260116150000 +0000" stop="20260116185959 +0000" channel="Kool FM">
-    <title lang="en">PM Kool</title>
-    <desc lang="en">Bersama Kieran</desc>
-  </programme>
-<programme start="20260116190000 +0000" stop="20260116195959 +0000" channel="Kool FM">
-    <title lang="en">Kooliah Kool FM</title>
-    <desc lang="en">Kooliah Kool FM</desc>
-  </programme>
-<programme start="20260123200000 +0000" stop="20260123235959 +0000" channel="Kool FM">
-    <title lang="en">Cerita Malam Kita</title>
-    <desc lang="en">Bersama Jamal Jamaluddin</desc>
-  </programme>
-<programme start="20260124000000 +0000" stop="20260124055959 +0000" channel="Kool FM">
-    <title lang="en">Kool FM - Malaysia Dah Kool</title>
-    <desc lang="en">Kool FM - Malaysia Dah Kool</desc>
-  </programme>
-<programme start="20260124050000 +0000" stop="20260124055959 +0000" channel="Kool FM">
-    <title lang="en">Kooliah Kool FM (Ulangan)</title>
-    <desc lang="en"> Kooliah Kool FM (Ulangan)</desc>
-  </programme>
-<programme start="20260124060000 +0000" stop="20260124115959 +0000" channel="Kool FM">
-    <title lang="en">Kool FM - Malaysia Dah Kool</title>
-    <desc lang="en">Kool FM - Malaysia Dah Kool</desc>
-  </programme>
-<programme start="20260124120000 +0000" stop="20260124155959 +0000" channel="Kool FM">
-    <title lang="en">Kool FM Weekend</title>
-    <desc lang="en"> Kool FM Weekend </desc>
-  </programme>
-<programme start="20260124160000 +0000" stop="20260124185959 +0000" channel="Kool FM">
-        <title lang="en">Kool FM - Malaysia Dah Kool</title>
-    <desc lang="en">Kool FM - Malaysia Dah Kool</desc>
-  </programme>
-<programme start="20260124190000 +0000" stop="20260124195959 +0000" channel="Kool FM">
-    <title lang="en">Kooliah Kool FM</title>
-    <desc lang="en">Kooliah Kool FM</desc>
-  </programme>
-<programme start="20260124200000 +0000" stop="20260124235959 +0000" channel="Kool FM">
-        <title lang="en">Power Retro Kool FM</title>
-    <desc lang="en"> Power Retro Kool FM </desc>
-  </programme>
-<programme start="20260125000000 +0000" stop="20260125045959 +0000" channel="Kool FM">
-    <title lang="en">Kool FM - Malaysia Dah Kool</title>
-    <desc lang="en">Kool FM - Malaysia Dah Kool</desc>
-  </programme>
-<programme start="20260125050000 +0000" stop="20260125055959 +0000" channel="Kool FM">
-    <title lang="en">Kooliah Kool FM (Ulangan)</title>
-    <desc lang="en"> Kooliah Kool FM (Ulangan)</desc>
-  </programme>
-<programme start="20260125060000 +0000" stop="20260125115959 +0000" channel="Kool FM">
-    <title lang="en">Kool FM - Malaysia Dah Kool</title>
-    <desc lang="en">Kool FM - Malaysia Dah Kool</desc>
-  </programme>
-<programme start="20260125120000 +0000" stop="20260125155959 +0000" channel="Kool FM">
-    <title lang="en"> Kool FM Weekend </title>
-    <desc lang="en"> Kool FM Weekend </desc>
-  </programme>
-<programme start="20260125160000 +0000" stop="20260125185959 +0000" channel="Kool FM">
-    <title lang="en">Kool FM - Malaysia Dah Kool</title>
-    <desc lang="en">Kool FM - Malaysia Dah Kool</desc>
-  </programme>
-<programme start="20260125190000 +0000" stop="20260125195959 +0000" channel="Kool FM">
-    <title lang="en">Kooliah Kool FM</title>
-    <desc lang="en">Kooliah Kool FM</desc>
-  </programme>
-<programme start="20260125200000 +0000" stop="20260125235959 +0000" channel="Kool FM">
-        <title lang="en">Power Retro Kool FM</title>
-    <desc lang="en"> Power Retro Kool FM </desc>
-  </programme>
-<programme start="20260126000000 +0000" stop="20260126055959 +0000" channel="Kool FM">
-    <title lang="en">Kool FM - Malaysia Dah Kool</title>
-    <desc lang="en">Kool FM - Malaysia Dah Kool</desc>
-  </programme>
-<programme start="20260126060000 +0000" stop="20260126095959 +0000" channel="Kool FM">
-    <title lang="en">Pagi On Point</title>
-    <desc lang="en">Bersama Paknil, Haiza & Muaz</desc>
-  </programme>
-<programme start="20260126100000 +0000" stop="20260126145959 +0000" channel="Kool FM">
-    <title lang="en">Santai Kool</title>
-    <desc lang="en">10 di 10 (Lagu bertema) </desc>
-  </programme>
-<programme start="20260126150000 +0000" stop="20260126185959 +0000" channel="Kool FM">
-    <title lang="en">PM Kool</title>
-    <desc lang="en">Bersama Kieran</desc>
-  </programme>
-<programme start="20260126190000 +0000" stop="20260126195959 +0000" channel="Kool FM">
-    <title lang="en">Kooliah Kool FM</title>
-    <desc lang="en">Kooliah Kool FM</desc>
-  </programme>
-<programme start="20260126200000 +0000" stop="20260126235959 +0000" channel="Kool FM">
-    <title lang="en">Cerita Malam Kita</title>
-    <desc lang="en">Bersama Jamal Jamaluddin</desc>
-  </programme>
-<programme start="20260120000000 +0000" stop="20260120055959 +0000" channel="Kool FM">
-    <title lang="en">Kool FM - Malaysia Dah Kool</title>
-    <desc lang="en">Kool FM - Malaysia Dah Kool</desc>
-  </programme>
-<programme start="20260120060000 +0000" stop="20260120095959 +0000" channel="Kool FM">
-    <title lang="en">Pagi On Point</title>
-    <desc lang="en">Bersama Paknil, Haiza & Muaz</desc>
-  </programme>
-<programme start="20260120100000 +0000" stop="20260120145959 +0000" channel="Kool FM">
-    <title lang="en">Santai Kool</title>
-    <desc lang="en">10 di 10 (Lagu bertema) </desc>
-  </programme>
-<programme start="20260120150000 +0000" stop="20260120185959 +0000" channel="Kool FM">
-    <title lang="en">PM Kool</title>
-    <desc lang="en">Bersama Kieran</desc>
-  </programme>
-<programme start="20260120190000 +0000" stop="20260120195959 +0000" channel="Kool FM">
-    <title lang="en">Kooliah Kool FM</title>
-    <desc lang="en">Kooliah Kool FM</desc>
-  </programme>
-<programme start="20260120200000 +0000" stop="20260120235959 +0000" channel="Kool FM">
-    <title lang="en">Cerita Malam Kita</title>
-    <desc lang="en">Bersama Jamal Jamaluddin</desc>
-  </programme>
-<programme start="20260121000000 +0000" stop="20260121055959 +0000" channel="Kool FM">
-    <title lang="en">Kool FM - Malaysia Dah Kool</title>
-    <desc lang="en">Kool FM - Malaysia Dah Kool</desc>
-  </programme>
-<programme start="20260121060000 +0000" stop="20260121095959 +0000" channel="Kool FM">
-    <title lang="en">Pagi On Point</title>
-    <desc lang="en">Bersama Paknil, Haiza & Muaz</desc>
-  </programme>
-<programme start="20260121100000 +0000" stop="20260121145959 +0000" channel="Kool FM">
-    <title lang="en">Santai Kool</title>
-    <desc lang="en">10 di 10 (Lagu bertema) </desc>
-  </programme>
-<programme start="20260121150000 +0000" stop="20260121185959 +0000" channel="Kool FM">
-    <title lang="en">PM Kool</title>
-    <desc lang="en">Bersama Kieran</desc>
-  </programme>
-<programme start="20260121190000 +0000" stop="20260121195959 +0000" channel="Kool FM">
-    <title lang="en">Kooliah Kool FM</title>
-    <desc lang="en">Kooliah Kool FM</desc>
-  </programme>
-<programme start="20260121200000 +0000" stop="20260121235959 +0000" channel="Kool FM">
-    <title lang="en">Cerita Malam Kita</title>
-    <desc lang="en">Bersama Jamal Jamaluddin</desc>
-  </programme>
-<programme start="20260122000000 +0000" stop="20260122055959 +0000" channel="Kool FM">
-    <title lang="en">Kool FM - Malaysia Dah Kool</title>
-    <desc lang="en">Kool FM - Malaysia Dah Kool</desc>
-  </programme>
-<programme start="20260122060000 +0000" stop="20260122095959 +0000" channel="Kool FM">
-    <title lang="en">Pagi On Point</title>
-    <desc lang="en">Bersama Paknil, Haiza & Muaz</desc>
-  </programme>
-<programme start="20260122100000 +0000" stop="20260122145959 +0000" channel="Kool FM">
-    <title lang="en">Santai Kool</title>
-    <desc lang="en">10 di 10 (Lagu bertema) </desc>
-  </programme>
-<programme start="20260122150000 +0000" stop="20260122185959 +0000" channel="Kool FM">
-    <title lang="en">PM Kool</title>
-    <desc lang="en">Bersama Kieran</desc>
-  </programme>
-<programme start="20260122190000 +0000" stop="20260122195959 +0000" channel="Kool FM">
-    <title lang="en">Kooliah Kool FM</title>
-    <desc lang="en">Kooliah Kool FM</desc>
-  </programme>
-<programme start="20260122200000 +0000" stop="20260122235959 +0000" channel="Kool FM">
-    <title lang="en">Cerita Malam Kita</title>
-    <desc lang="en">Bersama Jamal Jamaluddin</desc>
-  </programme>
-</tv>
+    <programme start="20260126000000 +0800" stop="20260126050000 +0800" channel="Kool FM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260126050000 +0800" stop="20260126060000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260126060000 +0800" stop="20260126100000 +0800" channel="Kool FM">
+		<title lang="en">Pagi On Point</title>
+		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+	</programme>
+	<programme start="20260126100000 +0800" stop="20260126150000 +0800" channel="Kool FM">
+		<title lang="en">Santai Kool</title>
+		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
+	</programme>
+	<programme start="20260126150000 +0800" stop="20260126190000 +0800" channel="Kool FM">
+		<title lang="en">PM Kool</title>
+		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+	</programme>
+	<programme start="20260126190000 +0800" stop="20260126200000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260126200000 +0800" stop="20260127000000 +0800" channel="Kool FM">
+		<title lang="en">Cerita Malam Kita</title>
+		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
+	</programme>
+<programme start="20260127000000 +0800" stop="20260127050000 +0800" channel="Kool FM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260127050000 +0800" stop="20260127060000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260127060000 +0800" stop="20260127100000 +0800" channel="Kool FM">
+		<title lang="en">Pagi On Point</title>
+		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+	</programme>
+	<programme start="20260127100000 +0800" stop="20260127150000 +0800" channel="Kool FM">
+		<title lang="en">Santai Kool</title>
+		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
+	</programme>
+	<programme start="20260127150000 +0800" stop="20260127190000 +0800" channel="Kool FM">
+		<title lang="en">PM Kool</title>
+		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+	</programme>
+	<programme start="20260127190000 +0800" stop="20260127200000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260127200000 +0800" stop="20260128000000 +0800" channel="Kool FM">
+		<title lang="en">Cerita Malam Kita</title>
+		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
+	</programme>
+<programme start="20260128000000 +0800" stop="20260128050000 +0800" channel="Kool FM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260128050000 +0800" stop="20260128060000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260128060000 +0800" stop="20260128100000 +0800" channel="Kool FM">
+		<title lang="en">Pagi On Point</title>
+		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+	</programme>
+	<programme start="20260128100000 +0800" stop="20260128150000 +0800" channel="Kool FM">
+		<title lang="en">Santai Kool</title>
+		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
+	</programme>
+	<programme start="20260128150000 +0800" stop="20260128190000 +0800" channel="Kool FM">
+		<title lang="en">PM Kool</title>
+		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+	</programme>
+	<programme start="20260128190000 +0800" stop="20260128200000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260128200000 +0800" stop="20260129000000 +0800" channel="Kool FM">
+		<title lang="en">Cerita Malam Kita</title>
+		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
+	</programme>
+<programme start="20260129000000 +0800" stop="20260129050000 +0800" channel="Kool FM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260129050000 +0800" stop="20260129060000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260129060000 +0800" stop="20260129100000 +0800" channel="Kool FM">
+		<title lang="en">Pagi On Point</title>
+		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+	</programme>
+	<programme start="20260129100000 +0800" stop="20260129150000 +0800" channel="Kool FM">
+		<title lang="en">Santai Kool</title>
+		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
+	</programme>
+	<programme start="20260129150000 +0800" stop="20260129190000 +0800" channel="Kool FM">
+		<title lang="en">PM Kool</title>
+		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+	</programme>
+	<programme start="20260129190000 +0800" stop="20260129200000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260129200000 +0800" stop="20260130000000 +0800" channel="Kool FM">
+		<title lang="en">Cerita Malam Kita</title>
+		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
+	</programme>
+<programme start="20260130000000 +0800" stop="20260130050000 +0800" channel="Kool FM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260130050000 +0800" stop="20260130060000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260130060000 +0800" stop="20260130100000 +0800" channel="Kool FM">
+		<title lang="en">Pagi On Point</title>
+		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+	</programme>
+	<programme start="20260130100000 +0800" stop="20260130150000 +0800" channel="Kool FM">
+		<title lang="en">Santai Kool</title>
+		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
+	</programme>
+	<programme start="20260130150000 +0800" stop="20260130190000 +0800" channel="Kool FM">
+		<title lang="en">PM Kool</title>
+		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+	</programme>
+	<programme start="20260130190000 +0800" stop="20260130200000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260130200000 +0800" stop="20260131000000 +0800" channel="Kool FM">
+		<title lang="en">Cerita Malam Kita</title>
+		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
+	</programme>
+<programme start="20260131000000 +0800" stop="20260131050000 +0800" channel="Kool FM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260131050000 +0800" stop="20260131060000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260131060000 +0800" stop="20260131120000 +0800" channel="Kool FM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260131120000 +0800" stop="20260131160000 +0800" channel="Kool FM">
+		<title lang="en">Kool Weekend</title>
+		<desc lang="en"> Hujung minggu dengan perbualan bermakna – real, segar dan berisi.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-08.jpg"/>
+	</programme>
+	<programme start="20260131160000 +0800" stop="20260131190000 +0800" channel="Kool FM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260131190000 +0800" stop="20260131200000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260131200000 +0800" stop="20260201000000 +0800" channel="Kool FM">
+		<title lang="en">Power Retro Kool FM</title>
+		<desc lang="en"> Nostalgia 80an & 90an – lagu evergreen yang kekal hidup.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-10.jpg"/>
+	</programme>
+<programme start="20260201000000 +0800" stop="20260201050000 +0800" channel="Kool FM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260201050000 +0800" stop="20260201060000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260201060000 +0800" stop="20260201120000 +0800" channel="Kool FM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260201120000 +0800" stop="20260201160000 +0800" channel="Kool FM">
+		<title lang="en">Kool Weekend</title>
+		<desc lang="en"> Hujung minggu dengan perbualan bermakna – real, segar dan berisi.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-08.jpg"/>
+	</programme>
+	<programme start="20260201160000 +0800" stop="20260201190000 +0800" channel="Kool FM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260201190000 +0800" stop="20260201200000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260201200000 +0800" stop="20260202000000 +0800" channel="Kool FM">
+		<title lang="en">Power Retro Kool FM</title>
+		<desc lang="en"> Nostalgia 80an & 90an – lagu evergreen yang kekal hidup.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-10.jpg"/>
+	</programme>
+	<programme start="20260202000000 +0800" stop="20260202050000 +0800" channel="Kool FM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260202050000 +0800" stop="20260202060000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260202060000 +0800" stop="20260202100000 +0800" channel="Kool FM">
+		<title lang="en">Pagi On Point</title>
+		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+	</programme>
+	<programme start="20260202100000 +0800" stop="20260202150000 +0800" channel="Kool FM">
+		<title lang="en">Santai Kool</title>
+		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
+	</programme>
+	<programme start="20260202150000 +0800" stop="20260202190000 +0800" channel="Kool FM">
+		<title lang="en">PM Kool</title>
+		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+	</programme>
+	<programme start="20260202190000 +0800" stop="20260202200000 +0800" channel="Kool FM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+
