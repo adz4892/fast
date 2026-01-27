@@ -1074,10 +1074,13 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbo/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://malaysia-tv.net/wp-content/uploads/2025/03/Badminton-TV-2-Live-Streaming-Malaysia-HD-Channel.webp" tvg-name="BADMINTON"  group-title="MYTV MANA",BADMINTON
+https://v4-15ff02a6a92b215bcd25dc26d4be48bc.livehwc4.com/pull.chuangbwu.com/live/8861000_lud.m3u8?sub_m3u8=true&edge_slice=true&auth_info=ABUMZ8UW1Q6R2zJoy8kiHLcstzZ%2Bdz%2BviCAoGuczX1jC0aj%2FXxUOp2e9EkpdiYwm.59613872454d324a5359344545336a77&user_session_id=fc958a844d8139eba99dc9634cbe5e76
 
 ____________________________________________________________________________________________________
 
 https://raw.githubusercontent.com/shadany7824/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/refs/heads/main/vod
+
 
 
 
