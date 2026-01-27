@@ -35,8 +35,8 @@
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg" />
     <url>https://www.manis.fm</url>
   </channel>
-  <channel id="CatsFM">
-    <display-name lang="en">Cats FM</display-name>
+  <channel id="CATSFM">
+    <display-name lang="en">CATSFM</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/CATS.jpg" />
     <url>https://www.catsfm.my</url>
   </channel>
@@ -1845,5 +1845,395 @@
 		<rating/>
 		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11PM.jpg"/>
 	</programme>
-	
+		<programme start="20260127230000 +0800" stop="20260128060000 +0800" channel="CATSFM">
+		<title lang="en">ANTAP MUZIK</title>
+		<desc lang="en">ANTAP MUZIK</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
+	</programme>
+	<programme start="20260128060000 +0800" stop="20260128100000 +0800" channel="CATSFM">
+		<title lang="en">CATS AM CREW</title>
+		<desc lang="en">(6AM – 7AM) CATS Update 
+(7AM – 8AM) Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata.
+(8AM – 9AM) Perbincangan topik trending di seluruh dunia.
+(9AM - 10AM) Segmen Pak Lambet berkongsi tentang ramalan kaji cuaca di seluruh Sarawak dan apa-apa aduan yang diajukan oleh orang awam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
+	</programme>
+	<programme start="20260128100000 +0800" stop="20260128130000 +0800" channel="CATSFM">
+		<title lang="en">#CATS MUZIK</title>
+		<desc lang="en"> Gosip hangat, tips yang menarik dan lagu terkini yang hangat! - Playlist Opis setiap hari Isnin, Rabu & Jumaat -
+Sihat DI CATS  setiap hari Selasa dan CATS Terpaling 5.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251104165146.jpg"/>
+	</programme>
+	<programme start="20260128130000 +0800" stop="20260128160000 +0800" channel="CATSFM">
+		<title lang="en">RUAI CATS</title>
+		<desc lang="en"> Isnin hingga Rabu - DJ Fred & Shilla J 
+Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251202120414.jpg"/>
+	</programme>
+	<programme start="20260128160000 +0800" stop="20260128200000 +0800" channel="CATSFM">
+		<title lang="en">GENG PETANG CATS</title>
+		<desc lang="en"> CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
+	</programme>
+	<programme start="20260128200000 +0800" stop="20260128230000 +0800" channel="CATSFM">
+		<title lang="en">CATS NIGHT OUT</title>
+		<desc lang="en"> (8pm-9pm) Sajian lagu bertema yang berbeza setiap malam
+(9pm-11pm) CATS Pilihan Lagu Kitak.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251124151142.jpg"/>
+	</programme>
+	<programme start="20260128230000 +0800" stop="20260129060000 +0800" channel="CATSFM">
+		<title lang="en">ANTAP MUZIK</title>
+		<desc lang="en">ANTAP MUZIK</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
+	</programme>
+	<programme start="20260129060000 +0800" stop="20260129100000 +0800" channel="CATSFM">
+		<title lang="en">CATS AM CREW</title>
+		<desc lang="en">(6AM – 7AM) CATS Update 
+(7AM – 8AM) Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata.
+(8AM – 9AM) Perbincangan topik trending di seluruh dunia.
+(9AM - 10AM) Segmen Pak Lambet berkongsi tentang ramalan kaji cuaca di seluruh Sarawak dan apa-apa aduan yang diajukan oleh orang awam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
+	</programme>
+	<programme start="20260129100000 +0800" stop="20260129130000 +0800" channel="CATSFM">
+		<title lang="en">#CATS MUZIK</title>
+		<desc lang="en"> Gosip hangat, tips yang menarik dan lagu terkini yang hangat! - Playlist Opis setiap hari Isnin, Rabu & Jumaat -
+Sihat DI CATS  setiap hari Selasa dan CATS Terpaling 5.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251104165146.jpg"/>
+	</programme>
+	<programme start="20260129130000 +0800" stop="20260129160000 +0800" channel="CATSFM">
+		<title lang="en">RUAI CATS</title>
+		<desc lang="en"> Isnin hingga Rabu - DJ Fred & Shilla J 
+Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251202120414.jpg"/>
+	</programme>
+	<programme start="20260129160000 +0800" stop="20260129200000 +0800" channel="CATSFM">
+		<title lang="en">GENG PETANG CATS</title>
+		<desc lang="en"> CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
+	</programme>
+	<programme start="20260129200000 +0800" stop="20260129230000 +0800" channel="CATSFM">
+		<title lang="en">CATS NIGHT OUT</title>
+		<desc lang="en"> (8pm-9pm) Sajian lagu bertema yang berbeza setiap malam
+(9pm-11pm) CATS Pilihan Lagu Kitak.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251124151142.jpg"/>
+	</programme>
+	<programme start="20260129230000 +0800" stop="20260130060000 +0800" channel="CATSFM">
+		<title lang="en">ANTAP MUZIK</title>
+		<desc lang="en">ANTAP MUZIK</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
+	</programme>
+	<programme start="20260130060000 +0800" stop="20260130100000 +0800" channel="CATSFM">
+		<title lang="en">CATS AM CREW</title>
+		<desc lang="en">(6AM – 7AM) CATS Update 
+(7AM – 8AM) Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata.
+(8AM – 9AM) Perbincangan topik trending di seluruh dunia.
+(9AM - 10AM) Segmen Pak Lambet berkongsi tentang ramalan kaji cuaca di seluruh Sarawak dan apa-apa aduan yang diajukan oleh orang awam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
+	</programme>
+	<programme start="20260130100000 +0800" stop="20260130130000 +0800" channel="CATSFM">
+		<title lang="en">#CATS MUZIK</title>
+		<desc lang="en"> Gosip hangat, tips yang menarik dan lagu terkini yang hangat! - Playlist Opis setiap hari Isnin, Rabu & Jumaat -
+Sihat DI CATS  setiap hari Selasa dan CATS Terpaling 5.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251104165146.jpg"/>
+	</programme>
+	<programme start="20260130130000 +0800" stop="20260130160000 +0800" channel="CATSFM">
+		<title lang="en">RUAI CATS</title>
+		<desc lang="en"> Isnin hingga Rabu - DJ Fred & Shilla J 
+Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251202120414.jpg"/>
+	</programme>
+	<programme start="20260130160000 +0800" stop="20260130200000 +0800" channel="CATSFM">
+		<title lang="en">GENG PETANG CATS</title>
+		<desc lang="en"> CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
+	</programme>
+	<programme start="20260130200000 +0800" stop="20260130230000 +0800" channel="CATSFM">
+		<title lang="en">CATS NIGHT OUT</title>
+		<desc lang="en"> (8pm-9pm) Sajian lagu bertema yang berbeza setiap malam
+(9pm-11pm) CATS Pilihan Lagu Kitak.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251124151142.jpg"/>
+	</programme>
+	<programme start="20260130230000 +0800" stop="20260131070000 +0800" channel="CATSFM">
+		<title lang="en">ANTAP MUZIK</title>
+		<desc lang="en">ANTAP MUZIK</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
+	</programme>
+	<programme start="20260131070000 +0800" stop="20260131110000 +0800" channel="CATSFM">
+		<title lang="en">CATS WEEKEND</title>
+		<desc lang="en">CATS Weekend gives you best info and music over the weekend. Happening every Saturday and Sunday, DJ will entertain you with interesting activities going on over the weekend.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251101222731.jpg"/>
+	</programme>
+	<programme start="20260131110000 +0800" stop="20260129130000 +0800" channel="CATSFM">
+		<title lang="en">CATS 30</title>
+		<desc lang="en">Carta Mingguan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/chart/20250416205641.jpg"/>
+	</programme>
+	<programme start="20260131130000 +0800" stop="20260131150000 +0800" channel="CATSFM">
+		<title lang="en">LAGU TERBILANG CATS</title>
+		<desc lang="en"> Carta Mingguan Iban.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/chart/20251203175044.png"/>
+	</programme>
+	<programme start="20260131150000 +0800" stop="20260131160000 +0800" channel="CATSFM">
+		<title lang="en">CATS UJUNG MINGGU</title>
+		<desc lang="en"> CATS Ujung Minggu.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/chart/20251203175044.png"/>
+	</programme>
+	<programme start="20260131160000 +0800" stop="20260131230000 +0800" channel="CATSFM">
+		<title lang="en">CATS WEEKEND</title>
+		<desc lang="en"> Cats Weekend</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251101222731.jpg"/>
+	</programme>
+	<programme start="20260131230000 +0800" stop="20260201070000 +0800" channel="CATSFM">
+		<title lang="en">ANTAP MUZIK</title>
+		<desc lang="en">ANTAP MUZIK</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
+	</programme>
+	<programme start="20260201070000 +0800" stop="20260201100000 +0800" channel="CATSFM">
+		<title lang="en">CATS WEEKEND</title>
+		<desc lang="en">CATS Weekend gives you best info and music over the weekend. Happening every Saturday and Sunday, DJ will entertain you with interesting activities going on over the weekend.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251101222731.jpg"/>
+	</programme>
+	<programme start="20260201100000 +0800" stop="20260201110000 +0800" channel="CATSFM">
+		<title lang="en">CATS PREBIU</title>
+		<desc lang="en">Cats Prebiu.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/chart/20250307132839.jpg"/>
+	</programme>
+	<programme start="20260201110000 +0800" stop="20260201130000 +0800" channel="CATSFM">
+		<title lang="en">CATS XPOSED</title>
+		<desc lang="en">Cats Xposed.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/chart/20251203175004.png"/>
+	</programme>
+	<programme start="20260201130000 +0800" stop="20260201150000 +0800" channel="CATSFM">
+		<title lang="en">CATS XPOSED (ED)</title>
+		<desc lang="en"> CATS Xposed Ethnic Division.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src=" "/>
+	</programme>
+	<programme start="20260131150000 +0800" stop="20260201160000 +0800" channel="CATSFM">
+		<title lang="en">CATS UJUNG MINGGU</title>
+		<desc lang="en"> CATS Ujung Minggu.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/chart/20251203175044.png"/>
+	</programme>
+	<programme start="20260201160000 +0800" stop="20260201200000 +0800" channel="CATSFM">
+		<title lang="en">CATS WEEKEND</title>
+		<desc lang="en"> Cats Weekend</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
+	</programme>
+	<programme start="20260201200000 +0800" stop="20260201230000 +0800" channel="CATSFM">
+		<title lang="en">CATS 30 (Ulangan)</title>
+		<desc lang="en"> Carta Mingguan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/chart/20250416205641.jpg"/>
+	</programme>
+	<programme start="20260201230000 +0800" stop="20260202060000 +0800" channel="CATSFM">
+		<title lang="en">ANTAP MUZIK</title>
+		<desc lang="en">ANTAP MUZIK</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
+	</programme>
+	<programme start="20260202060000 +0800" stop="20260202100000 +0800" channel="CATSFM">
+		<title lang="en">CATS AM CREW</title>
+		<desc lang="en">(6AM – 7AM) CATS Update 
+(7AM – 8AM) Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata.
+(8AM – 9AM) Perbincangan topik trending di seluruh dunia.
+(9AM - 10AM) Segmen Pak Lambet berkongsi tentang ramalan kaji cuaca di seluruh Sarawak dan apa-apa aduan yang diajukan oleh orang awam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
+	</programme>
+	<programme start="20260202100000 +0800" stop="20260202130000 +0800" channel="CATSFM">
+		<title lang="en">#CATS MUZIK</title>
+		<desc lang="en"> Gosip hangat, tips yang menarik dan lagu terkini yang hangat! - Playlist Opis setiap hari Isnin, Rabu & Jumaat -
+Sihat DI CATS  setiap hari Selasa dan CATS Terpaling 5.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251104165146.jpg"/>
+	</programme>
+	<programme start="20260202130000 +0800" stop="20260202160000 +0800" channel="CATSFM">
+		<title lang="en">RUAI CATS</title>
+		<desc lang="en"> Isnin hingga Rabu - DJ Fred & Shilla J 
+Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251202120414.jpg"/>
+	</programme>
+	<programme start="20260202160000 +0800" stop="20260202200000 +0800" channel="CATSFM">
+		<title lang="en">GENG PETANG CATS</title>
+		<desc lang="en"> CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
+	</programme>
+	<programme start="20260202200000 +0800" stop="20260202230000 +0800" channel="CATSFM">
+		<title lang="en">CATS NIGHT OUT</title>
+		<desc lang="en"> (8pm-9pm) Sajian lagu bertema yang berbeza setiap malam
+(9pm-11pm) CATS Pilihan Lagu Kitak.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251124151142.jpg"/>
+	</programme>
+	<programme start="20260202230000 +0800" stop="20260203060000 +0800" channel="CATSFM">
+		<title lang="en">ANTAP MUZIK</title>
+		<desc lang="en">ANTAP MUZIK</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
+	</programme>
+	<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="CATSFM">
+		<title lang="en">CATS AM CREW</title>
+		<desc lang="en">(6AM – 7AM) CATS Update 
+(7AM – 8AM) Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata.
+(8AM – 9AM) Perbincangan topik trending di seluruh dunia.
+(9AM - 10AM) Segmen Pak Lambet berkongsi tentang ramalan kaji cuaca di seluruh Sarawak dan apa-apa aduan yang diajukan oleh orang awam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
+	</programme>
+	<programme start="20260203100000 +0800" stop="20260203130000 +0800" channel="CATSFM">
+		<title lang="en">#CATS MUZIK</title>
+		<desc lang="en"> Gosip hangat, tips yang menarik dan lagu terkini yang hangat! - Playlist Opis setiap hari Isnin, Rabu & Jumaat -
+Sihat DI CATS  setiap hari Selasa dan CATS Terpaling 5.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251104165146.jpg"/>
+	</programme>
+	<programme start="20260203130000 +0800" stop="20260203160000 +0800" channel="CATSFM">
+		<title lang="en">RUAI CATS</title>
+		<desc lang="en"> Isnin hingga Rabu - DJ Fred & Shilla J 
+Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251202120414.jpg"/>
+	</programme>
+	<programme start="20260203160000 +0800" stop="20260203200000 +0800" channel="CATSFM">
+		<title lang="en">GENG PETANG CATS</title>
+		<desc lang="en"> CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
+	</programme>
+	<programme start="20260203200000 +0800" stop="20260203230000 +0800" channel="CATSFM">
+		<title lang="en">CATS NIGHT OUT</title>
+		<desc lang="en"> (8pm-9pm) Sajian lagu bertema yang berbeza setiap malam
+(9pm-11pm) CATS Pilihan Lagu Kitak.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://www.catsfm.my/storage/assets/media/program/20251124151142.jpg"/>
+	</programme>
+	<programme start="20260203230000 +0800" stop="20260204060000 +0800" channel="CATSFM">
+		<title lang="en">ANTAP MUZIK</title>
+		<desc lang="en">ANTAP MUZIK</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
+	</programme>
+
 
