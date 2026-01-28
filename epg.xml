@@ -2948,5 +2948,244 @@ Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
 		<rating/>
 <icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
 	</programme>
-
+	<programme start="20260129000000 +0800" stop="20260129060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260129060000 +0800" stop="20260129100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
+	</programme>
+	<programme start="20260129100000 +0800" stop="20260129140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260129140000 +0800" stop="20260129180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260129180000 +0800" stop="20260129210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260129210000 +0800" stop="20260130000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+	<programme start="20260130000000 +0800" stop="20260130060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260130060000 +0800" stop="20260130100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
+	</programme>
+	<programme start="20260130100000 +0800" stop="20260130140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260130140000 +0800" stop="20260130180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260130180000 +0800" stop="20260130210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260130210000 +0800" stop="20260131000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+<programme start="20260131000000 +0800" stop="20260131060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260131060000 +0800" stop="20260131100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
+	</programme>
+	<programme start="20260131100000 +0800" stop="20260131140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260131140000 +0800" stop="20260131180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260131180000 +0800" stop="20260131210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260131210000 +0800" stop="20260201000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+<programme start="20260201000000 +0800" stop="2026020060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260201060000 +0800" stop="20260201100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
+	</programme>
+	<programme start="20260201100000 +0800" stop="20260201140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260201140000 +0800" stop="20260201180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260201180000 +0800" stop="20260201210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260201210000 +0800" stop="20260202000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+<programme start="20260202000000 +0800" stop="20260202060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260202060000 +0800" stop="20260202100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
+	</programme>
+	<programme start="20260202100000 +0800" stop="20260202140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260202140000 +0800" stop="20260202180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260202180000 +0800" stop="20260202210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260202210000 +0800" stop="20260203000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+<programme start="20260203000000 +0800" stop="20260203060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
+	</programme>
+	<programme start="20260203100000 +0800" stop="20260203140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260203140000 +0800" stop="20260203180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260203180000 +0800" stop="20260203210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260203210000 +0800" stop="20260204000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+<programme start="20260204000000 +0800" stop="20260204060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
+	</programme>
+	<programme start="20260204100000 +0800" stop="20260204140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260204140000 +0800" stop="20260204180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260204180000 +0800" stop="20260204210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260204210000 +0800" stop="20260205000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+<programme start="20260205000000 +0800" stop="20260205060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260205060000 +0800" stop="20260205100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
+	</programme>
+	<programme start="20260205100000 +0800" stop="20260205140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260205140000 +0800" stop="20260205180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260205180000 +0800" stop="20260205210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260205210000 +0800" stop="20260206000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
 
