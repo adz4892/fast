@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="HotFM">
-    <display-name lang="en">Hot FM</display-name>
+    <display-name lang="en">HOTFM</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/HOT.jpg" />
     <url>http://www.hotfm.audio</url>
   </channel>
@@ -497,7 +497,244 @@
 		<category/>
 		<rating/>
 		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
+	</programme>
 		<programme start="20260129000000 +0800" stop="20260129060000 +0800" channel="MOLEKFM">
+	<programme start="20260129000000 +0800" stop="20260129060000 +0800" channel="HOTFM">
+		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
+	</programme>
+	<programme start="20260129060000 +0800" stop="20260129100000 +0800" channel="HOTFM">
+		<title lang="en">Bekpes Hot</title>
+		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>
+	</programme>
+	<programme start="20260129100000 +0800" stop="20260129150000 +0800" channel="HOTFM">
+		<title lang="en">FYP@Hot</title>
+		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
+	</programme>
+	<programme start="20260129150000 +0800" stop="20260129190000 +0800" channel="HOTFM">
+		<title lang="en">Hot Squad</title>
+		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>
+	</programme>
+	<programme start="20260129190000 +0800" stop="20260129200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
+	</programme>
+	<programme start="20260129200000 +0800" stop="20260130000000 +0800" channel="HOTFM">
+		<title lang="en">Hotflix</title>
+		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
+	</programme>
+	<programme start="20260130000000 +0800" stop="20260130060000 +0800" channel="HOTFM">
+		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
+	</programme>
+	<programme start="20260130060000 +0800" stop="20260130100000 +0800" channel="HOTFM">
+		<title lang="en">Bekpes Hot</title>
+		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>
+	</programme>
+	<programme start="20260130100000 +0800" stop="20260130150000 +0800" channel="HOTFM">
+		<title lang="en">FYP@Hot</title>
+		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
+	</programme>
+	<programme start="20260130150000 +0800" stop="20260130190000 +0800" channel="HOTFM">
+		<title lang="en">Hot Squad</title>
+		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>
+	</programme>
+	<programme start="20260130190000 +0800" stop="20260130200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
+	</programme>
+	<programme start="20260130200000 +0800" stop="20260131000000 +0800" channel="HOTFM">
+		<title lang="en">Hotflix</title>
+		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
+	</programme>
+<programme start="20260131000000 +0800" stop="20260131100000 +0800" channel="HOTFM">
+		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
+	</programme>
+	<programme start="20260131100000 +0800" stop="20260131140000 +0800" channel="HOTFM">
+		<title lang="en">Hot JL 40</title>
+		<desc lang="en">Kira turun 40 lagu terhangat mingguan di hujung minggu anda.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-05.jpg"/>
+	</programme>
+	<programme start="20260131140000 +0800" stop="20260131180000 +0800" channel="HOTFM">
+		<title lang="en">Hot FM Ucap Seru</title>
+		<desc lang="en">Hot FM Ucap Seru</desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
+	</programme>
+	<programme start="20260131180000 +0800" stop="20260131190000 +0800" channel="HOTFM">
+		<title lang="en"> Lagu Hot Yang Fresh </title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
+	</programme>
+	<programme start="20260131190000 +0800" stop="20260131200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
+	</programme>
+	<programme start="20260131210000 +0800" stop="202600131220000 +0800" channel="HOTFM">
+		<title lang="en">Hot FM HMO</title>
+		<desc lang="en">1 jam lagu-lagu & cerita dunia Hip Hop bersama Ayu & Han Kabir.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-AP-10.jpg"/>
+	</programme>
+	<programme start="20260131220000 +0800" stop="202600201000000 +0800" channel="HOTFM">
+		<title lang="en">Kpop Show</title>
+		<desc lang="en">Fesyen, Makanan, Kdrama dan lagu lagu Kpop. Semuanya tentang K!</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-06.jpg"/>
+	</programme>
+	<programme start="20260201000000 +0800" stop="20260201100000 +0800" channel="HOTFM">
+		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
+	</programme>
+	<programme start="20260201100000 +0800" stop="20260201140000 +0800" channel="HOTFM">
+		<title lang="en">Hot JL 40 (Ulangan)</title>
+		<desc lang="en">Kira turun 40 lagu terhangat mingguan di hujung minggu anda.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-05.jpg"/>
+	</programme>
+	<programme start="20260201140000 +0800" stop="20260201180000 +0800" channel="HOTFM">
+		<title lang="en">Hot FM Ucap Seru</title>
+		<desc lang="en">Hot FM Ucap Seru</desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
+	</programme>
+	<programme start="20260201180000 +0800" stop="20260201190000 +0800" channel="HOTFM">
+		<title lang="en">Kpop Show (Ulangan)</title>
+		<desc lang="en">Fesyen, Makanan, Kdrama dan lagu lagu Kpop. Semuanya tentang K!</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-06.jpg"/>
+	</programme>
+	<programme start="20260201190000 +0800" stop="20260201200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
+	</programme>
+	<programme start="202602012100000 +0800" stop="20260202220000 +0800" channel="HOTFM">
+		<title lang="en">Carta Muzik Muzik</title>
+		<desc lang="en">Terlepas saksikan Carta Muzik-Muzik di TV3? Dengarkan je di Hot FM bersama Keymi.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-AP-09.jpg"/>
+	</programme>
+<programme start="20260201220000 +0800" stop="20260202060000 +0800" channel="HOTFM">
+		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
+	</programme>
+	<programme start="20260202060000 +0800" stop="20260202100000 +0800" channel="HOTFM">
+		<title lang="en">Bekpes Hot</title>
+		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>
+	</programme>
+	<programme start="20260202100000 +0800" stop="20260202150000 +0800" channel="HOTFM">
+		<title lang="en">FYP@Hot</title>
+		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
+	</programme>
+	<programme start="20260202150000 +0800" stop="20260202190000 +0800" channel="HOTFM">
+		<title lang="en">Hot Squad</title>
+		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>
+	</programme>
+	<programme start="20260202190000 +0800" stop="20260202200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
+	</programme>
+	<programme start="20260202200000 +0800" stop="20260203000000 +0800" channel="HOTFM">
+		<title lang="en">Hotflix</title>
+		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
+	</programme>
+	<programme start="20260203000000 +0800" stop="20260203060000 +0800" channel="HOTFM">
+		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
+	</programme>
+	<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="HOTFM">
+		<title lang="en">Bekpes Hot</title>
+		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>	</programme>
+	<programme start="20260203100000 +0800" stop="20260203150000 +0800" channel="HOTFM">
+		title lang="en">FYP@Hot</title>
+		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
+	</programme>
+	<programme start="20260203150000 +0800" stop="20260203190000 +0800" channel="HOTFM">
+		<title lang="en">Hot Squad</title>
+		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>
+	</programme>
+	<programme start="20260203190000 +0800" stop="20260203200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
+	</programme>
+	<programme start="20260203200000 +0800" stop="20260204000000 +0800" channel="HOTFM">
+		<title lang="en">Hotflix</title>
+		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
+	</programme>
+<programme start="20260204000000 +0800" stop="20260204060000 +0800" channel="HOTFM">
+		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
+	</programme>
+	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="HOTFM">
+		<title lang="en">Bekpes Hot</title>
+		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>	</programme>
+	<programme start="20260204100000 +0800" stop="20260204150000 +0800" channel="HOTFM">
+		title lang="en">FYP@Hot</title>
+		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
+	</programme>
+	<programme start="20260204150000 +0800" stop="20260204190000 +0800" channel="HOTFM">
+		<<title lang="en">Hot Squad</title>
+		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>	</programme>
+	<programme start="20260204190000 +0800" stop="20260204200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>	</programme>
+	<programme start="20260204200000 +0800" stop="20260205000000 +0800" channel="HOTFM">
+		<title lang="en">Hotflix</title>
+		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
+	</programme>
+	<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
+	</programme>
+	<programme start="20260205060000 +0800" stop="20260205100000 +0800" channel="HOTFM">
+		<title lang="en">Bekpes Hot</title>
+		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>	</programme>
+	<programme start="20260205100000 +0800" stop="20260205150000 +0800" channel="HOTFM">
+		title lang="en">FYP@Hot</title>
+		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>	</programme>
+	<programme start="20260205150000 +0800" stop="20260205190000 +0800" channel="HOTFM">
+		<title lang="en">Hot Squad</title>
+		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>	</programme>
+	<programme start="20260205190000 +0800" stop="20260205200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>	</programme>
+	<programme start="20260205200000 +0800" stop="20260206000000 +0800" channel="HOTFM">
+		<title lang="en">Hotflix</title>
+		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
+	</programme>
 		<title lang="en">Molek FM – Gu Pantai Timur</title>
 		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
 		<episode/>
