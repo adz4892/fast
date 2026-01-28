@@ -497,6 +497,350 @@
 		<category/>
 		<rating/>
 		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
+		<programme start="20260129000000 +0800" stop="20260129060000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek FM – Gu Pantai Timur</title>
+		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	</programme>
+	<programme start="20260129060000 +0800" stop="20260129100000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Pagi</title>
+		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	</programme>
+	<programme start="20260129100000 +0800" stop="20260129150000 +0800" channel="MOLEKFM">
+		<title lang="en">Muzik Tanpa Yoya</title>
+		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
+	</programme>
+	<programme start="20260129150000 +0800" stop="20260129190000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Petang</title>
+		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
+	</programme>
+	<programme start="20260129190000 +0800" stop="20260129200000 +0800" channel="MOLEKFM">
+		<title lang="en">Renungan Molek</title>
+		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+	</programme>
+	<programme start="20260129200000 +0800" stop="20260130000000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Malam</title>
+		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
+	</programme>
+	<programme start="20260130000000 +0800" stop="20260130060000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek FM – Gu Pantai Timur</title>
+		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	</programme>
+	<programme start="20260130060000 +0800" stop="20260130120000 +0800" channel="MOLEKFM">
+		<title lang="en">Terbaik Molek Pagi</title>
+		<desc lang="en"> Ulangan Terbaik Molek Pagi.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	</programme>
+	<programme start="20260130120000 +0800" stop="20260130150000 +0800" channel="MOLEKFM">
+		<title lang="en"> Jumaat Penghulu Hari</title>
+		<desc lang="en"> Bersihkan hati, sucikan jiwa dalam Jumaat Penghulu Hari!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+	</programme>
+	<programme start="20260130150000 +0800" stop="20260130190000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Korner</title>
+		<desc lang="en"> Nak mintak lagu? Nak suara anda di udara? Boleh je, make sure call dan WhatsApp kami ok!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src=" https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	</programme>
+	<programme start="20260130190000 +0800" stop="20260130200000 +0800" channel="MOLEKFM">
+		<title lang="en">Renungan Molek</title>
+		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+	</programme>
+	<programme start="20260130200000 +0800" stop="20260130210000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek FM – Gu Pantai Timur</title>
+		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	</programme>
+	<programme start="20260130210000 +0800" stop="20260131000000 +0800" channel="MOLEKFM">
+		<title lang="en">Artis Molek Gu</title>
+		<desc lang="en"> Setiap minggu Qila & Anna akan bersama artis pilhan Molek, dengarkan kisah-kisah menarik dan perkembangan terkini Artis Molek Gu!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2025/05/nCBvl3pW-featured_molekfm_anp2024_1200x630-06.jpg"/>
+	</programme>
+	<programme start="20260131000000 +0800" stop="20260131060000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek FM – Gu Pantai Timur</title>
+		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	</programme>
+	<programme start="20260131060000 +0800" stop="20260131120000 +0800" channel="MOLEKFM">
+		<title lang="en">Terbaik Molek Pagi</title>
+		<desc lang="en"> Ulangan Terbaik Molek Pagi.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	</programme>
+	<programme start="20260131120000 +0800" stop="20260131150000 +0800" channel="MOLEKFM">
+		<title lang="en">Artis Molek Gu (Ulangan)</title>
+		<desc lang="en"> Setiap minggu Qila & Anna akan bersama artis pilhan Molek, dengarkan kisah-kisah menarik dan perkembangan terkini Artis Molek Gu!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2025/05/nCBvl3pW-featured_molekfm_anp2024_1200x630-06.jpg"/>
+	</programme>
+	<programme start="20260131150000 +0800" stop="20260131190000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Korner</title>
+		<desc lang="en"> Nak mintak lagu? Nak suara anda di udara? Boleh je, make sure call dan WhatsApp kami ok!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src=" https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	</programme>
+	<programme start="20260131190000 +0800" stop="20260131200000 +0800" channel="MOLEKFM">
+		<title lang="en">Renungan Molek</title>
+		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+	</programme>
+	<programme start="20260131200000 +0800" stop="20260201000000 +0800" channel="MOLEKFM">
+		<title lang="en">Terbaik Molek Pagi</title>
+		<desc lang="en"> Ulangan Terbaik Molek Pagi.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	</programme>
+	<programme start="20260201000000 +0800" stop="20260201060000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek FM – Gu Pantai Timur</title>
+		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	</programme>
+	<programme start="20260201060000 +0800" stop="20260201100000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Pagi</title>
+		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	</programme>
+	<programme start="20260201100000 +0800" stop="20260201150000 +0800" channel="MOLEKFM">
+		<title lang="en">Muzik Tanpa Yoya</title>
+		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
+	</programme>
+	<programme start="20260201150000 +0800" stop="20260201190000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Petang</title>
+		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
+	</programme>
+	<programme start="20260201190000 +0800" stop="20260201200000 +0800" channel="MOLEKFM">
+		<title lang="en">Renungan Molek</title>
+		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+	</programme>
+	<programme start="20260201200000 +0800" stop="20260202000000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Malam</title>
+		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
+	</programme>
+	<programme start="20260202000000 +0800" stop="20260202060000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek FM – Gu Pantai Timur</title>
+		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	</programme>
+	<programme start="20260202060000 +0800" stop="20260202100000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Pagi</title>
+		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	</programme>
+	<programme start="20260202100000 +0800" stop="20260202150000 +0800" channel="MOLEKFM">
+		<title lang="en">Muzik Tanpa Yoya</title>
+		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
+	</programme>
+	<programme start="20260202150000 +0800" stop="20260202190000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Petang</title>
+		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
+	</programme>
+	<programme start="20260202190000 +0800" stop="20260202200000 +0800" channel="MOLEKFM">
+		<title lang="en">Renungan Molek</title>
+		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+	</programme>
+	<programme start="20260202200000 +0800" stop="20260203000000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Malam</title>
+		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
+	</programme>
+	<programme start="20260203000000 +0800" stop="20260203060000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek FM – Gu Pantai Timur</title>
+		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	</programme>
+	<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Pagi</title>
+		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	</programme>
+	<programme start="20260203100000 +0800" stop="20260203150000 +0800" channel="MOLEKFM">
+		<title lang="en">Muzik Tanpa Yoya</title>
+		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
+	</programme>
+	<programme start="20260203150000 +0800" stop="20260203190000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Petang</title>
+		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
+	</programme>
+	<programme start="20260203190000 +0800" stop="20260203200000 +0800" channel="MOLEKFM">
+		<title lang="en">Renungan Molek</title>
+		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+	</programme>
+	<programme start="20260203200000 +0800" stop="20260204000000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Malam</title>
+		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
+	</programme>
+	<programme start="20260204000000 +0800" stop="20260204060000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek FM – Gu Pantai Timur</title>
+		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	</programme>
+	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Pagi</title>
+		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	</programme>
+	<programme start="20260204100000 +0800" stop="20260204150000 +0800" channel="MOLEKFM">
+		<title lang="en">Muzik Tanpa Yoya</title>
+		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
+	</programme>
+	<programme start="20260204150000 +0800" stop="20260204190000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Petang</title>
+		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
+	</programme>
+	<programme start="20260204190000 +0800" stop="20260204200000 +0800" channel="MOLEKFM">
+		<title lang="en">Renungan Molek</title>
+		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+	</programme>
+	<programme start="20260204200000 +0800" stop="20260205000000 +0800" channel="MOLEKFM">
+		<title lang="en">Molek Malam</title>
+		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
+	</programme>
 	<programme start="20260127000000 +0800" stop="20260127010000 +0800" channel="247">
 		<title lang="en">Programme at 12 AM</title>
 		<desc lang="en">Programme at 12 AM.</desc>
