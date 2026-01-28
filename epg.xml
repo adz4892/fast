@@ -11,7 +11,7 @@
     <url>http://www.koolfm.audioy</url>
   </channel>
   <channel id="MolekFM">
-    <display-name lang="en">Molek FM</display-name>
+    <display-name lang="en">MOLEKFM</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg" />
     <url>http://www.molekfm.audio</url>
   </channel>
@@ -26,7 +26,7 @@
     <url>https://bestfm.com.my</url>
   </channel>
   <channel id="SuriaFM">
-    <display-name lang="en">Suria FM</display-name>
+    <display-name lang="en">SURIA</display-name>
     <icon src=https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SURIA.jpg" />
     <url>https://suria.my</url>
   </channel>
@@ -2578,6 +2578,375 @@ Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
 		<category/>
 		<rating/>
 		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
+	</programme>
+	<programme start="20260129000000 +0800" stop="20260129060000 +0800" channel="SURIA">
+		<title lang="en">SURIA – Muzik & Jiwa</title>
+		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
+	</programme>
+	<programme start="20260129060000 +0800" stop="20260129100000 +0800" channel="SURIA">
+		<title lang="en">Pagi On Suria</title>
+		<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260129100000 +0800" stop="20260129130000 +0800" channel="SURIA">
+		<title lang="en">Vibe Suria</title>
+		<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260129130000 +0800" stop="20260129150000 +0800" channel="SURIA">
+		<title lang="en">Playlist Suria</title>
+		<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260129150000 +0800" stop="20260129190000 +0800" channel="SURIA">
+		<title lang="en">Chill Petang Suria</title>
+		<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
+	</programme>
+	<programme start="20260129190000 +0800" stop="20260129200000 +0800" channel="SURIA">
+		<title lang="en">Kalam Suria</title>
+		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
+	</programme>
+	<programme start="20260129200000 +0800" stop="20260130000000 +0800" channel="SURIA">
+		<title lang="en">Kafe Suria</title>
+		<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
+	</programme>
+	<programme start="20260130000000 +0800" stop="20260130060000 +0800" channel="SURIA">
+		<title lang="en">SURIA – Muzik & Jiwa</title>
+		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
+	</programme>
+	<programme start="20260130060000 +0800" stop="20260130100000 +0800" channel="SURIA">
+		<title lang="en">Pagi On Suria</title>
+		<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260130100000 +0800" stop="20260130150000 +0800" channel="SURIA">
+		<title lang="en">Vibe Suria</title>
+		<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260130130000 +0800" stop="20260130150000 +0800" channel="SURIA">
+		<title lang="en">Playlist Suria</title>
+		<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260130150000 +0800" stop="20260130190000 +0800" channel="SURIA">
+		<title lang="en">Chill Petang Suria</title>
+		<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
+	</programme>
+	<programme start="20260130190000 +0800" stop="20260130200000 +0800" channel="SURIA">
+		<title lang="en">Kalam Suria</title>
+		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
+	</programme>
+	<programme start="20260130200000 +0800" stop="20260131000000 +0800" channel="SURIA">
+		<title lang="en">Kafe Suria</title>
+		<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
+	</programme>
+<programme start="20260131000000 +0800" stop="20260131100000 +0800" channel="SURIA">
+		<title lang="en">SURIA – Muzik & Jiwa</title>
+		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
+	</programme>
+	<programme start="20260131100000 +0800" stop="20260131140000 +0800" channel="SURIA">
+		<title lang="en">Carta Suria Top 40</title>
+		<desc lang="en">Carta Suria 40 memainkan lagu-lagu popular pilihan pendengar bersama Kai Hassan serta selebriti popular sebagai tetamu jemputan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/24122549/INSIDE-PAGE-1920X640-1.png"/>
+	</programme>
+	<programme start="20260131060000 +0800" stop="20260131120000 +0800" channel="SURIA">
+		<title lang="en">SURIA – Muzik & Jiwa</title>
+		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/24122549/INSIDE-PAGE-1920X640-1.png"/>
+	</programme>
+	<programme start="20260131140000 +0800" stop="20260131190000 +0800" channel="SURIA">
+		<title lang="en">Hello Suria</title>
+		<desc lang="en">Hiburkan diri anda dengan lagu-lagu pilihan dan dedikasi ucapan setiap hari Sabtu dan Ahad.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/08104138/CIK-PIAH-HELLO-SURIA-INSIDE-PAGE-1920X640.png"/>
+	</programme>
+	<programme start="20260131190000 +0800" stop="20260131200000 +0800" channel="SURIA">
+		<title lang="en">Kalam Suria</title>
+		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
+	</programme>
+	<programme start="20260131200000 +0800" stop="20260201010000 +0800" channel="SURIA">
+		<title lang="en">Suria Cinta</title>
+		<desc lang="en"> Layan perasaan anda dengan lagu-lagu cinta bersama DJ Lin.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/08104401/INSIDE-PAGE_SURIA-CINTA-1920X640.jpg"/>
+	</programme>
+<programme start="20260201010000 +0800" stop="20260201100000 +0800" channel="SURIA">
+		<title lang="en">SURIA – Muzik & Jiwa</title>
+		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
+	</programme>
+	</programme>
+	<programme start="20260201050000 +0800" stop="20260201060000 +0800" channel="SURIA">
+		<<title lang="en">Carta Suria Top 40 (Ulangan)</title>
+		<desc lang="en">Carta Suria 40 memainkan lagu-lagu popular pilihan pendengar bersama Kai Hassan serta selebriti popular sebagai tetamu jemputan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/24122549/INSIDE-PAGE-1920X640-1.png"/>
+	</programme>
+	<programme start="20260201140000 +0800" stop="20260201190000 +0800" channel="SURIA">
+		<<title lang="en">Hello Suria</title>
+		<desc lang="en">Hiburkan diri anda dengan lagu-lagu pilihan dan dedikasi ucapan setiap hari Sabtu dan Ahad.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/08104138/CIK-PIAH-HELLO-SURIA-INSIDE-PAGE-1920X640.png"/>
+	</programme>
+	<programme start="20260201190000 +0800" stop="20260201200000 +0800" channel="SURIA">
+		<title lang="en">Kalam Suria</title>
+		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
+	</programme>
+	<programme start="20260201200000 +0800" stop="20260202010000 +0800" channel="SURIA">
+		<title lang="en">Suria Cinta</title>
+		<desc lang="en"> Layan perasaan anda dengan lagu-lagu cinta bersama DJ Lin.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/08104401/INSIDE-PAGE_SURIA-CINTA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260202010000 +0800" stop="20260202060000 +0800" channel="SURIA">
+		<title lang="en">SURIA – Muzik & Jiwa</title>
+		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
+	</programme>
+	<programme start="20260202060000 +0800" stop="20260202100000 +0800" channel="SURIA">
+		<title lang="en">Pagi On Suria</title>
+		<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260202100000 +0800" stop="20260202130000 +0800" channel="SURIA">
+		<title lang="en">Vibe Suria</title>
+		<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260202130000 +0800" stop="20260202150000 +0800" channel="SURIA">
+		<title lang="en">Playlist Suria</title>
+		<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260202150000 +0800" stop="20260202190000 +0800" channel="SURIA">
+		<title lang="en">Chill Petang Suria</title>
+		<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
+	</programme>
+	<programme start="20260202190000 +0800" stop="20260202200000 +0800" channel="SURIA">
+		<title lang="en">Kalam Suria</title>
+		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
+	</programme>
+	<programme start="20260202200000 +0800" stop="20260203000000 +0800" channel="SURIA">
+		<title lang="en">Kafe Suria</title>
+		<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
+	</programme>
+	<programme start="20260203000000 +0800" stop="20260203060000 +0800" channel="SURIA">
+		<title lang="en">SURIA – Muzik & Jiwa</title>
+		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
+	</programme>
+	<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="SURIA">
+		<title lang="en">Pagi On Suria</title>
+		<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260203100000 +0800" stop="20260203130000 +0800" channel="SURIA">
+		<title lang="en">Vibe Suria</title>
+		<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260203130000 +0800" stop="20260203150000 +0800" channel="SURIA">
+		<title lang="en">Playlist Suria</title>
+		<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260203150000 +0800" stop="20260203190000 +0800" channel="SURIA">
+		<title lang="en">Chill Petang Suria</title>
+		<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
+	</programme>
+	<programme start="20260203190000 +0800" stop="20260203200000 +0800" channel="SURIA">
+		<title lang="en">Kalam Suria</title>
+		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
+	</programme>
+	<programme start="20260203200000 +0800" stop="20260204000000 +0800" channel="SURIA">
+		<title lang="en">Kafe Suria</title>
+		<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
+	</programme>
+	<programme start="20260204000000 +0800" stop="20260204060000 +0800" channel="SURIA">
+		<title lang="en">SURIA – Muzik & Jiwa</title>
+		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
+	</programme>
+	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="SURIA">
+		<title lang="en">Pagi On Suria</title>
+		<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260204100000 +0800" stop="20260204130000 +0800" channel="SURIA">
+		<title lang="en">Vibe Suria</title>
+		<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260204130000 +0800" stop="20260204150000 +0800" channel="SURIA">
+		<title lang="en">Playlist Suria</title>
+		<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
+	</programme>
+	<programme start="20260204150000 +0800" stop="20260204190000 +0800" channel="SURIA">
+		<title lang="en">Chill Petang Suria</title>
+		<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
+	</programme>
+	<programme start="20260204190000 +0800" stop="20260204200000 +0800" channel="SURIA">
+		<title lang="en">Kalam Suria</title>
+		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
+	</programme>
+	<programme start="20260204200000 +0800" stop="20260205000000 +0800" channel="SURIA">
+		<title lang="en">Kafe Suria</title>
+		<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
 	</programme>
 
 
