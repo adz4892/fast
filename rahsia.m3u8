@@ -13,7 +13,6 @@
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/mss-col/epg/refs/heads/main/unifi_epg.xml,https://raw.githubusercontent.com/Sincan2/qe3-iptv-indonesia/refs/heads/main/qe3.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml,https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://github.com/AqFad2811/epg/blob/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz,https://www.bevy.be/bevyfiles/spain.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml,https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" refresh="1440"
 
 *************************************************************************
-https://raw.githubusercontent.com/adz4892/fast/refs/heads/main/vod
 
 ********************************MALAYSIA**********************************************************************************************************
 
@@ -1081,7 +1080,180 @@ https://v4-15ff02a6a92b215bcd25dc26d4be48bc.livehwc4.com/pull.chuangbwu.com/live
 
 ____________________________________________________________________________________________________
 
-https://raw.githubusercontent.com/shadany7824/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/refs/heads/main/vod
+[{
+    "name": "Hantu Siang",
+    "category": "Malay Klasik",
+    "info": {
+      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-yaezewmy07.png",
+      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "plot": "Seorang kasanova yang suka menggoda gadis menerima padahnya apabila harus mengahwini mangsanya. Badul telah berjaya mendampingi lebih 17 gadis. Dia mempunyai rancangan untuk menggoda dua lagi gadis baru sebagai mangsanya. Rancangan Badul memakan diri apabila dia sendiri terpaksa menikahi mereka - cubaannya telah memerangkap dirinya sendiri.",
+      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "director": ["A. R. Badul"],
+      "rating": "",
+      "country": [ "Malaysia" ],
+      "trailer": "",
+      "cast": ["A. R . Badul, Noreen Noor, Rosnah Mohd Noor"],
+      "year": "1986"
+    },
+    "video": "https://vod.mana2.my/vod/Hantu_Siang_1986_002.mp4/index.m3u8?auth_key=1769673481-e725398f13c549369e67b8ede034baff-0-f4ff01fea9741d8992b409435227e320&token=1769673481-e725398f13c549369e67b8ede034baff-0-f4ff01fea9741d8992b409435227e320"
+  },
+{
+    "name": "Gemerlapan",
+    "category": "Malay Klasik",
+    "info": {
+      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-6623v26w9zl.png",
+      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "plot": "Mimi mengejutkan ramai pelajar di sebuah kolej berprestij kerana menjadi seorang penggemar muzik dangdut yang tegar. Nel, salah seorang pelajar di situ menganggap muzik dangdut kekampungan dan mereka berdua sering bertengkar kerana hal tersebut. Tetapi tanpa disedari, Nel adalah Mr X yang selama ini merupakan peminat rahsia Mimi dalam diam.",
+      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "director": ["Abdul Razak Mohaideen"],
+      "rating": "",
+      "country": [ "Malaysia" ],
+      "trailer": "",
+      "cast": ["Baby Res 2, Lan A To Z, Maya Matahari, Eisya, Shafi Khan, Sham Visa, Umi Res 2, Bob Kuman, Amir & Group (U.K’s)"],
+      "year": "1997"
+    },
+    "video": "https://vod.mana2.my/vod/Gemerlapan_1997_001.mp4/index.m3u8?auth_key=1769673746-ba1eb3b664cf4766bb4c0dfffb70d426-0-cd407c056fc6ca3d56a62ac8a957b00d&token=1769673746-ba1eb3b664cf4766bb4c0dfffb70d426-0-cd407c056fc6ca3d56a62ac8a957b00d"
+  },
+{
+    "name": "Sindrom Mana Anakku",
+    "category": "Malay Klasik",
+    "info": {
+      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-58vsizbb2wp.png",
+      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "plot": "Dr. Kamal dan Dr. Lisa bekerja di hospital yang sama. Dr. Kamal keluar mendapat panggilan kecemasan di sebuah rumah. Dibawa pesakit tersebut ke hospital kerana kemungkinan komplikasi kelahiran namun mula tertanya-tanya di manakah anaknya. Anak pesakit tersebut perlu dicari sebelum apa-apa berlaku kepadanya.",
+      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "director": ["Raja Rozaimie Dalnish Shah & A. Aziz Wok"],
+      "rating": "",
+      "country": [ "Malaysia" ],
+      "trailer": "",
+      "cast": ["Hail Amir, Nancie Foo, I.K. Sandhu, Rosnah Mohd Noor, Omar Abdullah, Abu Bakar Omar"],
+      "year": "1982"
+    },
+    "video": "https://vod.mana2.my/vod/Sindrom_Mana_Anakku_1982_A.mp4/index.m3u8?auth_key=1769673725-b5ef76c763cc4adfb7fc2810d5240f91-0-10a6c7b539c4b21504d57809995d0dd9&token=1769673725-b5ef76c763cc4adfb7fc2810d5240f91-0-10a6c7b539c4b21504d57809995d0dd9"
+  },
+{
+    "name": "Pemburu Bayang",
+    "category": "Malay Klasik",
+    "info": {
+      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-iutzhdrd3g.png",
+      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "plot": "Zamri merupakan seorang bekas banduan yang ingin memulakan hidup baru bersama keluarganya. Namun, nasib tidak menyebelahinya apabila dia diburu kumpulan yang diketuai Ramon. Adik Zamri, Awie ialah seorang penyanyi kumpulan rock popular yang sedang menjalinkan hubungan cinta bersama Ella, yang juga penyanyi rock. Sesuatu terjadi yang menyebabkan Awie dan Ella putus hubungan. Manakala, Zamri pula diuji dengan pelbagai dugaan apabila isterinya dibunuh dengan kejam.",
+      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "director": ["Yusof Haslam"],
+      "rating": "",
+      "country": [ "Malaysia" ],
+      "trailer": "",
+      "cast": ["Awie, Ella, Shaharuddin Thamby, Erma Fatima "],
+      "year": "1993"
+    },
+    "video": "https://vod.mana2.my/vod/Pemburu_Bayang_1993_004.mp4/index.m3u8?auth_key=1769673818-914163a6acb44ed1ace2c43dbbd43fe1-0-ff4374333f4564b86b5e09491f0bb985&token=1769673818-914163a6acb44ed1ace2c43dbbd43fe1-0-ff4374333f4564b86b5e09491f0bb985"
+  },
+{
+    "name": "Melati Putih",
+    "category": "Malay Klasik",
+    "info": {
+      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-s92eecgxpxp.png",
+      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "plot": "Melati bercita-cita tinggi tetapi tidak dapat melaksanakannya kerana tergoda dengan seorang doktor muda. Akibat hubungan dengan doktor itu, nama baiknya telah tercemar. Seorang pemuda cacat di kampung itu jatuh hati padanya tetapi cinta lelaki itu dipermainkannya. Setelah Melati dikecewakan oleh doktor itu, barulah dia sedar cinta suci si pemuda itu.",
+      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "director": ["A. R. Badul"],
+      "rating": "",
+      "country": [ "Malaysia" ],
+      "trailer": "",
+      "cast": ["Yusof Haslam, Tantiana Hamzah, Rokiah Shafie"],
+      "year": "1984"
+    },
+    "video": "https://vod.mana2.my/vod/Melati_Putih_1984_A.mp4/index.m3u8?auth_key=1769673703-718bfcb143264c4dbf098a9ad30da7c5-0-12261ffaa90f10657233b9b790ecb88b&token=1769673703-718bfcb143264c4dbf098a9ad30da7c5-0-12261ffaa90f10657233b9b790ecb88b"
+  },
+{
+    "name": "Cikgu Sayang",
+    "category": "Malay Klasik",
+    "info": {
+      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-tz71v4x8qj.png",
+      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "plot": "Seorang guru muda bernama Idayu telah dihantar ke sebuah kampung di Pulau Dinawan untuk mengajar sekolah orang dewasa. Di sana, Idayu telah digelarkan sebagai “Cikgu Sayang” oleh pelajarnya. Kehadiran Idayu di pulau itu telah menimbulkan perasaan cemburu kepada isteri para pelajarnya. Dalam masa yang sama, Idayu mula tertarik dengan seorang pemuda bernama Anuar yang tinggal di pulau itu.",
+      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "director": ["Z. Lokman"],
+      "rating": "",
+      "country": [ "Malaysia" ],
+      "trailer": "",
+      "cast": ["Mokhtaruddin, Rose Iskandar, Suhaina Yahya"],
+      "year": "1983"
+    },
+    "video": "https://vod.mana2.my/vod/Cikgu_Sayang_1983_005.mp4/index.m3u8?auth_key=1769673677-d0d4e38f2ccf44f28238fae701589404-0-6567c6786f1ab09b251fdb8885b071a5&token=1769673677-d0d4e38f2ccf44f28238fae701589404-0-6567c6786f1ab09b251fdb8885b071a"
+  },
+{
+    "name": "Minah Manja",
+    "category": "Malay Klasik",
+    "info": {
+      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-om3x4zbbd6.png",
+      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "plot": "Mengisahkan tentang kehidupan masyarakat di dalam sebuah kampung.Mamak Kutty mahu memperisterikan Minah, anak perempuan kepada seorang guru silat, Ujang Singkap. Ternyata Mamak Kutty mempunyai seorang lagi isteri di India. Akan timbul satu pertelingkahan diantara kedua-dua isteri Mamak Kutty apabila mereka bertemu.",
+      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "director": ["Z. Lokman"],
+      "rating": "",
+      "country": [ "Malaysia" ],
+      "trailer": "",
+      "cast": ["Maidin, R. Jaafar, Dayangku Intan"],
+      "year": "1984"
+    },
+    "video": "https://vod.mana2.my/vod/Minah_Manja_1984_A.mp4/index.m3u8?auth_key=1769673660-81862c723eca4c81a69a4f9df5453216-0-ae5c5a38f9af22b1d896cfe6572e01d0&token=1769673660-81862c723eca4c81a69a4f9df5453216-0-ae5c5a38f9af22b1d896cfe6572e01d0"
+  },
+{
+    "name": "Abang",
+    "category": "Malay Klasik",
+    "info": {
+      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-mhva2bn7pno.png",
+      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "plot": "Setahun pergi membawa diri tanpa khabar berita, Fuad akhirnya pulang ke pangkuan keluarga. Niat ingin kembali meneruskan kehidupan seperti biasa bersama keluarga di negara asal namun kepulangannya diterima dengan perasaan bercampur baur. Kepulangannya disalah erti dek kerana posisinya sebagai pewaris syarikat. Segala konflik dan rintangan dihadapinya dengan tabah tetapi rahsia kepergiannya masih menjadi tanda tanya.",
+      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "director": ["Rahim Razali"],
+      "rating": "",
+      "country": [ "Malaysia" ],
+      "trailer": "",
+      "cast": ["Rahim Razali, Ahmad Yatim, Ahmad Tarmimi Serigar, Noorkumalasari, Fauziah Ahmad Daud, S. Roomai Noor, Umi Kalthum, Noriah Abdullah"],
+      "year": "1981"
+    },
+    "video": "https://vod.mana2.my/vod/Abang_1981_003.mp4/index.m3u8?auth_key=1769673615-eb12f77869e8417aa3b601b3e981a9b2-0-a60b273bd3cc1c69025ccad08e88a5bd&token=1769673615-eb12f77869e8417aa3b601b3e981a9b2-0-a60b273bd3cc1c69025ccad08e88a5bd"
+  },
+{
+    "name": "Ribut Barat",
+    "category": "Malay Klasik",
+    "info": {
+      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-z69xdi1amkh.png",
+      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "plot": "Sepasang suami isteri, Adnan dan Azizah baru pulang ke tanah air selepas berkahwin di England. Azizah sering memandang rendah kepada keluarga suaminya yang berasal dari kampung. Adnan terlalu sayangkan isterinya sehingga sanggup melupakan ibu bapanya untuk menyenangkan hati isteri. Budaya barat yang diamalkan Adnan dan isterinya itu juga telah menyebabkan rumahtangga mereka retak menanti belah.",
+      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "director": ["Salleh Ghani"],
+      "rating": "",
+      "country": [ "Malaysia" ],
+      "trailer": "",
+      "cast": ["Raja Nor Baizura, Yusof Haslam, Rose Iskandar"],
+      "year": "1981"
+    },
+    "video": "https://vod.mana2.my/vod/Ribut_Barat_1981_A.mp4/index.m3u8?auth_key=1769671920-8950ae65b02144eda5c21d59a95b52ec-0-a27ca9de73b5c3bc0d59e0389f43ae7a&token=1769671920-8950ae65b02144eda5c21d59a95b52ec-0-a27ca9de73b5c3bc0d59e0389f43ae7a"
+  },
+{
+    "name": "Mawar Merah",
+    "category": "Malay Klasik",
+    "info": {
+      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-dgxup0n6flw.png",
+      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "plot": "Kartika atau Arti gadis Jakarta yang suka bersosial. Tetapi ibu bapa Kartika tidak suka perangai Kartika yang liar dan suka bersosial. Mereka memutuskan Arti akan dihantar ke Kuala Lumpur untuk dijaga oleh nenek Arti dan bapa saudaranya, Sofyan. Hubungan Arti dan Sofyan semakin rapat dan mereka berdua saling jatuh cinta.Sofyan pula cuba menyembunyikan perasaannya kerana tahu perasaan cintanya terhadap Arti adalah dilarang agama walaupun Arti juga mencintainya. Mereka berdua terpaksa menerima hakikat dan takdir percintaan mereka.",
+      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
+      "director": ["Rosnani Jamil"],
+      "rating": "",
+      "country": [ "Malaysia" ],
+      "trailer": "",
+      "cast": ["Raja Ema, Mustaffa Noor, Razis Ismail, Noraini Hashim, Isma Aliff, Fauziah Nawi"],
+      "year": "1987"
+    },
+    "video": "https://vod.mana2.my/vod/Mawar_Merah_1987_A.mp4/index.m3u8?auth_key=1769673563-79721e9038be47c09c79166f89dd8444-0-716033cec408b6b300af863988c382da&token=1769673563-79721e9038be47c09c79166f89dd8444-0-716033cec408b6b300af863988c382da"
+  },
+
+
+
+
 
 
 
