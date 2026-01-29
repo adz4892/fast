@@ -563,7 +563,7 @@
 		<desc lang="en"> </desc>
 		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
 	</programme>
-	<programme start="202602012100000 +0800" stop="20260201220000 +0800" channel="HOTFM">
+	<programme start="202602012000000 +0800" stop="20260201220000 +0800" channel="HOTFM">
 		<title lang="en">Carta Muzik Muzik</title>
 		<desc lang="en">Terlepas saksikan Carta Muzik-Muzik di TV3? Dengarkan je di Hot FM bersama Keymi.</desc>
 		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-AP-09.jpg"/>
