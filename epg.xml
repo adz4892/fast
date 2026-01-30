@@ -50,174 +50,6 @@
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FM.png" />
     <url>http://www.rtmklik.rtm.gov.my</url>
   </channel>
-<programme start="20260127000000 +0800" stop="20260127050000 +0800" channel="KOOLFM">
-		<title lang="en">Kool FM – Malaysia Dah Kool</title>
-		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
-	</programme>
-	<programme start="20260127050000 +0800" stop="20260127060000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM (Ulangan)</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260127060000 +0800" stop="20260127100000 +0800" channel="KOOLFM">
-		<title lang="en">Pagi On Point</title>
-		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
-	</programme>
-	<programme start="20260127100000 +0800" stop="20260127150000 +0800" channel="KOOLFM">
-		<title lang="en">Santai Kool</title>
-		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
-	</programme>
-	<programme start="20260127150000 +0800" stop="20260127190000 +0800" channel="KOOLFM">
-		<title lang="en">PM Kool</title>
-		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
-	</programme>
-	<programme start="20260127190000 +0800" stop="20260127200000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260127200000 +0800" stop="20260128000000 +0800" channel="KOOLFM">
-		<title lang="en">Cerita Malam Kita</title>
-		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
-	</programme>
-<programme start="20260128000000 +0800" stop="20260128050000 +0800" channel="KOOLFM">
-		<title lang="en">Kool FM – Malaysia Dah Kool</title>
-		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
-	</programme>
-	<programme start="20260128050000 +0800" stop="20260128060000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM (Ulangan)</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260128060000 +0800" stop="20260128100000 +0800" channel="KOOLFM">
-		<title lang="en">Pagi On Point</title>
-		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
-	</programme>
-	<programme start="20260128100000 +0800" stop="20260128150000 +0800" channel="KOOLFM">
-		<title lang="en">Santai Kool</title>
-		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
-	</programme>
-	<programme start="20260128150000 +0800" stop="20260128190000 +0800" channel="KOOLFM">
-		<title lang="en">PM Kool</title>
-		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
-	</programme>
-	<programme start="20260128190000 +0800" stop="20260128200000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260128200000 +0800" stop="20260129000000 +0800" channel="KOOLFM">
-		<title lang="en">Cerita Malam Kita</title>
-		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
-	</programme>
-<programme start="20260129000000 +0800" stop="20260129050000 +0800" channel="KOOLFM">
-		<title lang="en">Kool FM – Malaysia Dah Kool</title>
-		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
-	</programme>
-	<programme start="20260129050000 +0800" stop="20260129060000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM (Ulangan)</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260129060000 +0800" stop="20260129100000 +0800" channel="KOOLFM">
-		<title lang="en">Pagi On Point</title>
-		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
-	</programme>
-	<programme start="20260129100000 +0800" stop="20260129150000 +0800" channel="KOOLFM">
-		<title lang="en">Santai Kool</title>
-		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
-	</programme>
-	<programme start="20260129150000 +0800" stop="20260129190000 +0800" channel="KOOLFM">
-		<title lang="en">PM Kool</title>
-		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
-	</programme>
-	<programme start="20260129190000 +0800" stop="20260129200000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260129200000 +0800" stop="20260130000000 +0800" channel="KOOLFM">
-		<title lang="en">Cerita Malam Kita</title>
-		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
-	</programme>
 <programme start="20260130000000 +0800" stop="20260130050000 +0800" channel="KOOLFM">
 		<title lang="en">Kool FM – Malaysia Dah Kool</title>
 		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
@@ -442,7 +274,252 @@
 		<rating/>
 		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
 	</programme>
-		<programme start="20260129000000 +0800" stop="20260129060000 +0800" channel="MOLEKFM">
+	<programme start="20260203000000 +0800" stop="20260203050000 +0800" channel="KOOLFM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260203050000 +0800" stop="20260203060000 +0800" channel="KOOLFM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="KOOLFM">
+		<title lang="en">Pagi On Point</title>
+		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+	</programme>
+	<programme start="20260203100000 +0800" stop="20260203150000 +0800" channel="KOOLFM">
+		<title lang="en">Santai Kool</title>
+		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
+	</programme>
+	<programme start="20260203150000 +0800" stop="20260203190000 +0800" channel="KOOLFM">
+		<title lang="en">PM Kool</title>
+		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+	</programme>
+	<programme start="20260203190000 +0800" stop="20260203200000 +0800" channel="KOOLFM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260203200000 +0800" stop="20260204000000 +0800" channel="KOOLFM">
+		<title lang="en">Cerita Malam Kita</title>
+		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+	<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
+	</programme>
+<programme start="20260204000000 +0800" stop="20260204050000 +0800" channel="KOOLFM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260204050000 +0800" stop="20260204060000 +0800" channel="KOOLFM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="KOOLFM">
+		<title lang="en">Pagi On Point</title>
+		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+	</programme>
+	<programme start="20260204100000 +0800" stop="20260204150000 +0800" channel="KOOLFM">
+		<title lang="en">Santai Kool</title>
+		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
+	</programme>
+	<programme start="20260204150000 +0800" stop="20260204190000 +0800" channel="KOOLFM">
+		<title lang="en">PM Kool</title>
+		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+	</programme>
+	<programme start="20260204190000 +0800" stop="20260204200000 +0800" channel="KOOLFM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260204200000 +0800" stop="20260205000000 +0800" channel="KOOLFM">
+		<title lang="en">Cerita Malam Kita</title>
+		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+	<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
+	</programme>
+<programme start="20260205000000 +0800" stop="20260205050000 +0800" channel="KOOLFM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260205050000 +0800" stop="20260205060000 +0800" channel="KOOLFM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260205060000 +0800" stop="20260205100000 +0800" channel="KOOLFM">
+		<title lang="en">Pagi On Point</title>
+		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+	</programme>
+	<programme start="20260205100000 +0800" stop="20260205150000 +0800" channel="KOOLFM">
+		<title lang="en">Santai Kool</title>
+		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
+	</programme>
+	<programme start="20260205150000 +0800" stop="20260205190000 +0800" channel="KOOLFM">
+		<title lang="en">PM Kool</title>
+		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+	</programme>
+	<programme start="20260205190000 +0800" stop="20260205200000 +0800" channel="KOOLFM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260205200000 +0800" stop="20260206000000 +0800" channel="KOOLFM">
+		<title lang="en">Cerita Malam Kita</title>
+		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+	<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
+	</programme>
+<programme start="20260206000000 +0800" stop="20260206050000 +0800" channel="KOOLFM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260206050000 +0800" stop="20260206060000 +0800" channel="KOOLFM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260206060000 +0800" stop="20260206100000 +0800" channel="KOOLFM">
+		<title lang="en">Pagi On Point</title>
+		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+	</programme>
+	<programme start="20260206100000 +0800" stop="20260206150000 +0800" channel="KOOLFM">
+		<title lang="en">Santai Kool</title>
+		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
+	</programme>
+	<programme start="20260206150000 +0800" stop="20260206190000 +0800" channel="KOOLFM">
+		<title lang="en">PM Kool</title>
+		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+	</programme>
+	<programme start="20260206190000 +0800" stop="20260206200000 +0800" channel="KOOLFM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260206200000 +0800" stop="20260207000000 +0800" channel="KOOLFM">
+		<title lang="en">Cerita Malam Kita</title>
+		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
+	</programme>
+<programme start="20260207000000 +0800" stop="20260207050000 +0800" channel="KOOLFM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260207050000 +0800" stop="20260207060000 +0800" channel="KOOLFM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260207060000 +0800" stop="20260207120000 +0800" channel="KOOLFM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260207120000 +0800" stop="20260207160000 +0800" channel="KOOLFM">
+		<title lang="en">Kool Weekend</title>
+		<desc lang="en"> Hujung minggu dengan perbualan bermakna – real, segar dan berisi.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-08.jpg"/>
+	</programme>
+	<programme start="20260207160000 +0800" stop="20260207190000 +0800" channel="KOOLFM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260207190000 +0800" stop="20260207200000 +0800" channel="KOOLFM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260207200000 +0800" stop="20260208000000 +0800" channel="KOOLFM">
+		<title lang="en">Power Retro Kool FM</title>
+		<desc lang="en"> Nostalgia 80an & 90an – lagu evergreen yang kekal hidup.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-10.jpg"/>
+	</programme>
+<programme start="20260208000000 +0800" stop="20260208050000 +0800" channel="KOOLFM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260208050000 +0800" stop="20260208060000 +0800" channel="KOOLFM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260208060000 +0800" stop="20260208120000 +0800" channel="KOOLFM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260208120000 +0800" stop="20260208160000 +0800" channel="KOOLFM">
+		<title lang="en">Kool Weekend</title>
+		<desc lang="en"> Hujung minggu dengan perbualan bermakna – real, segar dan berisi.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-08.jpg"/>
+	</programme>
+	<programme start="20260208160000 +0800" stop="20260208190000 +0800" channel="KOOLFM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260208190000 +0800" stop="20260208200000 +0800" channel="KOOLFM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260208200000 +0800" stop="20260209000000 +0800" channel="KOOLFM">
+		<title lang="en">Power Retro Kool FM</title>
+		<desc lang="en"> Nostalgia 80an & 90an – lagu evergreen yang kekal hidup.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-10.jpg"/>
+	</programme>
+		<programme start="20260209000000 +0800" stop="20260209050000 +0800" channel="KOOLFM">
+		<title lang="en">Kool FM – Malaysia Dah Kool</title>
+		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
+		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
+	</programme>
+	<programme start="20260209050000 +0800" stop="20260209060000 +0800" channel="KOOLFM">
+		<title lang="en">Kooliah Kool FM (Ulangan)</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260202090000 +0800" stop="20260209100000 +0800" channel="KOOLFM">
+		<title lang="en">Pagi On Point</title>
+		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+	</programme>
+	<programme start="20260209100000 +0800" stop="20260209150000 +0800" channel="KOOLFM">
+		<title lang="en">Santai Kool</title>
+		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
+	</programme>
+	<programme start="20260209150000 +0800" stop="20260209190000 +0800" channel="KOOLFM">
+		<title lang="en">PM Kool</title>
+		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+	</programme>
+	<programme start="20260209190000 +0800" stop="20260209200000 +0800" channel="KOOLFM">
+		<title lang="en">Kooliah Kool FM</title>
+		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+	</programme>
+	<programme start="20260209200000 +0800" stop="20260210000000 +0800" channel="KOOLFM">
+		<title lang="en">Cerita Malam Kita</title>
+		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
+	</programme>
+		<programme start="20260129000000 +0800" stop="20260129060000 +0800" channel="HOTFM">
 	<programme start="20260129000000 +0800" stop="20260129060000 +0800" channel="HOTFM">
 		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
 		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
