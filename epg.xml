@@ -10,7 +10,7 @@
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg" />
     <url>http://www.koolfm.audioy</url>
   </channel>
-  <channel id="MoOLEKFM">
+  <channel id="MOLEKFM">
     <display-name lang="en">MOLEKFM</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg" />
     <url>http://www.molekfm.audio</url>
