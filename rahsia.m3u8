@@ -264,8 +264,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 #EXTINF:-1, tvg-id="CHN" tvg-url="https://raw.githubusercontent.com/aa6my/epg/refs/heads/master/mytv.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MIRAMAX.jpg" tvg-name="Miramax"  group-title="MYTV MANA",Miramax
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
-#EXTINF:-1, tvg-id="CHN" tvg-url="https://raw.githubusercontent.com/aa6my/epg/refs/heads/master/mytv.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/BOLLYWOOD.jpg" tvg-name="BollywooD HD" group-title="MYTV MANA",BollywooD HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/BOLLYWOOD.jpg" tvg-name="BollywooD HD" group-title="MYTV MANA",BollywooD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.dpname=distrotv&ads.rnd=y52d&ads.env_i=00df69ee-1ce3-4997-8d55-b19984ef6fe1&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1111&ads.height=625&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=110.159.241.29&ads.geo=MY&ads.lat=2.92690&ads.long=101.69710&ads.dma=&ads.geoType=2&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87418&ads.show_id=3260&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CBollywood%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20HD&ads.episodetitle=Bollywood%20HD&ads.keywords=Bollywood%2CHindu%2CMovies%2Cdesi&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=rFJt7Fg38ai
 
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SFGAANE.jpg" tvg-name="Shemaroo FilmGaane"  group-title="MYTV MANA",Shemaroo FilmGaane
@@ -1250,6 +1250,7 @@ ________________________________________________________________________________
     },
     "video": "https://vod.mana2.my/vod/Mawar_Merah_1987_A.mp4/index.m3u8?auth_key=1769673563-79721e9038be47c09c79166f89dd8444-0-716033cec408b6b300af863988c382da&token=1769673563-79721e9038be47c09c79166f89dd8444-0-716033cec408b6b300af863988c382da"
   },
+
 
 
 
