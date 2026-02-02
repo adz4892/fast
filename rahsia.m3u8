@@ -296,6 +296,9 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
 
+#EXTINF:0 tvg-country="" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/DISNEYJR.jpg" group-title="MYTV MANA",Disney Jr
+http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+
 **************************************************************************************************************************************************
 #EXTINF:-1 group-title="astro one" group-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/astroone.png",
 
@@ -1250,6 +1253,7 @@ ________________________________________________________________________________
     },
     "video": "https://vod.mana2.my/vod/Mawar_Merah_1987_A.mp4/index.m3u8?auth_key=1769673563-79721e9038be47c09c79166f89dd8444-0-716033cec408b6b300af863988c382da&token=1769673563-79721e9038be47c09c79166f89dd8444-0-716033cec408b6b300af863988c382da"
   },
+
 
 
 
