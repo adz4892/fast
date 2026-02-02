@@ -462,341 +462,213 @@
 		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
 		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
 	</programme>
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	<programme start="20260206000000 +0800" stop="20260206060000 +0800" channel="HOTFM">
+		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
 	</programme>
-	<programme start="20260129060000 +0800" stop="20260129100000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Pagi</title>
-		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	<programme start="20260206060000 +0800" stop="20260206100000 +0800" channel="HOTFM">
+		<title lang="en">Bekpes Hot</title>
+		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>
 	</programme>
-	<programme start="20260129100000 +0800" stop="20260129150000 +0800" channel="MOLEKFM">
-		<title lang="en">Muzik Tanpa Yoya</title>
-		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
+	<programme start="20260206100000 +0800" stop="20260206150000 +0800" channel="HOTFM">
+		<title lang="en">FYP@Hot</title>
+		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
 	</programme>
-	<programme start="20260129150000 +0800" stop="20260129190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Petang</title>
-		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
+	<programme start="20260206150000 +0800" stop="20260206190000 +0800" channel="HOTFM">
+		<title lang="en">Hot Squad</title>
+		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>
 	</programme>
-	<programme start="20260129190000 +0800" stop="20260129200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+	<programme start="20260206190000 +0800" stop="20260206200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
 	</programme>
-	<programme start="20260129200000 +0800" stop="20260130000000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Malam</title>
-		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
+	<programme start="20260206200000 +0800" stop="20260207000000 +0800" channel="HOTFM">
+		<title lang="en">Hotflix</title>
+		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
 	</programme>
-	<programme start="20260130000000 +0800" stop="20260130060000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+<programme start="20260207000000 +0800" stop="20260207100000 +0800" channel="HOTFM">
+		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
 	</programme>
-	<programme start="20260130060000 +0800" stop="20260130120000 +0800" channel="MOLEKFM">
-		<title lang="en">Terbaik Molek Pagi</title>
-		<desc lang="en"> Ulangan Terbaik Molek Pagi.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	<programme start="20260207100000 +0800" stop="20260207140000 +0800" channel="HOTFM">
+		<title lang="en">Hot JL 40</title>
+		<desc lang="en">Kira turun 40 lagu terhangat mingguan di hujung minggu anda.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-05.jpg"/>
 	</programme>
-	<programme start="20260130120000 +0800" stop="20260130150000 +0800" channel="MOLEKFM">
-		<title lang="en"> Jumaat Penghulu Hari</title>
-		<desc lang="en"> Bersihkan hati, sucikan jiwa dalam Jumaat Penghulu Hari!</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+	<programme start="20260207140000 +0800" stop="20260207180000 +0800" channel="HOTFM">
+		<title lang="en">Hot FM Ucap Seru</title>
+		<desc lang="en">Hot FM Ucap Seru</desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
 	</programme>
-	<programme start="20260130150000 +0800" stop="20260130190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Korner</title>
-		<desc lang="en"> Nak mintak lagu? Nak suara anda di udara? Boleh je, make sure call dan WhatsApp kami ok!</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src=" https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	<programme start="20260207180000 +0800" stop="20260207190000 +0800" channel="HOTFM">
+		<title lang="en"> Lagu Hot Yang Fresh </title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
 	</programme>
-	<programme start="20260130190000 +0800" stop="20260130200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+	<programme start="20260207190000 +0800" stop="20260207200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
 	</programme>
-	<programme start="20260130200000 +0800" stop="20260130210000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	<programme start="20260207210000 +0800" stop="202600131220000 +0800" channel="HOTFM">
+		<title lang="en">Hot FM HMO</title>
+		<desc lang="en">1 jam lagu-lagu & cerita dunia Hip Hop bersama Ayu & Han Kabir.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-AP-10.jpg"/>
 	</programme>
-	<programme start="20260130210000 +0800" stop="20260131000000 +0800" channel="MOLEKFM">
-		<title lang="en">Artis Molek Gu</title>
-		<desc lang="en"> Setiap minggu Qila & Anna akan bersama artis pilhan Molek, dengarkan kisah-kisah menarik dan perkembangan terkini Artis Molek Gu!</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2025/05/nCBvl3pW-featured_molekfm_anp2024_1200x630-06.jpg"/>
+	<programme start="20260207220000 +0800" stop="202600201000000 +0800" channel="HOTFM">
+		<title lang="en">Kpop Show</title>
+		<desc lang="en">Fesyen, Makanan, Kdrama dan lagu lagu Kpop. Semuanya tentang K!</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-06.jpg"/>
 	</programme>
-	<programme start="20260131000000 +0800" stop="20260131060000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	<programme start="20260208000000 +0800" stop="20260208100000 +0800" channel="HOTFM">
+		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
 	</programme>
-	<programme start="20260131060000 +0800" stop="20260131120000 +0800" channel="MOLEKFM">
-		<title lang="en">Terbaik Molek Pagi</title>
-		<desc lang="en"> Ulangan Terbaik Molek Pagi.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	<programme start="20260208100000 +0800" stop="20260208140000 +0800" channel="HOTFM">
+		<title lang="en">Hot JL 40 (Ulangan)</title>
+		<desc lang="en">Kira turun 40 lagu terhangat mingguan di hujung minggu anda.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-05.jpg"/>
 	</programme>
-	<programme start="20260131120000 +0800" stop="20260131150000 +0800" channel="MOLEKFM">
-		<title lang="en">Artis Molek Gu (Ulangan)</title>
-		<desc lang="en"> Setiap minggu Qila & Anna akan bersama artis pilhan Molek, dengarkan kisah-kisah menarik dan perkembangan terkini Artis Molek Gu!</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2025/05/nCBvl3pW-featured_molekfm_anp2024_1200x630-06.jpg"/>
+	<programme start="20260208140000 +0800" stop="20260208180000 +0800" channel="HOTFM">
+		<title lang="en">Hot FM Ucap Seru</title>
+		<desc lang="en">Hot FM Ucap Seru</desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
 	</programme>
-	<programme start="20260131150000 +0800" stop="20260131190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Korner</title>
-		<desc lang="en"> Nak mintak lagu? Nak suara anda di udara? Boleh je, make sure call dan WhatsApp kami ok!</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src=" https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	<programme start="20260208180000 +0800" stop="20260208190000 +0800" channel="HOTFM">
+		<title lang="en">Kpop Show (Ulangan)</title>
+		<desc lang="en">Fesyen, Makanan, Kdrama dan lagu lagu Kpop. Semuanya tentang K!</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-06.jpg"/>
 	</programme>
-	<programme start="20260131190000 +0800" stop="20260131200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+	<programme start="20260208190000 +0800" stop="20260208200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
 	</programme>
-	<programme start="20260131200000 +0800" stop="20260201000000 +0800" channel="MOLEKFM">
-		<title lang="en">Terbaik Molek Pagi</title>
-		<desc lang="en"> Ulangan Terbaik Molek Pagi.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	<programme start="20260208200000 +0800" stop="20260209220000 +0800" channel="HOTFM">
+		<title lang="en">Carta Muzik Muzik</title>
+		<desc lang="en">Terlepas saksikan Carta Muzik-Muzik di TV3? Dengarkan je di Hot FM bersama Keymi.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-AP-09.jpg"/>
 	</programme>
-	<programme start="20260201000000 +0800" stop="20260201060000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+<programme start="20260208220000 +0800" stop="20260209060000 +0800" channel="HOTFM">
+		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
 	</programme>
-	<programme start="20260201060000 +0800" stop="20260201100000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Pagi</title>
-		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	<programme start="20260209060000 +0800" stop="20260209100000 +0800" channel="HOTFM">
+		<title lang="en">Bekpes Hot</title>
+		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>
 	</programme>
-	<programme start="20260201100000 +0800" stop="20260201150000 +0800" channel="MOLEKFM">
-		<title lang="en">Muzik Tanpa Yoya</title>
-		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
+	<programme start="20260209100000 +0800" stop="20260209150000 +0800" channel="HOTFM">
+		<title lang="en">FYP@Hot</title>
+		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
 	</programme>
-	<programme start="20260201150000 +0800" stop="20260201190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Petang</title>
-		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
+	<programme start="20260209150000 +0800" stop="20260209190000 +0800" channel="HOTFM">
+		<title lang="en">Hot Squad</title>
+		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>
 	</programme>
-	<programme start="20260201190000 +0800" stop="20260201200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+	<programme start="20260209190000 +0800" stop="20260209200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
 	</programme>
-	<programme start="20260201200000 +0800" stop="20260202000000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Malam</title>
-		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
+	<programme start="20260209200000 +0800" stop="20260210000000 +0800" channel="HOTFM">
+		<title lang="en">Hotflix</title>
+		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
 	</programme>
-	<programme start="20260202000000 +0800" stop="20260202060000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	<programme start="20260210000000 +0800" stop="20260210060000 +0800" channel="HOTFM">
+		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
 	</programme>
-	<programme start="20260202060000 +0800" stop="20260202100000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Pagi</title>
-		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	<programme start="20260210060000 +0800" stop="20260210100000 +0800" channel="HOTFM">
+		<title lang="en">Bekpes Hot</title>
+		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>	</programme>
+	<programme start="20260210100000 +0800" stop="20260210150000 +0800" channel="HOTFM">
+		title lang="en">FYP@Hot</title>
+		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
 	</programme>
-	<programme start="20260202100000 +0800" stop="20260202150000 +0800" channel="MOLEKFM">
-		<title lang="en">Muzik Tanpa Yoya</title>
-		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
+	<programme start="20260210150000 +0800" stop="20260210190000 +0800" channel="HOTFM">
+		<title lang="en">Hot Squad</title>
+		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>
 	</programme>
-	<programme start="20260202150000 +0800" stop="20260202190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Petang</title>
-		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
+	<programme start="20260210190000 +0800" stop="20260210200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
 	</programme>
-	<programme start="20260202190000 +0800" stop="20260202200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+	<programme start="20260210200000 +0800" stop="20260211000000 +0800" channel="HOTFM">
+		<title lang="en">Hotflix</title>
+		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
 	</programme>
-	<programme start="20260202200000 +0800" stop="20260203000000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Malam</title>
-		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
+<programme start="20260211000000 +0800" stop="20260211060000 +0800" channel="HOTFM">
+		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
 	</programme>
-	<programme start="20260203000000 +0800" stop="20260203060000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+	<programme start="20260211060000 +0800" stop="20260211100000 +0800" channel="HOTFM">
+		<title lang="en">Bekpes Hot</title>
+		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>	</programme>
+	<programme start="20260211100000 +0800" stop="20260211150000 +0800" channel="HOTFM">
+		title lang="en">FYP@Hot</title>
+		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
 	</programme>
-	<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Pagi</title>
-		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+	<programme start="20260211150000 +0800" stop="20260211190000 +0800" channel="HOTFM">
+		<<title lang="en">Hot Squad</title>
+		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>	</programme>
+	<programme start="20260211190000 +0800" stop="20260211200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>	</programme>
+	<programme start="20260211200000 +0800" stop="20260212000000 +0800" channel="HOTFM">
+		<title lang="en">Hotflix</title>
+		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
 	</programme>
-	<programme start="20260203100000 +0800" stop="20260203150000 +0800" channel="MOLEKFM">
-		<title lang="en">Muzik Tanpa Yoya</title>
-		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
+	<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
+		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
+		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
 	</programme>
-	<programme start="20260203150000 +0800" stop="20260203190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Petang</title>
-		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
+	<programme start="20260212060000 +0800" stop="20260212100000 +0800" channel="HOTFM">
+		<title lang="en">Bekpes Hot</title>
+		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>	</programme>
+	<programme start="20260212100000 +0800" stop="20260212150000 +0800" channel="HOTFM">
+		title lang="en">FYP@Hot</title>
+		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>	</programme>
+	<programme start="20260212150000 +0800" stop="20260212190000 +0800" channel="HOTFM">
+		<title lang="en">Hot Squad</title>
+		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
+		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>	</programme>
+	<programme start="20260212190000 +0800" stop="20260212200000 +0800" channel="HOTFM">
+		<title lang="en">Drama Sangat@Hot FM</title>
+		<desc lang="en"> </desc>
+		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>	</programme>
+	<programme start="20260212200000 +0800" stop="20260213000000 +0800" channel="HOTFM">
+		<title lang="en">Hotflix</title>
+		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
+		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
 	</programme>
-	<programme start="20260203190000 +0800" stop="20260203200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260203200000 +0800" stop="20260204000000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Malam</title>
-		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
-	</programme>
-	<programme start="20260204000000 +0800" stop="20260204060000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
-	</programme>
-	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Pagi</title>
-		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
-	</programme>
-	<programme start="20260204100000 +0800" stop="20260204150000 +0800" channel="MOLEKFM">
-		<title lang="en">Muzik Tanpa Yoya</title>
-		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260204150000 +0800" stop="20260204190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Petang</title>
-		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
-	</programme>
-	<programme start="20260204190000 +0800" stop="20260204200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260204200000 +0800" stop="20260205000000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Malam</title>
-		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
-	</programme>
-			<programme start="20260127230000 +0800" stop="20260128060000 +0800" channel="CATSFM">
+		<programme start="20260127230000 +0800" stop="20260128060000 +0800" channel="CATSFM">
 		<title lang="en">ANTAP MUZIK</title>
 		<desc lang="en">ANTAP MUZIK</desc>
 		<episode/>
