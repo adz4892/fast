@@ -1090,1179 +1090,7 @@
 		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
 		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
 	</programme>
-	<programme start="20260127000000 +0800" stop="20260127010000 +0800" channel="247">
-		<title lang="en">Programme at 12 AM</title>
-		<desc lang="en">Programme at 12 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/12AM.jpg"/>
-	</programme>
-	<programme start="20260127010000 +0800" stop="20260127020000 +0800" channel="247">
-		<title lang="en">Programme at 1 AM</title>
-		<desc lang="en">Programme at 1 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/01AM.jpg"/>
-	</programme>
-	<programme start="20260127020000 +0800" stop="20260127030000 +0800" channel="247">
-		<title lang="en">Programme at 2 AM</title>
-		<desc lang="en">Programme at 2 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/02AM.jpg"/>
-	</programme>
-	<programme start="20260127030000 +0800" stop="20260127040000 +0800" channel="247">
-		<title lang="en">Programme at 3 AM</title>
-		<desc lang="en">Programme at 3 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/03AM.jpg"/>
-	</programme>
-<programme start="20260127040000 +0800" stop="20260127050000 +0800" channel="247">
-		<title lang="en">Programme at 4 AM</title>
-		<desc lang="en">Programme at 4 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/04AM.jpg"/>
-	</programme>
-	<programme start="20260127050000 +0800" stop="20260127060000 +0800" channel="247">
-		<title lang="en">Programme at 5 AM</title>
-		<desc lang="en">Programme at 5 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/05AM.jpg"/>
-	</programme>
-	<programme start="20260127060000 +0800" stop="20260127070000 +0800" channel="247">
-		<title lang="en">Programme at 6 AM</title>
-		<desc lang="en">Programme at 6 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/06AM.jpg"/>
-	</programme>
-	<programme start="20260127070000 +0800" stop="20260127080000 +0800" channel="247">
-		<title lang="en">Programme at 7 AM</title>
-		<desc lang="en">Programme at 7 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/07AM.jpg"/>
-	</programme>
-<programme start="20260127080000 +0800" stop="20260127090000 +0800" channel="247">
-		<title lang="en">Programme at 8 AM</title>
-		<desc lang="en">Programme at 8 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/08AM.jpg"/>
-	</programme>
-	<programme start="20260127090000 +0800" stop="20260127100000 +0800" channel="247">
-		<title lang="en">Programme at 9 AM</title>
-		<desc lang="en">Programme at 9 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/09AM.jpg"/>
-	</programme>
-	<programme start="20260127100000 +0800" stop="20260127110000 +0800" channel="247">
-		<title lang="en">Programme at 10 AM</title>
-		<desc lang="en">Programme at 10 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/10AM.jpg"/>
-	</programme>
-	<programme start="20260127110000 +0800" stop="20260127120000 +0800" channel="247">
-		<title lang="en">Programme at 11 AM</title>
-		<desc lang="en">Programme at 11 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11AM.jpg"/>
-	</programme>
-	<programme start="20260127120000 +0800" stop="20260127130000 +0800" channel="247">
-		<title lang="en">Programme at 12 PM</title>
-		<desc lang="en">Programme at 12 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/12PM.jpg"/>
-	</programme>
-	<programme start="20260127130000 +0800" stop="20260127140000 +0800" channel="247">
-		<title lang="en">Programme at 1 PM</title>
-		<desc lang="en">Programme at 1 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/01PM.jpg"/>
-	</programme>
-	<programme start="20260127140000 +0800" stop="20260127150000 +0800" channel="247">
-		<title lang="en">Programme at 2 PM</title>
-		<desc lang="en">Programme at 2 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/02PM.jpg"/>
-	</programme>
-	<programme start="20260127150000 +0800" stop="20260127160000 +0800" channel="247">
-		<title lang="en">Programme at 3 PM</title>
-		<desc lang="en">Programme at 3 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/03PM.jpg"/>
-	</programme>
-<programme start="20260127160000 +0800" stop="20260127170000 +0800" channel="247">
-		<title lang="en">Programme at 4 PM</title>
-		<desc lang="en">Programme at 4 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/04PM.jpg"/>
-	</programme>
-	<programme start="20260127170000 +0800" stop="20260127180000 +0800" channel="247">
-		<title lang="en">Programme at 5 PM</title>
-		<desc lang="en">Programme at 5 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/05PM.jpg"/>
-	</programme>
-	<programme start="20260127180000 +0800" stop="20260127190000 +0800" channel="247">
-		<title lang="en">Programme at 6 PM</title>
-		<desc lang="en">Programme at 6 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/06PM.jpg"/>
-	</programme>
-	<programme start="20260127190000 +0800" stop="20260127200000 +0800" channel="247">
-		<title lang="en">Programme at 7 PM</title>
-		<desc lang="en">Programme at 7 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/07PM.jpg"/>
-	</programme>
-<programme start="20260127200000 +0800" stop="20260127210000 +0800" channel="247">
-		<title lang="en">Programme at 8 PM</title>
-		<desc lang="en">Programme at 8 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/08PM.jpg"/>
-	</programme>
-	<programme start="20260127210000 +0800" stop="20260127220000 +0800" channel="247">
-		<title lang="en">Programme at 9 PM</title>
-		<desc lang="en">Programme at 9 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/09PM.jpg"/>
-	</programme>
-	<programme start="20260127220000 +0800" stop="20260127230000 +0800" channel="247">
-		<title lang="en">Programme at 10 PM</title>
-		<desc lang="en">Programme at 10 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/10PM.jpg"/>
-	</programme>
-	<programme start="20260127230000 +0800" stop="20260128000000 +0800" channel="247">
-		<title lang="en">Programme at 11 PM</title>
-		<desc lang="en">Programme at 11 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11PM.jpg"/>
-	</programme>
-	<programme start="20260128000000 +0800" stop="20260128010000 +0800" channel="247">
-		<title lang="en">Programme at 12 AM</title>
-		<desc lang="en">Programme at 12 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/12AM.jpg"/>
-	</programme>
-	<programme start="20260128010000 +0800" stop="20260128020000 +0800" channel="247">
-		<title lang="en">Programme at 1 AM</title>
-		<desc lang="en">Programme at 1 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/01AM.jpg"/>
-	</programme>
-	<programme start="20260128020000 +0800" stop="20260128030000 +0800" channel="247">
-		<title lang="en">Programme at 2 AM</title>
-		<desc lang="en">Programme at 2 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/02AM.jpg"/>
-	</programme>
-	<programme start="20260128030000 +0800" stop="20260128040000 +0800" channel="247">
-		<title lang="en">Programme at 3 AM</title>
-		<desc lang="en">Programme at 3 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/03AM.jpg"/>
-	</programme>
-<programme start="20260128040000 +0800" stop="20260128050000 +0800" channel="247">
-		<title lang="en">Programme at 4 AM</title>
-		<desc lang="en">Programme at 4 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/04AM.jpg"/>
-	</programme>
-	<programme start="20260128050000 +0800" stop="20260128060000 +0800" channel="247">
-		<title lang="en">Programme at 5 AM</title>
-		<desc lang="en">Programme at 5 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/05AM.jpg"/>
-	</programme>
-	<programme start="20260128060000 +0800" stop="20260128070000 +0800" channel="247">
-		<title lang="en">Programme at 6 AM</title>
-		<desc lang="en">Programme at 6 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/06AM.jpg"/>
-	</programme>
-	<programme start="20260128070000 +0800" stop="20260128080000 +0800" channel="247">
-		<title lang="en">Programme at 7 AM</title>
-		<desc lang="en">Programme at 7 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/07AM.jpg"/>
-	</programme>
-<programme start="20260128080000 +0800" stop="20260128090000 +0800" channel="247">
-		<title lang="en">Programme at 8 AM</title>
-		<desc lang="en">Programme at 8 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/08AM.jpg"/>
-	</programme>
-	<programme start="20260128090000 +0800" stop="20260128100000 +0800" channel="247">
-		<title lang="en">Programme at 9 AM</title>
-		<desc lang="en">Programme at 9 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/09AM.jpg"/>
-	</programme>
-	<programme start="20260128100000 +0800" stop="20260128110000 +0800" channel="247">
-		<title lang="en">Programme at 10 AM</title>
-		<desc lang="en">Programme at 10 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/10AM.jpg"/>
-	</programme>
-	<programme start="20260128110000 +0800" stop="20260128120000 +0800" channel="247">
-		<title lang="en">Programme at 11 AM</title>
-		<desc lang="en">Programme at 11 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11AM.jpg"/>
-	</programme>
-	<programme start="20260128120000 +0800" stop="20260128130000 +0800" channel="247">
-		<title lang="en">Programme at 12 PM</title>
-		<desc lang="en">Programme at 12 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/12PM.jpg"/>
-	</programme>
-	<programme start="20260128130000 +0800" stop="20260128140000 +0800" channel="247">
-		<title lang="en">Programme at 1 PM</title>
-		<desc lang="en">Programme at 1 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/01PM.jpg"/>
-	</programme>
-	<programme start="20260128140000 +0800" stop="20260128150000 +0800" channel="247">
-		<title lang="en">Programme at 2 PM</title>
-		<desc lang="en">Programme at 2 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/02PM.jpg"/>
-	</programme>
-	<programme start="20260128150000 +0800" stop="20260128160000 +0800" channel="247">
-		<title lang="en">Programme at 3 PM</title>
-		<desc lang="en">Programme at 3 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/03PM.jpg"/>
-	</programme>
-<programme start="20260128160000 +0800" stop="20260128170000 +0800" channel="247">
-		<title lang="en">Programme at 4 PM</title>
-		<desc lang="en">Programme at 4 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/04PM.jpg"/>
-	</programme>
-	<programme start="20260128170000 +0800" stop="20260128180000 +0800" channel="247">
-		<title lang="en">Programme at 5 PM</title>
-		<desc lang="en">Programme at 5 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/05PM.jpg"/>
-	</programme>
-	<programme start="20260128180000 +0800" stop="20260128190000 +0800" channel="247">
-		<title lang="en">Programme at 6 PM</title>
-		<desc lang="en">Programme at 6 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/06PM.jpg"/>
-	</programme>
-	<programme start="20260128190000 +0800" stop="20260128200000 +0800" channel="247">
-		<title lang="en">Programme at 7 PM</title>
-		<desc lang="en">Programme at 7 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/07PM.jpg"/>
-	</programme>
-<programme start="20260128200000 +0800" stop="20260128210000 +0800" channel="247">
-		<title lang="en">Programme at 8 PM</title>
-		<desc lang="en">Programme at 8 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/08PM.jpg"/>
-	</programme>
-	<programme start="20260128210000 +0800" stop="20260128220000 +0800" channel="247">
-		<title lang="en">Programme at 9 PM</title>
-		<desc lang="en">Programme at 9 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/09PM.jpg"/>
-	</programme>
-	<programme start="20260128220000 +0800" stop="20260128230000 +0800" channel="247">
-		<title lang="en">Programme at 10 PM</title>
-		<desc lang="en">Programme at 10 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/10PM.jpg"/>
-	</programme>
-	<programme start="20260128230000 +0800" stop="20260129000000 +0800" channel="247">
-		<title lang="en">Programme at 11 PM</title>
-		<desc lang="en">Programme at 11 PM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11PM.jpg"/>
-	</programme>
-	<programme start="20260129000000 +0800" stop="20260129010000 +0800" channel="247">
-		<title lang="en">Programme at 12 AM</title>
-		<desc lang="en">Programme at 12 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/12AM.jpg"/>
-	</programme>
-	<programme start="20260129010000 +0800" stop="20260129020000 +0800" channel="247">
-		<title lang="en">Programme at 1 AM</title>
-		<desc lang="en">Programme at 1 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/01AM.jpg"/>
-	</programme>
-	<programme start="20260129020000 +0800" stop="20260129030000 +0800" channel="247">
-		<title lang="en">Programme at 2 AM</title>
-		<desc lang="en">Programme at 2 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/02AM.jpg"/>
-	</programme>
-	<programme start="20260129030000 +0800" stop="20260129040000 +0800" channel="247">
-		<title lang="en">Programme at 3 AM</title>
-		<desc lang="en">Programme at 3 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/03AM.jpg"/>
-	</programme>
-<programme start="20260129040000 +0800" stop="20260129050000 +0800" channel="247">
-		<title lang="en">Programme at 4 AM</title>
-		<desc lang="en">Programme at 4 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/04AM.jpg"/>
-	</programme>
-	<programme start="20260129050000 +0800" stop="20260129060000 +0800" channel="247">
-		<title lang="en">Programme at 5 AM</title>
-		<desc lang="en">Programme at 5 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/05AM.jpg"/>
-	</programme>
-	<programme start="20260129060000 +0800" stop="20260129070000 +0800" channel="247">
-		<title lang="en">Programme at 6 AM</title>
-		<desc lang="en">Programme at 6 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/06AM.jpg"/>
-	</programme>
-	<programme start="20260129070000 +0800" stop="20260129080000 +0800" channel="247">
-		<title lang="en">Programme at 7 AM</title>
-		<desc lang="en">Programme at 7 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/07AM.jpg"/>
-	</programme>
-<programme start="20260129080000 +0800" stop="20260129090000 +0800" channel="247">
-		<title lang="en">Programme at 8 AM</title>
-		<desc lang="en">Programme at 8 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/08AM.jpg"/>
-	</programme>
-	<programme start="20260129090000 +0800" stop="20260129100000 +0800" channel="247">
-		<title lang="en">Programme at 9 AM</title>
-		<desc lang="en">Programme at 9 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/09AM.jpg"/>
-	</programme>
-	<programme start="20260129100000 +0800" stop="20260129110000 +0800" channel="247">
-		<title lang="en">Programme at 10 AM</title>
-		<desc lang="en">Programme at 10 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/10AM.jpg"/>
-	</programme>
-	<programme start="20260129110000 +0800" stop="20260129120000 +0800" channel="247">
-		<title lang="en">Programme at 11 AM</title>
-		<desc lang="en">Programme at 11 AM.</desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11AM.jpg"/>
-	</programme>
-	<programme start="20260129120000 +0800" stop="20260129130000 +0800" channel="247">
-		<title lang="en">Programme at 12 PM</title>
-		<desc lang="en">Programme at 12 PM.</desc>
-
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/12PM.jpg"/>
-	</programme>
-	<programme start="20260129130000 +0800" stop="20260129140000 +0800" channel="247">
-		<title lang="en">Programme at 1 PM</title>
-		<desc lang="en">Programme at 1 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/01PM.jpg"/>
-	</programme>
-	<programme start="20260129140000 +0800" stop="20260129150000 +0800" channel="247">
-		<title lang="en">Programme at 2 PM</title>
-		<desc lang="en">Programme at 2 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/02PM.jpg"/>
-	</programme>
-	<programme start="20260129150000 +0800" stop="20260129160000 +0800" channel="247">
-		<title lang="en">Programme at 3 PM</title>
-		<desc lang="en">Programme at 3 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/03PM.jpg"/>
-	</programme>
-<programme start="20260129160000 +0800" stop="20260129170000 +0800" channel="247">
-		<title lang="en">Programme at 4 PM</title>
-		<desc lang="en">Programme at 4 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/04PM.jpg"/>
-	</programme>
-	<programme start="20260129170000 +0800" stop="20260129180000 +0800" channel="247">
-		<title lang="en">Programme at 5 PM</title>
-		<desc lang="en">Programme at 5 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/05PM.jpg"/>
-	</programme>
-	<programme start="20260129180000 +0800" stop="20260129190000 +0800" channel="247">
-		<title lang="en">Programme at 6 PM</title>
-		<desc lang="en">Programme at 6 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/06PM.jpg"/>
-	</programme>
-	<programme start="20260129190000 +0800" stop="20260129200000 +0800" channel="247">
-		<title lang="en">Programme at 7 PM</title>
-		<desc lang="en">Programme at 7 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/07PM.jpg"/>
-	</programme>
-<programme start="20260129200000 +0800" stop="20260129210000 +0800" channel="247">
-		<title lang="en">Programme at 8 PM</title>
-		<desc lang="en">Programme at 8 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/08PM.jpg"/>
-	</programme>
-	<programme start="20260129210000 +0800" stop="20260129220000 +0800" channel="247">
-		<title lang="en">Programme at 9 PM</title>
-		<desc lang="en">Programme at 9 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/09PM.jpg"/>
-	</programme>
-	<programme start="20260129220000 +0800" stop="20260129230000 +0800" channel="247">
-		<title lang="en">Programme at 10 PM</title>
-		<desc lang="en">Programme at 10 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/10PM.jpg"/>
-	</programme>
-	<programme start="20260129230000 +0800" stop="20260130000000 +0800" channel="247">
-		<title lang="en">Programme at 11 PM</title>
-		<desc lang="en">Programme at 11 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11PM.jpg"/>
-	</programme>
-	
-<programme start="20260130000000 +0800" stop="20260130010000 +0800" channel="247">
-		<title lang="en">Programme at 12 AM</title>
-		<desc lang="en">Programme at 12 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/12AM.jpg"/>
-	</programme>
-	<programme start="20260130010000 +0800" stop="20260130020000 +0800" channel="247">
-		<title lang="en">Programme at 1 AM</title>
-		<desc lang="en">Programme at 1 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/01AM.jpg"/>
-	</programme>
-	<programme start="20260130020000 +0800" stop="20260130030000 +0800" channel="247">
-		<title lang="en">Programme at 2 AM</title>
-		<desc lang="en">Programme at 2 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/02AM.jpg"/>
-	</programme>
-	<programme start="20260130030000 +0800" stop="20260130040000 +0800" channel="247">
-		<title lang="en">Programme at 3 AM</title>
-		<desc lang="en">Programme at 3 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/03AM.jpg"/>
-	</programme>
-<programme start="20260130040000 +0800" stop="20260130050000 +0800" channel="247">
-		<title lang="en">Programme at 4 AM</title>
-		<desc lang="en">Programme at 4 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/04AM.jpg"/>
-	</programme>
-	<programme start="20260130050000 +0800" stop="20260130060000 +0800" channel="247">
-		<title lang="en">Programme at 5 AM</title>
-		<desc lang="en">Programme at 5 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/05AM.jpg"/>
-	</programme>
-	<programme start="20260130060000 +0800" stop="20260130070000 +0800" channel="247">
-		<title lang="en">Programme at 6 AM</title>
-		<desc lang="en">Programme at 6 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/06AM.jpg"/>
-	</programme>
-	<programme start="20260130070000 +0800" stop="20260130080000 +0800" channel="247">
-		<title lang="en">Programme at 7 AM</title>
-		<desc lang="en">Programme at 7 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/07AM.jpg"/>
-	</programme>
-<programme start="20260130080000 +0800" stop="20260130090000 +0800" channel="247">
-		<title lang="en">Programme at 8 AM</title>
-		<desc lang="en">Programme at 8 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/08AM.jpg"/>
-	</programme>
-	<programme start="20260130090000 +0800" stop="20260130100000 +0800" channel="247">
-		<title lang="en">Programme at 9 AM</title>
-		<desc lang="en">Programme at 9 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/09AM.jpg"/>
-	</programme>
-	<programme start="20260130100000 +0800" stop="20260130110000 +0800" channel="247">
-		<title lang="en">Programme at 10 AM</title>
-		<desc lang="en">Programme at 10 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/10AM.jpg"/>
-	</programme>
-	<programme start="20260130110000 +0800" stop="20260130120000 +0800" channel="247">
-		<title lang="en">Programme at 11 AM</title>
-		<desc lang="en">Programme at 11 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11AM.jpg"/>
-	</programme>
-	<programme start="20260130120000 +0800" stop="20260130130000 +0800" channel="247">
-		<title lang="en">Programme at 12 PM</title>
-		<desc lang="en">Programme at 12 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/12PM.jpg"/>
-	</programme>
-	<programme start="20260130130000 +0800" stop="20260130140000 +0800" channel="247">
-		<title lang="en">Programme at 1 PM</title>
-		<desc lang="en">Programme at 1 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/01PM.jpg"/>
-	</programme>
-	<programme start="20260130140000 +0800" stop="20260130150000 +0800" channel="247">
-		<title lang="en">Programme at 2 PM</title>
-		<desc lang="en">Programme at 2 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/02PM.jpg"/>
-	</programme>
-	<programme start="20260130150000 +0800" stop="20260130160000 +0800" channel="247">
-		<title lang="en">Programme at 3 PM</title>
-		<desc lang="en">Programme at 3 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/03PM.jpg"/>
-	</programme>
-<programme start="20260130160000 +0800" stop="20260130170000 +0800" channel="247">
-		<title lang="en">Programme at 4 PM</title>
-		<desc lang="en">Programme at 4 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/04PM.jpg"/>
-	</programme>
-	<programme start="20260130170000 +0800" stop="20260130180000 +0800" channel="247">
-		<title lang="en">Programme at 5 PM</title>
-		<desc lang="en">Programme at 5 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/05PM.jpg"/>
-	</programme>
-	<programme start="20260130180000 +0800" stop="20260130190000 +0800" channel="247">
-		<title lang="en">Programme at 6 PM</title>
-		<desc lang="en">Programme at 6 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/06PM.jpg"/>
-	</programme>
-	<programme start="20260130190000 +0800" stop="20260130200000 +0800" channel="247">
-		<title lang="en">Programme at 7 PM</title>
-		<desc lang="en">Programme at 7 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/07PM.jpg"/>
-	</programme>
-<programme start="20260130200000 +0800" stop="20260130210000 +0800" channel="247">
-		<title lang="en">Programme at 8 PM</title>
-		<desc lang="en">Programme at 8 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/08PM.jpg"/>
-	</programme>
-	<programme start="20260130210000 +0800" stop="20260130220000 +0800" channel="247">
-		<title lang="en">Programme at 9 PM</title>
-		<desc lang="en">Programme at 9 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/09PM.jpg"/>
-	</programme>
-	<programme start="20260130220000 +0800" stop="20260130230000 +0800" channel="247">
-		<title lang="en">Programme at 10 PM</title>
-		<desc lang="en">Programme at 10 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/10PM.jpg"/>
-	</programme>
-	<programme start="20260130230000 +0800" stop="20260131000000 +0800" channel="247">
-		<title lang="en">Programme at 11 PM</title>
-		<desc lang="en">Programme at 11 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11PM.jpg"/>
-	</programme>
-	
-<programme start="20260131000000 +0800" stop="20260131010000 +0800" channel="247">
-		<title lang="en">Programme at 12 AM</title>
-		<desc lang="en">Programme at 12 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/12AM.jpg"/>
-	</programme>
-	<programme start="20260131010000 +0800" stop="20260131020000 +0800" channel="247">
-		<title lang="en">Programme at 1 AM</title>
-		<desc lang="en">Programme at 1 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/01AM.jpg"/>
-	</programme>
-	<programme start="20260131020000 +0800" stop="20260131030000 +0800" channel="247">
-		<title lang="en">Programme at 2 AM</title>
-		<desc lang="en">Programme at 2 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/02AM.jpg"/>
-	</programme>
-	<programme start="20260131030000 +0800" stop="20260131040000 +0800" channel="247">
-		<title lang="en">Programme at 3 AM</title>
-		<desc lang="en">Programme at 3 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/03AM.jpg"/>
-	</programme>
-<programme start="20260131040000 +0800" stop="20260131050000 +0800" channel="247">
-		<title lang="en">Programme at 4 AM</title>
-		<desc lang="en">Programme at 4 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/04AM.jpg"/>
-	</programme>
-	<programme start="20260131050000 +0800" stop="20260131060000 +0800" channel="247">
-		<title lang="en">Programme at 5 AM</title>
-		<desc lang="en">Programme at 5 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/05AM.jpg"/>
-	</programme>
-	<programme start="20260131060000 +0800" stop="20260131070000 +0800" channel="247">
-		<title lang="en">Programme at 6 AM</title>
-		<desc lang="en">Programme at 6 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/06AM.jpg"/>
-	</programme>
-	<programme start="20260131070000 +0800" stop="20260131080000 +0800" channel="247">
-		<title lang="en">Programme at 7 AM</title>
-		<desc lang="en">Programme at 7 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/07AM.jpg"/>
-	</programme>
-<programme start="20260131080000 +0800" stop="20260131090000 +0800" channel="247">
-		<title lang="en">Programme at 8 AM</title>
-		<desc lang="en">Programme at 8 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/08AM.jpg"/>
-	</programme>
-	<programme start="20260131090000 +0800" stop="20260131100000 +0800" channel="247">
-		<title lang="en">Programme at 9 AM</title>
-		<desc lang="en">Programme at 9 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/09AM.jpg"/>
-	</programme>
-	<programme start="20260131100000 +0800" stop="20260131110000 +0800" channel="247">
-		<title lang="en">Programme at 10 AM</title>
-		<desc lang="en">Programme at 10 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/10AM.jpg"/>
-	</programme>
-	<programme start="20260131110000 +0800" stop="20260131120000 +0800" channel="247">
-		<title lang="en">Programme at 11 AM</title>
-		<desc lang="en">Programme at 11 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11AM.jpg"/>
-	</programme>
-	<programme start="20260131120000 +0800" stop="20260131130000 +0800" channel="247">
-		<title lang="en">Programme at 12 PM</title>
-		<desc lang="en">Programme at 12 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/12PM.jpg"/>
-	</programme>
-	<programme start="20260131130000 +0800" stop="20260131140000 +0800" channel="247">
-		<title lang="en">Programme at 1 PM</title>
-		<desc lang="en">Programme at 1 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/01PM.jpg"/>
-	</programme>
-	<programme start="20260131140000 +0800" stop="20260131150000 +0800" channel="247">
-		<title lang="en">Programme at 2 PM</title>
-		<desc lang="en">Programme at 2 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/02PM.jpg"/>
-	</programme>
-	<programme start="20260131150000 +0800" stop="20260131160000 +0800" channel="247">
-		<title lang="en">Programme at 3 PM</title>
-		<desc lang="en">Programme at 3 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/03PM.jpg"/>
-	</programme>
-<programme start="20260131160000 +0800" stop="20260131170000 +0800" channel="247">
-		<title lang="en">Programme at 4 PM</title>
-		<desc lang="en">Programme at 4 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/04PM.jpg"/>
-	</programme>
-	<programme start="20260131170000 +0800" stop="20260131180000 +0800" channel="247">
-		<title lang="en">Programme at 5 PM</title>
-		<desc lang="en">Programme at 5 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/05PM.jpg"/>
-	</programme>
-	<programme start="20260131180000 +0800" stop="20260131190000 +0800" channel="247">
-		<title lang="en">Programme at 6 PM</title>
-		<desc lang="en">Programme at 6 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/06PM.jpg"/>
-	</programme>
-	<programme start="20260131190000 +0800" stop="20260131200000 +0800" channel="247">
-		<title lang="en">Programme at 7 PM</title>
-		<desc lang="en">Programme at 7 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/07PM.jpg"/>
-	</programme>
-<programme start="20260131200000 +0800" stop="20260131210000 +0800" channel="247">
-		<title lang="en">Programme at 8 PM</title>
-		<desc lang="en">Programme at 8 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/08PM.jpg"/>
-	</programme>
-	<programme start="20260131210000 +0800" stop="20260131220000 +0800" channel="247">
-		<title lang="en">Programme at 9 PM</title>
-		<desc lang="en">Programme at 9 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/09PM.jpg"/>
-	</programme>
-	<programme start="20260131220000 +0800" stop="20260131230000 +0800" channel="247">
-		<title lang="en">Programme at 10 PM</title>
-		<desc lang="en">Programme at 10 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/10PM.jpg"/>
-	</programme>
-	<programme start="20260131230000 +0800" stop="20260201000000 +0800" channel="247">
-		<title lang="en">Programme at 11 PM</title>
-		<desc lang="en">Programme at 11 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11PM.jpg"/>
-	</programme>
-	
-<programme start="20260201000000 +0800" stop="20260201010000 +0800" channel="247">
-		<title lang="en">Programme at 12 AM</title>
-		<desc lang="en">Programme at 12 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/12AM.jpg"/>
-	</programme>
-	<programme start="20260201010000 +0800" stop="20260201020000 +0800" channel="247">
-		<title lang="en">Programme at 1 AM</title>
-		<desc lang="en">Programme at 1 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/01AM.jpg"/>
-	</programme>
-	<programme start="20260201020000 +0800" stop="20260201030000 +0800" channel="247">
-		<title lang="en">Programme at 2 AM</title>
-		<desc lang="en">Programme at 2 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/02AM.jpg"/>
-	</programme>
-	<programme start="20260201030000 +0800" stop="20260201040000 +0800" channel="247">
-		<title lang="en">Programme at 3 AM</title>
-		<desc lang="en">Programme at 3 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/03AM.jpg"/>
-	</programme>
-<programme start="20260201040000 +0800" stop="20260201050000 +0800" channel="247">
-		<title lang="en">Programme at 4 AM</title>
-		<desc lang="en">Programme at 4 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/04AM.jpg"/>
-	</programme>
-	<programme start="20260201050000 +0800" stop="20260201060000 +0800" channel="247">
-		<title lang="en">Programme at 5 AM</title>
-		<desc lang="en">Programme at 5 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/05AM.jpg"/>
-	</programme>
-	<programme start="20260201060000 +0800" stop="20260201070000 +0800" channel="247">
-		<title lang="en">Programme at 6 AM</title>
-		<desc lang="en">Programme at 6 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/06AM.jpg"/>
-	</programme>
-	<programme start="20260201070000 +0800" stop="20260201080000 +0800" channel="247">
-		<title lang="en">Programme at 7 AM</title>
-		<desc lang="en">Programme at 7 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/07AM.jpg"/>
-	</programme>
-<programme start="20260201080000 +0800" stop="20260201090000 +0800" channel="247">
-		<title lang="en">Programme at 8 AM</title>
-		<desc lang="en">Programme at 8 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/08AM.jpg"/>
-	</programme>
-	<programme start="20260201090000 +0800" stop="20260201100000 +0800" channel="247">
-		<title lang="en">Programme at 9 AM</title>
-		<desc lang="en">Programme at 9 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/09AM.jpg"/>
-	</programme>
-	<programme start="20260201100000 +0800" stop="20260201110000 +0800" channel="247">
-		<title lang="en">Programme at 10 AM</title>
-		<desc lang="en">Programme at 10 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/10AM.jpg"/>
-	</programme>
-	<programme start="20260201110000 +0800" stop="20260201120000 +0800" channel="247">
-		<title lang="en">Programme at 11 AM</title>
-		<desc lang="en">Programme at 11 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11AM.jpg"/>
-	</programme>
-	<programme start="20260201120000 +0800" stop="20260201130000 +0800" channel="247">
-		<title lang="en">Programme at 12 PM</title>
-		<desc lang="en">Programme at 12 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/12PM.jpg"/>
-	</programme>
-	<programme start="20260201130000 +0800" stop="20260201140000 +0800" channel="247">
-		<title lang="en">Programme at 1 PM</title>
-		<desc lang="en">Programme at 1 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/01PM.jpg"/>
-	</programme>
-	<programme start="20260201140000 +0800" stop="20260201150000 +0800" channel="247">
-		<title lang="en">Programme at 2 PM</title>
-		<desc lang="en">Programme at 2 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/02PM.jpg"/>
-	</programme>
-	<programme start="20260201150000 +0800" stop="20260201160000 +0800" channel="247">
-		<title lang="en">Programme at 3 PM</title>
-		<desc lang="en">Programme at 3 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/03PM.jpg"/>
-	</programme>
-<programme start="20260201160000 +0800" stop="20260201170000 +0800" channel="247">
-		<title lang="en">Programme at 4 PM</title>
-		<desc lang="en">Programme at 4 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/04PM.jpg"/>
-	</programme>
-	<programme start="20260201170000 +0800" stop="20260201180000 +0800" channel="247">
-		<title lang="en">Programme at 5 PM</title>
-		<desc lang="en">Programme at 5 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/05PM.jpg"/>
-	</programme>
-	<programme start="20260201180000 +0800" stop="20260201190000 +0800" channel="247">
-		<title lang="en">Programme at 6 PM</title>
-		<desc lang="en">Programme at 6 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/06PM.jpg"/>
-	</programme>
-	<programme start="20260201190000 +0800" stop="20260201200000 +0800" channel="247">
-		<title lang="en">Programme at 7 PM</title>
-		<desc lang="en">Programme at 7 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/07PM.jpg"/>
-	</programme>
-<programme start="20260201200000 +0800" stop="20260201210000 +0800" channel="247">
-		<title lang="en">Programme at 8 PM</title>
-		<desc lang="en">Programme at 8 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/08PM.jpg"/>
-	</programme>
-	<programme start="20260201210000 +0800" stop="20260201220000 +0800" channel="247">
-		<title lang="en">Programme at 9 PM</title>
-		<desc lang="en">Programme at 9 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/09PM.jpg"/>
-	</programme>
-	<programme start="20260201220000 +0800" stop="20260201230000 +0800" channel="247">
-		<title lang="en">Programme at 10 PM</title>
-		<desc lang="en">Programme at 10 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/10PM.jpg"/>
-	</programme>
-	<programme start="20260201230000 +0800" stop="20260202000000 +0800" channel="247">
-		<title lang="en">Programme at 11 PM</title>
-		<desc lang="en">Programme at 11 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11PM.jpg"/>
-	</programme>
-	
-<programme start="20260202000000 +0800" stop="20260202010000 +0800" channel="247">
-		<title lang="en">Programme at 12 AM</title>
-		<desc lang="en">Programme at 12 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/12AM.jpg"/>
-	</programme>
-	<programme start="20260202010000 +0800" stop="20260202020000 +0800" channel="247">
-		<title lang="en">Programme at 1 AM</title>
-		<desc lang="en">Programme at 1 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/01AM.jpg"/>
-	</programme>
-	<programme start="20260202020000 +0800" stop="20260202030000 +0800" channel="247">
-		<title lang="en">Programme at 2 AM</title>
-		<desc lang="en">Programme at 2 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/02AM.jpg"/>
-	</programme>
-	<programme start="20260202030000 +0800" stop="20260202040000 +0800" channel="247">
-		<title lang="en">Programme at 3 AM</title>
-		<desc lang="en">Programme at 3 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/03AM.jpg"/>
-	</programme>
-<programme start="20260202040000 +0800" stop="20260202050000 +0800" channel="247">
-		<title lang="en">Programme at 4 AM</title>
-		<desc lang="en">Programme at 4 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/04AM.jpg"/>
-	</programme>
-	<programme start="20260202050000 +0800" stop="20260202060000 +0800" channel="247">
-		<title lang="en">Programme at 5 AM</title>
-		<desc lang="en">Programme at 5 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/05AM.jpg"/>
-	</programme>
-	<programme start="20260202060000 +0800" stop="20260202070000 +0800" channel="247">
-		<title lang="en">Programme at 6 AM</title>
-		<desc lang="en">Programme at 6 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/06AM.jpg"/>
-	</programme>
-	<programme start="20260202070000 +0800" stop="20260202080000 +0800" channel="247">
-		<title lang="en">Programme at 7 AM</title>
-		<desc lang="en">Programme at 7 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/07AM.jpg"/>
-	</programme>
-<programme start="20260202080000 +0800" stop="20260202090000 +0800" channel="247">
-		<title lang="en">Programme at 8 AM</title>
-		<desc lang="en">Programme at 8 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/08AM.jpg"/>
-	</programme>
-	<programme start="20260202090000 +0800" stop="20260202100000 +0800" channel="247">
-		<title lang="en">Programme at 9 AM</title>
-		<desc lang="en">Programme at 9 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/09AM.jpg"/>
-	</programme>
-	<programme start="20260202100000 +0800" stop="20260202110000 +0800" channel="247">
-		<title lang="en">Programme at 10 AM</title>
-		<desc lang="en">Programme at 10 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/10AM.jpg"/>
-	</programme>
-	<programme start="20260202110000 +0800" stop="20260202120000 +0800" channel="247">
-		<title lang="en">Programme at 11 AM</title>
-		<desc lang="en">Programme at 11 AM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11AM.jpg"/>
-	</programme>
-	<programme start="20260202120000 +0800" stop="20260202130000 +0800" channel="247">
-		<title lang="en">Programme at 12 PM</title>
-		<desc lang="en">Programme at 12 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/12PM.jpg"/>
-	</programme>
-	<programme start="20260202130000 +0800" stop="20260202140000 +0800" channel="247">
-		<title lang="en">Programme at 1 PM</title>
-		<desc lang="en">Programme at 1 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/01PM.jpg"/>
-	</programme>
-	<programme start="20260202140000 +0800" stop="20260202150000 +0800" channel="247">
-		<title lang="en">Programme at 2 PM</title>
-		<desc lang="en">Programme at 2 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/02PM.jpg"/>
-	</programme>
-	<programme start="20260202150000 +0800" stop="20260202160000 +0800" channel="247">
-		<title lang="en">Programme at 3 PM</title>
-		<desc lang="en">Programme at 3 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/03PM.jpg"/>
-	</programme>
-<programme start="20260202160000 +0800" stop="20260202170000 +0800" channel="247">
-		<title lang="en">Programme at 4 PM</title>
-		<desc lang="en">Programme at 4 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/04PM.jpg"/>
-	</programme>
-	<programme start="20260202170000 +0800" stop="20260202180000 +0800" channel="247">
-		<title lang="en">Programme at 5 PM</title>
-		<desc lang="en">Programme at 5 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/05PM.jpg"/>
-	</programme>
-	<programme start="20260202180000 +0800" stop="20260202190000 +0800" channel="247">
-		<title lang="en">Programme at 6 PM</title>
-		<desc lang="en">Programme at 6 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/06PM.jpg"/>
-	</programme>
-	<programme start="20260202190000 +0800" stop="20260202200000 +0800" channel="247">
-		<title lang="en">Programme at 7 PM</title>
-		<desc lang="en">Programme at 7 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/07PM.jpg"/>
-	</programme>
-<programme start="20260202200000 +0800" stop="20260202210000 +0800" channel="247">
-		<title lang="en">Programme at 8 PM</title>
-		<desc lang="en">Programme at 8 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/08PM.jpg"/>
-	</programme>
-	<programme start="20260202210000 +0800" stop="20260202220000 +0800" channel="247">
-		<title lang="en">Programme at 9 PM</title>
-		<desc lang="en">Programme at 9 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/09PM.jpg"/>
-	</programme>
-	<programme start="20260202220000 +0800" stop="20260202230000 +0800" channel="247">
-		<title lang="en">Programme at 10 PM</title>
-		<desc lang="en">Programme at 10 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/10PM.jpg"/>
-	</programme>
-	<programme start="20260202230000 +0800" stop="20260203000000 +0800" channel="247">
-		<title lang="en">Programme at 11 PM</title>
-		<desc lang="en">Programme at 11 PM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/11PM.jpg"/>
-	</programme>
-		<programme start="20260127230000 +0800" stop="20260128060000 +0800" channel="CATSFM">
+			<programme start="20260127230000 +0800" stop="20260128060000 +0800" channel="CATSFM">
 		<title lang="en">ANTAP MUZIK</title>
 		<desc lang="en">ANTAP MUZIK</desc>
 		<episode/>
@@ -3021,127 +1849,7 @@ Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
 		<rating/>
 <icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
 	</programme>
-	<programme start="20260129000000 +0800" stop="20260129060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260129060000 +0800" stop="20260129100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
-	</programme>
-	<programme start="20260129100000 +0800" stop="20260129140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260129140000 +0800" stop="20260129180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260129180000 +0800" stop="20260129210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260129210000 +0800" stop="20260130000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-	<programme start="20260130000000 +0800" stop="20260130060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260130060000 +0800" stop="20260130100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
-	</programme>
-	<programme start="20260130100000 +0800" stop="20260130140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260130140000 +0800" stop="20260130180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260130180000 +0800" stop="20260130210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260130210000 +0800" stop="20260131000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-<programme start="20260131000000 +0800" stop="20260131060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260131060000 +0800" stop="20260131100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
-	</programme>
-	<programme start="20260131100000 +0800" stop="20260131140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260131140000 +0800" stop="20260131180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260131180000 +0800" stop="20260131210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260131210000 +0800" stop="20260201000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-<programme start="20260201000000 +0800" stop="2026020060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260201060000 +0800" stop="20260201100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
-	</programme>
-	<programme start="20260201100000 +0800" stop="20260201140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260201140000 +0800" stop="20260201180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260201180000 +0800" stop="20260201210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260201210000 +0800" stop="20260202000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-<programme start="20260202000000 +0800" stop="20260202060000 +0800" channel="SARAWAKFM">
+	<programme start="20260202000000 +0800" stop="20260202060000 +0800" channel="SARAWAKFM">
 		<title lang="en">Layan</title>
 		<desc lang="en"> </desc>
 		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
@@ -3149,7 +1857,7 @@ Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
 	<programme start="20260202060000 +0800" stop="20260202100000 +0800" channel="SARAWAKFM">
 		<title lang="en">Selamat Pagi Sarawak</title>
 		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
 	</programme>
 	<programme start="20260202100000 +0800" stop="20260202140000 +0800" channel="SARAWAKFM">
 		<title lang="en">Ekspresi</title>
@@ -3171,7 +1879,7 @@ Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
 		<desc lang="en"> </desc>
 		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
 	</programme>
-<programme start="20260203000000 +0800" stop="20260203060000 +0800" channel="SARAWAKFM">
+	<programme start="20260203000000 +0800" stop="20260203060000 +0800" channel="SARAWAKFM">
 		<title lang="en">Layan</title>
 		<desc lang="en"> </desc>
 		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
@@ -3179,7 +1887,7 @@ Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
 	<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="SARAWAKFM">
 		<title lang="en">Selamat Pagi Sarawak</title>
 		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
 	</programme>
 	<programme start="20260203100000 +0800" stop="20260203140000 +0800" channel="SARAWAKFM">
 		<title lang="en">Ekspresi</title>
@@ -3209,7 +1917,127 @@ Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
 	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="SARAWAKFM">
 		<title lang="en">Selamat Pagi Sarawak</title>
 		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
+	</programme>
+	<programme start="20260204100000 +0800" stop="20260204140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260204140000 +0800" stop="20260204180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260204180000 +0800" stop="20260204210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260204210000 +0800" stop="20260205000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+<programme start="20260205000000 +0800" stop="2026020060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260205060000 +0800" stop="20260205100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
+	</programme>
+	<programme start="20260205100000 +0800" stop="20260205140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260205140000 +0800" stop="20260205180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260205180000 +0800" stop="20260205210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260205210000 +0800" stop="20260202000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+<programme start="20260202000000 +0800" stop="20260202060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260202060000 +0800" stop="20260202100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
+	</programme>
+	<programme start="20260202100000 +0800" stop="20260202140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260202140000 +0800" stop="20260202180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260202180000 +0800" stop="20260202210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260202210000 +0800" stop="20260203000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+<programme start="20260203000000 +0800" stop="20260203060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
+	</programme>
+	<programme start="20260203100000 +0800" stop="20260203140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260203140000 +0800" stop="20260203180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260203180000 +0800" stop="20260203210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260203210000 +0800" stop="20260204000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+<programme start="20260204000000 +0800" stop="20260204060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
 	</programme>
 	<programme start="20260204100000 +0800" stop="20260204140000 +0800" channel="SARAWAKFM">
 		<title lang="en">Ekspresi</title>
@@ -3239,7 +2067,7 @@ Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
 	<programme start="20260205060000 +0800" stop="20260205100000 +0800" channel="SARAWAKFM">
 		<title lang="en">Selamat Pagi Sarawak</title>
 		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk2.jpg"/>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
 	</programme>
 	<programme start="20260205100000 +0800" stop="20260205140000 +0800" channel="SARAWAKFM">
 		<title lang="en">Ekspresi</title>
@@ -3257,6 +2085,156 @@ Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
 		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
 	</programme>
 	<programme start="20260205210000 +0800" stop="20260206000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+	<programme start="20260206000000 +0800" stop="20260206060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260206060000 +0800" stop="20260206100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
+	</programme>
+	<programme start="20260206100000 +0800" stop="20260206140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260206140000 +0800" stop="20260206180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260206180000 +0800" stop="20260206210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260206210000 +0800" stop="20260206000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+	<programme start="20260207000000 +0800" stop="20260207060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260207060000 +0800" stop="20260207100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
+	</programme>
+	<programme start="20260207100000 +0800" stop="20260207140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260207140000 +0800" stop="20260207180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260207180000 +0800" stop="20260207210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260207210000 +0800" stop="20260208000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+	<programme start="20260208000000 +0800" stop="20260208060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260208060000 +0800" stop="20260208100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
+	</programme>
+	<programme start="20260208100000 +0800" stop="20260208140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260208140000 +0800" stop="20260208180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260208180000 +0800" stop="20260208210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260208210000 +0800" stop="20260209000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+	<programme start="20260209000000 +0800" stop="20260209060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260209060000 +0800" stop="20260209100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
+	</programme>
+	<programme start="20260209100000 +0800" stop="20260209140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260209140000 +0800" stop="20260209180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260209180000 +0800" stop="20260209210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260209210000 +0800" stop="20260210000000 +0800" channel="SARAWAKFM">
+		<title lang="en">Gatra</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
+	</programme>
+	<programme start="20260210000000 +0800" stop="20260210060000 +0800" channel="SARAWAKFM">
+		<title lang="en">Layan</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
+	</programme>
+	<programme start="20260210060000 +0800" stop="20260210100000 +0800" channel="SARAWAKFM">
+		<title lang="en">Selamat Pagi Sarawak</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
+	</programme>
+	<programme start="20260210100000 +0800" stop="20260210140000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ekspresi</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
+	</programme>
+	<programme start="20260210140000 +0800" stop="20260210180000 +0800" channel="SARAWAKFM">
+		<title lang="en">Ritma</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
+	</programme>
+	<programme start="20260210180000 +0800" stop="20260210210000 +0800" channel="SARAWAKFM">
+		<title lang="en">Simfoni</title>
+		<desc lang="en"> </desc>
+		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
+	</programme>
+	<programme start="20260210210000 +0800" stop="20260211000000 +0800" channel="SARAWAKFM">
 		<title lang="en">Gatra</title>
 		<desc lang="en"> </desc>
 		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
