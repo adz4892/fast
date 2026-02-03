@@ -261,7 +261,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 #EXTINF:-1, tvg-id="CHN" tvg-url="https://raw.githubusercontent.com/aa6my/epg/refs/heads/master/mytv.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MIRAMAX.jpg" tvg-name="Miramax"  group-title="MYTV MANA",Miramax
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
-#EXTINF:-1, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/BOLLYWOOD.jpg" tvg-name="BollywooD HD" group-title="MYTV MANA",BollywooD HD
+#EXTINF:-1, tvg-id="Bollywood.HD.distro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/BOLLYWOOD.jpg" tvg-name="BollywooD HD" group-title="MYTV MANA",BollywooD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/d3227daf-ea13-48c9-95a4-1619862d136e/0.m3u8
 
 
@@ -1155,6 +1155,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=9b9d9055-3638-468b-9889-096b22566f7b
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=9b9d9055-3638-468b-9889-096b22566f7b&sub=t32
+
 
 
 
