@@ -1058,6 +1058,18 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
 #EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/JAKTV.jpg" group-title="Indonesia",JAK TV
 https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
+
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TVRIWORLD.jpg" group-title="Indonesia",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u88
+
+#EXTINF:-1 tvg-id="TVRI.Kalbar" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TVRIKALBAR.jpg" group-title="Indonesia",TVRI Kalimantan Barat
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TVRISPORT.jpg" group-title="Indonesia",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TVRI.jpg" group-title="Indonesia",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 ____________________________________________________________________________________________________VOD
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/tpOml/fGJ7iSi4sChFrWcNw.jpeg" group-title="▶ HBO MAX", 00-Final Destination 1 2000 (Horror)
@@ -1143,6 +1155,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=9b9d9055-3638-468b-9889-096b22566f7b
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=9b9d9055-3638-468b-9889-096b22566f7b&sub=t32
+
 
 
 
