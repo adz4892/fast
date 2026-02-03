@@ -236,11 +236,8 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 #EXTINF:-1, tvg-id="CHN" tvg-url="https://raw.githubusercontent.com/aa6my/epg/refs/heads/master/mytv.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TVS%2B.jpg" tvg-name="TVS group-title="MYTV MANA",TVS+
 https://stream2.smg.my/live/tvsplus.m3u8
 
-#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/M5.jpg" group-logo="https://icon-library.com/images/others-icon/others-icon-13.jpg" group-title="MYTV MANA",Channel 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/mewatch/channel5
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/M5.jpg" group-title="MYTV MANA",Channel 5 
 http://cdn6.163189.xyz/163189/ch5
-https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
 
 #EXTINF:-1 tvg-id="Suria" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MSURIA.jpg" group-title="MYTV MANA",Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -761,12 +758,12 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RCTI.jpg" group-title="Indonesia",RCTI (R+)
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RCTI.jpg" group-title="Indonesia",RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 tvg-id="MAXStream.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MAXSTREAM.jpg" group-title="Indonesia",MAXSTREAMᵃ
+#EXTINF:-1 tvg-id="MAXStream.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MAXSTREAM.jpg" group-title="Indonesia",MAXSTREAMᵃ
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
 
@@ -777,7 +774,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index
 http://103.179.182.117:6768/hls/57/57.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 
-#EXTINF:-1  tvg-id="MNCTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MNCTV.jpg" group-title="Indonesia",MNCTV
+#EXTINF:-1  tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MNCTV.jpg" group-title="Indonesia",MNCTV
 https://allcutv.rctiplus.id/mnctv2023.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
@@ -785,23 +782,23 @@ https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 http://103.179.182.117:6768/hls/54/54.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 
-#EXTINF:-1  tvg-id="RCTI.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RCTI.jpg" group-title="Indonesia",RCTI
+#EXTINF:-1  tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RCTI.jpg" group-title="Indonesia",RCTI
 https://allcutv.rctiplus.id/rcti2023.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#EXTINF:-1 tvg-id="RodjaTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RODJATV.jpg" group-title="Indonesia",RODJA TV
+#EXTINF:-1 tvg-id="RodjaTV.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RODJATV.jpg" group-title="Indonesia",RODJA TV
 https://rodjatv.com/rodjatv/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5dfa046b3bf14866a143470d9c8dd74d:97e354284ee7a67e5dafbce04e17c4c0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="171905" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-name="Jak TV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/JAKTV.jpg" group-title="Indonesia",JakTV
+#EXTINF:-1 tvg-id="171905" tvg-name="Jak TV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/JAKTV.jpg" group-title="Indonesia",JakTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/1f05c642353a4a778d8a544837e1b49c/index.mpd
 
-#EXTINF:-1 tvg-id="SurauTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SURAUTV.jpg" group-title="Indonesia",SurauTV
+#EXTINF:-1 tvg-id="SurauTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SURAUTV.jpg" group-title="Indonesia",SurauTV
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 
 
@@ -809,10 +806,10 @@ https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
-#EXTINF:-1 tvg-id="411917" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SCTV.jpg" group-title="Indonesia",SCTV (V+)
+#EXTINF:-1 tvg-id="411917" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SCTV.jpg" group-title="Indonesia",SCTV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
-#EXTINF:-1 tvg-id="411917" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SCTV.jpg" group-title="Indonesia",SCTV (IndiHome)
+#EXTINF:-1 tvg-id="411917" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SCTV.jpg" group-title="Indonesia",SCTV (IndiHome)
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sctv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -823,28 +820,28 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sctv/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204type=drm
-#EXTINF:-1 tvg-id="411917" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SCTV.jpg" group-title="Indonesia",SCTV (Vidio)
+#EXTINF:-1 tvg-id="411917" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SCTV.jpg" group-title="Indonesia",SCTV (Vidio)
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
-#EXTINF:-1 tvg-id="RTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RTV.jpg" group-title="Indonesia",RTV (V+)
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RTV.jpg" group-title="Indonesia",RTV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
-#EXTINF:-1 tvg-id="Cartoonito.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/CARTOONITO.jpg",Cartoonito 
+#EXTINF:-1 tvg-id="Cartoonito.id" group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/CARTOONITO.jpg",Cartoonito 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/CN.jpg" group-title="Indonesia" tvg-id="Cartoon Network" , Cartoon Network 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/CN.jpg" group-title="Indonesia" tvg-id="Cartoon Network" , Cartoon Network 
 https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mediampd/CartoonNetWHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -865,13 +862,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
-#EXTINF:-1 tvg-id="617.astro" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/NICKJR.jpg" group-title="Indonesia", Nick Jr 
+#EXTINF:-1 tvg-id="617.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/NICKJR.jpg" group-title="Indonesia", Nick Jr 
 https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mediampd/NickJr.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Pontv.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml"  tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/PONTV.jpg" group-title="Indonesia",PON TV
+#EXTINF:-1 tvg-id="Pontv.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/PONTV.jpg" group-title="Indonesia",PON TV
 http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -938,12 +935,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/Cit
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/VEVO9000.jpg" group-title="Indonesia", Vevo '90s & '00s
-https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/VEVO2K.jpg" group-title="Indonesia", Vevo 2K
-https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -978,25 +969,24 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/warner/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTINF:-1 tvg-id="Sportstars.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SPORTSTARS.jpg" group-title="Indonesia",Sportstarsᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-id="Sportstars2.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SPORTSTARS2.jpg" group-title="Indonesia",Sportstars 2ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars3.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SPORTSTARS3.jpg" group-title="Indonesia",Sportstars 3ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTINF:-1 tvg-id="Sportstars4.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SPORTSTARS3.jpg" group-title="Indonesia",Sportstars 4ᴴᴰ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1103,178 +1093,123 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://malaysia-tv.net/wp-content/uploads/2025/03/Badminton-TV-2-Live-Streaming-Malaysia-HD-Channel.webp" tvg-name="BADMINTON"  group-title="MYTV MANA",BADMINTON
 https://v4-15ff02a6a92b215bcd25dc26d4be48bc.livehwc4.com/pull.chuangbwu.com/live/8861000_lud.m3u8?sub_m3u8=true&edge_slice=true&auth_info=ABUMZ8UW1Q6R2zJoy8kiHLcstzZ%2Bdz%2BviCAoGuczX1jC0aj%2FXxUOp2e9EkpdiYwm.59613872454d324a5359344545336a77&user_session_id=fc958a844d8139eba99dc9634cbe5e76
 
-____________________________________________________________________________________________________
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205type=drm
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/INDOSIAR.jpg" group-title="Indonesia",Indosiar 
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
-[{
-    "name": "Hantu Siang",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-yaezewmy07.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Seorang kasanova yang suka menggoda gadis menerima padahnya apabila harus mengahwini mangsanya. Badul telah berjaya mendampingi lebih 17 gadis. Dia mempunyai rancangan untuk menggoda dua lagi gadis baru sebagai mangsanya. Rancangan Badul memakan diri apabila dia sendiri terpaksa menikahi mereka - cubaannya telah memerangkap dirinya sendiri.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["A. R. Badul"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["A. R . Badul, Noreen Noor, Rosnah Mohd Noor"],
-      "year": "1986"
-    },
-    "video": "https://vod.mana2.my/vod/Hantu_Siang_1986_002.mp4/index.m3u8?auth_key=1769673481-e725398f13c549369e67b8ede034baff-0-f4ff01fea9741d8992b409435227e320&token=1769673481-e725398f13c549369e67b8ede034baff-0-f4ff01fea9741d8992b409435227e320"
-  },
-{
-    "name": "Gemerlapan",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-6623v26w9zl.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Mimi mengejutkan ramai pelajar di sebuah kolej berprestij kerana menjadi seorang penggemar muzik dangdut yang tegar. Nel, salah seorang pelajar di situ menganggap muzik dangdut kekampungan dan mereka berdua sering bertengkar kerana hal tersebut. Tetapi tanpa disedari, Nel adalah Mr X yang selama ini merupakan peminat rahsia Mimi dalam diam.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Abdul Razak Mohaideen"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Baby Res 2, Lan A To Z, Maya Matahari, Eisya, Shafi Khan, Sham Visa, Umi Res 2, Bob Kuman, Amir & Group (U.K’s)"],
-      "year": "1997"
-    },
-    "video": "https://vod.mana2.my/vod/Gemerlapan_1997_001.mp4/index.m3u8?auth_key=1769673746-ba1eb3b664cf4766bb4c0dfffb70d426-0-cd407c056fc6ca3d56a62ac8a957b00d&token=1769673746-ba1eb3b664cf4766bb4c0dfffb70d426-0-cd407c056fc6ca3d56a62ac8a957b00d"
-  },
-{
-    "name": "Sindrom Mana Anakku",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-58vsizbb2wp.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Dr. Kamal dan Dr. Lisa bekerja di hospital yang sama. Dr. Kamal keluar mendapat panggilan kecemasan di sebuah rumah. Dibawa pesakit tersebut ke hospital kerana kemungkinan komplikasi kelahiran namun mula tertanya-tanya di manakah anaknya. Anak pesakit tersebut perlu dicari sebelum apa-apa berlaku kepadanya.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Raja Rozaimie Dalnish Shah & A. Aziz Wok"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Hail Amir, Nancie Foo, I.K. Sandhu, Rosnah Mohd Noor, Omar Abdullah, Abu Bakar Omar"],
-      "year": "1982"
-    },
-    "video": "https://vod.mana2.my/vod/Sindrom_Mana_Anakku_1982_A.mp4/index.m3u8?auth_key=1769673725-b5ef76c763cc4adfb7fc2810d5240f91-0-10a6c7b539c4b21504d57809995d0dd9&token=1769673725-b5ef76c763cc4adfb7fc2810d5240f91-0-10a6c7b539c4b21504d57809995d0dd9"
-  },
-{
-    "name": "Pemburu Bayang",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-iutzhdrd3g.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Zamri merupakan seorang bekas banduan yang ingin memulakan hidup baru bersama keluarganya. Namun, nasib tidak menyebelahinya apabila dia diburu kumpulan yang diketuai Ramon. Adik Zamri, Awie ialah seorang penyanyi kumpulan rock popular yang sedang menjalinkan hubungan cinta bersama Ella, yang juga penyanyi rock. Sesuatu terjadi yang menyebabkan Awie dan Ella putus hubungan. Manakala, Zamri pula diuji dengan pelbagai dugaan apabila isterinya dibunuh dengan kejam.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Yusof Haslam"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Awie, Ella, Shaharuddin Thamby, Erma Fatima "],
-      "year": "1993"
-    },
-    "video": "https://vod.mana2.my/vod/Pemburu_Bayang_1993_004.mp4/index.m3u8?auth_key=1769673818-914163a6acb44ed1ace2c43dbbd43fe1-0-ff4374333f4564b86b5e09491f0bb985&token=1769673818-914163a6acb44ed1ace2c43dbbd43fe1-0-ff4374333f4564b86b5e09491f0bb985"
-  },
-{
-    "name": "Melati Putih",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-s92eecgxpxp.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Melati bercita-cita tinggi tetapi tidak dapat melaksanakannya kerana tergoda dengan seorang doktor muda. Akibat hubungan dengan doktor itu, nama baiknya telah tercemar. Seorang pemuda cacat di kampung itu jatuh hati padanya tetapi cinta lelaki itu dipermainkannya. Setelah Melati dikecewakan oleh doktor itu, barulah dia sedar cinta suci si pemuda itu.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["A. R. Badul"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Yusof Haslam, Tantiana Hamzah, Rokiah Shafie"],
-      "year": "1984"
-    },
-    "video": "https://vod.mana2.my/vod/Melati_Putih_1984_A.mp4/index.m3u8?auth_key=1769673703-718bfcb143264c4dbf098a9ad30da7c5-0-12261ffaa90f10657233b9b790ecb88b&token=1769673703-718bfcb143264c4dbf098a9ad30da7c5-0-12261ffaa90f10657233b9b790ecb88b"
-  },
-{
-    "name": "Cikgu Sayang",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-tz71v4x8qj.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Seorang guru muda bernama Idayu telah dihantar ke sebuah kampung di Pulau Dinawan untuk mengajar sekolah orang dewasa. Di sana, Idayu telah digelarkan sebagai “Cikgu Sayang” oleh pelajarnya. Kehadiran Idayu di pulau itu telah menimbulkan perasaan cemburu kepada isteri para pelajarnya. Dalam masa yang sama, Idayu mula tertarik dengan seorang pemuda bernama Anuar yang tinggal di pulau itu.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Z. Lokman"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Mokhtaruddin, Rose Iskandar, Suhaina Yahya"],
-      "year": "1983"
-    },
-    "video": "https://vod.mana2.my/vod/Cikgu_Sayang_1983_005.mp4/index.m3u8?auth_key=1769673677-d0d4e38f2ccf44f28238fae701589404-0-6567c6786f1ab09b251fdb8885b071a5&token=1769673677-d0d4e38f2ccf44f28238fae701589404-0-6567c6786f1ab09b251fdb8885b071a"
-  },
-{
-    "name": "Minah Manja",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-om3x4zbbd6.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Mengisahkan tentang kehidupan masyarakat di dalam sebuah kampung.Mamak Kutty mahu memperisterikan Minah, anak perempuan kepada seorang guru silat, Ujang Singkap. Ternyata Mamak Kutty mempunyai seorang lagi isteri di India. Akan timbul satu pertelingkahan diantara kedua-dua isteri Mamak Kutty apabila mereka bertemu.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Z. Lokman"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Maidin, R. Jaafar, Dayangku Intan"],
-      "year": "1984"
-    },
-    "video": "https://vod.mana2.my/vod/Minah_Manja_1984_A.mp4/index.m3u8?auth_key=1769673660-81862c723eca4c81a69a4f9df5453216-0-ae5c5a38f9af22b1d896cfe6572e01d0&token=1769673660-81862c723eca4c81a69a4f9df5453216-0-ae5c5a38f9af22b1d896cfe6572e01d0"
-  },
-{
-    "name": "Abang",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-mhva2bn7pno.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Setahun pergi membawa diri tanpa khabar berita, Fuad akhirnya pulang ke pangkuan keluarga. Niat ingin kembali meneruskan kehidupan seperti biasa bersama keluarga di negara asal namun kepulangannya diterima dengan perasaan bercampur baur. Kepulangannya disalah erti dek kerana posisinya sebagai pewaris syarikat. Segala konflik dan rintangan dihadapinya dengan tabah tetapi rahsia kepergiannya masih menjadi tanda tanya.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Rahim Razali"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Rahim Razali, Ahmad Yatim, Ahmad Tarmimi Serigar, Noorkumalasari, Fauziah Ahmad Daud, S. Roomai Noor, Umi Kalthum, Noriah Abdullah"],
-      "year": "1981"
-    },
-    "video": "https://vod.mana2.my/vod/Abang_1981_003.mp4/index.m3u8?auth_key=1769673615-eb12f77869e8417aa3b601b3e981a9b2-0-a60b273bd3cc1c69025ccad08e88a5bd&token=1769673615-eb12f77869e8417aa3b601b3e981a9b2-0-a60b273bd3cc1c69025ccad08e88a5bd"
-  },
-{
-    "name": "Ribut Barat",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-z69xdi1amkh.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Sepasang suami isteri, Adnan dan Azizah baru pulang ke tanah air selepas berkahwin di England. Azizah sering memandang rendah kepada keluarga suaminya yang berasal dari kampung. Adnan terlalu sayangkan isterinya sehingga sanggup melupakan ibu bapanya untuk menyenangkan hati isteri. Budaya barat yang diamalkan Adnan dan isterinya itu juga telah menyebabkan rumahtangga mereka retak menanti belah.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Salleh Ghani"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Raja Nor Baizura, Yusof Haslam, Rose Iskandar"],
-      "year": "1981"
-    },
-    "video": "https://vod.mana2.my/vod/Ribut_Barat_1981_A.mp4/index.m3u8?auth_key=1769671920-8950ae65b02144eda5c21d59a95b52ec-0-a27ca9de73b5c3bc0d59e0389f43ae7a&token=1769671920-8950ae65b02144eda5c21d59a95b52ec-0-a27ca9de73b5c3bc0d59e0389f43ae7a"
-  },
-{
-    "name": "Mawar Merah",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-dgxup0n6flw.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Kartika atau Arti gadis Jakarta yang suka bersosial. Tetapi ibu bapa Kartika tidak suka perangai Kartika yang liar dan suka bersosial. Mereka memutuskan Arti akan dihantar ke Kuala Lumpur untuk dijaga oleh nenek Arti dan bapa saudaranya, Sofyan. Hubungan Arti dan Sofyan semakin rapat dan mereka berdua saling jatuh cinta.Sofyan pula cuba menyembunyikan perasaannya kerana tahu perasaan cintanya terhadap Arti adalah dilarang agama walaupun Arti juga mencintainya. Mereka berdua terpaksa menerima hakikat dan takdir percintaan mereka.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Rosnani Jamil"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Raja Ema, Mustaffa Noor, Razis Ismail, Noraini Hashim, Isma Aliff, Fauziah Nawi"],
-      "year": "1987"
-    },
-    "video": "https://vod.mana2.my/vod/Mawar_Merah_1987_A.mp4/index.m3u8?auth_key=1769673563-79721e9038be47c09c79166f89dd8444-0-716033cec408b6b300af863988c382da&token=1769673563-79721e9038be47c09c79166f89dd8444-0-716033cec408b6b300af863988c382da"
-  },
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=206type=drm
+#EXTINF:-1 tvg-id="Moji" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MOJI.jpg" group-title="Indonesia", MOJI TV 
+https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
+#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/JAKTV.jpg" group-title="Indonesia",JAK TV
+https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
+____________________________________________________________________________________________________VOD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/tpOml/fGJ7iSi4sChFrWcNw.jpeg" group-title="▶ HBO MAX", 00-Final Destination 1 2000 (Horror)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=8903cf57-b222-4b9b-b58b-2a5a6cc1588f
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8903cf57-b222-4b9b-b58b-2a5a6cc1588f&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/NQ0Jv/THeFjcbPX3dduOeTw.jpeg" group-title="▶ HBO MAX", 00-Final Destination 2 2003 (Horror)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=787f950b-0fe3-4a95-911d-2553f3db9a77
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=787f950b-0fe3-4a95-911d-2553f3db9a77&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/es5BO/5ITFvTRpP4BmeRIwg.jpeg" group-title="▶ HBO MAX", 00-Final Destination 3 2006 (Horror)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=29056e15-a4c2-42aa-9241-a032fde4451c
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=29056e15-a4c2-42aa-9241-a032fde4451c&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/cvgJ_/CrPc27DkyfSR7vUZg.jpeg" group-title="▶ HBO MAX", 00-Final Destination 4 2009 (Horror)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=fb0ead35-932f-490a-85a3-c88140152a33
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=fb0ead35-932f-490a-85a3-c88140152a33&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/cvgJ_/CrPc27DkyfSR7vUZg.jpeg" group-title="▶ HBO MAX", 00-Final Destination 5 2011 (Horror)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=47667ba9-6ded-44b9-8514-66c3637621cf
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=47667ba9-6ded-44b9-8514-66c3637621cf&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/Q9Q7y/3Wzf_acNoeRMjHZJQ.jpeg" group-title="▶ HBO MAX", 00-Final Destination Bloodlines 2025 (Horror)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=18b140b1-220c-4a45-b784-ffffa0293ff8
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=18b140b1-220c-4a45-b784-ffffa0293ff8&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/30/963a84cd-e35a-3e34-87bc-a64ede11c701.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=16e04231-69f4-4865-8538-69407a3b7711
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=16e04231-69f4-4865-8538-69407a3b7711&sub=t12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/43681996-e918-3bd8-bbaf-d32c83369dd8.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=2c3a13a2-7b9e-4e98-9db5-26d7e727ec18
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2c3a13a2-7b9e-4e98-9db5-26d7e727ec18&sub=t42
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/0145115c-4c19-3869-bcf4-1c43e41921a9.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=22dcb0f6-3351-4e1b-aced-9b8cb0b569b2
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=22dcb0f6-3351-4e1b-aced-9b8cb0b569b2&sub=t0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/7a541bd5-64e2-3188-8d66-067f330ad814.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f0c79c62-0e8a-420a-bbab-35ad3587b683
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f0c79c62-0e8a-420a-bbab-35ad3587b683&sub=t32
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/e7ba3b8d-0149-3c34-8d8e-f11c22dcbadd.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=03a29f9d-b292-4ef8-861d-c911c0398447
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=03a29f9d-b292-4ef8-861d-c911c0398447&sub=t30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/8a999684-46a5-3cf9-a13d-ea2d1bb10162.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 6
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=97214560-494d-4180-887d-cdd66664bc9e
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=97214560-494d-4180-887d-cdd66664bc9e&sub=t44
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/782993c8-4a2c-392b-a271-dafbb8457be2.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 7 Pt1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=69c502cb-f393-47b3-96e5-bfe2c4cf3b65
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=69c502cb-f393-47b3-96e5-bfe2c4cf3b65&sub=t4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/568e644a-eb9b-380c-bad9-367ff862fea1.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 7 Pt2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=9b9d9055-3638-468b-9889-096b22566f7b
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=9b9d9055-3638-468b-9889-096b22566f7b&sub=t32
+
+
+
+
 
 
 
