@@ -659,29 +659,22 @@ ________________________________SD___________________________________
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205type=drm
-#EXTINF:-1 tvg-id="171847" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/INDOSIAR.jpg" group-title="Indonesia",Indosiar (Vidio)
+#EXTINF:-1 tvg-id="171847" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/INDOSIAR.jpg" group-title="Indonesia",Indosiar (Vidio)
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-id="171847" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/INDOSIAR.jpg" group-title="Indonesia",INDOSIAR DIGITAL
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-
-#EXTINF:-1 tvg-id="171847" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/INDOSIAR.jpg" group-title="Indonesia",Indosiar (IndiHome)
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indosiar/manifest.mpd 
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RCTI.jpg" group-logo="https://raw.githubusercontent.com/adz4892/idn/refs/heads/main/TV%20INDONESIA.png" group-title="Indonesia",RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RCTI.jpg"  group-title="Indonesia",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-name="MNCTV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MNCTV.jpg" group-title="Indonesia",MNCTV
+#EXTINF:-1 tvg-id="MNCTV.id"  tvg-name="MNCTV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MNCTV.jpg" group-logo="https://raw.githubusercontent.com/adz4892/idn/refs/heads/main/TV%20INDONESIA.png" group-title="Indonesia",MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 
-#EXTINF:-1 tvg-id="171924" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/GTV.jpg" group-title="Indonesia",GTV
+#EXTINF:-1 tvg-id="171924"  tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/GTV.jpg" group-title="Indonesia",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-name="Trans 7" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TRANS7.jpg" group-title="Indonesia",Trans 7
+#EXTINF:-1 tvg-id="Trans7.id"  tvg-name="Trans 7" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TRANS7.jpg" group-title="Indonesia",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 
@@ -689,28 +682,17 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
-#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TRANSTV.jpg" group-title="Indonesia",Trans7 HD (V+)
+#EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TRANSTV.jpg" group-title="Indonesia",Trans7 HD (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TRANSTV.jpg" group-title="Indonesia",Trans7 HD (TRANSCORP)
+#EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TRANSTV.jpg" group-title="Indonesia",Trans7 HD (TRANSCORP)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w127267210_b744100_sleng.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=734type=drm
-#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TRANSTV.jpg" group-title="Indonesia",Trans7 HD (Vidio)
-https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TRANSTV.jpg" group-title="Indonesia",Trans TV
+#EXTINF:-1 tvg-id="TransTV.id"  tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TRANSTV.jpg" group-title="Indonesia",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
@@ -723,37 +705,25 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TRANSTV.jpg" group-title="Indonesia",TransTV HD (V+)
+#EXTINF:-1 tvg-id="TransTV.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TRANSTV.jpg" group-title="Indonesia",TransTV HD (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TRANSTV.jpg" group-title="Indonesia",TransTV HD (TRANSCORP)
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TRANSTV.jpg" group-title="Indonesia",TransTV HD (TRANSCORP)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=733type=drm
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TRANSTV.jpg" group-title="Indonesia",TransTV HD (Vidio)
-https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
-
-#EXTINF:-1 tvg-id="171951" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RTV.jpg" group-title="Indonesia",RTV
+#EXTINF:-1 tvg-id="171951" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RTV.jpg" group-title="Indonesia",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
 
-#EXTINF:-1 tvg-id="AlQuranKareem.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-name="AlQuran Kareem" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/ALQURAN.jpg" group-title="Indonesia",AlQuran Kareem
+#EXTINF:-1 tvg-id="AlQuranKareem.id"  tvg-name="AlQuran Kareem" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/ALQURAN.jpg" group-title="Indonesia",AlQuran Kareem
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
 
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MNCTV.jpg" group-title="Indonesia",MNC TV (R+)
+#EXTINF:-1 tvg-id="MNCTV.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MNCTV.jpg" group-title="Indonesia",MNC TV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
@@ -791,16 +761,8 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-id="RodjaTV.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/RODJATV.jpg" group-title="Indonesia",RODJA TV
 https://rodjatv.com/rodjatv/live.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5dfa046b3bf14866a143470d9c8dd74d:97e354284ee7a67e5dafbce04e17c4c0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="171905" tvg-name="Jak TV" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/JAKTV.jpg" group-title="Indonesia",JakTV
-https://d2tjypxxy769fn.cloudfront.net/out/v1/1f05c642353a4a778d8a544837e1b49c/index.mpd
-
 #EXTINF:-1 tvg-id="SurauTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SURAUTV.jpg" group-title="Indonesia",SurauTV
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -808,9 +770,6 @@ https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
 #EXTINF:-1 tvg-id="411917" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SCTV.jpg" group-title="Indonesia",SCTV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
-
-#EXTINF:-1 tvg-id="411917" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SCTV.jpg" group-title="Indonesia",SCTV (IndiHome)
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sctv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -952,21 +911,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/KIX.jpg" group-title="Indonesia",KIX
-https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mediampd/KIXHD.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
 #EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/ONE.jpg" group-title="Indonesia",ONE
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mediampd/ONEHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/WARNERTV.jpg" group-title="Indonesia",Warner TV
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/warner/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTINF:-1 tvg-id="Sportstars.id" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SPORTSTARS.jpg" group-title="Indonesia",Sportstarsᴴᴰ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -982,7 +929,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars4.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SPORTSTARS3.jpg" group-title="Indonesia",Sportstars 4ᴴᴰ
+#EXTINF:-1 tvg-id="Sportstars4.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/SPORTSTARS4.jpg" group-title="Indonesia",Sportstars 4ᴴᴰ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -993,28 +940,21 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
-#EXTINF:-1 tvg-id="Celestial Movies Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/CELES.jpg" group-title="Indonesia",Celestial Movies
+#EXTINF:-1 tvg-id="Celestial Movies Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/CELES.jpg" group-title="Indonesia",Celestial Movies
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-id="Animal Planet" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/ANIMAL.jpg" group-title="Indonesia",Animal Planet 
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mediampd/AnimalPlanetHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/DISC.jpg" group-title="Indonesia",Discovery Channel 
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/DISC.jpg" group-title="Indonesia",Discovery Channel 
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-#EXTINF:-1 tvg-id="Discovery Asia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/DISCASIA.jpg" group-title="Indonesia",Discovery Asia 
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/DISCASIA.jpg" group-title="Indonesia",Discovery Asia 
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
 
 #EXTINF:-1 tvg-id="171951" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MDTV.jpg" group-title="Indonesia",MDTV
@@ -1077,7 +1017,7 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-#EXTINF:-1 tvg-id="HBO" group-title="Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/HBO.jpg",HBO
+#EXTINF:-1 tvg-id="HBO" group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/HBO.jpg",HBO
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbo/manifest.mpd
 
@@ -1086,12 +1026,9 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbo/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-#EXTINF:-1 tvg-id="HBO Hits" group-title="Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/HBOHITS.jpg",HBO Hits
+#EXTINF:-1 tvg-id="HBO Hits" group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/HBOHITS.jpg",HBO Hits
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://malaysia-tv.net/wp-content/uploads/2025/03/Badminton-TV-2-Live-Streaming-Malaysia-HD-Channel.webp" tvg-name="BADMINTON"  group-title="MYTV MANA",BADMINTON
-https://v4-15ff02a6a92b215bcd25dc26d4be48bc.livehwc4.com/pull.chuangbwu.com/live/8861000_lud.m3u8?sub_m3u8=true&edge_slice=true&auth_info=ABUMZ8UW1Q6R2zJoy8kiHLcstzZ%2Bdz%2BviCAoGuczX1jC0aj%2FXxUOp2e9EkpdiYwm.59613872454d324a5359344545336a77&user_session_id=fc958a844d8139eba99dc9634cbe5e76
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -1206,6 +1143,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=9b9d9055-3638-468b-9889-096b22566f7b
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=9b9d9055-3638-468b-9889-096b22566f7b&sub=t32
+
 
 
 
