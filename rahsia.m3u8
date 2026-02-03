@@ -1144,6 +1144,38 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=9b9d9055-3638-468b-9889-096b22566f7b
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=9b9d9055-3638-468b-9889-096b22566f7b&sub=t32
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-yaezewmy07.png" tvg-name="Hantu Siang (1986)"  group-title="VOD",Hantu Siang (1986)
+https://vod.mana2.my/vod/Hantu_Siang_1986_002.mp4/index.m3u8?auth_key=1769673481-e725398f13c549369e67b8ede034baff-0-f4ff01fea9741d8992b409435227e320&token=1769673481-e725398f13c549369e67b8ede034baff-0-f4ff01fea9741d8992b409435227e320
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-6623v26w9zl.png" tvg-name="Gemerlapan (1997)"  group-title="VOD",Gemerlapan (1997)
+https://vod.mana2.my/vod/Gemerlapan_1997_001.mp4/index.m3u8?auth_key=1769673746-ba1eb3b664cf4766bb4c0dfffb70d426-0-cd407c056fc6ca3d56a62ac8a957b00d&token=1769673746-ba1eb3b664cf4766bb4c0dfffb70d426-0-cd407c056fc6ca3d56a62ac8a957b00d
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-58vsizbb2wp.png" tvg-name="Sindrom Mana Anakku (1982)"  group-title="VOD",Sindrom Mana Anakku (1982)
+https://vod.mana2.my/vod/Sindrom_Mana_Anakku_1982_A.mp4/index.m3u8?auth_key=1769673725-b5ef76c763cc4adfb7fc2810d5240f91-0-10a6c7b539c4b21504d57809995d0dd9&token=1769673725-b5ef76c763cc4adfb7fc2810d5240f91-0-10a6c7b539c4b21504d57809995d0dd9
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-iutzhdrd3g.png" tvg-name="Pemburu Bayang (1993)"  group-title="VOD",Pemburu Bayang (1993)
+https://vod.mana2.my/vod/Pemburu_Bayang_1993_004.mp4/index.m3u8?auth_key=1769673818-914163a6acb44ed1ace2c43dbbd43fe1-0-ff4374333f4564b86b5e09491f0bb985&token=1769673818-914163a6acb44ed1ace2c43dbbd43fe1-0-ff4374333f4564b86b5e09491f0bb985
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-s92eecgxpxp.png" tvg-name="Melati Putih (1984)"  group-title="VOD",Melati Putih (1984)
+https://vod.mana2.my/vod/Melati_Putih_1984_A.mp4/index.m3u8?auth_key=1769673703-718bfcb143264c4dbf098a9ad30da7c5-0-12261ffaa90f10657233b9b790ecb88b&token=1769673703-718bfcb143264c4dbf098a9ad30da7c5-0-12261ffaa90f10657233b9b790ecb88b
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-tz71v4x8qj.png" tvg-name="Cikgu Sayang (1983)"  group-title="VOD",Cikgu Sayang (1983)
+https://vod.mana2.my/vod/Cikgu_Sayang_1983_005.mp4/index.m3u8?auth_key=1769673677-d0d4e38f2ccf44f28238fae701589404-0-6567c6786f1ab09b251fdb8885b071a5&token=1769673677-d0d4e38f2ccf44f28238fae701589404-0-6567c6786f1ab09b251fdb8885b071a5
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-om3x4zbbd6.png" tvg-name="Minah Manja (1984)"  group-title="VOD",Minah Manja (1984)
+https://vod.mana2.my/vod/Minah_Manja_1984_A.mp4/index.m3u8?auth_key=1769673660-81862c723eca4c81a69a4f9df5453216-0-ae5c5a38f9af22b1d896cfe6572e01d0&token=1769673660-81862c723eca4c81a69a4f9df5453216-0-ae5c5a38f9af22b1d896cfe6572e01d0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-mhva2bn7pno.png" tvg-name="Abang (1981)"  group-title="VOD",Abang (1981)
+https://vod.mana2.my/vod/Abang_1981_003.mp4/index.m3u8?auth_key=1769673615-eb12f77869e8417aa3b601b3e981a9b2-0-a60b273bd3cc1c69025ccad08e88a5bd&token=1769673615-eb12f77869e8417aa3b601b3e981a9b2-0-a60b273bd3cc1c69025ccad08e88a5bd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-z69xdi1amkh.png" tvg-name="Ribut Barat (1981)"  group-title="VOD",Ribut Barat (1981)
+https://vod.mana2.my/vod/Ribut_Barat_1981_A.mp4/index.m3u8?auth_key=1769671920-8950ae65b02144eda5c21d59a95b52ec-0-a27ca9de73b5c3bc0d59e0389f43ae7a&token=1769671920-8950ae65b02144eda5c21d59a95b52ec-0-a27ca9de73b5c3bc0d59e0389f43ae7a
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-dgxup0n6flw.png" tvg-name="Mawar Merah (1987)"  group-title="VOD",Mawar Merah (1987)
+https://vod.mana2.my/vod/Mawar_Merah_1987_A.mp4/index.m3u8?auth_key=1769673563-79721e9038be47c09c79166f89dd8444-0-716033cec408b6b300af863988c382da&token=1769673563-79721e9038be47c09c79166f89dd8444-0-716033cec408b6b300af863988c382da
+
+
+
 
 
 
