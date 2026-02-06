@@ -1,172 +1,404 @@
-﻿[{
-    "name": "Hantu Siang",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-yaezewmy07.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Seorang kasanova yang suka menggoda gadis menerima padahnya apabila harus mengahwini mangsanya. Badul telah berjaya mendampingi lebih 17 gadis. Dia mempunyai rancangan untuk menggoda dua lagi gadis baru sebagai mangsanya. Rancangan Badul memakan diri apabila dia sendiri terpaksa menikahi mereka - cubaannya telah memerangkap dirinya sendiri.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["A. R. Badul"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["A. R . Badul, Noreen Noor, Rosnah Mohd Noor"],
-      "year": "1986"
-    },
-    "video": "https://vod.mana2.my/vod/Hantu_Siang_1986_002.mp4/index.m3u8?auth_key=1769673481-e725398f13c549369e67b8ede034baff-0-f4ff01fea9741d8992b409435227e320&token=1769673481-e725398f13c549369e67b8ede034baff-0-f4ff01fea9741d8992b409435227e320"
-  },
-{
-    "name": "Gemerlapan",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-6623v26w9zl.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Mimi mengejutkan ramai pelajar di sebuah kolej berprestij kerana menjadi seorang penggemar muzik dangdut yang tegar. Nel, salah seorang pelajar di situ menganggap muzik dangdut kekampungan dan mereka berdua sering bertengkar kerana hal tersebut. Tetapi tanpa disedari, Nel adalah Mr X yang selama ini merupakan peminat rahsia Mimi dalam diam.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Abdul Razak Mohaideen"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Baby Res 2, Lan A To Z, Maya Matahari, Eisya, Shafi Khan, Sham Visa, Umi Res 2, Bob Kuman, Amir & Group (U.K’s)"],
-      "year": "1997"
-    },
-    "video": "https://vod.mana2.my/vod/Gemerlapan_1997_001.mp4/index.m3u8?auth_key=1769673746-ba1eb3b664cf4766bb4c0dfffb70d426-0-cd407c056fc6ca3d56a62ac8a957b00d&token=1769673746-ba1eb3b664cf4766bb4c0dfffb70d426-0-cd407c056fc6ca3d56a62ac8a957b00d"
-  },
-{
-    "name": "Sindrom Mana Anakku",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-58vsizbb2wp.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Dr. Kamal dan Dr. Lisa bekerja di hospital yang sama. Dr. Kamal keluar mendapat panggilan kecemasan di sebuah rumah. Dibawa pesakit tersebut ke hospital kerana kemungkinan komplikasi kelahiran namun mula tertanya-tanya di manakah anaknya. Anak pesakit tersebut perlu dicari sebelum apa-apa berlaku kepadanya.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Raja Rozaimie Dalnish Shah & A. Aziz Wok"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Hail Amir, Nancie Foo, I.K. Sandhu, Rosnah Mohd Noor, Omar Abdullah, Abu Bakar Omar"],
-      "year": "1982"
-    },
-    "video": "https://vod.mana2.my/vod/Sindrom_Mana_Anakku_1982_A.mp4/index.m3u8?auth_key=1769673725-b5ef76c763cc4adfb7fc2810d5240f91-0-10a6c7b539c4b21504d57809995d0dd9&token=1769673725-b5ef76c763cc4adfb7fc2810d5240f91-0-10a6c7b539c4b21504d57809995d0dd9"
-  },
-{
-    "name": "Pemburu Bayang",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-iutzhdrd3g.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Zamri merupakan seorang bekas banduan yang ingin memulakan hidup baru bersama keluarganya. Namun, nasib tidak menyebelahinya apabila dia diburu kumpulan yang diketuai Ramon. Adik Zamri, Awie ialah seorang penyanyi kumpulan rock popular yang sedang menjalinkan hubungan cinta bersama Ella, yang juga penyanyi rock. Sesuatu terjadi yang menyebabkan Awie dan Ella putus hubungan. Manakala, Zamri pula diuji dengan pelbagai dugaan apabila isterinya dibunuh dengan kejam.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Yusof Haslam"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Awie, Ella, Shaharuddin Thamby, Erma Fatima "],
-      "year": "1993"
-    },
-    "video": "https://vod.mana2.my/vod/Pemburu_Bayang_1993_004.mp4/index.m3u8?auth_key=1769673818-914163a6acb44ed1ace2c43dbbd43fe1-0-ff4374333f4564b86b5e09491f0bb985&token=1769673818-914163a6acb44ed1ace2c43dbbd43fe1-0-ff4374333f4564b86b5e09491f0bb985"
-  },
-{
-    "name": "Melati Putih",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-s92eecgxpxp.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Melati bercita-cita tinggi tetapi tidak dapat melaksanakannya kerana tergoda dengan seorang doktor muda. Akibat hubungan dengan doktor itu, nama baiknya telah tercemar. Seorang pemuda cacat di kampung itu jatuh hati padanya tetapi cinta lelaki itu dipermainkannya. Setelah Melati dikecewakan oleh doktor itu, barulah dia sedar cinta suci si pemuda itu.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["A. R. Badul"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Yusof Haslam, Tantiana Hamzah, Rokiah Shafie"],
-      "year": "1984"
-    },
-    "video": "https://vod.mana2.my/vod/Melati_Putih_1984_A.mp4/index.m3u8?auth_key=1769673703-718bfcb143264c4dbf098a9ad30da7c5-0-12261ffaa90f10657233b9b790ecb88b&token=1769673703-718bfcb143264c4dbf098a9ad30da7c5-0-12261ffaa90f10657233b9b790ecb88b"
-  },
-{
-    "name": "Cikgu Sayang",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-tz71v4x8qj.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Seorang guru muda bernama Idayu telah dihantar ke sebuah kampung di Pulau Dinawan untuk mengajar sekolah orang dewasa. Di sana, Idayu telah digelarkan sebagai “Cikgu Sayang” oleh pelajarnya. Kehadiran Idayu di pulau itu telah menimbulkan perasaan cemburu kepada isteri para pelajarnya. Dalam masa yang sama, Idayu mula tertarik dengan seorang pemuda bernama Anuar yang tinggal di pulau itu.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Z. Lokman"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Mokhtaruddin, Rose Iskandar, Suhaina Yahya"],
-      "year": "1983"
-    },
-    "video": "https://vod.mana2.my/vod/Cikgu_Sayang_1983_005.mp4/index.m3u8?auth_key=1769673677-d0d4e38f2ccf44f28238fae701589404-0-6567c6786f1ab09b251fdb8885b071a5&token=1769673677-d0d4e38f2ccf44f28238fae701589404-0-6567c6786f1ab09b251fdb8885b071a"
-  },
-{
-    "name": "Minah Manja",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-om3x4zbbd6.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Mengisahkan tentang kehidupan masyarakat di dalam sebuah kampung.Mamak Kutty mahu memperisterikan Minah, anak perempuan kepada seorang guru silat, Ujang Singkap. Ternyata Mamak Kutty mempunyai seorang lagi isteri di India. Akan timbul satu pertelingkahan diantara kedua-dua isteri Mamak Kutty apabila mereka bertemu.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Z. Lokman"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Maidin, R. Jaafar, Dayangku Intan"],
-      "year": "1984"
-    },
-    "video": "https://vod.mana2.my/vod/Minah_Manja_1984_A.mp4/index.m3u8?auth_key=1769673660-81862c723eca4c81a69a4f9df5453216-0-ae5c5a38f9af22b1d896cfe6572e01d0&token=1769673660-81862c723eca4c81a69a4f9df5453216-0-ae5c5a38f9af22b1d896cfe6572e01d0"
-  },
-{
-    "name": "Abang",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-mhva2bn7pno.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Setahun pergi membawa diri tanpa khabar berita, Fuad akhirnya pulang ke pangkuan keluarga. Niat ingin kembali meneruskan kehidupan seperti biasa bersama keluarga di negara asal namun kepulangannya diterima dengan perasaan bercampur baur. Kepulangannya disalah erti dek kerana posisinya sebagai pewaris syarikat. Segala konflik dan rintangan dihadapinya dengan tabah tetapi rahsia kepergiannya masih menjadi tanda tanya.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Rahim Razali"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Rahim Razali, Ahmad Yatim, Ahmad Tarmimi Serigar, Noorkumalasari, Fauziah Ahmad Daud, S. Roomai Noor, Umi Kalthum, Noriah Abdullah"],
-      "year": "1981"
-    },
-    "video": "https://vod.mana2.my/vod/Abang_1981_003.mp4/index.m3u8?auth_key=1769673615-eb12f77869e8417aa3b601b3e981a9b2-0-a60b273bd3cc1c69025ccad08e88a5bd&token=1769673615-eb12f77869e8417aa3b601b3e981a9b2-0-a60b273bd3cc1c69025ccad08e88a5bd"
-  },
-{
-    "name": "Ribut Barat",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-z69xdi1amkh.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Sepasang suami isteri, Adnan dan Azizah baru pulang ke tanah air selepas berkahwin di England. Azizah sering memandang rendah kepada keluarga suaminya yang berasal dari kampung. Adnan terlalu sayangkan isterinya sehingga sanggup melupakan ibu bapanya untuk menyenangkan hati isteri. Budaya barat yang diamalkan Adnan dan isterinya itu juga telah menyebabkan rumahtangga mereka retak menanti belah.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Salleh Ghani"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Raja Nor Baizura, Yusof Haslam, Rose Iskandar"],
-      "year": "1981"
-    },
-    "video": "https://vod.mana2.my/vod/Ribut_Barat_1981_A.mp4/index.m3u8?auth_key=1769671920-8950ae65b02144eda5c21d59a95b52ec-0-a27ca9de73b5c3bc0d59e0389f43ae7a&token=1769671920-8950ae65b02144eda5c21d59a95b52ec-0-a27ca9de73b5c3bc0d59e0389f43ae7a"
-  },
-{
-    "name": "Mawar Merah",
-    "category": "Malay Klasik",
-    "info": {
-      "poster": "https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/movie/images/custattr-movie-movie-thumbnail-2x3-movie-dgxup0n6flw.png",
-      "bg": " https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "plot": "Kartika atau Arti gadis Jakarta yang suka bersosial. Tetapi ibu bapa Kartika tidak suka perangai Kartika yang liar dan suka bersosial. Mereka memutuskan Arti akan dihantar ke Kuala Lumpur untuk dijaga oleh nenek Arti dan bapa saudaranya, Sofyan. Hubungan Arti dan Sofyan semakin rapat dan mereka berdua saling jatuh cinta.Sofyan pula cuba menyembunyikan perasaannya kerana tahu perasaan cintanya terhadap Arti adalah dilarang agama walaupun Arti juga mencintainya. Mereka berdua terpaksa menerima hakikat dan takdir percintaan mereka.",
-      "backdrop": "https://www.lowyat.net/wp-content/uploads/2025/05/MYTV-Mana-Mana.jpg",
-      "director": ["Rosnani Jamil"],
-      "rating": "",
-      "country": [ "Malaysia" ],
-      "trailer": "",
-      "cast": ["Raja Ema, Mustaffa Noor, Razis Ismail, Noraini Hashim, Isma Aliff, Fauziah Nawi"],
-      "year": "1987"
-    },
-    "video": "https://vod.mana2.my/vod/Mawar_Merah_1987_A.mp4/index.m3u8?auth_key=1769673563-79721e9038be47c09c79166f89dd8444-0-716033cec408b6b300af863988c382da&token=1769673563-79721e9038be47c09c79166f89dd8444-0-716033cec408b6b300af863988c382da"
-  },
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[001] Surah Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[002] Surah Al-Baqarah (Lembu Betina)
+https://archive.org/download/MurotalMR/002.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[003] Surah Ali 'Imran (Keluarga Imran)
+https://archive.org/download/MurotalMR/003.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[004] Surah An-Nisaa' (Wanita)
+https://archive.org/download/MurotalMR/004.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[005] Surah Al-Maa'idah (Hidangan)
+https://archive.org/download/MurotalMR/005.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[006] Surah Al-An'aam (Binatang Ternakan)
+https://archive.org/download/MurotalMR/006.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[007] Surah Al-A'raaf (Tempat Tertinggi)
+https://archive.org/download/MurotalMR/007.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[008] Surah Al-Anfaal (Rampasan Perang)
+https://archive.org/download/MurotalMR/008.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[009] Surah At-Taubah (Pengampunan)
+https://archive.org/download/MurotalMR/009.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[010] Surah Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[011] Surah Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[012] Surah Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[013] Surah Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[014] Surah Ibrahim (Nabi Ibrahim a.s.)
+https://archive.org/download/MurotalMR/014.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[015] Surah Al-Hijr (Kawasan Berbatu)
+https://archive.org/download/MurotalMR/015.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[016] Surah An-Nahl (Lebah)
+https://archive.org/download/MurotalMR/016.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[017] Surah Al-Israa' (Perjalanan Malam)
+https://archive.org/download/MurotalMR/017.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[018] Surah Al-Kahfi (Gua)
+https://archive.org/download/MurotalMR/018.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[019] Surah Maryam (Siti Maryam)
+https://archive.org/download/MurotalMR/019.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[020] Surah Taahaa
+https://archive.org/download/MurotalMR/020.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[021] Surah Al-Anbiyaa' (Para Nabi)
+https://archive.org/download/MurotalMR/021.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[022] Surah Al-Hajj (Haji)
+https://archive.org/download/MurotalMR/022.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png"  group-title="TILAWAH ALQUR'AN",[023] Surah Al-Mu'minun (Golongan yang Beriman)
+https://archive.org/download/MurotalMR/023.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[024] Surah An-Nuur (Cahaya)
+https://archive.org/download/MurotalMR/024.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
+https://archive.org/download/MurotalMR/025.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[026] Surah Asy-Syu'araa (Para Penyair)
+https://archive.org/download/MurotalMR/026.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png"  group-title="TILAWAH ALQUR'AN",[027] Surah An-Naml (Semut)
+https://archive.org/download/MurotalMR/027.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[028] Surah Al-Qasas (Cerita-cerita)
+https://archive.org/download/MurotalMR/028.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[029] Surah Al-'Ankabut (Labah-labah)
+https://archive.org/download/MurotalMR/029.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[030] Surah Ar-Rum (Bangsa Rom)
+https://archive.org/download/MurotalMR/030.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[031] Surah Luqman (Luqman)
+https://archive.org/download/MurotalMR/031.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[032] Surah As-Sajdah (Sujud)
+https://archive.org/download/MurotalMR/032.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[033] Surah Al-Ahzab (Golongan yang Bersekutu)
+https://archive.org/download/MurotalMR/033.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[034] Surah Saba' (Kaum Saba')
+https://archive.org/download/MurotalMR/034.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[035] Surah Faatir (Pencipta)
+https://archive.org/download/MurotalMR/035.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[036] Surah Yaasin
+https://archive.org/download/MurotalMR/036.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[037] Surah As-Saaffat (Yang Teratur Berbaris)
+https://archive.org/download/MurotalMR/037.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[038] Surah Saad
+https://archive.org/download/MurotalMR/038.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[039] Surah Az-Zumar (Rombongan)
+https://archive.org/download/MurotalMR/039.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[040] Surah Al-Ghafir / Al-Mu'min (Orang yang Beriman)
+https://archive.org/download/MurotalMR/040.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[041] Surah Fussilat (Dijelaskan)
+https://archive.org/download/MurotalMR/041.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[042] Surah Asy-Syuraa (Permesyuaratan)
+https://archive.org/download/MurotalMR/042.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[043] Surah Az-Zukhruf (Perhiasan Emas)
+https://archive.org/download/MurotalMR/043.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[044] Surah Ad-Dukhaan (Kabut / Asap)
+https://archive.org/download/MurotalMR/044.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[045] Surah Al-Jatsiyah (Yang Berlutut)
+https://archive.org/download/MurotalMR/045.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
+https://archive.org/download/MurotalMR/046.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[047] Surah Muhammad (Nabi Muhammad SAW)
+https://archive.org/download/MurotalMR/047.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[048] Surah Al-Fath (Kemenangan)
+https://archive.org/download/MurotalMR/048.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[049] Surah Al-Hujurat (Bilik-bilik)
+https://archive.org/download/MurotalMR/049.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[050] Surah Qaaf
+https://archive.org/download/MurotalMR/050.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
+https://archive.org/download/MurotalMR/051.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[052] Surah At-Tur (Bukit)
+https://archive.org/download/MurotalMR/052.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[053] Surah An-Najm (Bintang)
+https://archive.org/download/MurotalMR/053.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[054] Surah Al-Qamar (Bulan)
+https://archive.org/download/MurotalMR/054.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[055] Surah Ar-Rahman (Yang Maha Pemurah)
+https://archive.org/download/MurotalMR/055.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
+https://archive.org/download/MurotalMR/056.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[057] Surah Al-Hadid (Besi)
+https://archive.org/download/MurotalMR/057.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[058] Surah Al-Mujadilah (Perempuan yang Merayu)
+https://archive.org/download/MurotalMR/058.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[059] Surah Al-Hasyr (Pengusiran)
+https://archive.org/download/MurotalMR/059.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[060] Surah Al-Mumtahanah (Perempuan yang Diuji)
+https://archive.org/download/MurotalMR/060.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[061] Surah As-Saf (Barisan)
+https://archive.org/download/MurotalMR/061.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[062] Surah Al-Jumu'ah (Hari Jumaat)
+https://archive.org/download/MurotalMR/062.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[063] Surah Al-Munafiquun (Golongan Munafik)
+https://archive.org/download/MurotalMR/063.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[064] Surah At-Taghabun (Dinampakkan Kesalahan)
+https://archive.org/download/MurotalMR/064.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[065] Surah At-Talaq (Cerai / Talak)
+https://archive.org/download/MurotalMR/065.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[066] Surah At-Tahrim (Mengharamkan)
+https://archive.org/download/MurotalMR/066.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[067] Surah Al-Mulk (Kerajaan)
+https://archive.org/download/MurotalMR/067.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[068] Surah Al-Qalam (Pena / Kalam)
+https://archive.org/download/MurotalMR/068.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://archive.org/download/MurotalMR/069.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[070] Surah Al-Ma'arij (Tempat-tempat Naik)
+https://archive.org/download/MurotalMR/070.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[071] Surah Nuh (Nabi Nuh a.s.)
+https://archive.org/download/MurotalMR/071.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[072] Surah A-Jin (Jin)
+https://archive.org/download/MurotalMR/072.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[073] Surah Al-Muzammil (Yang Berselimut)
+https://archive.org/download/MurotalMR/073.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[074] Surah Al-Muddathir (Yang Berselubung)
+https://archive.org/download/MurotalMR/074.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+https://archive.org/download/MurotalMR/075.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[076] Surah Al-Insaan (Manusia)
+https://archive.org/download/MurotalMR/076.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[077] Surah Al-Mursalat (Malaikat Yang Diutus)
+https://archive.org/download/MurotalMR/077.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[078] Surah An-Naba' (Berita Besar)
+https://archive.org/download/MurotalMR/078.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
+https://archive.org/download/MurotalMR/079.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[080] Surah 'Abasa (Dia Bermasam Muka)
+https://archive.org/download/MurotalMR/080.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[081] Surah At-Takwiir (Menggulung)
+https://archive.org/download/MurotalMR/081.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[082] Surah Al-Infitar (Terpecah & Terbelah)
+https://archive.org/download/MurotalMR/082.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[083] Surah Al-Mutaffifiin (Golongan yang Curang)
+https://archive.org/download/MurotalMR/083.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[084] Surah Al-Insyiqaaq (Terbelah)
+https://archive.org/download/MurotalMR/084.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[085] Surah Al-Buruj (Gugusan Bintang)
+https://archive.org/download/MurotalMR/085.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[086] Surah At-Taariq (Pengunjung Malam)
+https://archive.org/download/MurotalMR/086.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[087] Surah Al-A'laa (Yang Tertinggi)
+https://archive.org/download/MurotalMR/087.mp3
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/59z8s3jH/quran-PNG22.png " group-title="TILAWAH ALQUR'AN",[088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://archive.org/download/MurotalMR/088.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[089] Surah Al-Fajr (Fajar / Sinar Mentari)
+https://archive.org/download/MurotalMR/089.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[090] Surah Al-Balad (Negeri)
+https://archive.org/download/MurotalMR/090.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[091] Surah Asy-Syams (Matahari)
+https://archive.org/download/MurotalMR/091.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[092] Surah Al-Lail (Malam)
+https://archive.org/download/MurotalMR/092.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://archive.org/download/MurotalMR/093.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
+https://archive.org/download/MurotalMR/094.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[095] Surah At-Tin (Buah Tin / Buah Ara)
+https://archive.org/download/MurotalMR/095.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[096] Surah Al-'Alaq (Segumpal Darah)
+https://archive.org/download/MurotalMR/096.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[097] Surah Al-Qadr (Kemuliaan)
+https://archive.org/download/MurotalMR/097.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[098] Surah Al-Baiyinah (Bukti yang Nyata)
+https://archive.org/download/MurotalMR/098.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[099] Surah Al-Zalzalah (Kegoncangan)
+https://archive.org/download/MurotalMR/099.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
+https://archive.org/download/MurotalMR/100.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
+https://archive.org/download/MurotalMR/101.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[102] Surah At-Takathur (Bermegah-Megah)
+https://archive.org/download/MurotalMR/102.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[103] Surah Al-'Asr (Masa)
+https://archive.org/download/MurotalMR/103.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[104] Surah Al-Humazah (Pengumpat)
+https://archive.org/download/MurotalMR/104.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[105] Surah Al-Fiil (Gajah)
+https://archive.org/download/MurotalMR/105.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[106] Surah Quraisy (Kaum Quraisy)
+https://archive.org/download/MurotalMR/106.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[107] Surah Al-Ma'un (Barangan Berguna)
+https://archive.org/download/MurotalMR/107.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[108] Surah Al-Kauthar (Sungai Di Syurga)
+https://archive.org/download/MurotalMR/108.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[109] Surah Al-Kafirun (Golongan Kafir)
+https://archive.org/download/MurotalMR/109.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[110] Surah An-Nasr (Pertolongan)
+https://archive.org/download/MurotalMR/110.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
+https://archive.org/download/MurotalMR/111.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
+https://archive.org/download/MurotalMR/112.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[113] Surah Al-Falaq (Waktu Subuh / Dinihari)
+https://archive.org/download/MurotalMR/113.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[114] Surah An-Naas (Manusia)
+https://archive.org/download/MurotalMR/114.mp3
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 1
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/01.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 2
+https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/02.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 3
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/03.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 4
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/04.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 5
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/05.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 6
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/06.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 7
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/07.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 8
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/08.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 9
+https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/09.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 10
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/10.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 11
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/11.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 12
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/12.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 13
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/13.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 14
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/14.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 15
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/15.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 16
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/16.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 17
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/17.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 18
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/18.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 19
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/19.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 20
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/20.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 21
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/21.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 22
+https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/22.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 23
+vhttps://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/23.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 24
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/24.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 25
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/25.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 26
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/26.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 27
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/27.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 28
+https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/28.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 29
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 30
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/tpOml/fGJ7iSi4sChFrWcNw.jpeg" group-title="▶ HBO MAX", 00-Final Destination 1 2000 (Horror)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=8903cf57-b222-4b9b-b58b-2a5a6cc1588f
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8903cf57-b222-4b9b-b58b-2a5a6cc1588f&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/NQ0Jv/THeFjcbPX3dduOeTw.jpeg" group-title="▶ HBO MAX", 00-Final Destination 2 2003 (Horror)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=787f950b-0fe3-4a95-911d-2553f3db9a77
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=787f950b-0fe3-4a95-911d-2553f3db9a77&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/es5BO/5ITFvTRpP4BmeRIwg.jpeg" group-title="▶ HBO MAX", 00-Final Destination 3 2006 (Horror)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=29056e15-a4c2-42aa-9241-a032fde4451c
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=29056e15-a4c2-42aa-9241-a032fde4451c&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/cvgJ_/CrPc27DkyfSR7vUZg.jpeg" group-title="▶ HBO MAX", 00-Final Destination 4 2009 (Horror)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=fb0ead35-932f-490a-85a3-c88140152a33
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=fb0ead35-932f-490a-85a3-c88140152a33&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/cvgJ_/CrPc27DkyfSR7vUZg.jpeg" group-title="▶ HBO MAX", 00-Final Destination 5 2011 (Horror)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=47667ba9-6ded-44b9-8514-66c3637621cf
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=47667ba9-6ded-44b9-8514-66c3637621cf&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/Q9Q7y/3Wzf_acNoeRMjHZJQ.jpeg" group-title="▶ HBO MAX", 00-Final Destination Bloodlines 2025 (Horror)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=18b140b1-220c-4a45-b784-ffffa0293ff8
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=18b140b1-220c-4a45-b784-ffffa0293ff8&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/30/963a84cd-e35a-3e34-87bc-a64ede11c701.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=16e04231-69f4-4865-8538-69407a3b7711
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=16e04231-69f4-4865-8538-69407a3b7711&sub=t12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/43681996-e918-3bd8-bbaf-d32c83369dd8.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=2c3a13a2-7b9e-4e98-9db5-26d7e727ec18
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2c3a13a2-7b9e-4e98-9db5-26d7e727ec18&sub=t42
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/0145115c-4c19-3869-bcf4-1c43e41921a9.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=22dcb0f6-3351-4e1b-aced-9b8cb0b569b2
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=22dcb0f6-3351-4e1b-aced-9b8cb0b569b2&sub=t0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/7a541bd5-64e2-3188-8d66-067f330ad814.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f0c79c62-0e8a-420a-bbab-35ad3587b683
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f0c79c62-0e8a-420a-bbab-35ad3587b683&sub=t32
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/e7ba3b8d-0149-3c34-8d8e-f11c22dcbadd.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=03a29f9d-b292-4ef8-861d-c911c0398447
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=03a29f9d-b292-4ef8-861d-c911c0398447&sub=t30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/8a999684-46a5-3cf9-a13d-ea2d1bb10162.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 6
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=97214560-494d-4180-887d-cdd66664bc9e
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=97214560-494d-4180-887d-cdd66664bc9e&sub=t44
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/782993c8-4a2c-392b-a271-dafbb8457be2.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 7 Pt1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=69c502cb-f393-47b3-96e5-bfe2c4cf3b65
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=69c502cb-f393-47b3-96e5-bfe2c4cf3b65&sub=t4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/27/568e644a-eb9b-380c-bad9-367ff862fea1.jpeg" group-title="▶ HBO MAX", Kids-Harry Potter 7 Pt2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=9b9d9055-3638-468b-9889-096b22566f7b
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=9b9d9055-3638-468b-9889-096b22566f7b&sub=t32
 
