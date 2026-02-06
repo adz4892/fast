@@ -64,7 +64,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
 
-#EXTINF:-1 tvg-id="148.astro"group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/8TV.jpg",8TV
+#EXTINF:-1 tvg-id="148.astro" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/8TV.jpg",8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -443,7 +443,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
-#EXTINF:-1 tvg-id="392.astro"group-title="astro one" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/KBSW.jpg",KBS World HD
+#EXTINF:-1 tvg-id="392.astro" group-title="astro one" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/KBSW.jpg",KBS World HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -461,7 +461,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
-#EXTINF:-1 tvg-id="396.astro" group-title=“astro one” tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/K%2B.jpg",K-Plus
+#EXTINF:-1 tvg-id="396.astro" group-title="astro one" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/K%2B.jpg",K-Plus
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
 #EXTINF:-1 tvg-id="104.astro" group-title="astro one" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/ASTRORIA.jpg",Astro Ria
@@ -1679,6 +1679,7 @@ https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/pla
 
 #EXTINF:-1 tvg-id="579.sooka" group-title="Sooka" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/HORSE.jpg",Horse & Country TV
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
+
 
 
 
