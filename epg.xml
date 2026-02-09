@@ -15,23 +15,23 @@
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg" />
     <url>http://www.molekfm.audio</url>
   </channel>
-  <channel id="FlyFM">
-    <display-name lang="en">Fly FM</display-name>
+  <channel id="FLYFM">
+    <display-name lang="en">FLYFM</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FLY.jpg" />
     <url>http://www.flyfm.audio</url>
   </channel>
-  <channel id="BestFM">
-    <display-name lang="en">Best FM</display-name>
+  <channel id="BESTFM">
+    <display-name lang="en">BESTFM</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/BESTFM.jpg" />
     <url>https://bestfm.com.my</url>
   </channel>
   <channel id="SURIAFM">
-    <display-name lang="en">SURIA</display-name>
+    <display-name lang="en">SURIAFM</display-name>
     <icon src=https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SURIA.jpg" />
     <url>https://suria.my</url>
   </channel>
-  <channel id="ManisFM">
-    <display-name lang="en">Manis Fm</display-name>
+  <channel id="MANISFM">
+    <display-name lang="en">MANISFM</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg" />
     <url>https://www.manis.fm</url>
   </channel>
@@ -40,1861 +40,1044 @@
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/CATS.jpg" />
     <url>https://www.catsfm.my</url>
   </channel>
-  <channel id="SARAWAKFM">
+  <channel id="SWKFM">
     <display-name lang="en">SARAWAKFM</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SARAWAK.jpg" />
     <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+	<channel id="KUPISWKFM">
+    <display-name lang="en">KUPI-KUPIFM SARAWAK</display-name>
+    <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KUPISWK.jpg" />
+    <url>https://kupikupifm.my</url>
+  </channel>
+<channel id="NASIONALFM">
+    <display-name lang="en">NASIONALFM</display-name>
+    <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/NASIONAL.jpg" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+<channel id="KLASIK">
+    <display-name lang="en">RADIO KLASIK</display-name>
+    <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOKLASIK.jpg" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+<channel id="RMUZIK">
+    <display-name lang="en">RADIO MUZIK</display-name>
+    <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOMUZIK.jpg" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+<channel id="SRIAMANFM">
+    <display-name lang="en">SRIAMANFM</display-name>
+    <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SRIAMAN.jpg" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+<channel id="SIBUFM">
+    <display-name lang="en">SIBUFM</display-name>
+    <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SIBU.jpg" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+<channel id="MIRIFM">
+    <display-name lang="en">MIRIFM</display-name>
+    <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MIRI.jpg" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+<channel id="LIMBANGFM">
+    <display-name lang="en">LIMBANGFM</display-name>
+    <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/LIMBANG.jpg" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+<channel id="BINTULUFM">
+    <display-name lang="en">BINTULUFM</display-name>
+    <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/BINTULU.jpg" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+<channel id="REDFM">
+    <display-name lang="en">REDFM</display-name>
+    <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RED.jpg" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+<channel id="WAIFM">
+    <display-name lang="en">WAIFM</display-name>
+    <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/WAIIBAN.jpg" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+<channel id="ERASBH">
+    <display-name lang="en">ERA SABAH</display-name>
+    <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASBH.jpg" />
+    <url>https://era.syok.my</url>
+  </channel>
+<channel id="ERASWK">
+    <display-name lang="en">ERA SARAWAK</display-name>
+    <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg" />
+    <url>https://era.syok.my</url>
+  </channel>
+<channel id="IKIMFM">
+    <display-name lang="en">IKIMFM</display-name>
+    <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/IKIM.jpg" />
+    <url>https://ikimfm.my</url>
   </channel>
   <channel id="247">
     <display-name lang="en">247</display-name>
     <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FM.png" />
     <url>http://www.rtmklik.rtm.gov.my</url>
   </channel>
-		<programme start="20260203000000 +0800" stop="20260203050000 +0800" channel="KOOLFM">
-		<title lang="en">Kool FM – Malaysia Dah Kool</title>
-		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
-		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
-	</programme>
-	<programme start="20260203050000 +0800" stop="20260203060000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM (Ulangan)</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="KOOLFM">
-		<title lang="en">Pagi On Point</title>
-		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
-	</programme>
-	<programme start="20260203100000 +0800" stop="20260203150000 +0800" channel="KOOLFM">
-		<title lang="en">Santai Kool</title>
-		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
-	</programme>
-	<programme start="20260203150000 +0800" stop="20260203190000 +0800" channel="KOOLFM">
-		<title lang="en">PM Kool</title>
-		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
-	</programme>
-	<programme start="20260203190000 +0800" stop="20260203200000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260203200000 +0800" stop="20260204000000 +0800" channel="KOOLFM">
-		<title lang="en">Cerita Malam Kita</title>
-		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
-	<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
-	</programme>
-<programme start="20260204000000 +0800" stop="20260204050000 +0800" channel="KOOLFM">
-		<title lang="en">Kool FM – Malaysia Dah Kool</title>
-		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
-		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
-	</programme>
-	<programme start="20260204050000 +0800" stop="20260204060000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM (Ulangan)</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="KOOLFM">
-		<title lang="en">Pagi On Point</title>
-		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
-	</programme>
-	<programme start="20260204100000 +0800" stop="20260204150000 +0800" channel="KOOLFM">
-		<title lang="en">Santai Kool</title>
-		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
-	</programme>
-	<programme start="20260204150000 +0800" stop="20260204190000 +0800" channel="KOOLFM">
-		<title lang="en">PM Kool</title>
-		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
-	</programme>
-	<programme start="20260204190000 +0800" stop="20260204200000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260204200000 +0800" stop="20260205000000 +0800" channel="KOOLFM">
-		<title lang="en">Cerita Malam Kita</title>
-		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
-	<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
-	</programme>
-<programme start="20260205000000 +0800" stop="20260205050000 +0800" channel="KOOLFM">
-		<title lang="en">Kool FM – Malaysia Dah Kool</title>
-		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
-		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
-	</programme>
-	<programme start="20260205050000 +0800" stop="20260205060000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM (Ulangan)</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260205060000 +0800" stop="20260205100000 +0800" channel="KOOLFM">
-		<title lang="en">Pagi On Point</title>
-		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
-	</programme>
-	<programme start="20260205100000 +0800" stop="20260205150000 +0800" channel="KOOLFM">
-		<title lang="en">Santai Kool</title>
-		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
-	</programme>
-	<programme start="20260205150000 +0800" stop="20260205190000 +0800" channel="KOOLFM">
-		<title lang="en">PM Kool</title>
-		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
-	</programme>
-	<programme start="20260205190000 +0800" stop="20260205200000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260205200000 +0800" stop="20260206000000 +0800" channel="KOOLFM">
-		<title lang="en">Cerita Malam Kita</title>
-		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
-	<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
-	</programme>
-<programme start="20260206000000 +0800" stop="20260206050000 +0800" channel="KOOLFM">
-		<title lang="en">Kool FM – Malaysia Dah Kool</title>
-		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
-		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
-	</programme>
-	<programme start="20260206050000 +0800" stop="20260206060000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM (Ulangan)</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260206060000 +0800" stop="20260206100000 +0800" channel="KOOLFM">
-		<title lang="en">Pagi On Point</title>
-		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
-	</programme>
-	<programme start="20260206100000 +0800" stop="20260206150000 +0800" channel="KOOLFM">
-		<title lang="en">Santai Kool</title>
-		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
-	</programme>
-	<programme start="20260206150000 +0800" stop="20260206190000 +0800" channel="KOOLFM">
-		<title lang="en">PM Kool</title>
-		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
-	</programme>
-	<programme start="20260206190000 +0800" stop="20260206200000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260206200000 +0800" stop="20260207000000 +0800" channel="KOOLFM">
-		<title lang="en">Cerita Malam Kita</title>
-		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
-	</programme>
-<programme start="20260207000000 +0800" stop="20260207050000 +0800" channel="KOOLFM">
-		<title lang="en">Kool FM – Malaysia Dah Kool</title>
-		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
-		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
-	</programme>
-	<programme start="20260207050000 +0800" stop="20260207060000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM (Ulangan)</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260207060000 +0800" stop="20260207120000 +0800" channel="KOOLFM">
-		<title lang="en">Kool FM – Malaysia Dah Kool</title>
-		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
-		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
-	</programme>
-	<programme start="20260207120000 +0800" stop="20260207160000 +0800" channel="KOOLFM">
-		<title lang="en">Kool Weekend</title>
-		<desc lang="en"> Hujung minggu dengan perbualan bermakna – real, segar dan berisi.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-08.jpg"/>
-	</programme>
-	<programme start="20260207160000 +0800" stop="20260207190000 +0800" channel="KOOLFM">
-		<title lang="en">Kool FM – Malaysia Dah Kool</title>
-		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
-		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
-	</programme>
-	<programme start="20260207190000 +0800" stop="20260207200000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260207200000 +0800" stop="20260208000000 +0800" channel="KOOLFM">
-		<title lang="en">Power Retro Kool FM</title>
-		<desc lang="en"> Nostalgia 80an & 90an – lagu evergreen yang kekal hidup.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-10.jpg"/>
-	</programme>
-<programme start="20260208000000 +0800" stop="20260208050000 +0800" channel="KOOLFM">
-		<title lang="en">Kool FM – Malaysia Dah Kool</title>
-		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
-		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
-	</programme>
-	<programme start="20260208050000 +0800" stop="20260208060000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM (Ulangan)</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260208060000 +0800" stop="20260208120000 +0800" channel="KOOLFM">
-		<title lang="en">Kool FM – Malaysia Dah Kool</title>
-		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
-		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
-	</programme>
-	<programme start="20260208120000 +0800" stop="20260208160000 +0800" channel="KOOLFM">
-		<title lang="en">Kool Weekend</title>
-		<desc lang="en"> Hujung minggu dengan perbualan bermakna – real, segar dan berisi.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-08.jpg"/>
-	</programme>
-	<programme start="20260208160000 +0800" stop="20260208190000 +0800" channel="KOOLFM">
-		<title lang="en">Kool FM – Malaysia Dah Kool</title>
-		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
-		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
-	</programme>
-	<programme start="20260208190000 +0800" stop="20260208200000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260208200000 +0800" stop="20260209000000 +0800" channel="KOOLFM">
-		<title lang="en">Power Retro Kool FM</title>
-		<desc lang="en"> Nostalgia 80an & 90an – lagu evergreen yang kekal hidup.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-10.jpg"/>
-	</programme>
-		<programme start="20260209000000 +0800" stop="20260209050000 +0800" channel="KOOLFM">
-		<title lang="en">Kool FM – Malaysia Dah Kool</title>
-		<desc lang="en">Kool FM – Malaysia Dah Kool.</desc>
-		<icon src="https://assets.thevocket.com/sites/1/2025/11/feed_koolfm_2025_3000x3750-05.jpg"/>
-	</programme>
-	<programme start="20260209050000 +0800" stop="20260209060000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM (Ulangan)</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260202090000 +0800" stop="20260209100000 +0800" channel="KOOLFM">
-		<title lang="en">Pagi On Point</title>
-		<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
-	</programme>
-	<programme start="20260209100000 +0800" stop="20260209150000 +0800" channel="KOOLFM">
-		<title lang="en">Santai Kool</title>
-		<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-02.jpg"/>
-	</programme>
-	<programme start="20260209150000 +0800" stop="20260209190000 +0800" channel="KOOLFM">
-		<title lang="en">PM Kool</title>
-		<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
-	</programme>
-	<programme start="20260209190000 +0800" stop="20260209200000 +0800" channel="KOOLFM">
-		<title lang="en">Kooliah Kool FM</title>
-		<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
-	</programme>
-	<programme start="20260209200000 +0800" stop="20260210000000 +0800" channel="KOOLFM">
-		<title lang="en">Cerita Malam Kita</title>
-		<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
-		<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
-	</programme>
-	<programme start="20260202060000 +0800" stop="20260202100000 +0800" channel="HOTFM">
-		<title lang="en">Bekpes Hot</title>
-		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>
-	</programme>
-	<programme start="20260202100000 +0800" stop="20260202150000 +0800" channel="HOTFM">
-		<title lang="en">FYP@Hot</title>
-		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
-	</programme>
-	<programme start="20260202150000 +0800" stop="20260202190000 +0800" channel="HOTFM">
-		<title lang="en">Hot Squad</title>
-		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>
-	</programme>
-	<programme start="20260202190000 +0800" stop="20260202200000 +0800" channel="HOTFM">
-		<title lang="en">Drama Sangat@Hot FM</title>
-		<desc lang="en"> </desc>
-		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
-	</programme>
-	<programme start="20260202200000 +0800" stop="20260203000000 +0800" channel="HOTFM">
-		<title lang="en">Hotflix</title>
-		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
-	</programme>
-	<programme start="20260203000000 +0800" stop="20260203060000 +0800" channel="HOTFM">
-		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
-		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
-		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
-	</programme>
-	<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="HOTFM">
-		<title lang="en">Bekpes Hot</title>
-		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>	</programme>
-	<programme start="20260203100000 +0800" stop="20260203150000 +0800" channel="HOTFM">
-		title lang="en">FYP@Hot</title>
-		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
-	</programme>
-	<programme start="20260203150000 +0800" stop="20260203190000 +0800" channel="HOTFM">
-		<title lang="en">Hot Squad</title>
-		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>
-	</programme>
-	<programme start="20260203190000 +0800" stop="20260203200000 +0800" channel="HOTFM">
-		<title lang="en">Drama Sangat@Hot FM</title>
-		<desc lang="en"> </desc>
-		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
-	</programme>
-	<programme start="20260203200000 +0800" stop="20260204000000 +0800" channel="HOTFM">
-		<title lang="en">Hotflix</title>
-		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
-	</programme>
-<programme start="20260204000000 +0800" stop="20260204060000 +0800" channel="HOTFM">
-		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
-		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
-		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
-	</programme>
-	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="HOTFM">
-		<title lang="en">Bekpes Hot</title>
-		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>	</programme>
-	<programme start="20260204100000 +0800" stop="20260204150000 +0800" channel="HOTFM">
-		title lang="en">FYP@Hot</title>
-		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
-	</programme>
-	<programme start="20260204150000 +0800" stop="20260204190000 +0800" channel="HOTFM">
-		<<title lang="en">Hot Squad</title>
-		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>	</programme>
-	<programme start="20260204190000 +0800" stop="20260204200000 +0800" channel="HOTFM">
-		<title lang="en">Drama Sangat@Hot FM</title>
-		<desc lang="en"> </desc>
-		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>	</programme>
-	<programme start="20260204200000 +0800" stop="20260205000000 +0800" channel="HOTFM">
-		<title lang="en">Hotflix</title>
-		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
-	</programme>
-	<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
-		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
-		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
-	</programme>
-	<programme start="20260205060000 +0800" stop="20260205100000 +0800" channel="HOTFM">
-		<title lang="en">Bekpes Hot</title>
-		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>	</programme>
-	<programme start="20260205100000 +0800" stop="20260205150000 +0800" channel="HOTFM">
-		title lang="en">FYP@Hot</title>
-		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>	</programme>
-	<programme start="20260205150000 +0800" stop="20260205190000 +0800" channel="HOTFM">
-		<title lang="en">Hot Squad</title>
-		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>	</programme>
-	<programme start="20260205190000 +0800" stop="20260205200000 +0800" channel="HOTFM">
-		<title lang="en">Drama Sangat@Hot FM</title>
-		<desc lang="en"> </desc>
-		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>	</programme>
-	<programme start="20260205200000 +0800" stop="20260206000000 +0800" channel="HOTFM">
-		<title lang="en">Hotflix</title>
-		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
-	</programme>
-	<programme start="20260206000000 +0800" stop="20260206060000 +0800" channel="HOTFM">
-		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
-		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
-		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
-	</programme>
-	<programme start="20260206060000 +0800" stop="20260206100000 +0800" channel="HOTFM">
-		<title lang="en">Bekpes Hot</title>
-		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>
-	</programme>
-	<programme start="20260206100000 +0800" stop="20260206150000 +0800" channel="HOTFM">
-		<title lang="en">FYP@Hot</title>
-		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
-	</programme>
-	<programme start="20260206150000 +0800" stop="20260206190000 +0800" channel="HOTFM">
-		<title lang="en">Hot Squad</title>
-		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>
-	</programme>
-	<programme start="20260206190000 +0800" stop="20260206200000 +0800" channel="HOTFM">
-		<title lang="en">Drama Sangat@Hot FM</title>
-		<desc lang="en"> </desc>
-		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
-	</programme>
-	<programme start="20260206200000 +0800" stop="20260207000000 +0800" channel="HOTFM">
-		<title lang="en">Hotflix</title>
-		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
-	</programme>
-<programme start="20260207000000 +0800" stop="20260207100000 +0800" channel="HOTFM">
-		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
-		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
-		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
-	</programme>
-	<programme start="20260207100000 +0800" stop="20260207140000 +0800" channel="HOTFM">
-		<title lang="en">Hot JL 40</title>
-		<desc lang="en">Kira turun 40 lagu terhangat mingguan di hujung minggu anda.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-05.jpg"/>
-	</programme>
-	<programme start="20260207140000 +0800" stop="20260207180000 +0800" channel="HOTFM">
-		<title lang="en">Hot FM Ucap Seru</title>
-		<desc lang="en">Hot FM Ucap Seru</desc>
-		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
-	</programme>
-	<programme start="20260207180000 +0800" stop="20260207190000 +0800" channel="HOTFM">
-		<title lang="en"> Lagu Hot Yang Fresh </title>
-		<desc lang="en"> </desc>
-		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
-	</programme>
-	<programme start="20260207190000 +0800" stop="20260207200000 +0800" channel="HOTFM">
-		<title lang="en">Drama Sangat@Hot FM</title>
-		<desc lang="en"> </desc>
-		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
-	</programme>
-	<programme start="20260207210000 +0800" stop="202600131220000 +0800" channel="HOTFM">
-		<title lang="en">Hot FM HMO</title>
-		<desc lang="en">1 jam lagu-lagu & cerita dunia Hip Hop bersama Ayu & Han Kabir.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-AP-10.jpg"/>
-	</programme>
-	<programme start="20260207220000 +0800" stop="202600201000000 +0800" channel="HOTFM">
-		<title lang="en">Kpop Show</title>
-		<desc lang="en">Fesyen, Makanan, Kdrama dan lagu lagu Kpop. Semuanya tentang K!</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-06.jpg"/>
-	</programme>
-	<programme start="20260208000000 +0800" stop="20260208100000 +0800" channel="HOTFM">
-		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
-		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
-		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
-	</programme>
-	<programme start="20260208100000 +0800" stop="20260208140000 +0800" channel="HOTFM">
-		<title lang="en">Hot JL 40 (Ulangan)</title>
-		<desc lang="en">Kira turun 40 lagu terhangat mingguan di hujung minggu anda.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-05.jpg"/>
-	</programme>
-	<programme start="20260208140000 +0800" stop="20260208180000 +0800" channel="HOTFM">
-		<title lang="en">Hot FM Ucap Seru</title>
-		<desc lang="en">Hot FM Ucap Seru</desc>
-		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
-	</programme>
-	<programme start="20260208180000 +0800" stop="20260208190000 +0800" channel="HOTFM">
-		<title lang="en">Kpop Show (Ulangan)</title>
-		<desc lang="en">Fesyen, Makanan, Kdrama dan lagu lagu Kpop. Semuanya tentang K!</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-06.jpg"/>
-	</programme>
-	<programme start="20260208190000 +0800" stop="20260208200000 +0800" channel="HOTFM">
-		<title lang="en">Drama Sangat@Hot FM</title>
-		<desc lang="en"> </desc>
-		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
-	</programme>
-	<programme start="20260208200000 +0800" stop="20260208220000 +0800" channel="HOTFM">
-		<title lang="en">Carta Muzik Muzik</title>
-		<desc lang="en">Terlepas saksikan Carta Muzik-Muzik di TV3? Dengarkan je di Hot FM bersama Keymi.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-AP-09.jpg"/>
-	</programme>
-<programme start="20260208220000 +0800" stop="20260209060000 +0800" channel="HOTFM">
-		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
-		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
-		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
-	</programme>
-	<programme start="20260209060000 +0800" stop="20260209100000 +0800" channel="HOTFM">
-		<title lang="en">Bekpes Hot</title>
-		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>
-	</programme>
-	<programme start="20260209100000 +0800" stop="20260209150000 +0800" channel="HOTFM">
-		<title lang="en">FYP@Hot</title>
-		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
-	</programme>
-	<programme start="20260209150000 +0800" stop="20260209190000 +0800" channel="HOTFM">
-		<title lang="en">Hot Squad</title>
-		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>
-	</programme>
-	<programme start="20260209190000 +0800" stop="20260209200000 +0800" channel="HOTFM">
-		<title lang="en">Drama Sangat@Hot FM</title>
-		<desc lang="en"> </desc>
-		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
-	</programme>
-	<programme start="20260209200000 +0800" stop="20260210000000 +0800" channel="HOTFM">
-		<title lang="en">Hotflix</title>
-		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
-	</programme>
-	<programme start="20260210000000 +0800" stop="20260210060000 +0800" channel="HOTFM">
-		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
-		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
-		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
-	</programme>
-	<programme start="20260210060000 +0800" stop="20260210100000 +0800" channel="HOTFM">
-		<title lang="en">Bekpes Hot</title>
-		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>	</programme>
-	<programme start="20260210100000 +0800" stop="20260210150000 +0800" channel="HOTFM">
-		title lang="en">FYP@Hot</title>
-		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
-	</programme>
-	<programme start="20260210150000 +0800" stop="20260210190000 +0800" channel="HOTFM">
-		<title lang="en">Hot Squad</title>
-		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>
-	</programme>
-	<programme start="20260210190000 +0800" stop="20260210200000 +0800" channel="HOTFM">
-		<title lang="en">Drama Sangat@Hot FM</title>
-		<desc lang="en"> </desc>
-		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
-	</programme>
-	<programme start="20260210200000 +0800" stop="20260211000000 +0800" channel="HOTFM">
-		<title lang="en">Hotflix</title>
-		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
-	</programme>
-<programme start="20260211000000 +0800" stop="20260211060000 +0800" channel="HOTFM">
-		<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
-		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
-		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
-	</programme>
-	<programme start="20260211060000 +0800" stop="20260211100000 +0800" channel="HOTFM">
-		<title lang="en">Bekpes Hot</title>
-		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>	</programme>
-	<programme start="20260211100000 +0800" stop="20260211150000 +0800" channel="HOTFM">
-		title lang="en">FYP@Hot</title>
-		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>
-	</programme>
-	<programme start="20260211150000 +0800" stop="20260211190000 +0800" channel="HOTFM">
-		<<title lang="en">Hot Squad</title>
-		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>	</programme>
-	<programme start="20260211190000 +0800" stop="20260211200000 +0800" channel="HOTFM">
-		<title lang="en">Drama Sangat@Hot FM</title>
-		<desc lang="en"> </desc>
-		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>	</programme>
-	<programme start="20260211200000 +0800" stop="20260212000000 +0800" channel="HOTFM">
-		<title lang="en">Hotflix</title>
-		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
-	</programme>
-	<title lang="en">HOT FM – Terbaik Sentiasa Hangat</title>
-		<desc lang="en">HOT FM – Terbaik Sentiasa Hangat</desc>
-		<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
-	</programme>
-	<programme start="20260212060000 +0800" stop="20260212100000 +0800" channel="HOTFM">
-		<title lang="en">Bekpes Hot</title>
-		<desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-01.jpg"/>	</programme>
-	<programme start="20260212100000 +0800" stop="20260212150000 +0800" channel="HOTFM">
-		title lang="en">FYP@Hot</title>
-		<desc lang="en">Keymi akan memain kan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 dan akan membuat temujanji lunch dengan anda untuk pilihan lagu lagu yang menemai anda sambil keluar makan tengah hari.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/featured_hotfm_2025_FYP-keymi.jpg"/>	</programme>
-	<programme start="20260212150000 +0800" stop="20260212190000 +0800" channel="HOTFM">
-		<title lang="en">Hot Squad</title>
-		<desc lang="en">Fizi Ali akan memberikan 3 cerita yang viral di waktu petang serta topik yang menarik bersama mereka. Anda juga boleh karaoke dalam Karok Squad.</desc>
-		<icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-03.jpg"/>	</programme>
-	<programme start="20260212190000 +0800" stop="20260212200000 +0800" channel="HOTFM">
-		<title lang="en">Drama Sangat@Hot FM</title>
-		<desc lang="en"> </desc>
-		<icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>	</programme>
-	<programme start="20260212200000 +0800" stop="20260213000000 +0800" channel="HOTFM">
-		<title lang="en">Hotflix</title>
-		<desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
-		<icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
-	</programme>
-		<programme start="20260202000000 +0800" stop="20260202060000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
-	</programme>
-	<programme start="20260202060000 +0800" stop="20260202100000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Pagi</title>
-		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
-	</programme>
-	<programme start="20260202100000 +0800" stop="20260202150000 +0800" channel="MOLEKFM">
-		<title lang="en">Muzik Tanpa Yoya</title>
-		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260202150000 +0800" stop="20260202190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Petang</title>
-		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
-	</programme>
-	<programme start="20260202190000 +0800" stop="20260202200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260202200000 +0800" stop="20260203000000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Malam</title>
-		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
-	</programme>
-	<programme start="20260203000000 +0800" stop="20260203060000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
-	</programme>
-	<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Pagi</title>
-		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
-	</programme>
-	<programme start="20260203100000 +0800" stop="20260203150000 +0800" channel="MOLEKFM">
-		<title lang="en">Muzik Tanpa Yoya</title>
-		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260203150000 +0800" stop="20260203190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Petang</title>
-		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
-	</programme>
-	<programme start="20260203190000 +0800" stop="20260203200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260203200000 +0800" stop="20260204000000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Malam</title>
-		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
-	</programme>
-	<programme start="20260204000000 +0800" stop="20260204060000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
-	</programme>
-	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Pagi</title>
-		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
-	</programme>
-	<programme start="20260204100000 +0800" stop="20260204150000 +0800" channel="MOLEKFM">
-		<title lang="en">Muzik Tanpa Yoya</title>
-		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260204150000 +0800" stop="20260204190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Petang</title>
-		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
-	</programme>
-	<programme start="20260204190000 +0800" stop="20260204200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260204200000 +0800" stop="20260205000000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Malam</title>
-		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
-	</programme>
-		<programme start="20260205000000 +0800" stop="20260205060000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
-	</programme>
-	<programme start="20260205060000 +0800" stop="20260205100000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Pagi</title>
-		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
-	</programme>
-	<programme start="20260205100000 +0800" stop="20260205150000 +0800" channel="MOLEKFM">
-		<title lang="en">Muzik Tanpa Yoya</title>
-		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260205150000 +0800" stop="20260205190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Petang</title>
-		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
-	</programme>
-	<programme start="20260205190000 +0800" stop="20260205200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260205200000 +0800" stop="20260206000000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Malam</title>
-		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
-	</programme>
-	<programme start="20260206000000 +0800" stop="20260206060000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
-	</programme>
-	<programme start="20260206060000 +0800" stop="20260206120000 +0800" channel="MOLEKFM">
-		<title lang="en">Terbaik Molek Pagi</title>
-		<desc lang="en"> Ulangan Terbaik Molek Pagi.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
-	</programme>
-	<programme start="20260206120000 +0800" stop="20260206150000 +0800" channel="MOLEKFM">
-		<title lang="en"> Jumaat Penghulu Hari</title>
-		<desc lang="en"> Bersihkan hati, sucikan jiwa dalam Jumaat Penghulu Hari!</desc>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260206150000 +0800" stop="20260206190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Korner</title>
-		<desc lang="en"> Nak mintak lagu? Nak suara anda di udara? Boleh je, make sure call dan WhatsApp kami ok!</desc>
-		<icon src=" https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
-	</programme>
-	<programme start="20260206190000 +0800" stop="20260206200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260206200000 +0800" stop="20260206210000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
-	</programme>
-	<programme start="20260206210000 +0800" stop="20260207000000 +0800" channel="MOLEKFM">
-		<title lang="en">Artis Molek Gu</title>
-		<desc lang="en"> Setiap minggu Qila & Anna akan bersama artis pilhan Molek, dengarkan kisah-kisah menarik dan perkembangan terkini Artis Molek Gu!</desc>
-		<icon src="https://assets.molekfm.audio/2025/05/nCBvl3pW-featured_molekfm_anp2024_1200x630-06.jpg"/>
-	</programme>
-	<programme start="20260207000000 +0800" stop="20260207060000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
-	</programme>
-	<programme start="20260207060000 +0800" stop="20260207120000 +0800" channel="MOLEKFM">
-		<title lang="en">Terbaik Molek Pagi</title>
-		<desc lang="en"> Ulangan Terbaik Molek Pagi.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
-	</programme>
-	<programme start="20260207120000 +0800" stop="20260207150000 +0800" channel="MOLEKFM">
-		<title lang="en">Artis Molek Gu (Ulangan)</title>
-		<desc lang="en"> Setiap minggu Qila & Anna akan bersama artis pilhan Molek, dengarkan kisah-kisah menarik dan perkembangan terkini Artis Molek Gu!</desc>
-		<icon src="https://assets.molekfm.audio/2025/05/nCBvl3pW-featured_molekfm_anp2024_1200x630-06.jpg"/>
-	</programme>
-	<programme start="20260207150000 +0800" stop="20260207190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Korner</title>
-		<desc lang="en"> Nak mintak lagu? Nak suara anda di udara? Boleh je, make sure call dan WhatsApp kami ok!</desc>
-		<icon src=" https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
-	</programme>
-	<programme start="20260207190000 +0800" stop="20260207200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260207200000 +0800" stop="20260208000000 +0800" channel="MOLEKFM">
-		<title lang="en">Terbaik Molek Pagi</title>
-		<desc lang="en"> Ulangan Terbaik Molek Pagi.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
-	</programme>
-	<programme start="20260208000000 +0800" stop="20260208060000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek FM – Gu Pantai Timur</title>
-		<desc lang="en">Molek FM – Gu Pantai Timur.</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
-	</programme>
-	<programme start="20260208060000 +0800" stop="20260208100000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Pagi</title>
-		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
-	</programme>
-	<programme start="20260208100000 +0800" stop="20260208150000 +0800" channel="MOLEKFM">
-		<title lang="en">Muzik Tanpa Yoya</title>
-		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260208150000 +0800" stop="20260208190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Petang</title>
-		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
-	</programme>
-	<programme start="20260208190000 +0800" stop="20260208200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260208200000 +0800" stop="20260209000000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Malam</title>
-		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
-	</programme>
-	<programme start="20260209060000 +0800" stop="20260209100000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Pagi</title>
-		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
-	</programme>
-	<programme start="20260209100000 +0800" stop="20260209150000 +0800" channel="MOLEKFM">
-		<title lang="en">Muzik Tanpa Yoya</title>
-		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260209150000 +0800" stop="20260209190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Petang</title>
-		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
-	</programme>
-	<programme start="20260209190000 +0800" stop="20260209200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260209200000 +0800" stop="20260209000000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Malam</title>
-		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
-	</programme>
-	<programme start="20260210060000 +0800" stop="20260210100000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Pagi</title>
-		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
-	</programme>
-	<programme start="20260210100000 +0800" stop="20260210150000 +0800" channel="MOLEKFM">
-		<title lang="en">Muzik Tanpa Yoya</title>
-		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260210150000 +0800" stop="20260210190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Petang</title>
-		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
-	</programme>
-	<programme start="20260210190000 +0800" stop="20260210200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260210200000 +0800" stop="20260211000000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Malam</title>
-		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
-	</programme>
-	<programme start="20260211060000 +0800" stop="20260211100000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Pagi</title>
-		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
-	</programme>
-	<programme start="20260211100000 +0800" stop="20260211150000 +0800" channel="MOLEKFM">
-		<title lang="en">Muzik Tanpa Yoya</title>
-		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260211150000 +0800" stop="20260211190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Petang</title>
-		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
-	</programme>
-	<programme start="20260211190000 +0800" stop="20260211200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260211200000 +0800" stop="20260212000000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Malam</title>
-		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
-	</programme>
-	<programme start="20260212060000 +0800" stop="20260212100000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Pagi</title>
-		<desc lang="en"> Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
-	</programme>
-	<programme start="20260212100000 +0800" stop="20260212150000 +0800" channel="MOLEKFM">
-		<title lang="en">Muzik Tanpa Yoya</title>
-		<desc lang="en"> Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-		<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260212150000 +0800" stop="20260212190000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Petang</title>
-		<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
-	</programme>
-	<programme start="20260212190000 +0800" stop="20260212200000 +0800" channel="MOLEKFM">
-		<title lang="en">Renungan Molek</title>
-		<desc lang="en"> Sesi inspirasi untuk cerminan diri.</desc>
-		<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
-	</programme>
-	<programme start="20260212200000 +0800" stop="20260213000000 +0800" channel="MOLEKFM">
-		<title lang="en">Molek Malam</title>
-		<desc lang="en"> Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-		<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
-	</programme>
-		<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="CATSFM">
-		<title lang="en">CATS AM CREW</title>
-		<desc lang="en">(6AM – 7AM) CATS Update 
-(7AM – 8AM) Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata.
-(8AM – 9AM) Perbincangan topik trending di seluruh dunia.
-(9AM - 10AM) Segmen Pak Lambet berkongsi tentang ramalan kaji cuaca di seluruh Sarawak dan apa-apa aduan yang diajukan oleh orang awam.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
-	</programme>
-	<programme start="20260203100000 +0800" stop="20260203130000 +0800" channel="CATSFM">
-		<title lang="en">#CATS MUZIK</title>
-		<desc lang="en"> Gosip hangat, tips yang menarik dan lagu terkini yang hangat! - Playlist Opis setiap hari Isnin, Rabu & Jumaat -
-Sihat DI CATS  setiap hari Selasa dan CATS Terpaling 5.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251104165146.jpg"/>
-	</programme>
-	<programme start="20260203130000 +0800" stop="20260203160000 +0800" channel="CATSFM">
-		<title lang="en">RUAI CATS</title>
-		<desc lang="en"> Isnin hingga Rabu - DJ Fred & Shilla J 
-Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251202120414.jpg"/>
-	</programme>
-	<programme start="20260203160000 +0800" stop="20260203200000 +0800" channel="CATSFM">
-		<title lang="en">GENG PETANG CATS</title>
-		<desc lang="en"> CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
-	</programme>
-	<programme start="20260203200000 +0800" stop="20260203230000 +0800" channel="CATSFM">
-		<title lang="en">CATS NIGHT OUT</title>
-		<desc lang="en"> (8pm-9pm) Sajian lagu bertema yang berbeza setiap malam
-(9pm-11pm) CATS Pilihan Lagu Kitak.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251124151142.jpg"/>
-	</programme>
-	<programme start="20260203230000 +0800" stop="20260204060000 +0800" channel="CATSFM">
-		<title lang="en">ANTAP MUZIK</title>
-		<desc lang="en">ANTAP MUZIK</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
-	</programme>
-	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="CATSFM">
-		<title lang="en">CATS AM CREW</title>
-		<desc lang="en">(6AM – 7AM) CATS Update 
-(7AM – 8AM) Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata.
-(8AM – 9AM) Perbincangan topik trending di seluruh dunia.
-(9AM - 10AM) Segmen Pak Lambet berkongsi tentang ramalan kaji cuaca di seluruh Sarawak dan apa-apa aduan yang diajukan oleh orang awam.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
-	</programme>
-	<programme start="20260204100000 +0800" stop="20260204130000 +0800" channel="CATSFM">
-		<title lang="en">#CATS MUZIK</title>
-		<desc lang="en"> Gosip hangat, tips yang menarik dan lagu terkini yang hangat! - Playlist Opis setiap hari Isnin, Rabu & Jumaat -
-Sihat DI CATS  setiap hari Selasa dan CATS Terpaling 5.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251104165146.jpg"/>
-	</programme>
-	<programme start="20260204130000 +0800" stop="20260204160000 +0800" channel="CATSFM">
-		<title lang="en">RUAI CATS</title>
-		<desc lang="en"> Isnin hingga Rabu - DJ Fred & Shilla J 
-Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251202120414.jpg"/>
-	</programme>
-	<programme start="20260204160000 +0800" stop="20260204200000 +0800" channel="CATSFM">
-		<title lang="en">GENG PETANG CATS</title>
-		<desc lang="en"> CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
-	</programme>
-	<programme start="20260204200000 +0800" stop="20260204230000 +0800" channel="CATSFM">
-		<title lang="en">CATS NIGHT OUT</title>
-		<desc lang="en"> (8pm-9pm) Sajian lagu bertema yang berbeza setiap malam
-(9pm-11pm) CATS Pilihan Lagu Kitak.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251124151142.jpg"/>
-	</programme>
-	<programme start="20260204230000 +0800" stop="20260205060000 +0800" channel="CATSFM">
-		<title lang="en">ANTAP MUZIK</title>
-		<desc lang="en">ANTAP MUZIK</desc>
-		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
-	</programme>
-	<programme start="20260205060000 +0800" stop="20260205100000 +0800" channel="CATSFM">
-		<title lang="en">CATS AM CREW</title>
-		<desc lang="en">(6AM – 7AM) CATS Update 
-(7AM – 8AM) Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata.
-(8AM – 9AM) Perbincangan topik trending di seluruh dunia.
-(9AM - 10AM) Segmen Pak Lambet berkongsi tentang ramalan kaji cuaca di seluruh Sarawak dan apa-apa aduan yang diajukan oleh orang awam.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
-	</programme>
-	<programme start="20260205100000 +0800" stop="20260205130000 +0800" channel="CATSFM">
-		<title lang="en">#CATS MUZIK</title>
-		<desc lang="en"> Gosip hangat, tips yang menarik dan lagu terkini yang hangat! - Playlist Opis setiap hari Isnin, Rabu & Jumaat -
-Sihat DI CATS  setiap hari Selasa dan CATS Terpaling 5.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251104165146.jpg"/>
-	</programme>
-	<programme start="20260205130000 +0800" stop="20260205160000 +0800" channel="CATSFM">
-		<title lang="en">RUAI CATS</title>
-		<desc lang="en"> Isnin hingga Rabu - DJ Fred & Shilla J 
-Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251202120414.jpg"/>
-	</programme>
-	<programme start="20260205160000 +0800" stop="20260205200000 +0800" channel="CATSFM">
-		<title lang="en">GENG PETANG CATS</title>
-		<desc lang="en"> CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
-	</programme>
-	<programme start="20260205200000 +0800" stop="20260205230000 +0800" channel="CATSFM">
-		<title lang="en">CATS NIGHT OUT</title>
-		<desc lang="en"> (8pm-9pm) Sajian lagu bertema yang berbeza setiap malam
-(9pm-11pm) CATS Pilihan Lagu Kitak.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251124151142.jpg"/>
-	</programme>
-	<programme start="20260205230000 +0800" stop="20260206060000 +0800" channel="CATSFM">
-		<title lang="en">ANTAP MUZIK</title>
-		<desc lang="en">ANTAP MUZIK</desc>
-		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
-	</programme>
-	<programme start="20260206060000 +0800" stop="20260206100000 +0800" channel="CATSFM">
-		<title lang="en">CATS AM CREW</title>
-		<desc lang="en">(6AM – 7AM) CATS Update 
-(7AM – 8AM) Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata.
-(8AM – 9AM) Perbincangan topik trending di seluruh dunia.
-(9AM - 10AM) Segmen Pak Lambet berkongsi tentang ramalan kaji cuaca di seluruh Sarawak dan apa-apa aduan yang diajukan oleh orang awam.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
-	</programme>
-	<programme start="20260206100000 +0800" stop="20260206130000 +0800" channel="CATSFM">
-		<title lang="en">#CATS MUZIK</title>
-		<desc lang="en"> Gosip hangat, tips yang menarik dan lagu terkini yang hangat! - Playlist Opis setiap hari Isnin, Rabu & Jumaat -
-Sihat DI CATS  setiap hari Selasa dan CATS Terpaling 5.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251104165146.jpg"/>
-	</programme>
-	<programme start="20260206130000 +0800" stop="20260206160000 +0800" channel="CATSFM">
-		<title lang="en">RUAI CATS</title>
-		<desc lang="en"> Isnin hingga Rabu - DJ Fred & Shilla J 
-Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251202120414.jpg"/>
-	</programme>
-	<programme start="20260206160000 +0800" stop="20260206200000 +0800" channel="CATSFM">
-		<title lang="en">GENG PETANG CATS</title>
-		<desc lang="en"> CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
-	</programme>
-	<programme start="20260206200000 +0800" stop="20260206230000 +0800" channel="CATSFM">
-		<title lang="en">CATS NIGHT OUT</title>
-		<desc lang="en"> (8pm-9pm) Sajian lagu bertema yang berbeza setiap malam
-(9pm-11pm) CATS Pilihan Lagu Kitak.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251124151142.jpg"/>
-	</programme>
-	<programme start="20260206230000 +0800" stop="20260207070000 +0800" channel="CATSFM">
-		<title lang="en">ANTAP MUZIK</title>
-		<desc lang="en">ANTAP MUZIK</desc>
-		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
-	</programme>
-	<programme start="20260207070000 +0800" stop="20260207110000 +0800" channel="CATSFM">
-		<title lang="en">CATS WEEKEND</title>
-		<desc lang="en">CATS Weekend gives you best info and music over the weekend. Happening every Saturday and Sunday, DJ will entertain you with interesting activities going on over the weekend.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251101222731.jpg"/>
-	</programme>
-	<programme start="20260207110000 +0800" stop="20260207130000 +0800" channel="CATSFM">
-		<title lang="en">CATS 30</title>
-		<desc lang="en">Carta Mingguan.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/chart/20250416205641.jpg"/>
-	</programme>
-	<programme start="20260207130000 +0800" stop="20260207150000 +0800" channel="CATSFM">
-		<title lang="en">LAGU TERBILANG CATS</title>
-		<desc lang="en"> Carta Mingguan Iban.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/chart/20251203175044.png"/>
-	</programme>
-	<programme start="20260207150000 +0800" stop="20260207160000 +0800" channel="CATSFM">
-		<title lang="en">CATS UJUNG MINGGU</title>
-		<desc lang="en"> CATS Ujung Minggu.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/chart/20251203175044.png"/>
-	</programme>
-	<programme start="20260207160000 +0800" stop="20260207230000 +0800" channel="CATSFM">
-		<title lang="en">CATS WEEKEND</title>
-		<desc lang="en"> Cats Weekend</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251101222731.jpg"/>
-	</programme>
-	<programme start="20260207230000 +0800" stop="20260208070000 +0800" channel="CATSFM">
-		<title lang="en">ANTAP MUZIK</title>
-		<desc lang="en">ANTAP MUZIK</desc>
-		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
-	</programme>
-	<programme start="20260208070000 +0800" stop="20260208100000 +0800" channel="CATSFM">
-		<title lang="en">CATS WEEKEND</title>
-		<desc lang="en">CATS Weekend gives you best info and music over the weekend. Happening every Saturday and Sunday, DJ will entertain you with interesting activities going on over the weekend.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251101222731.jpg"/>
-	</programme>
-	<programme start="20260208100000 +0800" stop="20260208110000 +0800" channel="CATSFM">
-		<title lang="en">CATS PREBIU</title>
-		<desc lang="en">Cats Prebiu.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/chart/20250307132839.jpg"/>
-	</programme>
-	<programme start="20260208110000 +0800" stop="20260208130000 +0800" channel="CATSFM">
-		<title lang="en">CATS XPOSED</title>
-		<desc lang="en">Cats Xposed.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/chart/20251203175004.png"/>
-	</programme>
-	<programme start="20260208130000 +0800" stop="20260208150000 +0800" channel="CATSFM">
-		<title lang="en">CATS XPOSED (ED)</title>
-		<desc lang="en"> CATS Xposed Ethnic Division.</desc>
-		<icon src=" "/>
-	</programme>
-	<programme start="20260208150000 +0800" stop="20260208160000 +0800" channel="CATSFM">
-		<title lang="en">CATS UJUNG MINGGU</title>
-		<desc lang="en"> CATS Ujung Minggu.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/chart/20251203175044.png"/>
-	</programme>
-	<programme start="20260208160000 +0800" stop="20260208200000 +0800" channel="CATSFM">
-		<title lang="en">CATS WEEKEND</title>
-		<desc lang="en"> Cats Weekend</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
-	</programme>
-	<programme start="20260208200000 +0800" stop="20260208230000 +0800" channel="CATSFM">
-		<title lang="en">CATS 30 (Ulangan)</title>
-		<desc lang="en"> Carta Mingguan.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/chart/20250416205641.jpg"/>
-	</programme>
-	<programme start="20260208230000 +0800" stop="20260209060000 +0800" channel="CATSFM">
-		<title lang="en">ANTAP MUZIK</title>
-		<desc lang="en">ANTAP MUZIK</desc>
-		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
-	</programme>
-	<programme start="20260209060000 +0800" stop="20260209100000 +0800" channel="CATSFM">
-		<title lang="en">CATS AM CREW</title>
-		<desc lang="en">(6AM – 7AM) CATS Update 
-(7AM – 8AM) Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata.
-(8AM – 9AM) Perbincangan topik trending di seluruh dunia.
-(9AM - 10AM) Segmen Pak Lambet berkongsi tentang ramalan kaji cuaca di seluruh Sarawak dan apa-apa aduan yang diajukan oleh orang awam.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
-	</programme>
-	<programme start="20260209100000 +0800" stop="20260209130000 +0800" channel="CATSFM">
-		<title lang="en">#CATS MUZIK</title>
-		<desc lang="en"> Gosip hangat, tips yang menarik dan lagu terkini yang hangat! - Playlist Opis setiap hari Isnin, Rabu & Jumaat -
-Sihat DI CATS  setiap hari Selasa dan CATS Terpaling 5.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251104165146.jpg"/>
-	</programme>
-	<programme start="20260209130000 +0800" stop="20260209160000 +0800" channel="CATSFM">
-		<title lang="en">RUAI CATS</title>
-		<desc lang="en"> Isnin hingga Rabu - DJ Fred & Shilla J 
-Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251202120414.jpg"/>
-	</programme>
-	<programme start="20260209160000 +0800" stop="20260209200000 +0800" channel="CATSFM">
-		<title lang="en">GENG PETANG CATS</title>
-		<desc lang="en"> CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
-	</programme>
-	<programme start="20260209200000 +0800" stop="20260209230000 +0800" channel="CATSFM">
-		<title lang="en">CATS NIGHT OUT</title>
-		<desc lang="en"> (8pm-9pm) Sajian lagu bertema yang berbeza setiap malam
-(9pm-11pm) CATS Pilihan Lagu Kitak.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251124151142.jpg"/>
-	</programme>
-	<programme start="20260209230000 +0800" stop="20260210060000 +0800" channel="CATSFM">
-		<title lang="en">ANTAP MUZIK</title>
-		<desc lang="en">ANTAP MUZIK</desc>
-		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
-	</programme>
-	<programme start="20260210060000 +0800" stop="20260210100000 +0800" channel="CATSFM">
-		<title lang="en">CATS AM CREW</title>
-		<desc lang="en">(6AM – 7AM) CATS Update 
-(7AM – 8AM) Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata.
-(8AM – 9AM) Perbincangan topik trending di seluruh dunia.
-(9AM - 10AM) Segmen Pak Lambet berkongsi tentang ramalan kaji cuaca di seluruh Sarawak dan apa-apa aduan yang diajukan oleh orang awam.</desc>
-src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
-	</programme>
-	<programme start="20260210100000 +0800" stop="20260210130000 +0800" channel="CATSFM">
-		<title lang="en">#CATS MUZIK</title>
-		<desc lang="en"> Gosip hangat, tips yang menarik dan lagu terkini yang hangat! - Playlist Opis setiap hari Isnin, Rabu & Jumaat -
-Sihat DI CATS  setiap hari Selasa dan CATS Terpaling 5.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251104165146.jpg"/>
-	</programme>
-	<programme start="20260210130000 +0800" stop="20260210160000 +0800" channel="CATSFM">
-		<title lang="en">RUAI CATS</title>
-		<desc lang="en"> Isnin hingga Rabu - DJ Fred & Shilla J 
-Khamis & Jumaat - DJ Ijau (Maxwel Franklin).</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251202120414.jpg"/>
-	</programme>
-	<programme start="20260210160000 +0800" stop="20260210200000 +0800" channel="CATSFM">
-		<title lang="en">GENG PETANG CATS</title>
-		<desc lang="en"> CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
-	</programme>
-	<programme start="20260210200000 +0800" stop="20260210230000 +0800" channel="CATSFM">
-		<title lang="en">CATS NIGHT OUT</title>
-		<desc lang="en"> (8pm-9pm) Sajian lagu bertema yang berbeza setiap malam
-(9pm-11pm) CATS Pilihan Lagu Kitak.</desc>
-		<icon src="https://www.catsfm.my/storage/assets/media/program/20251124151142.jpg"/>
-	</programme>
-	<programme start="20260210230000 +0800" stop="20260204060000 +0800" channel="CATSFM">
-		<title lang="en">ANTAP MUZIK</title>
-		<desc lang="en">ANTAP MUZIK</desc>
-		<icon src="http://web.catsfm.my/storage/assets/media/program/20240522025829.jpg"/>
-	</programme>
-	<programme start="20260204000000 +0800" stop="20260204060000 +0800" channel="SURIAFM">
-		<title lang="en">SURIA – Muzik & Jiwa</title>
-		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
-	</programme>
-	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="SURIAFM">
-		<title lang="en">Pagi On Suria</title>
-		<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260204100000 +0800" stop="20260204130000 +0800" channel="SURIAFM">
-		<title lang="en">Vibe Suria</title>
-		<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260204130000 +0800" stop="20260204150000 +0800" channel="SURIAFM">
-		<title lang="en">Playlist Suria</title>
-		<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260204150000 +0800" stop="20260204190000 +0800" channel="SURIAFM">
-		<title lang="en">Chill Petang Suria</title>
-		<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
-	</programme>
-	<programme start="20260204190000 +0800" stop="20260204200000 +0800" channel="SURIAFM">
-		<title lang="en">Kalam Suria</title>
-		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
-	</programme>
-	<programme start="20260204200000 +0800" stop="20260205000000 +0800" channel="SURIAFM">
-		<title lang="en">Kafe Suria</title>
-		<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
-	</programme>
-		<programme start="20260205000000 +0800" stop="20260205060000 +0800" channel="SURIAFM">
-		<title lang="en">SURIA – Muzik & Jiwa</title>
-		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
-		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
-	</programme>
-	<programme start="20260205060000 +0800" stop="20260205100000 +0800" channel="SURIAFM">
-		<title lang="en">Pagi On Suria</title>
-		<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260205100000 +0800" stop="20260205130000 +0800" channel="SURIAFM">
-		<title lang="en">Vibe Suria</title>
-		<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260205130000 +0800" stop="20260205150000 +0800" channel="SURIAFM">
-		<title lang="en">Playlist Suria</title>
-		<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260205150000 +0800" stop="20260205190000 +0800" channel="SURIAFM">
-		<title lang="en">Chill Petang Suria</title>
-		<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
-	</programme>
-	<programme start="20260205190000 +0800" stop="20260205200000 +0800" channel="SURIAFM">
-		<title lang="en">Kalam Suria</title>
-		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
-	</programme>
-	<programme start="20260205200000 +0800" stop="20260206000000 +0800" channel="SURIAFM">
-		<title lang="en">Kafe Suria</title>
-		<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
-	</programme>
-	<programme start="20260206000000 +0800" stop="20260206060000 +0800" channel="SURIAFM">
-		<title lang="en">SURIA – Muzik & Jiwa</title>
-		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
-		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
-	</programme>
-	<programme start="20260206060000 +0800" stop="20260206100000 +0800" channel="SURIAFM">
-		<title lang="en">Pagi On Suria</title>
-		<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260206100000 +0800" stop="20260206150000 +0800" channel="SURIAFM">
-		<title lang="en">Vibe Suria</title>
-		<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260206130000 +0800" stop="20260206150000 +0800" channel="SURIAFM">
-		<title lang="en">Playlist Suria</title>
-		<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260206150000 +0800" stop="20260206190000 +0800" channel="SURIAFM">
-		<title lang="en">Chill Petang Suria</title>
-		<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
-	</programme>
-	<programme start="20260206190000 +0800" stop="20260206200000 +0800" channel="SURIAFM">
-		<title lang="en">Kalam Suria</title>
-		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
-	</programme>
-	<programme start="20260206200000 +0800" stop="20260207000000 +0800" channel="SURIAFM">
-		<title lang="en">Kafe Suria</title>
-		<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
-	</programme>
-<programme start="20260207000000 +0800" stop="20260207100000 +0800" channel="SURIAFM">
-		<title lang="en">SURIA – Muzik & Jiwa</title>
-		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
-		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
-	</programme>
-	<programme start="20260207100000 +0800" stop="20260207140000 +0800" channel="SURIAFM">
-		<title lang="en">Carta Suria Top 40</title>
-		<desc lang="en">Carta Suria 40 memainkan lagu-lagu popular pilihan pendengar bersama Kai Hassan serta selebriti popular sebagai tetamu jemputan.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/24122549/INSIDE-PAGE-1920X640-1.png"/>
-	</programme>
-	<programme start="20260207140000 +0800" stop="20260207190000 +0800" channel="SURIAFM">
-		<title lang="en">Hello Suria</title>
-		<desc lang="en">Hiburkan diri anda dengan lagu-lagu pilihan dan dedikasi ucapan setiap hari Sabtu dan Ahad.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/08104138/CIK-PIAH-HELLO-SURIA-INSIDE-PAGE-1920X640.png"/>
-	</programme>
-	<programme start="20260207190000 +0800" stop="20260207200000 +0800" channel="SURIAFM">
-		<title lang="en">Kalam Suria</title>
-		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
-	</programme>
-	<programme start="20260207200000 +0800" stop="20260208010000 +0800" channel="SURIAFM">
-		<title lang="en">Suria Cinta</title>
-		<desc lang="en"> Layan perasaan anda dengan lagu-lagu cinta bersama DJ Lin.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/08104401/INSIDE-PAGE_SURIA-CINTA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260208010000 +0800" stop="20260208100000 +0800" channel="SURIAFM">
-		<title lang="en">SURIA – Muzik & Jiwa</title>
-		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
-		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
-	</programme>
-	<programme start="20260208100000 +0800" stop="20260208140000 +0800" channel="SURIAFM">
-		<<title lang="en">Carta Suria Top 40 (Ulangan)</title>
-		<desc lang="en">Carta Suria 40 memainkan lagu-lagu popular pilihan pendengar bersama Kai Hassan serta selebriti popular sebagai tetamu jemputan.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/24122549/INSIDE-PAGE-1920X640-1.png"/>
-	</programme>
-	<programme start="20260208140000 +0800" stop="20260208190000 +0800" channel="SURIAFM">
-		<<title lang="en">Hello Suria</title>
-		<desc lang="en">Hiburkan diri anda dengan lagu-lagu pilihan dan dedikasi ucapan setiap hari Sabtu dan Ahad.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/08104138/CIK-PIAH-HELLO-SURIA-INSIDE-PAGE-1920X640.png"/>
-	</programme>
-	<programme start="20260208190000 +0800" stop="20260208200000 +0800" channel="SURIAFM">
-		<title lang="en">Kalam Suria</title>
-		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
-	</programme>
-	<programme start="20260208200000 +0800" stop="20260209010000 +0800" channel="SURIAFM">
-		<title lang="en">Suria Cinta</title>
-		<desc lang="en"> Layan perasaan anda dengan lagu-lagu cinta bersama DJ Lin.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/08104401/INSIDE-PAGE_SURIA-CINTA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260209010000 +0800" stop="20260209060000 +0800" channel="SURIAFM">
-		<title lang="en">SURIA – Muzik & Jiwa</title>
-		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
-		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
-	</programme>
-	<programme start="20260209060000 +0800" stop="20260209100000 +0800" channel="SURIAFM">
-		<title lang="en">Pagi On Suria</title>
-		<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260209100000 +0800" stop="20260209130000 +0800" channel="SURIAFM">
-		<title lang="en">Vibe Suria</title>
-		<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260209130000 +0800" stop="20260209150000 +0800" channel="SURIAFM">
-		<title lang="en">Playlist Suria</title>
-		<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260209150000 +0800" stop="20260209190000 +0800" channel="SURIAFM">
-		<title lang="en">Chill Petang Suria</title>
-		<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
-	</programme>
-	<programme start="20260209190000 +0800" stop="20260209200000 +0800" channel="SURIAFM">
-		<title lang="en">Kalam Suria</title>
-		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
-	</programme>
-	<programme start="20260209200000 +0800" stop="20260210000000 +0800" channel="SURIAFM">
-		<title lang="en">Kafe Suria</title>
-		<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
-	</programme>
-	<programme start="20260210000000 +0800" stop="20260210060000 +0800" channel="SURIAFM">
-		<title lang="en">SURIA – Muzik & Jiwa</title>
-		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
-		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
-	</programme>
-	<programme start="20260210060000 +0800" stop="20260210100000 +0800" channel="SURIAFM">
-		<title lang="en">Pagi On Suria</title>
-		<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260210100000 +0800" stop="20260210130000 +0800" channel="SURIAFM">
-		<title lang="en">Vibe Suria</title>
-		<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260210130000 +0800" stop="20260210150000 +0800" channel="SURIAFM">
-		<title lang="en">Playlist Suria</title>
-		<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260210150000 +0800" stop="20260210190000 +0800" channel="SURIAFM">
-		<title lang="en">Chill Petang Suria</title>
-		<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
-	</programme>
-	<programme start="20260210190000 +0800" stop="20260210200000 +0800" channel="SURIAFM">
-		<title lang="en">Kalam Suria</title>
-		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
-	</programme>
-	<programme start="20260210200000 +0800" stop="20260211000000 +0800" channel="SURIAFM">
-		<title lang="en">Kafe Suria</title>
-		<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
-	</programme>
-	<programme start="20260211000000 +0800" stop="20260211060000 +0800" channel="SURIAFM">
-		<title lang="en">SURIA – Muzik & Jiwa</title>
-		<desc lang="en">SURIA – Muzik & Jiwa.</desc>
-		<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3bX_Zdu1P5C6jIBqwli2hIqcUV880tbZSg&s"/>
-	</programme>
-	<programme start="20260211060000 +0800" stop="20260211100000 +0800" channel="SURIAFM">
-		<title lang="en">Pagi On Suria</title>
-		<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260211100000 +0800" stop="20260211130000 +0800" channel="SURIAFM">
-		<title lang="en">Vibe Suria</title>
-		<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260211130000 +0800" stop="20260211150000 +0800" channel="SURIAFM">
-		<title lang="en">Playlist Suria</title>
-		<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
-	</programme>
-	<programme start="20260211150000 +0800" stop="20260211190000 +0800" channel="SURIAFM">
-		<title lang="en">Chill Petang Suria</title>
-		<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
-	</programme>
-	<programme start="20260211190000 +0800" stop="20260211200000 +0800" channel="SURIAFM">
-		<title lang="en">Kalam Suria</title>
-		<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
-		<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
-	</programme>
-	<programme start="20260211200000 +0800" stop="20260205000000 +0800" channel="SURIAFM">
-		<title lang="en">Kafe Suria</title>
-		<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
-	</programme>
-	<programme start="20260202000000 +0800" stop="20260202060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260202060000 +0800" stop="20260202100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
-	</programme>
-	<programme start="20260202100000 +0800" stop="20260202140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260202140000 +0800" stop="20260202180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260202180000 +0800" stop="20260202210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260202210000 +0800" stop="20260203000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-	<programme start="20260203000000 +0800" stop="20260203060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
-	</programme>
-	<programme start="20260203100000 +0800" stop="20260203140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260203140000 +0800" stop="20260203180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260203180000 +0800" stop="20260203210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260203210000 +0800" stop="20260204000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-<programme start="20260204000000 +0800" stop="20260204060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
-	</programme>
-	<programme start="20260204100000 +0800" stop="20260204140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260204140000 +0800" stop="20260204180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260204180000 +0800" stop="20260204210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260204210000 +0800" stop="20260205000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-<programme start="20260205000000 +0800" stop="2026020060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260205060000 +0800" stop="20260205100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
-	</programme>
-	<programme start="20260205100000 +0800" stop="20260205140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260205140000 +0800" stop="20260205180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260205180000 +0800" stop="20260205210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260205210000 +0800" stop="20260202000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-<programme start="20260202000000 +0800" stop="20260202060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260202060000 +0800" stop="20260202100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
-	</programme>
-	<programme start="20260202100000 +0800" stop="20260202140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260202140000 +0800" stop="20260202180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260202180000 +0800" stop="20260202210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260202210000 +0800" stop="20260203000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-<programme start="20260203000000 +0800" stop="20260203060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260203060000 +0800" stop="20260203100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
-	</programme>
-	<programme start="20260203100000 +0800" stop="20260203140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260203140000 +0800" stop="20260203180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260203180000 +0800" stop="20260203210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260203210000 +0800" stop="20260204000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-<programme start="20260204000000 +0800" stop="20260204060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260204060000 +0800" stop="20260204100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
-	</programme>
-	<programme start="20260204100000 +0800" stop="20260204140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260204140000 +0800" stop="20260204180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260204180000 +0800" stop="20260204210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260204210000 +0800" stop="20260205000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-<programme start="20260205000000 +0800" stop="20260205060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260205060000 +0800" stop="20260205100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
-	</programme>
-	<programme start="20260205100000 +0800" stop="20260205140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260205140000 +0800" stop="20260205180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260205180000 +0800" stop="20260205210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260205210000 +0800" stop="20260206000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-	<programme start="20260206000000 +0800" stop="20260206060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260206060000 +0800" stop="20260206100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
-	</programme>
-	<programme start="20260206100000 +0800" stop="20260206140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260206140000 +0800" stop="20260206180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260206180000 +0800" stop="20260206210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260206210000 +0800" stop="20260206000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-	<programme start="20260207000000 +0800" stop="20260207060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260207060000 +0800" stop="20260207100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
-	</programme>
-	<programme start="20260207100000 +0800" stop="20260207140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260207140000 +0800" stop="20260207180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260207180000 +0800" stop="20260207210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260207210000 +0800" stop="20260208000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-	<programme start="20260208000000 +0800" stop="20260208060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260208060000 +0800" stop="20260208100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
-	</programme>
-	<programme start="20260208100000 +0800" stop="20260208140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260208140000 +0800" stop="20260208180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260208180000 +0800" stop="20260208210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260208210000 +0800" stop="20260209000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-	<programme start="20260209000000 +0800" stop="20260209060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260209060000 +0800" stop="20260209100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
-	</programme>
-	<programme start="20260209100000 +0800" stop="20260209140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260209140000 +0800" stop="20260209180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260209180000 +0800" stop="20260209210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260209210000 +0800" stop="20260210000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
-	<programme start="20260210000000 +0800" stop="20260210060000 +0800" channel="SARAWAKFM">
-		<title lang="en">Layan</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk1.jpg"/>
-	</programme>
-	<programme start="20260210060000 +0800" stop="20260210100000 +0800" channel="SARAWAKFM">
-		<title lang="en">Selamat Pagi Sarawak</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sps.jpg"/>
-	</programme>
-	<programme start="20260210100000 +0800" stop="20260210140000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ekspresi</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk3.jpg"/>
-	</programme>
-	<programme start="20260210140000 +0800" stop="20260210180000 +0800" channel="SARAWAKFM">
-		<title lang="en">Ritma</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk4.jpg"/>
-	</programme>
-	<programme start="20260210180000 +0800" stop="20260210210000 +0800" channel="SARAWAKFM">
-		<title lang="en">Simfoni</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk5.jpg"/>
-	</programme>
-	<programme start="20260210210000 +0800" stop="20260211000000 +0800" channel="SARAWAKFM">
-		<title lang="en">Gatra</title>
-		<desc lang="en"> </desc>
-		<icon src="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/swk6.jpg"/>
-	</programme>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260209000000 +0800" stop="20260210000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260210000000 +0800" stop="20260211000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260211000000 +0800" stop="20260212000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260212000000 +0800" stop="20260213000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260213000000 +0800" stop="20260214000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260214000000 +0800" stop="20260215000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260215000000 +0800" stop="20260216000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260216000000 +0800" stop="20260217000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260217000000 +0800" stop="20260218000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260218000000 +0800" stop="20260219000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260219000000 +0800" stop="20260220000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260220000000 +0800" stop="20260221000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260221000000 +0800" stop="20260222000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260222000000 +0800" stop="20260223000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260223000000 +0800" stop="20260224000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260224000000 +0800" stop="20260225000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260225000000 +0800" stop="20260226000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260226000000 +0800" stop="20260227000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260227000000 +0800" stop="20260228000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“KOOLFM”>
+		<title lang="en">MALAYSIA DAH KOOL</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“HOTFM”>
+		<title lang="en">TERBAIK SENTIASA HANGAT</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“MOLEKFM”>
+		<title lang="en">GU PANTAI TIMUR</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“FLYFM”>
+		<title lang="en">PLAYING MALAYSIA’S FLYEST MUSIC</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“SURIAFM”>
+		<title lang="en">MUZIK & JIWA</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“BESTFM”>
+		<title lang="en">SUARA DUNIA BARU</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“MANISFM”>
+		<title lang="en">GAYA PANTAI TIMUR</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“CATSFM”>
+		<title lang="en">TOK BOK LOKAL</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“KUPISWKFM”>
+		<title lang="en">SAMA DIRIK POK</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“ERATIMUR”>
+		<title lang="en">MUZIK HIT TERKINI</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“IKIMFM”>
+		<title lang="en">INSPIRASI UTAMA ANDA</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“BERNAMAFM”>
+		<title lang="en">UNTUK ANDA</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“NASIONALFM”>
+		<title lang="en">SENTIASA DI HATI</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“KLASIK”>
+		<title lang="en">MENGGAMIT KENANGAN</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“SWKFM”>
+		<title lang="en">SEHATI SEJIWA</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“REDFM”>
+		<title lang="en">FOR VARIETY</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“WAIFM”>
+		<title lang="en">SEGULAI SEJALAI</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“RMUZIK”>
+		<title lang="en">STESEN MUZIK ANDA</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“TRAXXFM”>
+		<title lang="en">EXPERIENCE THE EXCITEMENT</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“SRIAMANFM”>
+		<title lang="en">INSPIRASI BERINFOMASI</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“SIBUFM”>
+		<title lang="en">SEGALANYA UNTUK ANDA</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“BINTULUFM”>
+		<title lang="en">CERIA BERMAKLUMAT</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“MIRIFM”>
+		<title lang="en">MESRA BERMAKLUMAT</title>
+	<programme start="20260228000000 +0800" stop="20260301000000 +0800" channel=“LIMBANGFM”>
+		<title lang="en">PASTI DI HATI</title>
 
