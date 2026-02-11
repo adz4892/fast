@@ -591,7 +591,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 ###############################################################Unifi TV################################################################
 
 
-#EXTINF:-1 tvg-id="101.unifi" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TV1.jpg" group-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/unifitv.png" group-title="Unifi TV",TV1
+#EXTINF:-1 tvg-id="101.unifi" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TV1.jpg" group-logo="https://play-lh.googleusercontent.com/T5Q3_ojblvAWwOP61s4B7dRS4WMaPhQEwXKdFbPavv0AZpqibK_w2BT0AscDxhAR77U" group-title="Unifi TV",TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV1)/master.mpd
@@ -1262,7 +1262,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC.aa
 
 ________________________________SD___________________________________
 
-#EXTINF:-1 group-title="Indonesia" group-logo="https://raw.githubusercontent.com/adz4892/idn/refs/heads/main/TV%20INDONESIA.png",
+#EXTINF:-1 group-title="Indonesia" group-logo="https://cdn.aptoide.com/imgs/3/0/d/30d4c44d9d9dd8799b78ce7b0aa9e1a7_icon.png",
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -1750,6 +1750,7 @@ https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/pla
 
 #EXTINF:-1 tvg-id="579.sooka" group-title="Sooka" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/HORSE.jpg",Horse & Country TV
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
+
 
 
 
