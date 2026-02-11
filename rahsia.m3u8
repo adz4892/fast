@@ -1161,103 +1161,103 @@ https://service.samproject.my.id/unifi/Bein4.mpd
 *************************************************************************
 ********************************FMRADIO***********************************************************************************************************
 
-#EXTINF:0,tvg-id="Sarawak FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SARAWAK.jpg" group-title="Radio" group-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FM.png",SARAWAKFM
+#EXTINF:0,tvg-id="Sarawak FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SARAWAK.jpg" group-title="FM" group-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FM.png",SARAWAKFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC.aac
 
-#EXTINF:0, tvg-id="KoolFM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg" group-title="Radio",KOOLFM
+#EXTINF:0, tvg-id="KoolFM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg" group-title="FM",KOOLFM
 https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
 
-#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SURIA.jpg" group-title="Radio",SURIAFM
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SURIA.jpg" group-title="FM",SURIAFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac
 
-#EXTINF:0,tvg-id="SINAR" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SINAR.jpg" group-title="Radio",SINAR
+#EXTINF:0,tvg-id="SINAR" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SINAR.jpg" group-title="FM",SINAR
 https://stream.rcs.revma.com/azatk0tbv4uvv/hls.m3u8
 
-#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/BESTFM.jpg" group-title="Radio",BESTFM
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/BESTFM.jpg" group-title="FM",BESTFM
 https://stream.rcs.revma.com/fk5teqrdbhuvv/hls.m3u8
 
-#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg" group-title="Radio",MOLEKFM
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg" group-title="FM",MOLEKFM
 https://stream.rcs.revma.com/z56xa78mtd3vv/hls.m3u8
 
-#EXTINF:0,tvg-id="GEGAR" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/THRGEGAR.jpg" group-title="Radio",THR GEGAR
+#EXTINF:0,tvg-id="GEGAR" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/THRGEGAR.jpg" group-title="FM",THR GEGAR
 https://stream.rcs.revma.com/cn0zcqsbv4uvv/hls.m3u8
 
-#EXTINF:0, tvg-id="ZAYAN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ZAYAN.jpg" group-title="Radio",ZAYAN
+#EXTINF:0, tvg-id="ZAYAN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ZAYAN.jpg" group-title="FM",ZAYAN
 https://stream.rcs.revma.com/7ww2a4tbv4uvv/hls.m3u8
 
-#EXTINF:0, tvg-id="CATSFM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/CATS.jpg" group-title="Radio",CATSFM
+#EXTINF:0, tvg-id="CATSFM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/CATS.jpg" group-title="FM",CATSFM
 https://stream.rcs.revma.com/ggz4zeuv0y3vv/hls.m3u8
 
-#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KUPISWK.jpg" group-title="Radio",Kupi Kupi FM Sarawak
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KUPISWK.jpg" group-title="FM",Kupi Kupi FM Sarawak
 https://stream.rcs.revma.com/vx54zkbwe1bwv/hls.m3u8
 
-#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/IKIM.jpg" group-title="Radio",IKIMFM
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/IKIM.jpg" group-title="FM",IKIMFM
 https://ais-sa8.cdnstream1.com/5035/playlist.m3u8?aw_0_1st.playerid=IKIMFMAudioWeb
 
-#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg" group-title="Radio",ERA Sarawak
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg" group-title="FM",ERA Sarawak
 https://stream.rcs.revma.com/bkqfqkrbv4uvv/hls.m3u8
 
-#EXTINF:0, tvg-id="Nasional FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/NASIONAL.jpg" group-title="Radio",NASIONALFM
+#EXTINF:0, tvg-id="Nasional FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/NASIONAL.jpg" group-title="FM",NASIONALFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
 
-#EXTINF:0,tvg-id="Radio Klasik" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOKLASIK.jpg" group-title="Radio",RADIO KLASIK
+#EXTINF:0,tvg-id="Radio Klasik" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOKLASIK.jpg" group-title="FM",RADIO KLASIK
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
 
-#EXTINF:0,tvg-id="KLFM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KLFM.jpg" group-title="Radio",KLFM
+#EXTINF:0,tvg-id="KLFM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KLFM.jpg" group-title="FM",KLFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KL_FMAAC.aac
 
-#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg" group-title="Radio",MANIS FM
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg" group-title="FM",MANIS FM
 https://stream.rcs.revma.com/7bmtzk1z403vv/hls.m3u8
 
-#EXTINF:0, tvg-id="HotFM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/HOT.jpg" group-title="Radio",HOTFM
+#EXTINF:0, tvg-id="HotFM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/HOT.jpg" group-title="FM",HOTFM
 https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
 
-#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FLY.jpg" group-title="Radio",FLYFM
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FLY.jpg" group-title="FM",FLYFM
 https://stream.rcs.revma.com/q17aka9mtd3vv/hls.m3u8
 
-#EXTINF:0,tvg-id="ERA" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERA.jpg" group-title="Radio",ERA
+#EXTINF:0,tvg-id="ERA" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERA.jpg" group-title="FM",ERA
 https://stream.rcs.revma.com/crec9cmbv4uvv/hls.m3u8
 
-#EXTINF:0,tvg-id="MIX" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MIX.jpg" group-title="Radio",MIX
+#EXTINF:0,tvg-id="MIX" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MIX.jpg" group-title="FM",MIX
 https://stream.rcs.revma.com/v5pq3htbv4uvv/hls.m3u8
 
-#EXTINF:0,tvg-id="HITZ" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/HITZ.jpg" group-title="Radio",HITZ
+#EXTINF:0,tvg-id="HITZ" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/HITZ.jpg" group-title="FM",HITZ
 https://stream.rcs.revma.com/488kt4sbv4uvv/hls.m3u8
 
-#EXTINF:0,tvg-id="LITE" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/LITE.jpg" group-title="Radio",LITE
+#EXTINF:0,tvg-id="LITE" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/LITE.jpg" group-title="FM",LITE
 https://stream.rcs.revma.com/bn4ex8sbv4uvv/hls.m3u8
 
-#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASBH.jpg" group-title="Radio",ERA Sabah
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASBH.jpg" group-title="FM",ERA Sabah
 https://stream.rcs.revma.com/4p3nqmmbv4uvv/hls.m3u8
 
-#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOMUZIK.jpg" group-title="Radio",Radio Muzik
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOMUZIK.jpg" group-title="FM",Radio Muzik
 https://listen.radioking.com/radio/663445/stream/727324
 
-#EXTINF:0,tvg-id="868.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KENYALANG.jpg" group-title="Radio",SYOK Kenyalang
+#EXTINF:0,tvg-id="868.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KENYALANG.jpg" group-title="FM",SYOK Kenyalang
 https://stream.rcs.revma.com/qyg9zmvbv4uvv/hls.m3u8
 
-#EXTINF:0,tvg-id="Wai FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/WAIIBAN.jpg" group-title="Radio",WAIFM IBAN
+#EXTINF:0,tvg-id="Wai FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/WAIIBAN.jpg" group-title="FM",WAIFM IBAN
 https://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBANAAC.aac
 
-#EXTINF:0,tvg-id="Red FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RED.jpg" group-title="Radio",REDFM
+#EXTINF:0,tvg-id="Red FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RED.jpg" group-title="FM",REDFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RED_FMAAC.aac
 
-#EXTINF:0,tvg-id="Sibu FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SIBU.jpg" group-title="Radio",SIBUFM
+#EXTINF:0,tvg-id="Sibu FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SIBU.jpg" group-title="FM",SIBUFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SIBU_FMAAC_SC.aac
 
-#EXTINF:0,tvg-id="Bintulu FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/BINTULU.jpg" group-title="Radio",BINTULUFM
+#EXTINF:0,tvg-id="Bintulu FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/BINTULU.jpg" group-title="FM",BINTULUFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/BINTULU_FMAAC_SC.aac
 
-#EXTINF:0,tvg-id="Miri FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MIRI.jpg" group-title="Radio",MIRIFM
+#EXTINF:0,tvg-id="Miri FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MIRI.jpg" group-title="FM",MIRIFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIRI_FMAAC_SC.aac
 
-#EXTINF:0,tvg-id="Limbang FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/LIMBANG.jpg" group-title="Radio",LIMBANGFM
+#EXTINF:0,tvg-id="Limbang FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/LIMBANG.jpg" group-title="FM",LIMBANGFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/LIMBANGAAC_SC.aac
 
-#EXTINF:0,tvg-id="Sri Aman FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SRIAMAN.jpg" group-title="Radio",SRI AMANFM
+#EXTINF:0,tvg-id="Sri Aman FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SRIAMAN.jpg" group-title="FM",SRI AMANFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SRIAMAN_FMAAC_SC.aac
 
-#EXTINF:0,tvg-id="Traxx FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/TRAXX.jpg" group-title="Radio",TRAXXFM
+#EXTINF:0,tvg-id="Traxx FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/TRAXX.jpg" group-title="FM",TRAXXFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC.aac
 
 ________________________________SD___________________________________
@@ -1750,6 +1750,7 @@ https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/pla
 
 #EXTINF:-1 tvg-id="579.sooka" group-title="Sooka" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/HORSE.jpg",Horse & Country TV
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
+
 
 
 
