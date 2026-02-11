@@ -1,13 +1,13 @@
 #EXTM3U: refresh="301" billed-msg="📺 Video On Demand Library"
 
-;EXTM3U vod_library="https://mantop.worst.workers.dev/dramabox.html"
-;EXTM3U vod_library="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod"
-;EXTM3U vod_library="https://vod.pondan.workers.dev/dewanonton.json"
-;EXTM3U vod_library="https://mantop.worst.workers.dev/index.html"
-;EXTM3U vod_library="https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php"
-;EXTM3U vod_library="https://fahmikacak.pages.dev/HBOGO%20Asia"
-;EXTM3U vod_library="https://raw.githubusercontent.com/rasta-team/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/main/vod"
-;EXTM3U vod_library="https://raw.githubusercontent.com/tumanggertv/tumanggertv/main/BIOSKOP%20VOD.m3u8"
+vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,
+https://github.com/ediey7523017/tv/raw/main/HBOMAX,
+https://github.com/ediey7523017/tv/raw/main/AstroFirst,
+https://github.com/ediey7523017/tv/raw/main/CollectionVOD,
+https://github.com/ediey7523017/tv/raw/main/AseanVOD,
+https://github.com/ediey7523017/tv/raw/main/EnglishVOD,
+https://github.com/ediey7523017/tv/raw/main/IndianVOD,
+https://github.com/ediey7523017/tv/raw/main/KidsVOD"
 
 #EXTINF:-1 tvg-id="476.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/AFIRST.jpg" group-title="VOD",Akad Yang Hilang
 https://get.perfecttv.net/okayru.m3u8?id=12159895734991
@@ -440,6 +440,7 @@ https://fift.larhu.website/hls/vxzxhbnaqoqfycihmtk7zaveb63p3lswkgtblpe4dsnbze525
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="474.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/AFIRST.jpg" group-title="VOD",Misteri Rumah Darah
 https://fift.larhu.website/hls/vxzxh457qoqfycihmtk7zwphacljdekjknepkdeyiytndrurwmyqp25vxmka/index-v1-a1.m3u8
+
 
 
 
