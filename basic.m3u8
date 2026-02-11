@@ -92,7 +92,7 @@ https://stream2.smg.my/live/tvsplus.m3u8
 #EXTINF:-1 tvg-id="CHN" ch-number=" " tvg-name="RTB Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTB_Sukmaindera.png/120px-RTB_Sukmaindera.png" group-title="MYTV",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV" tvg-id="502.astro" tvg-name="BERNAMA" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F3362D9E-20F0-483D-BA25-B3305233657A/0-16x9.png?width=530",Bernama
+#EXTINF:-1 group-title="MYTV" tvg-id="502.astro" tvg-name="BERNAMA" tvg-logo="https://www.bernama.com/bm/assets/img/bernama.png",Bernama
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -137,7 +137,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Salam
 https://service.samproject.my.id/unifi/Salam.mpd
 
-#EXTINF:-1 tvg-id="114.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F4935E21-02B4-4697-BEC4-671EB6034217/0-16x9.png?width=530" group-title="MYTV",TV AlHijrah HD
+#EXTINF:-1 tvg-id="114.unifi" tvg-logo="https://tvalhijrah.com/wp-content/uploads/2023/04/TV_Alhijrah_logo-1.png" group-title="MYTV",TV AlHijrah HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -178,28 +178,28 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC
 #EXTINF:0,tvg-id="Radio Klasik" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/RadioKlasik.png" group-title="MYTV",RADIO KLASIK
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
 
-#EXTINF:0, tvg-id="HotFM" tvg-logo="https://assets.hotfm.audio/2020/06/logo_hotfm_master.svg" group-title="MYTV",HOTFM
+#EXTINF:0, tvg-id="HotFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hot_FM_2021.svg/3840px-Hot_FM_2021.svg.png" group-title="MYTV",HOTFM
 https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="MYTV",Trans7
+#EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Trans_7_2013_Iklan.svg/1280px-Trans_7_2013_Iklan.svg.png" group-title="MYTV",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w127267210_b744100_sleng.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="MYTV",TransTV 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/transtv-white.png" group-title="MYTV",TransTV 
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="AlQuranKareem.id"  tvg-name="AlQuran Kareem" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png" group-title="MYTV",AlQuran Kareem
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
 
-#EXTINF:-1 tvg-id="MNCTV.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png" group-title="MYTV",MNC TV
+#EXTINF:-1 tvg-id="MNCTV.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/250px-MNCTV_logo_2015.svg.png" group-title="MYTV",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
@@ -224,7 +224,7 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
-#EXTINF:-1 tvg-id="411917" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="MYTV",SCTV
+#EXTINF:-1 tvg-id="411917" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/250px-SCTV_Logo.svg.png" group-title="MYTV",SCTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -280,6 +280,7 @@ https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.co
 
 #EXTINF:-1, tvg-id="JomNgaji" ch-number="130" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/f3a633JomNgaji.png" group-title="MYTV",Jom Ngaji
 https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd
+
 
 
 
