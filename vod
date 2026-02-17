@@ -1,13 +1,13 @@
 #EXTM3U: refresh="301" billed-msg="📺 Video On Demand Library"
 
-vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,
-https://github.com/ediey7523017/tv/raw/main/HBOMAX,
-https://github.com/ediey7523017/tv/raw/main/AstroFirst,
-https://github.com/ediey7523017/tv/raw/main/CollectionVOD,
-https://github.com/ediey7523017/tv/raw/main/AseanVOD,
-https://github.com/ediey7523017/tv/raw/main/EnglishVOD,
-https://github.com/ediey7523017/tv/raw/main/IndianVOD,
-https://github.com/ediey7523017/tv/raw/main/KidsVOD"
+vod_library="https://raw.githubusercontent.com/ediey7523017/tv/main/NewVOD,
+https://raw.githubusercontent.com/ediey7523017/tv/main/HBOMAX,
+https://raw.githubusercontent.com/ediey7523017/tv/main/AstroFirst,
+https://raw.githubusercontent.com/ediey7523017/tv/main/CollectionVOD,
+https://raw.githubusercontent.com/ediey7523017/tv/main/AseanVOD,
+https://raw.githubusercontent.com/ediey7523017/tv/main/EnglishVOD,
+https://raw.githubusercontent.com/ediey7523017/tv/main/IndianVOD,
+https://raw.githubusercontent.com/ediey7523017/tv/main/KidsVOD"
 
 #EXTINF:-1 tvg-id="476.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/AFIRST.jpg" group-title="VOD",Akad Yang Hilang
 https://get.perfecttv.net/okayru.m3u8?id=12159895734991
@@ -22,6 +22,42 @@ https://fift.larhu.website/hls/vxzxhbnaqoqfycihmtk7zaveb63p3lswkgtblpe4dsnbze525
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="474.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/AFIRST.jpg" group-title="VOD",Misteri Rumah Darah
 https://fift.larhu.website/hls/vxzxh457qoqfycihmtk7zwphacljdekjknepkdeyiytndrurwmyqp25vxmka/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450992%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="VOD", Senario xx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450992
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450992
+
+#EXTINF:-1 tvg-id="" tvg-name="900-Senario Lang Buana (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TFB0Doe92l9Jgc5qtUnE6r9rqt.jpg" group-title="VOD",Senario Lang Buana (2003)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2770.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="909-Lagi Lagi Senario (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHPbGqsb25zvXLbgg90hyuHSnm4.jpg" group-title="VOD",Lagi Lagi Senario (2001)
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/2771.mp4
+
+#EXTINF:-1 tvg-id="" ch-number="9252" tvg-name="" group-title="VOD"  tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e67b8eFIASV_p.jpg", Senario Asam Garam
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d05e38a251f65942bef304a243e6672e:f93dfad4f0d71bda2da029521966bd79
+https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9252|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzYwNDcsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYWRmOGU3NzM5YWZmMjFiYTAxNmQ3MGFiNGRmMTk5NTEtOGE5ZjA1ZDZhZWM2OTExYWZmM2QtNCJ9.D2KChOOO7iTu9yXxLrL91iKMOgkWCio96nCTGcj-JH8
+
+#EXTINF:-1 tvg-id="" ch-number="9253" tvg-name="" group-title="VOD" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/c418b1HHKCG_p.jpg", Senario The Movie Episode 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b58cb5083c08521fbc394696eb149b4a:cb806e31294b6a841c2edbd6ab14d364
+https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9253|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzYwNDgsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiODA4NGUwNzZmYmE1MTBlNDRjNWU3NzNhYWUyMjI0YzktZDdjNTMxZTVlMTM3NmQ1NTFmNTQtMSJ9.k5leGosklffBJUxU5ppqM3-d1lrgNPs0CERIQDcB0xI
+
+#EXTINF:-1 tvg-id="" ch-number="9254" tvg-name="" group-title="VOD" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/e1b7bcHJGON_p.jpg", Senario The Movie Episode 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8a5be2712205d059f700c6f9aaf9db4:07e4a3280a7f8712ce2fe9dd8d1b827e
+https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9254|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzYwNDgsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZThjZjk4ZjhhYWVlMDA1NjU1ZmNkOGI0ZDc4MDRhMGItYWUwYTQ1OWMxNDRmNzE4MDRjNWYtNCJ9.NmjHAQUahtpPd4woWv9uK7ZzzIWjP7grP6pgu8FHo4U
+
+#EXTINF:-1 tvg-id="" ch-number="9255" tvg-name="" group-title="VOD" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/d9afaeFSUYS_p.jpg",Senario The Movie Ops Pocot
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e4ff0de856d5719b5b4bf3de4eba70e:2337e6efe24c22ff669f3daccf536f4e
+https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9255|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzYwNDksImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNWI1NGJjOTVkMGFhNzdlMTc2MzE3MTA2MDE5YmNhNzktMjU1Y2NlOWM0ZWE5MmJmZTY4ZGUtNCJ9.9jMWMXeiVEf5M47jiHWxEKOMGYQ0_NsjD1XnW3vKQ2U
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[001] Surah Alfatihah (Pembukaan)
@@ -440,6 +476,7 @@ https://fift.larhu.website/hls/vxzxhbnaqoqfycihmtk7zaveb63p3lswkgtblpe4dsnbze525
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="474.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/AFIRST.jpg" group-title="VOD",Misteri Rumah Darah
 https://fift.larhu.website/hls/vxzxh457qoqfycihmtk7zwphacljdekjknepkdeyiytndrurwmyqp25vxmka/index-v1-a1.m3u8
+
 
 
 
