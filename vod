@@ -177,6 +177,35 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c5bbc9fc-
 #KODIPROP:inputstream.adaptive.license_key=49d6138bdd85c32566b178d250bc2810:8ced8aa3a4ededc428ffaeab510676c3
 #EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GLBDN_p_IVP_PORT_390x585_34943_2024313_165852.jpg" group-title="P. RAMLEE" tvg-id="NULL", Keluarga 69
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/dbaaf57e-6599-5b8e-8c34-7e0d4d87cd42/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=14a1dcb7efbab21089ca78e055f85810:c4740314f85cf746b848c836ce99b90b
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JANBT_IVP_LAND_672x378_20DE_2024313_154532.jpg" group-title="P. RAMLEE" tvg-id="NULL", Hujan Panas
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/0fa26842-143f-50d2-b320-b8d2409e1e9e/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=f25ac4c1b38ba413d38fbdd4018bd810:82ba8fdb96a6022adf2354786dcc2a5f
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_Ibu_L-JANBE_IVP_LAND_288x162_3C815_2024313_17623.jpg" group-title="P. RAMLEE" tvg-id="NULL", Ibu
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/332529f7-2526-5087-bdbd-0dbfc59f9a14/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=69ac558debea92af91b80fca29e63210:8359d7e73eaffa20df30549d7af6208c
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GLBBW_p_IVP_PORT_390x585_3494A_2024313_165942.jpg" group-title="P. RAMLEE" tvg-id="NULL", Masam Masam Manis
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ba51a685-217c-5725-8221-62f23bbf93a1/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=568810c75d93711d80a001c904549710:4811edb267f9ab3dee1781fdd22e916a
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FZBMO_p_IVP_PORT_390x585_2361_2024313_154532.jpg" group-title="P. RAMLEE" tvg-id="NULL", Musang Berjanggut
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c7622e9d-d629-5f39-a274-6ca729874360/default_dash.mpd
+
 #EXTINF:-1 tvg-id="476.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/AFIRST.jpg" group-title="VOD",Akad Yang Hilang
 https://get.perfecttv.net/okayru.m3u8?id=12159895734991
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru48/Ballerina%202025-1-720.mp4
@@ -644,6 +673,7 @@ https://fift.larhu.website/hls/vxzxhbnaqoqfycihmtk7zaveb63p3lswkgtblpe4dsnbze525
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="474.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/AFIRST.jpg" group-title="VOD",Misteri Rumah Darah
 https://fift.larhu.website/hls/vxzxh457qoqfycihmtk7zwphacljdekjknepkdeyiytndrurwmyqp25vxmka/index-v1-a1.m3u8
+
 
 
 
