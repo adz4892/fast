@@ -9,6 +9,174 @@ https://raw.githubusercontent.com/ediey7523017/tv/main/EnglishVOD,
 https://raw.githubusercontent.com/ediey7523017/tv/main/IndianVOD,
 https://raw.githubusercontent.com/ediey7523017/tv/main/KidsVOD"
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=3dfcc88385d2dd7ce2e2a69e05646d10:9591125780282db23b880d7b88b82638
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FZBPQ_p_IVP_PORT_390x585_34939_2024313_165852.jpg" group-title="P. RAMLEE" tvg-id="NULL", Ahmad Albab
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e4a0b502-49cf-513c-abf3-a63f84d67df4/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=06405eab1fc89e880b043affb7997a10:5158304bb69c3ec1287bc3f548a8df0c
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GIQQF_IVP_LAND_171x96_4F6A_2024313_154622.jpg" group-title="P. RAMLEE" tvg-id="NULL", Madu Tiga
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c5bbc9fc-1c36-5a60-a8d2-7b1036e2cc50/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=0e3bfcb12ca38d63ddd1e43186715d10:d370e9372a9e71ed3b7a410600d5eddc
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JANBU_IVP_LAND_432x243_30D6_2024524_104430.jpg" group-title="P. RAMLEE" tvg-id="NULL", Putus Sudah Kasih Sayang
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/682ce2b2-f5f5-5ccd-944e-44d37cc23f56/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=69ac558debea92af91b80fca29e63210:8359d7e73eaffa20df30549d7af6208c
+#EXTINF:-1 group-title="P. RAMLEE" tvg-id="NULL" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc0ZThjZWYtZjNhOS00NDg3LTllYmUtMmNiMDY1OGI4YWNkXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Masam Masam Manis
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ba51a685-217c-5725-8221-62f23bbf93a1/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=d98bf1f661e0aef32160b973c9b66910:afdb97aa845dc54d05a37b460a873774
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_AbuHassanPenchuri_P_JAMZU01_IVP_PORT_390x585_235D_2024313_154532.jpg" group-title="P. RAMLEE" tvg-id="NULL", Abu Hassan Penchuri
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/f71b19ed-959a-59f8-870a-7bb07974435d/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=d72b45a430b974ae929f5fc1a97b4e10:c52c353201061c0a7d7915ce39ddc3e0
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GOHBX_p_IVP_PORT_390x585_1D1FF_2024313_164538.jpg" group-title="P. RAMLEE" tvg-id="NULL", Ali Baba Bujang Lapok
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/557b8f09-ff70-531f-9db3-2c5f671e881a/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=0dd5c8a6287cd8387176f30c399a5d10:97c9fd83fede1ac6d6a13f0c8f7bf622
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FYLLF_p_IVP_PORT_390x585_3493F_2024313_165852.jpg" group-title="P. RAMLEE" tvg-id="NULL", Anak Bapak
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/4f966b49-5128-527b-bf12-ad21ff6f89b7/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=93df95290212df3a1b2af896b8827c10:d8e0246410eb46dcc12940b68d4d95a5
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GLBVE_IVP_LAND_288x162_1FFCA_2024313_164629.jpg" group-title="P. RAMLEE" tvg-id="NULL", Anak-Ku Sazali
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/79d9ee43-f0aa-5d0e-a72b-d0c8df0e4f2c/default_dash.mpd
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=f8e8b81892213f2420ae75976c092a10:250a87532bae1ceb5bee09b82ebcde5c
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAMZW_IVP_LAND_672x378_2B23_2024313_154532.jpg" group-title="P. RAMLEE" tvg-id="NULL", Antara Dua Darjat
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/5150d349-1d06-5497-b88c-c54a5a2b2d53/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=3a6e827e3e64d2236761e249c2e1db10:4ead03c1434a567b82ac72d29a4ba081
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FVRYX_IVP_LAND_672x378_1FFD2_2024313_164628.jpg" group-title="P. RAMLEE" tvg-id="NULL", Bujang Lapok
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a59bd445-319e-53c9-baac-6eaccddc25c7/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=acb970d4dedbfccc71a1e68f128ccf10:c736db8c4f1e18d9710b4ce03f10c1e8
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FVRYY_IVP_LAND_288x162_1FFFD_2024313_164633.jpg" group-title="P. RAMLEE" tvg-id="NULL", Do Re Mi
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a8994c1f-ea90-5e92-ba81-ce8219d14b66/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=b3a81aa308140e21792e2653d56b7c10:b265ad31e4132f41ff22aa626d538df8
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GKAIK_IVP_LAND_288x162_59F6_2024313_154622.jpg" group-title="P. RAMLEE" tvg-id="NULL", Enam Jahanam
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/0783c0fb-4487-5126-9bda-84dfcb59883c/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=3e0cac3ff588e7f4ecc33b2db4b47510:cc04134111a3c6648b44ce6a503085e1
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HangTuah_L_JANAW_IVP_LAND_432x243_1FFCF_2024313_164629.jpg" group-title="P. RAMLEE" tvg-id="NULL", Hang Tuah
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a91fc87c-f9e2-5694-9853-9710bfffebfa/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=fb5a0b0b599304beae4758facc887710:692696488c7f6bda6ff89962df9e1a7a
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GOKAI_IVP_LAND_432x243_702B_2024313_154622.jpg" group-title="P. RAMLEE" tvg-id="NULL", Ibu Mertuaku
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/02cb4d60-d100-5e6d-8fe0-100c14589bd5/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=a24b1fa7e3dd1c7d2f1338ed3b9fb010:cf48b66e31eafad0a27adcc85d0987f7
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GICIO_IVP_LAND_672x378_1FFDD_2024313_164628.jpg" group-title="P. RAMLEE" tvg-id="NULL", Laksamana Do Re Mi
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e2a24a5f-3462-5af4-a8bc-58a73c010e4b/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=6c596ae9db293dd5b33b07caf6a7ce10:db054c4271830fa7edcc4a248048fe2e
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FVSBI_IVP_LAND_672x378_1FFDC_2024313_164628.jpg" group-title="P. RAMLEE" tvg-id="NULL", Nasib Do Re Mi
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a026dcac-d13e-5b98-a1cc-1592b07bed5a/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=e5d154749e44821358fd702568834310:9e1d7c722ef6f67d9a4cd7ab303d4073
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GNPNQ_P_IVP_PORT_390x585_1FFD3_2024313_164628.jpg" group-title="P. RAMLEE" tvg-id="NULL", Pendekar Bujang Lapok
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/4d64370e-245a-58f9-a510-05d43e81e736/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=d379ce7a05444b5a63475f903d135810:090cffeffdc88dd2c9ec12c3ce4b6d8f
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GNJVB_P_IVP_PORT_390x585_1FFD8_2024313_164628.jpg" group-title="P. RAMLEE" tvg-id="NULL", Seniman Bujang Lapok
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/b5d3f275-7a5d-5d4c-9dcc-7a1b0ac0326f/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=383589d3430334fc00d7304021baf310:863fde48497a89e3ff5be71b1d88e0ee
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FVRXO_P_IVP_PORT_390x585_20006_2024313_164628.jpg" group-title="P. RAMLEE" tvg-id="NULL", Labu Dan Labi
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/eb07e50e-7ff3-539e-84c0-1bd082c19fe1/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=1cce2e8f3eeac1b74fc5b8a3eebc1c10:b34febffade8187e2dd3554866ed14cd
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GIWVA_p_IVP_PORT_258x387_3494E_2024313_165942.jpg" group-title="P. RAMLEE" tvg-id="NULL", Nasib Si Labu Labi
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/6ab0a13c-593e-558b-8242-f42edb733b1c/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=3c8ed966234558325e72f0a02b127c10:04b68112025ea7897b9492ba3fa6ae6f
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GNADO_IVP_LAND_672x378_1FFCB_2024313_164628.jpg" group-title="P. RAMLEE" tvg-id="NULL", Sarjan Hassan
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/92a1547a-f25e-5832-a35e-9898ae4b2a4e/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=3bb057ce0e73991a73a9e5ead78ae110:9b40d5ad3bed533da3088754fd2459f7
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GOWBT_IVP_LAND_432x243_715E_2024313_154622.jpg" group-title="P. RAMLEE" tvg-id="NULL", Tiga Abdul
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/f19ac9f7-36c3-58a6-be0b-a5f0bc1ea046/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=06405eab1fc89e880b043affb7997a10:5158304bb69c3ec1287bc3f548a8df0c
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="P. RAMLEE" tvg-id="NULL" tvg-logo="https://www.cinema.com.my/images/movies/2020/7madutiga_sg00_450.jpg",Madu Tiga
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c5bbc9fc-1c36-5a60-a8d2-7b1036e2cc50/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=49d6138bdd85c32566b178d250bc2810:8ced8aa3a4ededc428ffaeab510676c3
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GLBDN_p_IVP_PORT_390x585_34943_2024313_165852.jpg" group-title="P. RAMLEE" tvg-id="NULL", Keluarga 69
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/dbaaf57e-6599-5b8e-8c34-7e0d4d87cd42/default_dash.mpd
 #EXTINF:-1 tvg-id="476.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/AFIRST.jpg" group-title="VOD",Akad Yang Hilang
 https://get.perfecttv.net/okayru.m3u8?id=12159895734991
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru48/Ballerina%202025-1-720.mp4
@@ -476,6 +644,7 @@ https://fift.larhu.website/hls/vxzxhbnaqoqfycihmtk7zaveb63p3lswkgtblpe4dsnbze525
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="474.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/AFIRST.jpg" group-title="VOD",Misteri Rumah Darah
 https://fift.larhu.website/hls/vxzxh457qoqfycihmtk7zwphacljdekjknepkdeyiytndrurwmyqp25vxmka/index-v1-a1.m3u8
+
 
 
 
