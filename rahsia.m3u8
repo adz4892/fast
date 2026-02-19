@@ -247,6 +247,9 @@ https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mnplus
 
+#EXTINF:-1 tvg-id="Arirang" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/ARIRANG.jpg",Arirang TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
 
 **************************************************************************************************************************************************
 #EXTINF:-1 group-title="astro one" group-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/astroone.png",
@@ -1750,5 +1753,6 @@ https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/pla
 
 #EXTINF:-1 tvg-id="579.sooka" group-title="Sooka" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/HORSE.jpg",Horse & Country TV
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
+
 
 
