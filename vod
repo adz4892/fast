@@ -1600,7 +1600,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/f867d53e-
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=4d0d957fb07bf554fb2fd265ecf27d10:7b27ca8cdc010522957d442fbb649904
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JJDOL_IVP_LAND_917x516_2024315_205615.jpg"group-title="INTERNATIONAL" tvg-id="NULL", Charlie's Angels
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JJDOL_IVP_LAND_917x516_2024315_205615.jpg" group-title="INTERNATIONAL" tvg-id="NULL", Charlie's Angels
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a3cbf4ef-ef5c-5aa7-b72e-68f4fc2ba7b4/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2619,6 +2619,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aosm8NMQ3UyoBVpSxyimorCQykC.jpg" group-title="International",Venom - The Last Dance 2024
 https://www.dropbox.com/scl/fi/21ddwu1yd5z1x9rxnvgm2/venom-the-last-dance.mp4?rlkey=drisxe8nw9nlpsjmc7s7h24gl&st=2en98ah2&dl=1
+
 
 
 
