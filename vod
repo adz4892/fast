@@ -629,48 +629,6 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=b8965dcb21a1d9945c96ca16f3f5dd10:c2981504aabcd7ac96bb3dda5be63bd4
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FQZST_IVP_LAND_432x243_34DAB_2024313_165942.jpg" group-title="Klasik Melayu Movie" tvg-id="NULL", KL Gangster
-https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ebdac3c5-fb8d-581d-bf71-9a0edb5073dd/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=2e6714a9d2d4060d9060c7008ad20610:9f75701fd757d78736a776df72429bca
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GQZSV_IVP_LAND_171x96_34DA9_2024313_165942.jpg" group-title="Klasik Melayu Movie" tvg-id="NULL", KL Gangster 2
-https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ce202696-0bc8-5f8c-be43-385622d0ba14/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=bd66eb5b1da936a4b66d71de096a4210:43a531023e7144d7c762130083d8218d
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FDXBI_IVP_LAND_171x96_B18_2024106_53213.jpg" group-title="Klasik Melayu Movie" tvg-id="NULL", Lagenda Budak Setan
-https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ba3e8e06-9ab9-5d4d-a0b2-72b93bb34bdf/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=1ce3d458290c79dcce9c0651b5d84910:063862ab899dd80fe2cc7c71d23714f9
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_GFDOC_IVP_LAND_432x243_4596_2024313_154622.jpg" group-title="Klasik Melayu Movie" tvg-id="NULL", Lagenda Budak Setan 2
-https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/360e38c6-a3ca-5ed7-b827-e4ab291957c0/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=1099ad85618318b951e4162da1e42610:9c423532dc11cfbe892a6fcf592fe36c
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_004C7_IVP_LAND_288x162_4C7_2024313_154447.jpg" group-title="Klasik Melayu Movie" tvg-id="NULL", Laila Isabella
-https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c7591fa0-3e16-5443-a1da-16e87bbe8c01/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=8c6d210d2940bf1900151aef61313610:8004eda34eee7d33db779b2dbeb5c2c3
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JLILW_IVP_LAND_672x378_63565_2024313_181856.jpg" group-title="Klasik Melayu Movie" tvg-id="NULL", Leftenan Adnan
-https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/7c3869d0-f4ac-52a0-9a0f-d9c149d1b0a0/default_dash.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=357e5c477f10cebd39bf795947ab9c10:6ef6c094bc73fa69814d63ebdb7ff93b
 #EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWBDP01_IVP_LAND_171x96_5B19B_2024313_18716.jpg" group-title="Klasik Melayu" tvg-id="NULL", Masok Angin Keluar Asap
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/51e31aeb-ea31-5660-a6c8-41ae128d50ff/default_dash.mpd
@@ -679,28 +637,28 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=9013071338cebf215669b02898417310:7921f4ff7a6e1cd0b4258857498ab7de
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_GFNHV_IVP_LAND_171x96_326B6_2024313_165712.jpg" group-title="Klasik Melayu (Malay)" tvg-id="NULL", Pondok Buruk 1
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_GFNHV_IVP_LAND_171x96_326B6_2024313_165712.jpg" group-title="Klasik Melayu" tvg-id="NULL", Pondok Buruk 1
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/8d30e2db-45b3-5a15-ab1f-e0707a9948f3/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=b905624cb4e79e6c077e39ae8180e110:362469c4f88814ae90cd90184ba4e9f0
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_GFNII_IVP_LAND_171x96_326B8_2024313_165712.jpg" group-title="Klasik Melayu (Malay)" tvg-id="NULL", Pondok Buruk 2
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_GFNII_IVP_LAND_171x96_326B8_2024313_165712.jpg" group-title="Klasik Melayu" tvg-id="NULL", Pondok Buruk 2
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/7eee848d-fc6a-5a2f-82af-214c655200df/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=d3055c72ba57413023a994db47eb7f10:5c40bd1dd49ffe341a04642d7dd965b7
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KHNNZ_IVP_LAND_288x162_202442_203739.jpg" group-title="Klasik Melayu (Malay)" tvg-id="NULL", Quran Pondok Buruk
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KHNNZ_IVP_LAND_288x162_202442_203739.jpg" group-title="Klasik Melayu" tvg-id="NULL", Quran Pondok Buruk
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/6cc8ace7-b133-5746-9fe0-e33e97e457ff/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=8c3d3aa8f735dedbd5e4120542991f10:685c04807cf76499b85c5a10e32e1696
-#EXTINF:-1 group-title="Klasik Melayu (Malay" tvg-id="NULL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiShpa_-f8xiaPXQuxtxJT5n4uTYtsPYS1UeR-NZvyHNxF3HLzHfJvg1BRnPygZZ1_KaU7oXklkoVY7WNWEpIH9Sp1MPotFCrKSjAdMRsNdba--fLwxY5BFK8BZYpNLmzjR__sFtylw-vSpaN4WF9j-mq4aoHhBS1TcxSdEsGPqlSD1edM2WPoPm0QMZw/w0/Quran%20Pondok%20Buruk.jpg",Quran Pondok Buruk 
+#EXTINF:-1 group-title="Klasik Melayu" tvg-id="NULL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiShpa_-f8xiaPXQuxtxJT5n4uTYtsPYS1UeR-NZvyHNxF3HLzHfJvg1BRnPygZZ1_KaU7oXklkoVY7WNWEpIH9Sp1MPotFCrKSjAdMRsNdba--fLwxY5BFK8BZYpNLmzjR__sFtylw-vSpaN4WF9j-mq4aoHhBS1TcxSdEsGPqlSD1edM2WPoPm0QMZw/w0/Quran%20Pondok%20Buruk.jpg",Quran Pondok Buruk 
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/d02284ee-c451-5bf7-960c-2f3475c76723/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -740,6 +698,47 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 
 ________________________________________MALAY FILM_______________________________
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=b8965dcb21a1d9945c96ca16f3f5dd10:c2981504aabcd7ac96bb3dda5be63bd4
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FQZST_IVP_LAND_432x243_34DAB_2024313_165942.jpg" group-title="Malay" tvg-id="NULL", KL Gangster
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ebdac3c5-fb8d-581d-bf71-9a0edb5073dd/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=2e6714a9d2d4060d9060c7008ad20610:9f75701fd757d78736a776df72429bca
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GQZSV_IVP_LAND_171x96_34DA9_2024313_165942.jpg" group-title="Malay" tvg-id="NULL", KL Gangster 2
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ce202696-0bc8-5f8c-be43-385622d0ba14/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=bd66eb5b1da936a4b66d71de096a4210:43a531023e7144d7c762130083d8218d
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FDXBI_IVP_LAND_171x96_B18_2024106_53213.jpg" group-title="Malay" tvg-id="NULL", Lagenda Budak Setan
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/ba3e8e06-9ab9-5d4d-a0b2-72b93bb34bdf/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=1ce3d458290c79dcce9c0651b5d84910:063862ab899dd80fe2cc7c71d23714f9
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_GFDOC_IVP_LAND_432x243_4596_2024313_154622.jpg" group-title="Malay" tvg-id="NULL", Lagenda Budak Setan 2
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/360e38c6-a3ca-5ed7-b827-e4ab291957c0/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=1099ad85618318b951e4162da1e42610:9c423532dc11cfbe892a6fcf592fe36c
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_004C7_IVP_LAND_288x162_4C7_2024313_154447.jpg" group-title="Malay" tvg-id="NULL", Laila Isabella
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c7591fa0-3e16-5443-a1da-16e87bbe8c01/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=8c6d210d2940bf1900151aef61313610:8004eda34eee7d33db779b2dbeb5c2c3
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JLILW_IVP_LAND_672x378_63565_2024313_181856.jpg" group-title="Malay" tvg-id="NULL", Leftenan Adnan
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/7c3869d0-f4ac-52a0-9a0f-d9c149d1b0a0/default_dash.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
@@ -2620,6 +2619,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aosm8NMQ3UyoBVpSxyimorCQykC.jpg" group-title="International",Venom - The Last Dance 2024
 https://www.dropbox.com/scl/fi/21ddwu1yd5z1x9rxnvgm2/venom-the-last-dance.mp4?rlkey=drisxe8nw9nlpsjmc7s7h24gl&st=2en98ah2&dl=1
+
 
 
 
