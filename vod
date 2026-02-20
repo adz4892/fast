@@ -1600,7 +1600,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/f867d53e-
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=4d0d957fb07bf554fb2fd265ecf27d10:7b27ca8cdc010522957d442fbb649904
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JJDOL_IVP_LAND_917x516_2024315_205615.jpg" group-title="MOVIEStvg-id="NULL", Charlie's Angels
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JJDOL_IVP_LAND_917x516_2024315_205615.jpg" group-title="MOVIES" tvg-id="NULL", Charlie's Angels
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a3cbf4ef-ef5c-5aa7-b72e-68f4fc2ba7b4/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3632,6 +3632,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="htt" group-title="Kids",
+
 
 
 
