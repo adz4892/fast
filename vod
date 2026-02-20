@@ -2999,9 +2999,6 @@ https://d13snj70thqlha.cloudfront.net/523b98c1-3723-4b23-8207-ad47ab46df0c/Taal_
 #EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/DEVDAS_POSTER.jpg" group-title="Bollywood",Devdas
 https://d13snj70thqlha.cloudfront.net/579686a6-605e-4e4b-8be5-a251d9e21a12/Devdas_20251217.m3u8?id=31419
 
-_____________________________________________KIDS__________________________________________________
-
-#EXTM3U url=""
 
 
 ###################################################################Kids###################################################
@@ -3421,147 +3418,147 @@ https://cloud.hownetwork.xyz/xxx/MQgmICIcFS4gfBojNVkzdTEdKDwmEVoyMyQWPiZANzY2C2R
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=271049ca8fd05261609d25ed23fc4e10:4f2f54672a3017bee00ae7dfc41affe6
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_35D66_IVP_LAND_432x243_35D66_2024106_55426.jpg" group-title="Astro VOD" tvg-id="NULL", Super Game Boy - The Geng Returns
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_35D66_IVP_LAND_432x243_35D66_2024106_55426.jpg" group-title="Kids" tvg-id="NULL", Super Game Boy - The Geng Returns
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a51707b5-14bf-5ac3-ad8d-3105f3850eab/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=4762352c493f3434df0b527dcd4b9910:c1f3cd0802204b55b643d102231500f2
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GSAWO_IVP_LAND_672x378_23E0C_2024313_164719.jpg" group-title="Astro VOD" tvg-id="NULL", Super Game Boy 2
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GSAWO_IVP_LAND_672x378_23E0C_2024313_164719.jpg" group-title="Kids" tvg-id="NULL", Super Game Boy 2
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/549ba589-c9e3-5ba1-9071-648911531c5e/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=c71a2ecbce72501434822d1ac312b610:b69a77b61761ff10be41e398e32ada59
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HQCNJ_IVP_LAND_432x243_12B5E_2024313_15482.jpg" group-title="Astro VOD" tvg-id="NULL", Super Game Boy Geng Fixie
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HQCNJ_IVP_LAND_432x243_12B5E_2024313_15482.jpg" group-title="Kids" tvg-id="NULL", Super Game Boy Geng Fixie
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e55365d1-b495-51fb-a9ce-61074a53da75/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=39ba3a6e14fe2708451a0785324e9b10:517097b89c8932ee76376c891531a7b6
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JKMWS_IVP_LAND_171x96_570E3_2024313_18216.jpg" group-title="Astro VOD" tvg-id="NULL", Superbike The Movie
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JKMWS_IVP_LAND_171x96_570E3_2024313_18216.jpg" group-title="Kids" tvg-id="NULL", Superbike The Movie
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e7dc140d-bb73-5791-bb4c-53698789ece2/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=a6b014868815a6607438982c07032810:c860d905bb416c2c8f9b5aa64c3f0ab1
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBNQY01_IVP_LAND_171x96_5DADD_2024313_181126.jpg" group-title="MOVIES" tvg-id="NULL", Bee Movie
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBNQY01_IVP_LAND_171x96_5DADD_2024313_181126.jpg" group-title="Kids" tvg-id="NULL", Bee Movie
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/563820a6-d28d-599b-a8ac-d3c616ad7fb4/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=33f7fe50a6502992272d20748381b710:e1dd9fae5ef5b09323e99449dba08a01
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBMAG_p_IVP_PORT_260x390_6A6D8_2024321_17286.jpg" group-title="KIDS" tvg-id="NULL", BoBoiBoy Movie
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBMAG_p_IVP_PORT_260x390_6A6D8_2024321_17286.jpg" group-title="Kids" tvg-id="NULL", BoBoiBoy Movie
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/f00c164d-d7af-514a-9461-a76514e787c3/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=8f35c8959930b6df896b6b76a54d6b10:bfcdfc1adeb3b8c7d3723d08c9740701
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IWMJC_IVP_LAND_171x96_6A6D9_2024321_172856.jpg" group-title="KIDS" tvg-id="NULL", BoBoiBoy Movie 2
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IWMJC_IVP_LAND_171x96_6A6D9_2024321_172856.jpg" group-title="Kids" tvg-id="NULL", BoBoiBoy Movie 2
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e6ee43c8-212a-598d-88d9-f140f61f5a04/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=5f5876d6d868934e91611b24c54bde10:b53bf99c9b7f57ebebdf4bf0d86bbdcc
-#EXTINF:-1 tvg-id="NULL" group-title="KIDS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",Despicable Me 4 (2024)
+#EXTINF:-1 tvg-id="NULL" group-title="Kids" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",Despicable Me 4 (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/071886f2-5831-51dc-b328-afb8c94b4bea/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=24f3139016d9bb78585811a2a191bd10:6ee6d40bfa8f1fc43fa717774c60d4e8
-#EXTINF:-1 tvg-id="NULL" group-title="KIDS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/62c0hsfqi3EB9px96GLb7A8u6iz.jpg",Ultraman Ginga S (2024)
+#EXTINF:-1 tvg-id="NULL" group-title="Kids" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/62c0hsfqi3EB9px96GLb7A8u6iz.jpg",Ultraman Ginga S (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/338c7334-6fb5-5fd1-8aac-b56315e2ef85/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=70d3daac3313f511e8fa786e0e62f010:8e77ce2a307070f9dd9d8b8d1e198627
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJKOV_IVP_LAND_171x96_6EEF8_2024313_19356.jpg" group-title="KIDS" tvg-id="NULL", Penguins of Madagascar
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJKOV_IVP_LAND_171x96_6EEF8_2024313_19356.jpg" group-title="Kids" tvg-id="NULL", Penguins of Madagascar
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/6a1e604a-71bd-52ac-8ae5-775a90865437/default_dash.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=020120bb1380f44b4e90b1f65d85ff10:fcabb2da2966c8086aa6b16aad5539ca
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HSJGT_IVP_LAND_288x162_202431_101823.jpg" group-title="MOVIES" tvg-id="NULL", How to Train Your Dragon 2
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HSJGT_IVP_LAND_288x162_202431_101823.jpg" group-title="Kids" tvg-id="NULL", How to Train Your Dragon 2
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e17ea0ea-f888-5824-9a19-41d1c2175fcc/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=6b7145b6c2ffa9585b8cfa2342670c10:c31162735079b18ff704c3281bef2004
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVJIB_IVP_LAND_288x162_202431_102038.jpg" group-title="MOVIES" tvg-id="NULL", How to Train Your Dragon: The Hidden World
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVJIB_IVP_LAND_288x162_202431_102038.jpg" group-title="Kids" tvg-id="NULL", How to Train Your Dragon: The Hidden World
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/730a46c4-bfe1-5981-b53d-ebd60b24f567/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=7ff4063b80b6a1cbe8586e2e16d8f810:1431a8e56d61beed2464625d750566e5
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_JBKJK_IVP_LAND_171x96_3901F_2024313_1732.jpg" tvg-id="NULL" group-title="KIDS", Madagascar
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_JBKJK_IVP_LAND_171x96_3901F_2024313_1732.jpg" tvg-id="NULL" group-title="Kids", Madagascar
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/6cf7ed92-51f5-57ec-b6f2-2772498fd479/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=9650bdcb54c149d10388f36775d92210:4cf38a72a4cd8aab46d5189126983221
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JRHKN_IVP_LAND_432x243_488B0_2024313_171712.jpg" tvg-id="NULL" group-title="KIDS", Madagascar 3: Europe's Most Wanted
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JRHKN_IVP_LAND_432x243_488B0_2024313_171712.jpg" tvg-id="NULL" group-title="Kids", Madagascar 3: Europe's Most Wanted
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/342dd137-b2fb-580b-b406-f80f12e60de9/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=3d466da271e69452bb8a4145c7980410:e44aaf118b60fca3e2d5bbec84c99f8c
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JBKJM_IVP_LAND_171x96_39020_2024313_1732.jpg" tvg-id="NULL" group-title="KIDS", Madagascar: Escape 2 Africa
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JBKJM_IVP_LAND_171x96_39020_2024313_1732.jpg" tvg-id="NULL" group-title="Kids", Madagascar: Escape 2 Africa
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/f917beb1-15e6-5c24-b67c-ff6d0cb31e2c/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=c42095a9b596bedcda8ca976858df010:5fdc456f679707c0e0dc4854b2650325
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVQCG_IVP_LAND_171x96_692A2_2024313_18336.jpg" tvg-id="NULL" group-title="KIDS", Maya the Bee 2 The Honey Games
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVQCG_IVP_LAND_171x96_692A2_2024313_18336.jpg" tvg-id="NULL" group-title="Kids", Maya the Bee 2 The Honey Games
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/624883ef-7825-56bc-b061-4a220c9dc1d8/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=07a3a5b7ab2f8389fff0b0fb39b8e810:8ba7fa74aba09e17e276c9f9966ef8ec
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVQBL_IVP_LAND_171x96_692A3_2024313_18336.jpg" tvg-id="NULL" group-title="KIDS", Maya the Bee 3 The Golden Orb
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVQBL_IVP_LAND_171x96_692A3_2024313_18336.jpg" tvg-id="NULL" group-title="Kids", Maya the Bee 3 The Golden Orb
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/189401b3-75fc-54ca-a8f5-091ec0c449f6/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=3ab1354d63fe2326429c2c96b6c04d10:453a7185dacefbf04a8a78463e06ea44
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JUUDJ_IVP_LAND_171x96_692A1_2024313_18336.jpg" tvg-id="NULL" group-title="KIDS", Maya the Bee Movie
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JUUDJ_IVP_LAND_171x96_692A1_2024313_18336.jpg" tvg-id="NULL" group-title="Kids", Maya the Bee Movie
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/26e57a3d-a203-546c-b08e-c91109698f3f/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=14602e5b086dcb3fb0e6a71186c10d10:54253db43c6ef6100c0cdbb35e2bb68a
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSPVE_IVP_LAND_171x96_4C6F3_2024313_161212.jpg" tvg-id="NULL" group-title="KIDS", Maya The Bee Movie 1
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSPVE_IVP_LAND_171x96_4C6F3_2024313_161212.jpg" tvg-id="NULL" group-title="Kids", Maya The Bee Movie 1
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c350da8b-546b-5ea0-aef2-6568089a139f/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=8b46ed8735368a12bef8a814c9a87610:f1f76198e27d098f90de0371543f4f92
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KHKGD_IVP_LAND_171x96_6AB2D_2024313_184036.jpg" group-title="KIDS"  tvg-id="NULL", Nussa The Movie
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KHKGD_IVP_LAND_171x96_6AB2D_2024313_184036.jpg" group-title="Kids"  tvg-id="NULL", Nussa The Movie
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/3e98503b-6550-5a34-832d-079988a9f470/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=5c474acb8d1f2a548cc7a5fddfb82610:82ea827f53d9cdddb8579052037d4a55
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMEJE_IVP_LAND_672x378_2024331_105938.jpg" group-title="KIDS" tvg-id="NULL", The Angry Birds Movie
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMEJE_IVP_LAND_672x378_2024331_105938.jpg" group-title="Kids" tvg-id="NULL", The Angry Birds Movie
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a3a166a3-ae89-52fa-91f3-9fd6c67716d1/default_dash.mpd
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/6195b0ad-c094-58bb-a2c3-d968f7860f2b/default_dash.mpd
 
@@ -3569,7 +3566,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/6195b0ad-
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=3a06b5ef11aadebf4b27f86c030ec210:a163483eba5927045328730ab219d86f
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTQBY_IVP_LAND_586x330_2024317_20941.jpg" group-title="MOVIES" tvg-id="NULL", The Angry Birds Movie 2
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTQBY_IVP_LAND_586x330_2024317_20941.jpg" group-title="Kids" tvg-id="NULL", The Angry Birds Movie 2
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/1a0e8522-0870-588b-9d68-c7b455a0255e/default_dash.mpd
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/b5a006f3-e11f-58f0-bd44-8393ae8a9641/default_dash.mpd
  
@@ -3577,49 +3574,49 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/b5a006f3-
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=3db4f21581c1a0e7ae3c835811bdf410:4886e3ed01aa8fab0910d88d45acd637
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKXOO_IVP_LAND_432x243_202415_11934.jpg" group-title="Astro VOD" tvg-id="NULL", The Super Mario Bros. Movie
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKXOO_IVP_LAND_432x243_202415_11934.jpg" group-title="Kids" tvg-id="NULL", The Super Mario Bros. Movie
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/bf85b642-2fc7-55bd-9a1e-5d72590e4d5a/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=f87ce7567f40b185e531e66def5b7710:882336e88ee18b9f904c669c37cea337
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMTSA_IVP_LAND_917x516_2024518_185831.jpg" group-title="Astro VOD" tvg-id="NULL", PAW Patrol: The Mighty Movie
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMTSA_IVP_LAND_917x516_2024518_185831.jpg" group-title="Kids" tvg-id="NULL", PAW Patrol: The Mighty Movie
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/3a5d4dd1-6d87-53ff-9f15-a739b1885873/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=efb43ddcb8feb29885a79dc75b025210:7c84e8a0db00d16e2de376f623e46b37
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JUKIP_IVP_LAND_917x516_2024318_55922.jpg" group-title="Astro VOD" tvg-id="NULL", Peter Rabbit
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JUKIP_IVP_LAND_917x516_2024318_55922.jpg" group-title="Kids" tvg-id="NULL", Peter Rabbit
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/f2ce6a60-97c8-5be3-8cdd-80f2cb2d2c96/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=756ef3841661ed44df424262ab505110:8d7f036f59d2f355a683ba4f33fd6cf9
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_ILOIU_IVP_LAND_672x378_202489_103931.jpg" group-title="Astro VOD" tvg-id="NULL", Peter Rabbit
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_ILOIU_IVP_LAND_672x378_202489_103931.jpg" group-title="Kids" tvg-id="NULL", Peter Rabbit
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/b98c2e50-fa2f-5b63-898d-fff2e9995bd3/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=f8cfe1007321afad7c61fc29420ff210:86576d697e67d1419a83d8c756407680
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIGRE_IVP_LAND_171x96_6D616_2024313_185356.jpg" group-title="Astro VOD" tvg-id="NULL", Ultraman Decker Finale: Journey To Beyond
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIGRE_IVP_LAND_171x96_6D616_2024313_185356.jpg" group-title="Kids" tvg-id="NULL", Ultraman Decker Finale: Journey To Beyond
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/8f42070f-9bca-5c38-aa04-ff7c5809cc8c/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=86ccb3e9c93ef145167f18ce7dd4db10:62db8d47f5a6ce6b46a9b07175f519b6
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDONB_IVP_LAND_288x162_64663_2024313_182127.jpg" group-title="Astro VOD" tvg-id="NULL", Ultraman Trigger: Episode Z
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDONB_IVP_LAND_288x162_64663_2024313_182127.jpg" group-title="Kids" tvg-id="NULL", Ultraman Trigger: Episode Z
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c5d85333-55d6-5711-a519-d44b885333be/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=2a96191ee68d088698e70ac4fe5bfb10:d51cfe4a71bf07a69725e93f2ee127ba
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JLDUE_IVP_LAND_432x243_4EC8F_2024313_172212.jpg" group-title="Astro VOD" tvg-id="NULL", X-Game
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JLDUE_IVP_LAND_432x243_4EC8F_2024313_172212.jpg" group-title="Kids" tvg-id="NULL", X-Game
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/1ed844d3-cb95-5d65-8a72-b9fcbe02361f/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3632,6 +3629,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="htt" group-title="Kids",
+
 
 
 
