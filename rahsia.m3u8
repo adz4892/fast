@@ -256,13 +256,13 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MADINA.jpg",Madina Live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
-#EXTINF:-1 tvg-chno="201" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/FLICKS.jpg" group-title="MYTV MANA",Flicks of Fury
-#EXTGRP:International: Movies
+#EXTINF:-1 tvg-chno="201" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/FLICKS.jpg",Flicks of Fury
+#EXTGRP:MYTV MANA
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 
-#EXTINF:-1 tvg-chno="202" tvg-id="ParamountPlus.Picks" tvg-name="ParamountPlus.Picks" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/PARAPICKS.jpg" group-title="MYTV MANA",Paramount+ Picks
-#EXTGRP:International: Movies
+#EXTINF:-1 tvg-chno="202" tvg-id="ParamountPlus.Picks" tvg-name="ParamountPlus.Picks" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/PARAPICKS.jpg",Paramount+ Picks
+#EXTGRP:MYTV MANA
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 
@@ -1769,6 +1769,7 @@ https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/pla
 
 #EXTINF:-1 tvg-id="579.sooka" group-title="Sooka" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/HORSE.jpg",Horse & Country TV
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
+
 
 
 
