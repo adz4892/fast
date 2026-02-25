@@ -170,6 +170,9 @@ https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
 #EXTINF:0,tvg-id="SINAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="MYTV",SINAR
 https://stream.rcs.revma.com/azatk0tbv4uvv/hls.m3u8
 
+#EXTINF:0, tvg-id="ZAYAN" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Zayan.png" group-title="MYTV",ZAYAN
+https://stream.rcs.revma.com/7ww2a4tbv4uvv/hls.m3u8
+
 #EXTINF:0, tvg-id="Nasional FM" tvg-logo="https://live.rtm.gov.my/nasionalfm/assets/images/nasionalfm.webp" group-title="MYTV",NASIONALFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
 
@@ -277,6 +280,7 @@ https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.co
 
 #EXTINF:-1 group-title="MYTV" tvg-id="505.sooka" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",Yrf Music
 https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223-unisysinfo-yrf-music-hls-sooka/playlist.m3u8
+
 
 
 
