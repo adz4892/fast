@@ -2175,31 +2175,46 @@
   <desc lang="en">Gaya Pantai Timur</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
  </programme>
-<programme start="20260302000000 +0800" stop="20260302060000 +0800" channel="KOOLFM">
+<programme start="20260302000000 +0800" stop="20260302050000 +0800" channel="KOOLFM">
   <title lang="en">Malaysia Dah Kool</title>
   <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
+  <icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-05.jpg"/>
  </programme>
-<programme start="20260302060000 +0800" stop="20260302120000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
- </programme>
-<programme start="20260302120000 +0800" stop="20260302180000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
- </programme>
-<programme start="20260302180000 +0800" stop="20260303000000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
+<programme start="20260302050000 +0800" stop="20260302060000 +0800" channel="KOOLFM">
+<title lang="en">Kooliah Kool FM (Ulangan)</title>
+<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+</programme>
+<programme start="20260302060000 +0800" stop="20260302100000 +0800" channel=“KOOLFM”>
+<title lang="en">Pagi On Point</title>
+<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+</programme>
+<programme start="20260302100000 +0800" stop="20260302150000 +0800" channel=“KOOLFM”>
+<title lang="en">Santai Kool</title>
+<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+<icon src="https://assets.koolfm.audio/2026/02/featured_1200x630_koolfm_2025-08.jpg"/>
+</programme>
+<programme start="20260302150000 +0800" stop="20260302190000 +0800" channel=“KOOLFM”>
+<title lang="en">PM Kool</title>
+<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+</programme>
+<programme start="20260302190000 +0800" stop="20260302200000 +0800" channel=“KOOLFM”>
+<title lang="en">Kooliah Kool FM</title>
+<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+</programme>
+<programme start="20260302200000 +0800" stop="20260303000000 +0800" channel=“KOOLFM”>
+<title lang="en">Cerita Malam Kita</title>
+<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
  </programme>
 <programme start="20260302000000 +0800" stop="20260302060000 +0800" channel="HOTFM">
-  <title lang="en">Terbaik Sentiasa Hangat</title>
-  <desc lang="en">Terbaik Sentiasa Hangat</desc>
-  <icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
- </programme>
+<title lang="en">Terbaik Sentiasa Hangat</title>
+<desc lang="en">Terbaik Sentiasa Hangat</desc>
+<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
+</programme>
 <programme start="20260302060000 +0800" stop="20260302100000 +0800" channel="HOTFM">
   <title lang="en">Bekpes Hot</title>
 <desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
@@ -2224,6 +2239,36 @@
   <title lang="en">Hotflix</title>
 <desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
 <icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
+ </programme>
+<programme start="20260302000000 +0800" stop="20260302060000 +0800" channel="MOLEKFM">
+  <title lang="en">Pilihan Pertama Pantai Timur</title>
+  <desc lang="en">Pilihan Pertama Pantai Timur</desc>
+  <icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+ </programme>
+<programme start="20260302060000 +0800" stop="20260302100000 +0800" channel="MOLEKFM">
+  <title lang="en">Molek Pagi</title>
+<desc lang="en">Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
+<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+ </programme>
+<programme start="20260302100000 +0800" stop="20260302150000 +0800" channel="MOLEKFM">
+  <title lang="en">Muzik Tanpa Yoya</title>
+<desc lang="en">Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
+<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
+ </programme>
+<programme start="20260302150000 +0800" stop="20260302190000 +0800" channel="MOLEKFM">
+  <title lang="en">Molek Petang</title>
+<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
+<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
+ </programme>
+<programme start="20260302190000 +0800" stop="20260302200000 +0800" channel="MOLEKFM">
+  <title lang="en">Renungan Molek</title>
+<desc lang="en">Sesi inspirasi untuk cerminan diri.</desc>
+<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+ </programme>
+<programme start="20260302200000 +0800" stop="20260303000000 +0800" channel="MOLEKFM">
+  <title lang="en">Molek Malam</title>
+  <desc lang="en">Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
+  <icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
  </programme>
 <programme start="20260302000000 +0800" stop="20260302060000 +0800" channel="FLYFM">
   <title lang="en">Playing Malaysia’s Flyest Music</title>
@@ -2287,33 +2332,33 @@
  </programme>
 <programme start="20260302060000 +0800" stop="20260302100000 +0800" channel="SURIAFM">
   <title lang="en">Pagi On Suria</title>
-<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
- </programme>
+<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad.</desc>
+<icon src=" https://media.suria.my/wp-content/uploads/2023/08/17065409/IGPOST1080X1350-616x770.jpg"/>
+</programme>
 <programme start="20260302100000 +0800" stop="20260302130000 +0800" channel="SURIAFM">
   <title lang="en">Vibe Suria</title>
-<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
+<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110918/IGPOST1080X1080-770x770.jpg"/>
  </programme>
 <programme start="20260302130000 +0800" stop="20260302150000 +0800" channel="SURIAFM">
   <title lang="en">Playlist Suria</title>
-<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
+<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132535/IGPOST1080X1080-1-770x770.jpg"/>
  </programme>
 <programme start="20260302150000 +0800" stop="20260302190000 +0800" channel="SURIAFM">
   <title lang="en">Chill Petang Suria</title>
-<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
+<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/10/17155532/IGPOST1080X1080-770x770.png"/>
  </programme>
 <programme start="20260302190000 +0800" stop="20260302200000 +0800" channel="SURIAFM">
   <title lang="en">Kalam Suria</title>
-<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
+<desc lang="en">Sempurnakan perjalanan rohani anda dan disulami lagu berunsur ke-Tuhanan.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152340/KALAM-SURIA_FEED-SIZE1080X1080-770x770.jpg"/>
  </programme>
 <programme start="20260302180000 +0800" stop="20260303000000 +0800" channel="SURIAFM">
   <title lang="en">Kafe Suria</title>
-<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
+<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak di Kafe Suria.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2025/05/06160326/KAFE-SURIA-IGPOST1080X1080-770x770.png"/>
  </programme>
 <programme start="20260302000000 +0800" stop="20260302060000 +0800" channel="BESTFM">
   <title lang="en">Suara Dunia Baharu</title>
@@ -2340,12 +2385,42 @@
   <desc lang="en">Meriahkan malam anda bersama penyampai Best Night Talk, Aiman dan Hafiz.</desc>
   <icon src="https://bestfm.com.my/wp-content/uploads/2026/02/Segmen-Best-Night-Talk-1920X640.jpg-1536x512.jpeg"/>
  </programme>
-<programme start="20260301230000 +0800" stop="20260302060000 +0800" channel="CATSFM">
+<programme start="20260302000000 +0800" stop="20260302070000 +0800" channel="MANISFM">
+  <title lang="en">Gaya Pantai Timur</title>
+  <desc lang="en">Gaya Pantai Timur</desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260302070000 +0800" stop="20260302100000 +0800" channel="MANISFM">
+  <title lang="en">Manis Manis Pagi</title>
+  <desc lang="en">Manis Manis Pagi</desc>
+  <icon src="https://apimyapps.sweet.com.my/storage/media/images/pMR0kq9AxsaFjabp4WVqqSY7yN0FKbpw4zIJE9vD.jpg"/>
+ </programme>
+<programme start="20260302100000 +0800" stop="20260302140000 +0800" channel="MANISFM">
+  <title lang="en">Manis Sokmo</title>
+  <desc lang="en">Manis Sokmo</desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260302140000 +0800" stop="20260302190000 +0800" channel="MANISFM">
+  <title lang="en">Manis Xpres</title>
+  <desc lang="en">Manis Xpres</desc>
+  <icon src="https://apimyapps.sweet.com.my/storage/media/images/bAapv2nGn0JeD5LE85Jyw5mXk2QMv7EQRbTORDW8.jpg"/>
+ </programme>
+<programme start="20260302210000 +0800" stop="20260302230000 +0800" channel="MANISFM">
+  <title lang="en">Manis Malam</title>
+  <desc lang="en">Manis Malam</desc>
+  <icon src="https://apimyapps.sweet.com.my/storage/media/images/WvpqvZv3kDCcCoWls304vOwLtQbPakpHZJrshYcz.jpg"/>
+ </programme>
+<programme start="20260302230000 +0800" stop="20260303000000 +0800" channel="MANISFM">
+  <title lang="en">Gaya Pantai Timur</title>
+  <desc lang="en">Gaya Pantai Timur</desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260302000000 +0800" stop="20260302060000 +0800" channel="CATSFM">
   <title lang="en">Antap Muzik</title>
   <desc lang="en">Antap Muzik</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/CATS.jpg"/>
  </programme>
-<programme start="20260301230000 +0800" stop="20260302100000 +0800" channel="CATSFM">
+<programme start="20260302060000 +0800" stop="20260302100000 +0800" channel="CATSFM">
   <title lang="en">CATS AM Crew</title>
 <desc lang="en">CATS Update,Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata serta Segmen Pak Lambet.</desc>
 <icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
@@ -2362,7 +2437,7 @@
  </programme>
 <programme start="20260302160000 +0800" stop="20260302200000 +0800" channel="CATSFM">
   <title lang="en">Geng Petang CATS</title>
-  <desc lang="en">">CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review.</desc>
+  <desc lang="en">CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review.</desc>
   <icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
  </programme>
 <programme start="20260302200000 +0800" stop="202603022300000 +0800" channel="CATSFM">
@@ -2437,28 +2512,28 @@
  </programme>
 <programme start="20260302060000 +0800" stop="20260302100000 +0800" channel="ERA SARAWAK">
   <title lang="en">Ooha Pagi ERA</title>
-  <desc lang="en">Oooooohaaaaaaaa~~ Pagi ari tok kita dah berooha dengan Ooha Pagi ERA bersama Ilmo dan Alisa Spencer Pagi ari kitak semun? Iboh bingong sebab pagi kitak akan rancak bila kitak melayan loyar sidak duak tok. Kitakurang boleh call untuk kelakar ataupun lepak dengan Dayang Qalisya Humaira dalam Koti Lah Koti! Nak Kiak Kaung dalam bahasa Sarawak? Boleh juak Bah pilih jak lagu kita tukar jadi Bahasa Sarawak!</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Oooooohaaaaaaaa~~ Pagi ari tok kita dah berooha dengan Ooha Pagi ERA. Pagi ari kitak semun? Iboh bingong sebab pagi kitak akan rancak bila kitak melayan Ooha Pagi ERA.</desc>
+  <icon src="https://media2.fishtank.my/media/era/assets2/client/2026/celcomdigi-logo/konco-pagi-era-logo/ooha-pagi-era-logo/client-logo.png"/>
  </programme>
 <programme start="20260302100000 +0800" stop="20260302130000 +0800" channel="ERA SARAWAK">
   <title lang="en">Acak Tok ERA</title>
-  <desc lang="en">Lagu yang kacak, cerita yang kacak, style yang kacak… semua pun kacak di Acak Tok ERA bersama Asyilah! Biar Asyilah yang belanja lagu-lagu back to back sambil kongsi cerita viral pakei kitakorang! Kitak suka layan game? Kamonn la! Content games pun Asyilah belanja dalam Kaki Game di Acak Tok ERA! Nak kacak biar kacak terus!</desc>
+  <desc lang="en">Lagu yang kacak, cerita yang kacak, style yang kacak… Nak kacak biar kacak terus!</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
  </programme>
 <programme start="20260302130000 +0800" stop="20260302160000 +0800" channel="ERA SARAWAK">
   <title lang="en">Seranto ERA</title>
-  <desc lang="en">Tengahari kita sendu? Iboh bingong! Ummi akan neman kitak! Semua nya cover, Update yang baru, Lagu ngam yang kitak orang mok, Cerita yang pelik tapi benar? Macam-macam lagik lah Seranto Era bersama Ummi yang sentiasa ready nak teman kitak orang.</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Tengahari kita sendu? Iboh bingong! Seranto Era sentiasa ready nak teman kitak orang.</desc>
+  <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnp12dqsg96JPDrPlmpR4seFRhzZJ2mUWQQ&s"/>
  </programme>
 <programme start="20260302160000 +0800" stop="20260302200000 +0800" channel="ERA SARAWAK">
   <title lang="en">Rilek Petang ERA</title>
-  <desc lang="en">Muzik Hit Terkini</desc>
-<icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Petang-petang memang senang nak triggered. Rilek jak dengan Rilek Petang Era Tenang jak semuanya!</desc>
+<icon src="https://media2.fishtank.my/media/era/assets2/client/2025/u-mobile/rilek-petang-era-logo/rilek-petang4-logo/mheader.png"/>
  </programme>
 <programme start="20260302200000 +0800" stop="20260303000000 +0800" channel="ERA SARAWAK">
   <title lang="en">Malam ONZ ERA</title>
   <desc lang="en">Petang-petang memang senang nak triggered. Jalan jam? Triggered. Kepak kerja or sekolah? Triggered. Perut lapar? Triggered. Rilek jak dengan Rilek Petang Era Tenang jak semuanya! Layan lagu, topic best-best, quote of the day dalam kata hari era dan…. nak carik jodoh pun boleh! Semua tok ada untuk kitak! Stress no more! Rilek jak di Rilek Petang Era.</desc>
-<icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLYbiy0xoaERzfPcd_z45P9Cg70ROnF8O-g&s"/>
  </programme>
 <programme start="20260302000000 +0800" stop="20260302060000 +0800" channel="ERA SABAH">
   <title lang="en">Muzik Hit Terkini</title>
@@ -2600,86 +2675,46 @@
   <desc lang="en">Stesen Muzik Anda</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOMUZIK.jpg"/>
  </programme>
-<programme start="20260302000000 +0800" stop="20260302060000 +0800" channel="MOLEKFM">
-  <title lang="en">Pilihan Pertama Pantai Timur</title>
-  <desc lang="en">Pilihan Pertama Pantai Timur</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg"/>
- </programme>
-<programme start="20260302060000 +0800" stop="20260302100000 +0800" channel="MOLEKFM">
-  <title lang="en">Molek Pagi</title>
-<desc lang="en">Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
- </programme>
-<programme start="20260302100000 +0800" stop="20260302150000 +0800" channel="MOLEKFM">
-  <title lang="en">Muzik Tanpa Yoya</title>
-<desc lang="en">Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
- </programme>
-<programme start="20260302150000 +0800" stop="20260302190000 +0800" channel="MOLEKFM">
-  <title lang="en">Molek Petang</title>
-<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
- </programme>
-<programme start="20260302190000 +0800" stop="20260302200000 +0800" channel="MOLEKFM">
-  <title lang="en">Renungan Molek</title>
-<desc lang="en">Sesi inspirasi untuk cerminan diri.</desc>
-<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
- </programme>
-<programme start="20260302200000 +0800" stop="20260303000000 +0800" channel="MOLEKFM">
-  <title lang="en">Molek Malam</title>
-  <desc lang="en">Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-  <icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
- </programme>
-<programme start="20260302070000 +0800" stop="20260302100000 +0800" channel="MANISFM">
-  <title lang="en">Manis Manis Pagi</title>
-  <desc lang="en">Manis Manis Pagi</desc>
-  <icon src="https://apimyapps.sweet.com.my/storage/media/images/pMR0kq9AxsaFjabp4WVqqSY7yN0FKbpw4zIJE9vD.jpg"/>
- </programme>
-<programme start="20260302100000 +0800" stop="20260302100000 +0800" channel="MANISFM">
-  <title lang="en">Manis Sokmo</title>
-  <desc lang="en">Manis Sokmo</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
- </programme>
-<programme start="20260302140000 +0800" stop="20260302190000 +0800" channel="MANISFM">
-  <title lang="en">Manis Xpres</title>
-  <desc lang="en">Manis Xpres</desc>
-  <icon src="https://apimyapps.sweet.com.my/storage/media/images/bAapv2nGn0JeD5LE85Jyw5mXk2QMv7EQRbTORDW8.jpg"/>
- </programme>
-<programme start="20260302210000 +0800" stop="20260302230000 +0800" channel="MANISFM">
-  <title lang="en">Manis Malam</title>
-  <desc lang="en">Manis Malam</desc>
-  <icon src="https://apimyapps.sweet.com.my/storage/media/images/WvpqvZv3kDCcCoWls304vOwLtQbPakpHZJrshYcz.jpg"/>
- </programme>
-<programme start="20260302230000 +0800" stop="20260303070000 +0800" channel="MANISFM">
-  <title lang="en">Gaya Pantai Timur</title>
-  <desc lang="en">Gaya Pantai Timur</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
- </programme>
-<programme start="20260303000000 +0800" stop="20260303060000 +0800" channel="KOOLFM">
+<programme start="20260303000000 +0800" stop="20260303050000 +0800" channel="KOOLFM">
   <title lang="en">Malaysia Dah Kool</title>
   <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
+  <icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-05.jpg"/>
  </programme>
-<programme start="20260303060000 +0800" stop="20260303120000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
- </programme>
-<programme start="20260303120000 +0800" stop="20260303180000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
- </programme>
-<programme start="20260303180000 +0800" stop="20260304000000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
+<programme start="20260303050000 +0800" stop="20260303060000 +0800" channel="KOOLFM">
+<title lang="en">Kooliah Kool FM (Ulangan)</title>
+<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+</programme>
+<programme start="20260303060000 +0800" stop="20260303100000 +0800" channel=“KOOLFM”>
+<title lang="en">Pagi On Point</title>
+<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+</programme>
+<programme start="20260303100000 +0800" stop="20260303150000 +0800" channel=“KOOLFM”>
+<title lang="en">Santai Kool</title>
+<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+<icon src="https://assets.koolfm.audio/2026/02/featured_1200x630_koolfm_2025-08.jpg"/>
+</programme>
+<programme start="20260303150000 +0800" stop="20260303190000 +0800" channel=“KOOLFM”>
+<title lang="en">PM Kool</title>
+<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+</programme>
+<programme start="20260303190000 +0800" stop="20260303200000 +0800" channel=“KOOLFM”>
+<title lang="en">Kooliah Kool FM</title>
+<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+</programme>
+<programme start="20260303200000 +0800" stop="20260304000000 +0800" channel=“KOOLFM”>
+<title lang="en">Cerita Malam Kita</title>
+<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
  </programme>
 <programme start="20260303000000 +0800" stop="20260303060000 +0800" channel="HOTFM">
-  <title lang="en">Terbaik Sentiasa Hangat</title>
-  <desc lang="en">Terbaik Sentiasa Hangat</desc>
-  <icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
- </programme>
+<title lang="en">Terbaik Sentiasa Hangat</title>
+<desc lang="en">Terbaik Sentiasa Hangat</desc>
+<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
+</programme>
 <programme start="20260303060000 +0800" stop="20260303100000 +0800" channel="HOTFM">
   <title lang="en">Bekpes Hot</title>
 <desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
@@ -2704,6 +2739,36 @@
   <title lang="en">Hotflix</title>
 <desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
 <icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
+ </programme>
+<programme start="20260303000000 +0800" stop="20260303060000 +0800" channel="MOLEKFM">
+  <title lang="en">Pilihan Pertama Pantai Timur</title>
+  <desc lang="en">Pilihan Pertama Pantai Timur</desc>
+  <icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+ </programme>
+<programme start="20260303060000 +0800" stop="20260303100000 +0800" channel="MOLEKFM">
+  <title lang="en">Molek Pagi</title>
+<desc lang="en">Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
+<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+ </programme>
+<programme start="20260303100000 +0800" stop="20260303150000 +0800" channel="MOLEKFM">
+  <title lang="en">Muzik Tanpa Yoya</title>
+<desc lang="en">Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
+<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
+ </programme>
+<programme start="20260303150000 +0800" stop="20260303190000 +0800" channel="MOLEKFM">
+  <title lang="en">Molek Petang</title>
+<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
+<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
+ </programme>
+<programme start="20260303190000 +0800" stop="20260303200000 +0800" channel="MOLEKFM">
+  <title lang="en">Renungan Molek</title>
+<desc lang="en">Sesi inspirasi untuk cerminan diri.</desc>
+<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+ </programme>
+<programme start="20260303200000 +0800" stop="20260304000000 +0800" channel="MOLEKFM">
+  <title lang="en">Molek Malam</title>
+  <desc lang="en">Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
+  <icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
  </programme>
 <programme start="20260303000000 +0800" stop="20260303060000 +0800" channel="FLYFM">
   <title lang="en">Playing Malaysia’s Flyest Music</title>
@@ -2767,33 +2832,33 @@
  </programme>
 <programme start="20260303060000 +0800" stop="20260303100000 +0800" channel="SURIAFM">
   <title lang="en">Pagi On Suria</title>
-<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
- </programme>
+<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad.</desc>
+<icon src=" https://media.suria.my/wp-content/uploads/2023/08/17065409/IGPOST1080X1350-616x770.jpg"/>
+</programme>
 <programme start="20260303100000 +0800" stop="20260303130000 +0800" channel="SURIAFM">
   <title lang="en">Vibe Suria</title>
-<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
+<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110918/IGPOST1080X1080-770x770.jpg"/>
  </programme>
 <programme start="20260303130000 +0800" stop="20260303150000 +0800" channel="SURIAFM">
   <title lang="en">Playlist Suria</title>
-<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
+<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132535/IGPOST1080X1080-1-770x770.jpg"/>
  </programme>
 <programme start="20260303150000 +0800" stop="20260303190000 +0800" channel="SURIAFM">
   <title lang="en">Chill Petang Suria</title>
-<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
+<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/10/17155532/IGPOST1080X1080-770x770.png"/>
  </programme>
 <programme start="20260303190000 +0800" stop="20260303200000 +0800" channel="SURIAFM">
   <title lang="en">Kalam Suria</title>
-<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
+<desc lang="en">Sempurnakan perjalanan rohani anda dan disulami lagu berunsur ke-Tuhanan.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152340/KALAM-SURIA_FEED-SIZE1080X1080-770x770.jpg"/>
  </programme>
 <programme start="20260303180000 +0800" stop="20260304000000 +0800" channel="SURIAFM">
   <title lang="en">Kafe Suria</title>
-<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
+<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak di Kafe Suria.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2025/05/06160326/KAFE-SURIA-IGPOST1080X1080-770x770.png"/>
  </programme>
 <programme start="20260303000000 +0800" stop="20260303060000 +0800" channel="BESTFM">
   <title lang="en">Suara Dunia Baharu</title>
@@ -2820,12 +2885,42 @@
   <desc lang="en">Meriahkan malam anda bersama penyampai Best Night Talk, Aiman dan Hafiz.</desc>
   <icon src="https://bestfm.com.my/wp-content/uploads/2026/02/Segmen-Best-Night-Talk-1920X640.jpg-1536x512.jpeg"/>
  </programme>
-<programme start="20260302230000 +0800" stop="20260303060000 +0800" channel="CATSFM">
+<programme start="20260303000000 +0800" stop="20260303070000 +0800" channel="MANISFM">
+  <title lang="en">Gaya Pantai Timur</title>
+  <desc lang="en">Gaya Pantai Timur</desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260303070000 +0800" stop="20260303100000 +0800" channel="MANISFM">
+  <title lang="en">Manis Manis Pagi</title>
+  <desc lang="en">Manis Manis Pagi</desc>
+  <icon src="https://apimyapps.sweet.com.my/storage/media/images/pMR0kq9AxsaFjabp4WVqqSY7yN0FKbpw4zIJE9vD.jpg"/>
+ </programme>
+<programme start="20260303100000 +0800" stop="20260303140000 +0800" channel="MANISFM">
+  <title lang="en">Manis Sokmo</title>
+  <desc lang="en">Manis Sokmo</desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260303140000 +0800" stop="20260303190000 +0800" channel="MANISFM">
+  <title lang="en">Manis Xpres</title>
+  <desc lang="en">Manis Xpres</desc>
+  <icon src="https://apimyapps.sweet.com.my/storage/media/images/bAapv2nGn0JeD5LE85Jyw5mXk2QMv7EQRbTORDW8.jpg"/>
+ </programme>
+<programme start="20260303210000 +0800" stop="20260303230000 +0800" channel="MANISFM">
+  <title lang="en">Manis Malam</title>
+  <desc lang="en">Manis Malam</desc>
+  <icon src="https://apimyapps.sweet.com.my/storage/media/images/WvpqvZv3kDCcCoWls304vOwLtQbPakpHZJrshYcz.jpg"/>
+ </programme>
+<programme start="20260303230000 +0800" stop="20260304000000 +0800" channel="MANISFM">
+  <title lang="en">Gaya Pantai Timur</title>
+  <desc lang="en">Gaya Pantai Timur</desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260303000000 +0800" stop="20260303060000 +0800" channel="CATSFM">
   <title lang="en">Antap Muzik</title>
   <desc lang="en">Antap Muzik</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/CATS.jpg"/>
  </programme>
-<programme start="20260301230000 +0800" stop="20260303100000 +0800" channel="CATSFM">
+<programme start="20260303060000 +0800" stop="20260303100000 +0800" channel="CATSFM">
   <title lang="en">CATS AM Crew</title>
 <desc lang="en">CATS Update,Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata serta Segmen Pak Lambet.</desc>
 <icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
@@ -2842,7 +2937,7 @@
  </programme>
 <programme start="20260303160000 +0800" stop="20260303200000 +0800" channel="CATSFM">
   <title lang="en">Geng Petang CATS</title>
-  <desc lang="en">">CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review.</desc>
+  <desc lang="en">CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review.</desc>
   <icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
  </programme>
 <programme start="20260303200000 +0800" stop="202603032300000 +0800" channel="CATSFM">
@@ -2917,28 +3012,28 @@
  </programme>
 <programme start="20260303060000 +0800" stop="20260303100000 +0800" channel="ERA SARAWAK">
   <title lang="en">Ooha Pagi ERA</title>
-  <desc lang="en">Oooooohaaaaaaaa~~ Pagi ari tok kita dah berooha dengan Ooha Pagi ERA bersama Ilmo dan Alisa Spencer Pagi ari kitak semun? Iboh bingong sebab pagi kitak akan rancak bila kitak melayan loyar sidak duak tok. Kitakurang boleh call untuk kelakar ataupun lepak dengan Dayang Qalisya Humaira dalam Koti Lah Koti! Nak Kiak Kaung dalam bahasa Sarawak? Boleh juak Bah pilih jak lagu kita tukar jadi Bahasa Sarawak!</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Oooooohaaaaaaaa~~ Pagi ari tok kita dah berooha dengan Ooha Pagi ERA. Pagi ari kitak semun? Iboh bingong sebab pagi kitak akan rancak bila kitak melayan Ooha Pagi ERA.</desc>
+  <icon src="https://media2.fishtank.my/media/era/assets2/client/2026/celcomdigi-logo/konco-pagi-era-logo/ooha-pagi-era-logo/client-logo.png"/>
  </programme>
 <programme start="20260303100000 +0800" stop="20260303130000 +0800" channel="ERA SARAWAK">
   <title lang="en">Acak Tok ERA</title>
-  <desc lang="en">Lagu yang kacak, cerita yang kacak, style yang kacak… semua pun kacak di Acak Tok ERA bersama Asyilah! Biar Asyilah yang belanja lagu-lagu back to back sambil kongsi cerita viral pakei kitakorang! Kitak suka layan game? Kamonn la! Content games pun Asyilah belanja dalam Kaki Game di Acak Tok ERA! Nak kacak biar kacak terus!</desc>
+  <desc lang="en">Lagu yang kacak, cerita yang kacak, style yang kacak… Nak kacak biar kacak terus!</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
  </programme>
 <programme start="20260303130000 +0800" stop="20260303160000 +0800" channel="ERA SARAWAK">
   <title lang="en">Seranto ERA</title>
-  <desc lang="en">Tengahari kita sendu? Iboh bingong! Ummi akan neman kitak! Semua nya cover, Update yang baru, Lagu ngam yang kitak orang mok, Cerita yang pelik tapi benar? Macam-macam lagik lah Seranto Era bersama Ummi yang sentiasa ready nak teman kitak orang.</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Tengahari kita sendu? Iboh bingong! Seranto Era sentiasa ready nak teman kitak orang.</desc>
+  <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnp12dqsg96JPDrPlmpR4seFRhzZJ2mUWQQ&s"/>
  </programme>
 <programme start="20260303160000 +0800" stop="20260303200000 +0800" channel="ERA SARAWAK">
   <title lang="en">Rilek Petang ERA</title>
-  <desc lang="en">Muzik Hit Terkini</desc>
-<icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Petang-petang memang senang nak triggered. Rilek jak dengan Rilek Petang Era Tenang jak semuanya!</desc>
+<icon src="https://media2.fishtank.my/media/era/assets2/client/2025/u-mobile/rilek-petang-era-logo/rilek-petang4-logo/mheader.png"/>
  </programme>
 <programme start="20260303200000 +0800" stop="20260304000000 +0800" channel="ERA SARAWAK">
   <title lang="en">Malam ONZ ERA</title>
-  <desc lang="en">Petang-petang memang senang nak triggered. Jalan jam? Triggered. Kepak kerja or sekolah? Triggered. Perut lapar? Triggered. Rilek jak dengan Rilek Petang Era Tenang jak semuanya! Layan lagu, topic best-best, quote of the day dalam kata hari era dan…. nak carik jodoh pun boleh! Semua tok ada untuk kitak! Stress no more! Rilek jak di Rilek Petang Era.</desc>
-<icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Nak makan sikda teman…nak heart to heart sikda teman..nak study, nak kerja pun sikda teman. Terpaling lonely kah yaaaa? Haaa sik kisahlah single ka or not avaiable. Malam Onz Era dikuasakan oleh Tune Talk!</desc>
+<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLYbiy0xoaERzfPcd_z45P9Cg70ROnF8O-g&s"/>
  </programme>
 <programme start="20260303000000 +0800" stop="20260303060000 +0800" channel="ERA SABAH">
   <title lang="en">Muzik Hit Terkini</title>
@@ -3080,86 +3175,46 @@
   <desc lang="en">Stesen Muzik Anda</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOMUZIK.jpg"/>
  </programme>
-<programme start="20260303000000 +0800" stop="20260303060000 +0800" channel="MOLEKFM">
-  <title lang="en">Pilihan Pertama Pantai Timur</title>
-  <desc lang="en">Pilihan Pertama Pantai Timur</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg"/>
- </programme>
-<programme start="20260303060000 +0800" stop="20260303100000 +0800" channel="MOLEKFM">
-  <title lang="en">Molek Pagi</title>
-<desc lang="en">Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
- </programme>
-<programme start="20260303100000 +0800" stop="20260303150000 +0800" channel="MOLEKFM">
-  <title lang="en">Muzik Tanpa Yoya</title>
-<desc lang="en">Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
- </programme>
-<programme start="20260303150000 +0800" stop="20260303190000 +0800" channel="MOLEKFM">
-  <title lang="en">Molek Petang</title>
-<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
- </programme>
-<programme start="20260303190000 +0800" stop="20260303200000 +0800" channel="MOLEKFM">
-  <title lang="en">Renungan Molek</title>
-<desc lang="en">Sesi inspirasi untuk cerminan diri.</desc>
-<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
- </programme>
-<programme start="20260303200000 +0800" stop="20260304000000 +0800" channel="MOLEKFM">
-  <title lang="en">Molek Malam</title>
-  <desc lang="en">Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-  <icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
- </programme>
-<programme start="20260303070000 +0800" stop="20260303100000 +0800" channel="MANISFM">
-  <title lang="en">Manis Manis Pagi</title>
-  <desc lang="en">Manis Manis Pagi</desc>
-  <icon src="https://apimyapps.sweet.com.my/storage/media/images/pMR0kq9AxsaFjabp4WVqqSY7yN0FKbpw4zIJE9vD.jpg"/>
- </programme>
-<programme start="20260303100000 +0800" stop="20260303100000 +0800" channel="MANISFM">
-  <title lang="en">Manis Sokmo</title>
-  <desc lang="en">Manis Sokmo</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
- </programme>
-<programme start="20260303140000 +0800" stop="20260303190000 +0800" channel="MANISFM">
-  <title lang="en">Manis Xpres</title>
-  <desc lang="en">Manis Xpres</desc>
-  <icon src="https://apimyapps.sweet.com.my/storage/media/images/bAapv2nGn0JeD5LE85Jyw5mXk2QMv7EQRbTORDW8.jpg"/>
- </programme>
-<programme start="20260303210000 +0800" stop="20260303230000 +0800" channel="MANISFM">
-  <title lang="en">Manis Malam</title>
-  <desc lang="en">Manis Malam</desc>
-  <icon src="https://apimyapps.sweet.com.my/storage/media/images/WvpqvZv3kDCcCoWls304vOwLtQbPakpHZJrshYcz.jpg"/>
- </programme>
-<programme start="20260303230000 +0800" stop="20260304070000 +0800" channel="MANISFM">
-  <title lang="en">Gaya Pantai Timur</title>
-  <desc lang="en">Gaya Pantai Timur</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
- </programme>
-<programme start="20260304000000 +0800" stop="20260304060000 +0800" channel="KOOLFM">
+<programme start="20260304000000 +0800" stop="20260304050000 +0800" channel="KOOLFM">
   <title lang="en">Malaysia Dah Kool</title>
   <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
+  <icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-05.jpg"/>
  </programme>
-<programme start="20260304060000 +0800" stop="20260304120000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
- </programme>
-<programme start="20260304120000 +0800" stop="20260304180000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
- </programme>
-<programme start="20260304180000 +0800" stop="20260305000000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
+<programme start="20260304050000 +0800" stop="20260304060000 +0800" channel="KOOLFM">
+<title lang="en">Kooliah Kool FM (Ulangan)</title>
+<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+</programme>
+<programme start="20260304060000 +0800" stop="20260304100000 +0800" channel=“KOOLFM”>
+<title lang="en">Pagi On Point</title>
+<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+</programme>
+<programme start="20260304100000 +0800" stop="20260304150000 +0800" channel=“KOOLFM”>
+<title lang="en">Santai Kool</title>
+<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+<icon src="https://assets.koolfm.audio/2026/02/featured_1200x630_koolfm_2025-08.jpg"/>
+</programme>
+<programme start="20260304150000 +0800" stop="20260304190000 +0800" channel=“KOOLFM”>
+<title lang="en">PM Kool</title>
+<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+</programme>
+<programme start="20260304190000 +0800" stop="20260304200000 +0800" channel=“KOOLFM”>
+<title lang="en">Kooliah Kool FM</title>
+<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+</programme>
+<programme start="20260304200000 +0800" stop="20260305000000 +0800" channel=“KOOLFM”>
+<title lang="en">Cerita Malam Kita</title>
+<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
  </programme>
 <programme start="20260304000000 +0800" stop="20260304060000 +0800" channel="HOTFM">
-  <title lang="en">Terbaik Sentiasa Hangat</title>
-  <desc lang="en">Terbaik Sentiasa Hangat</desc>
-  <icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
- </programme>
+<title lang="en">Terbaik Sentiasa Hangat</title>
+<desc lang="en">Terbaik Sentiasa Hangat</desc>
+<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
+</programme>
 <programme start="20260304060000 +0800" stop="20260304100000 +0800" channel="HOTFM">
   <title lang="en">Bekpes Hot</title>
 <desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
@@ -3184,6 +3239,36 @@
   <title lang="en">Hotflix</title>
 <desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
 <icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
+ </programme>
+<programme start="20260304000000 +0800" stop="20260304060000 +0800" channel="MOLEKFM">
+  <title lang="en">Pilihan Pertama Pantai Timur</title>
+  <desc lang="en">Pilihan Pertama Pantai Timur</desc>
+  <icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+ </programme>
+<programme start="20260304060000 +0800" stop="20260304100000 +0800" channel="MOLEKFM">
+  <title lang="en">Molek Pagi</title>
+<desc lang="en">Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
+<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+ </programme>
+<programme start="20260304100000 +0800" stop="20260304150000 +0800" channel="MOLEKFM">
+  <title lang="en">Muzik Tanpa Yoya</title>
+<desc lang="en">Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
+<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
+ </programme>
+<programme start="20260304150000 +0800" stop="20260304190000 +0800" channel="MOLEKFM">
+  <title lang="en">Molek Petang</title>
+<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
+<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
+ </programme>
+<programme start="20260304190000 +0800" stop="20260304200000 +0800" channel="MOLEKFM">
+  <title lang="en">Renungan Molek</title>
+<desc lang="en">Sesi inspirasi untuk cerminan diri.</desc>
+<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+ </programme>
+<programme start="20260304200000 +0800" stop="20260305000000 +0800" channel="MOLEKFM">
+  <title lang="en">Molek Malam</title>
+  <desc lang="en">Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
+  <icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
  </programme>
 <programme start="20260304000000 +0800" stop="20260304060000 +0800" channel="FLYFM">
   <title lang="en">Playing Malaysia’s Flyest Music</title>
@@ -3247,33 +3332,33 @@
  </programme>
 <programme start="20260304060000 +0800" stop="20260304100000 +0800" channel="SURIAFM">
   <title lang="en">Pagi On Suria</title>
-<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
- </programme>
+<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad.</desc>
+<icon src=" https://media.suria.my/wp-content/uploads/2023/08/17065409/IGPOST1080X1350-616x770.jpg"/>
+</programme>
 <programme start="20260304100000 +0800" stop="20260304130000 +0800" channel="SURIAFM">
   <title lang="en">Vibe Suria</title>
-<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
+<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110918/IGPOST1080X1080-770x770.jpg"/>
  </programme>
 <programme start="20260304130000 +0800" stop="20260304150000 +0800" channel="SURIAFM">
   <title lang="en">Playlist Suria</title>
-<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
+<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132535/IGPOST1080X1080-1-770x770.jpg"/>
  </programme>
 <programme start="20260304150000 +0800" stop="20260304190000 +0800" channel="SURIAFM">
   <title lang="en">Chill Petang Suria</title>
-<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
+<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/10/17155532/IGPOST1080X1080-770x770.png"/>
  </programme>
 <programme start="20260304190000 +0800" stop="20260304200000 +0800" channel="SURIAFM">
   <title lang="en">Kalam Suria</title>
-<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
+<desc lang="en">Sempurnakan perjalanan rohani anda dan disulami lagu berunsur ke-Tuhanan.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152340/KALAM-SURIA_FEED-SIZE1080X1080-770x770.jpg"/>
  </programme>
 <programme start="20260304180000 +0800" stop="20260305000000 +0800" channel="SURIAFM">
   <title lang="en">Kafe Suria</title>
-<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
+<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak di Kafe Suria.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2025/05/06160326/KAFE-SURIA-IGPOST1080X1080-770x770.png"/>
  </programme>
 <programme start="20260304000000 +0800" stop="20260304060000 +0800" channel="BESTFM">
   <title lang="en">Suara Dunia Baharu</title>
@@ -3300,12 +3385,42 @@
   <desc lang="en">Meriahkan malam anda bersama penyampai Best Night Talk, Aiman dan Hafiz.</desc>
   <icon src="https://bestfm.com.my/wp-content/uploads/2026/02/Segmen-Best-Night-Talk-1920X640.jpg-1536x512.jpeg"/>
  </programme>
-<programme start="20260303230000 +0800" stop="20260304060000 +0800" channel="CATSFM">
+<programme start="20260304000000 +0800" stop="20260304070000 +0800" channel="MANISFM">
+  <title lang="en">Gaya Pantai Timur</title>
+  <desc lang="en">Gaya Pantai Timur</desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260304070000 +0800" stop="20260304100000 +0800" channel="MANISFM">
+  <title lang="en">Manis Manis Pagi</title>
+  <desc lang="en">Manis Manis Pagi</desc>
+  <icon src="https://apimyapps.sweet.com.my/storage/media/images/pMR0kq9AxsaFjabp4WVqqSY7yN0FKbpw4zIJE9vD.jpg"/>
+ </programme>
+<programme start="20260304100000 +0800" stop="20260304140000 +0800" channel="MANISFM">
+  <title lang="en">Manis Sokmo</title>
+  <desc lang="en">Manis Sokmo</desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260304140000 +0800" stop="20260304190000 +0800" channel="MANISFM">
+  <title lang="en">Manis Xpres</title>
+  <desc lang="en">Manis Xpres</desc>
+  <icon src="https://apimyapps.sweet.com.my/storage/media/images/bAapv2nGn0JeD5LE85Jyw5mXk2QMv7EQRbTORDW8.jpg"/>
+ </programme>
+<programme start="20260304210000 +0800" stop="20260304230000 +0800" channel="MANISFM">
+  <title lang="en">Manis Malam</title>
+  <desc lang="en">Manis Malam</desc>
+  <icon src="https://apimyapps.sweet.com.my/storage/media/images/WvpqvZv3kDCcCoWls304vOwLtQbPakpHZJrshYcz.jpg"/>
+ </programme>
+<programme start="20260304230000 +0800" stop="20260305000000 +0800" channel="MANISFM">
+  <title lang="en">Gaya Pantai Timur</title>
+  <desc lang="en">Gaya Pantai Timur</desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260304000000 +0800" stop="20260304060000 +0800" channel="CATSFM">
   <title lang="en">Antap Muzik</title>
   <desc lang="en">Antap Muzik</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/CATS.jpg"/>
  </programme>
-<programme start="20260301230000 +0800" stop="20260304100000 +0800" channel="CATSFM">
+<programme start="20260304060000 +0800" stop="20260304100000 +0800" channel="CATSFM">
   <title lang="en">CATS AM Crew</title>
 <desc lang="en">CATS Update,Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata serta Segmen Pak Lambet.</desc>
 <icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
@@ -3322,7 +3437,7 @@
  </programme>
 <programme start="20260304160000 +0800" stop="20260304200000 +0800" channel="CATSFM">
   <title lang="en">Geng Petang CATS</title>
-  <desc lang="en">">CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review.</desc>
+  <desc lang="en">CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review.</desc>
   <icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
  </programme>
 <programme start="20260304200000 +0800" stop="202603042300000 +0800" channel="CATSFM">
@@ -3397,28 +3512,28 @@
  </programme>
 <programme start="20260304060000 +0800" stop="20260304100000 +0800" channel="ERA SARAWAK">
   <title lang="en">Ooha Pagi ERA</title>
-  <desc lang="en">Oooooohaaaaaaaa~~ Pagi ari tok kita dah berooha dengan Ooha Pagi ERA bersama Ilmo dan Alisa Spencer Pagi ari kitak semun? Iboh bingong sebab pagi kitak akan rancak bila kitak melayan loyar sidak duak tok. Kitakurang boleh call untuk kelakar ataupun lepak dengan Dayang Qalisya Humaira dalam Koti Lah Koti! Nak Kiak Kaung dalam bahasa Sarawak? Boleh juak Bah pilih jak lagu kita tukar jadi Bahasa Sarawak!</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Oooooohaaaaaaaa~~ Pagi ari tok kita dah berooha dengan Ooha Pagi ERA. Pagi ari kitak semun? Iboh bingong sebab pagi kitak akan rancak bila kitak melayan Ooha Pagi ERA.</desc>
+  <icon src="https://media2.fishtank.my/media/era/assets2/client/2026/celcomdigi-logo/konco-pagi-era-logo/ooha-pagi-era-logo/client-logo.png"/>
  </programme>
 <programme start="20260304100000 +0800" stop="20260304130000 +0800" channel="ERA SARAWAK">
   <title lang="en">Acak Tok ERA</title>
-  <desc lang="en">Lagu yang kacak, cerita yang kacak, style yang kacak… semua pun kacak di Acak Tok ERA bersama Asyilah! Biar Asyilah yang belanja lagu-lagu back to back sambil kongsi cerita viral pakei kitakorang! Kitak suka layan game? Kamonn la! Content games pun Asyilah belanja dalam Kaki Game di Acak Tok ERA! Nak kacak biar kacak terus!</desc>
+  <desc lang="en">Lagu yang kacak, cerita yang kacak, style yang kacak… Nak kacak biar kacak terus!</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
  </programme>
 <programme start="20260304130000 +0800" stop="20260304160000 +0800" channel="ERA SARAWAK">
   <title lang="en">Seranto ERA</title>
-  <desc lang="en">Tengahari kita sendu? Iboh bingong! Ummi akan neman kitak! Semua nya cover, Update yang baru, Lagu ngam yang kitak orang mok, Cerita yang pelik tapi benar? Macam-macam lagik lah Seranto Era bersama Ummi yang sentiasa ready nak teman kitak orang.</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Tengahari kita sendu? Iboh bingong! Seranto Era sentiasa ready nak teman kitak orang.</desc>
+  <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnp12dqsg96JPDrPlmpR4seFRhzZJ2mUWQQ&s"/>
  </programme>
 <programme start="20260304160000 +0800" stop="20260304200000 +0800" channel="ERA SARAWAK">
   <title lang="en">Rilek Petang ERA</title>
-  <desc lang="en">Muzik Hit Terkini</desc>
-<icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Petang-petang memang senang nak triggered. Rilek jak dengan Rilek Petang Era Tenang jak semuanya!</desc>
+<icon src="https://media2.fishtank.my/media/era/assets2/client/2025/u-mobile/rilek-petang-era-logo/rilek-petang4-logo/mheader.png"/>
  </programme>
 <programme start="20260304200000 +0800" stop="20260305000000 +0800" channel="ERA SARAWAK">
   <title lang="en">Malam ONZ ERA</title>
-  <desc lang="en">Petang-petang memang senang nak triggered. Jalan jam? Triggered. Kepak kerja or sekolah? Triggered. Perut lapar? Triggered. Rilek jak dengan Rilek Petang Era Tenang jak semuanya! Layan lagu, topic best-best, quote of the day dalam kata hari era dan…. nak carik jodoh pun boleh! Semua tok ada untuk kitak! Stress no more! Rilek jak di Rilek Petang Era.</desc>
-<icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Nak makan sikda teman…nak heart to heart sikda teman..nak study, nak kerja pun sikda teman. Terpaling lonely kah yaaaa? Haaa sik kisahlah single ka or not avaiable. Malam Onz Era dikuasakan oleh Tune Talk!</desc>
+<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLYbiy0xoaERzfPcd_z45P9Cg70ROnF8O-g&s"/>
  </programme>
 <programme start="20260304000000 +0800" stop="20260304060000 +0800" channel="ERA SABAH">
   <title lang="en">Muzik Hit Terkini</title>
@@ -3560,86 +3675,46 @@
   <desc lang="en">Stesen Muzik Anda</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOMUZIK.jpg"/>
  </programme>
-<programme start="20260304000000 +0800" stop="20260304060000 +0800" channel="MOLEKFM">
-  <title lang="en">Pilihan Pertama Pantai Timur</title>
-  <desc lang="en">Pilihan Pertama Pantai Timur</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg"/>
- </programme>
-<programme start="20260304060000 +0800" stop="20260304100000 +0800" channel="MOLEKFM">
-  <title lang="en">Molek Pagi</title>
-<desc lang="en">Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
- </programme>
-<programme start="20260304100000 +0800" stop="20260304150000 +0800" channel="MOLEKFM">
-  <title lang="en">Muzik Tanpa Yoya</title>
-<desc lang="en">Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
- </programme>
-<programme start="20260304150000 +0800" stop="20260304190000 +0800" channel="MOLEKFM">
-  <title lang="en">Molek Petang</title>
-<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
- </programme>
-<programme start="20260304190000 +0800" stop="20260304200000 +0800" channel="MOLEKFM">
-  <title lang="en">Renungan Molek</title>
-<desc lang="en">Sesi inspirasi untuk cerminan diri.</desc>
-<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
- </programme>
-<programme start="20260304200000 +0800" stop="20260305000000 +0800" channel="MOLEKFM">
-  <title lang="en">Molek Malam</title>
-  <desc lang="en">Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-  <icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
- </programme>
-<programme start="20260304070000 +0800" stop="20260304100000 +0800" channel="MANISFM">
-  <title lang="en">Manis Manis Pagi</title>
-  <desc lang="en">Manis Manis Pagi</desc>
-  <icon src="https://apimyapps.sweet.com.my/storage/media/images/pMR0kq9AxsaFjabp4WVqqSY7yN0FKbpw4zIJE9vD.jpg"/>
- </programme>
-<programme start="20260304100000 +0800" stop="20260304100000 +0800" channel="MANISFM">
-  <title lang="en">Manis Sokmo</title>
-  <desc lang="en">Manis Sokmo</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
- </programme>
-<programme start="20260304140000 +0800" stop="20260304190000 +0800" channel="MANISFM">
-  <title lang="en">Manis Xpres</title>
-  <desc lang="en">Manis Xpres</desc>
-  <icon src="https://apimyapps.sweet.com.my/storage/media/images/bAapv2nGn0JeD5LE85Jyw5mXk2QMv7EQRbTORDW8.jpg"/>
- </programme>
-<programme start="20260304210000 +0800" stop="20260304230000 +0800" channel="MANISFM">
-  <title lang="en">Manis Malam</title>
-  <desc lang="en">Manis Malam</desc>
-  <icon src="https://apimyapps.sweet.com.my/storage/media/images/WvpqvZv3kDCcCoWls304vOwLtQbPakpHZJrshYcz.jpg"/>
- </programme>
-<programme start="20260304230000 +0800" stop="20260305070000 +0800" channel="MANISFM">
-  <title lang="en">Gaya Pantai Timur</title>
-  <desc lang="en">Gaya Pantai Timur</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
- </programme>
-<programme start="20260305000000 +0800" stop="20260305060000 +0800" channel="KOOLFM">
+<programme start="20260305000000 +0800" stop="20260305050000 +0800" channel="KOOLFM">
   <title lang="en">Malaysia Dah Kool</title>
   <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
+  <icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-05.jpg"/>
  </programme>
-<programme start="20260305060000 +0800" stop="20260305120000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
- </programme>
-<programme start="20260305120000 +0800" stop="20260305180000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
- </programme>
-<programme start="20260305180000 +0800" stop="20260306000000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
+<programme start="20260305050000 +0800" stop="20260305060000 +0800" channel="KOOLFM">
+<title lang="en">Kooliah Kool FM (Ulangan)</title>
+<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+</programme>
+<programme start="20260305060000 +0800" stop="20260305100000 +0800" channel=“KOOLFM”>
+<title lang="en">Pagi On Point</title>
+<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+</programme>
+<programme start="20260305100000 +0800" stop="20260305150000 +0800" channel=“KOOLFM”>
+<title lang="en">Santai Kool</title>
+<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+<icon src="https://assets.koolfm.audio/2026/02/featured_1200x630_koolfm_2025-08.jpg"/>
+</programme>
+<programme start="20260305150000 +0800" stop="20260305190000 +0800" channel=“KOOLFM”>
+<title lang="en">PM Kool</title>
+<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+</programme>
+<programme start="20260305190000 +0800" stop="20260305200000 +0800" channel=“KOOLFM”>
+<title lang="en">Kooliah Kool FM</title>
+<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+</programme>
+<programme start="20260305200000 +0800" stop="20260306000000 +0800" channel=“KOOLFM”>
+<title lang="en">Cerita Malam Kita</title>
+<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
  </programme>
 <programme start="20260305000000 +0800" stop="20260305060000 +0800" channel="HOTFM">
-  <title lang="en">Terbaik Sentiasa Hangat</title>
-  <desc lang="en">Terbaik Sentiasa Hangat</desc>
-  <icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
- </programme>
+<title lang="en">Terbaik Sentiasa Hangat</title>
+<desc lang="en">Terbaik Sentiasa Hangat</desc>
+<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
+</programme>
 <programme start="20260305060000 +0800" stop="20260305100000 +0800" channel="HOTFM">
   <title lang="en">Bekpes Hot</title>
 <desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
@@ -3664,6 +3739,36 @@
   <title lang="en">Hotflix</title>
 <desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
 <icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
+ </programme>
+<programme start="20260305000000 +0800" stop="20260305060000 +0800" channel="MOLEKFM">
+  <title lang="en">Pilihan Pertama Pantai Timur</title>
+  <desc lang="en">Pilihan Pertama Pantai Timur</desc>
+  <icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+ </programme>
+<programme start="20260305060000 +0800" stop="20260305100000 +0800" channel="MOLEKFM">
+  <title lang="en">Molek Pagi</title>
+<desc lang="en">Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
+<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+ </programme>
+<programme start="20260305100000 +0800" stop="20260305150000 +0800" channel="MOLEKFM">
+  <title lang="en">Muzik Tanpa Yoya</title>
+<desc lang="en">Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
+<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
+ </programme>
+<programme start="20260305150000 +0800" stop="20260305190000 +0800" channel="MOLEKFM">
+  <title lang="en">Molek Petang</title>
+<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
+<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
+ </programme>
+<programme start="20260305190000 +0800" stop="20260305200000 +0800" channel="MOLEKFM">
+  <title lang="en">Renungan Molek</title>
+<desc lang="en">Sesi inspirasi untuk cerminan diri.</desc>
+<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+ </programme>
+<programme start="20260305200000 +0800" stop="20260306000000 +0800" channel="MOLEKFM">
+  <title lang="en">Molek Malam</title>
+  <desc lang="en">Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
+  <icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
  </programme>
 <programme start="20260305000000 +0800" stop="20260305060000 +0800" channel="FLYFM">
   <title lang="en">Playing Malaysia’s Flyest Music</title>
@@ -3727,33 +3832,33 @@
  </programme>
 <programme start="20260305060000 +0800" stop="20260305100000 +0800" channel="SURIAFM">
   <title lang="en">Pagi On Suria</title>
-<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
- </programme>
+<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad.</desc>
+<icon src=" https://media.suria.my/wp-content/uploads/2023/08/17065409/IGPOST1080X1350-616x770.jpg"/>
+</programme>
 <programme start="20260305100000 +0800" stop="20260305130000 +0800" channel="SURIAFM">
   <title lang="en">Vibe Suria</title>
-<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
+<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110918/IGPOST1080X1080-770x770.jpg"/>
  </programme>
 <programme start="20260305130000 +0800" stop="20260305150000 +0800" channel="SURIAFM">
   <title lang="en">Playlist Suria</title>
-<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
+<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132535/IGPOST1080X1080-1-770x770.jpg"/>
  </programme>
 <programme start="20260305150000 +0800" stop="20260305190000 +0800" channel="SURIAFM">
   <title lang="en">Chill Petang Suria</title>
-<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
+<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/10/17155532/IGPOST1080X1080-770x770.png"/>
  </programme>
 <programme start="20260305190000 +0800" stop="20260305200000 +0800" channel="SURIAFM">
   <title lang="en">Kalam Suria</title>
-<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
+<desc lang="en">Sempurnakan perjalanan rohani anda dan disulami lagu berunsur ke-Tuhanan.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152340/KALAM-SURIA_FEED-SIZE1080X1080-770x770.jpg"/>
  </programme>
 <programme start="20260305180000 +0800" stop="20260306000000 +0800" channel="SURIAFM">
   <title lang="en">Kafe Suria</title>
-<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
+<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak di Kafe Suria.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2025/05/06160326/KAFE-SURIA-IGPOST1080X1080-770x770.png"/>
  </programme>
 <programme start="20260305000000 +0800" stop="20260305060000 +0800" channel="BESTFM">
   <title lang="en">Suara Dunia Baharu</title>
@@ -3780,12 +3885,42 @@
   <desc lang="en">Meriahkan malam anda bersama penyampai Best Night Talk, Aiman dan Hafiz.</desc>
   <icon src="https://bestfm.com.my/wp-content/uploads/2026/02/Segmen-Best-Night-Talk-1920X640.jpg-1536x512.jpeg"/>
  </programme>
-<programme start="20260304230000 +0800" stop="20260305060000 +0800" channel="CATSFM">
+<programme start="20260305000000 +0800" stop="20260305070000 +0800" channel="MANISFM">
+  <title lang="en">Gaya Pantai Timur</title>
+  <desc lang="en">Gaya Pantai Timur</desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260305070000 +0800" stop="20260305100000 +0800" channel="MANISFM">
+  <title lang="en">Manis Manis Pagi</title>
+  <desc lang="en">Manis Manis Pagi</desc>
+  <icon src="https://apimyapps.sweet.com.my/storage/media/images/pMR0kq9AxsaFjabp4WVqqSY7yN0FKbpw4zIJE9vD.jpg"/>
+ </programme>
+<programme start="20260305100000 +0800" stop="20260305140000 +0800" channel="MANISFM">
+  <title lang="en">Manis Sokmo</title>
+  <desc lang="en">Manis Sokmo</desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260305140000 +0800" stop="20260305190000 +0800" channel="MANISFM">
+  <title lang="en">Manis Xpres</title>
+  <desc lang="en">Manis Xpres</desc>
+  <icon src="https://apimyapps.sweet.com.my/storage/media/images/bAapv2nGn0JeD5LE85Jyw5mXk2QMv7EQRbTORDW8.jpg"/>
+ </programme>
+<programme start="20260305210000 +0800" stop="20260305230000 +0800" channel="MANISFM">
+  <title lang="en">Manis Malam</title>
+  <desc lang="en">Manis Malam</desc>
+  <icon src="https://apimyapps.sweet.com.my/storage/media/images/WvpqvZv3kDCcCoWls304vOwLtQbPakpHZJrshYcz.jpg"/>
+ </programme>
+<programme start="20260305230000 +0800" stop="20260306000000 +0800" channel="MANISFM">
+  <title lang="en">Gaya Pantai Timur</title>
+  <desc lang="en">Gaya Pantai Timur</desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260305000000 +0800" stop="20260305060000 +0800" channel="CATSFM">
   <title lang="en">Antap Muzik</title>
   <desc lang="en">Antap Muzik</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/CATS.jpg"/>
  </programme>
-<programme start="20260301230000 +0800" stop="20260305100000 +0800" channel="CATSFM">
+<programme start="20260305060000 +0800" stop="20260305100000 +0800" channel="CATSFM">
   <title lang="en">CATS AM Crew</title>
 <desc lang="en">CATS Update,Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata serta Segmen Pak Lambet.</desc>
 <icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
@@ -3802,7 +3937,7 @@
  </programme>
 <programme start="20260305160000 +0800" stop="20260305200000 +0800" channel="CATSFM">
   <title lang="en">Geng Petang CATS</title>
-  <desc lang="en">">CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review.</desc>
+  <desc lang="en">CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review.</desc>
   <icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
  </programme>
 <programme start="20260305200000 +0800" stop="202603052300000 +0800" channel="CATSFM">
@@ -3877,28 +4012,28 @@
  </programme>
 <programme start="20260305060000 +0800" stop="20260305100000 +0800" channel="ERA SARAWAK">
   <title lang="en">Ooha Pagi ERA</title>
-  <desc lang="en">Oooooohaaaaaaaa~~ Pagi ari tok kita dah berooha dengan Ooha Pagi ERA bersama Ilmo dan Alisa Spencer Pagi ari kitak semun? Iboh bingong sebab pagi kitak akan rancak bila kitak melayan loyar sidak duak tok. Kitakurang boleh call untuk kelakar ataupun lepak dengan Dayang Qalisya Humaira dalam Koti Lah Koti! Nak Kiak Kaung dalam bahasa Sarawak? Boleh juak Bah pilih jak lagu kita tukar jadi Bahasa Sarawak!</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Oooooohaaaaaaaa~~ Pagi ari tok kita dah berooha dengan Ooha Pagi ERA. Pagi ari kitak semun? Iboh bingong sebab pagi kitak akan rancak bila kitak melayan Ooha Pagi ERA.</desc>
+  <icon src="https://media2.fishtank.my/media/era/assets2/client/2026/celcomdigi-logo/konco-pagi-era-logo/ooha-pagi-era-logo/client-logo.png"/>
  </programme>
 <programme start="20260305100000 +0800" stop="20260305130000 +0800" channel="ERA SARAWAK">
   <title lang="en">Acak Tok ERA</title>
-  <desc lang="en">Lagu yang kacak, cerita yang kacak, style yang kacak… semua pun kacak di Acak Tok ERA bersama Asyilah! Biar Asyilah yang belanja lagu-lagu back to back sambil kongsi cerita viral pakei kitakorang! Kitak suka layan game? Kamonn la! Content games pun Asyilah belanja dalam Kaki Game di Acak Tok ERA! Nak kacak biar kacak terus!</desc>
+  <desc lang="en">Lagu yang kacak, cerita yang kacak, style yang kacak… Nak kacak biar kacak terus!</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
  </programme>
 <programme start="20260305130000 +0800" stop="20260305160000 +0800" channel="ERA SARAWAK">
   <title lang="en">Seranto ERA</title>
-  <desc lang="en">Tengahari kita sendu? Iboh bingong! Ummi akan neman kitak! Semua nya cover, Update yang baru, Lagu ngam yang kitak orang mok, Cerita yang pelik tapi benar? Macam-macam lagik lah Seranto Era bersama Ummi yang sentiasa ready nak teman kitak orang.</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Tengahari kita sendu? Iboh bingong! Seranto Era sentiasa ready nak teman kitak orang.</desc>
+  <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnp12dqsg96JPDrPlmpR4seFRhzZJ2mUWQQ&s"/>
  </programme>
 <programme start="20260305160000 +0800" stop="20260305200000 +0800" channel="ERA SARAWAK">
   <title lang="en">Rilek Petang ERA</title>
-  <desc lang="en">Muzik Hit Terkini</desc>
-<icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Petang-petang memang senang nak triggered. Rilek jak dengan Rilek Petang Era Tenang jak semuanya!</desc>
+<icon src="https://media2.fishtank.my/media/era/assets2/client/2025/u-mobile/rilek-petang-era-logo/rilek-petang4-logo/mheader.png"/>
  </programme>
 <programme start="20260305200000 +0800" stop="20260306000000 +0800" channel="ERA SARAWAK">
   <title lang="en">Malam ONZ ERA</title>
-  <desc lang="en">Petang-petang memang senang nak triggered. Jalan jam? Triggered. Kepak kerja or sekolah? Triggered. Perut lapar? Triggered. Rilek jak dengan Rilek Petang Era Tenang jak semuanya! Layan lagu, topic best-best, quote of the day dalam kata hari era dan…. nak carik jodoh pun boleh! Semua tok ada untuk kitak! Stress no more! Rilek jak di Rilek Petang Era.</desc>
-<icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Nak makan sikda teman…nak heart to heart sikda teman..nak study, nak kerja pun sikda teman. Terpaling lonely kah yaaaa? Haaa sik kisahlah single ka or not avaiable. Malam Onz Era dikuasakan oleh Tune Talk!</desc>
+<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLYbiy0xoaERzfPcd_z45P9Cg70ROnF8O-g&s"/>
  </programme>
 <programme start="20260305000000 +0800" stop="20260305060000 +0800" channel="ERA SABAH">
   <title lang="en">Muzik Hit Terkini</title>
@@ -4040,86 +4175,46 @@
   <desc lang="en">Stesen Muzik Anda</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOMUZIK.jpg"/>
  </programme>
-<programme start="20260305000000 +0800" stop="20260305060000 +0800" channel="MOLEKFM">
-  <title lang="en">Pilihan Pertama Pantai Timur</title>
-  <desc lang="en">Pilihan Pertama Pantai Timur</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg"/>
- </programme>
-<programme start="20260305060000 +0800" stop="20260305100000 +0800" channel="MOLEKFM">
-  <title lang="en">Molek Pagi</title>
-<desc lang="en">Hari yang indah bermula dengan aura yang positif, jom berinteraksi bersama DJ Nazz & Qila.</desc>
-<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
- </programme>
-<programme start="20260305100000 +0800" stop="20260305150000 +0800" channel="MOLEKFM">
-  <title lang="en">Muzik Tanpa Yoya</title>
-<desc lang="en">Muzik tanpa henti! Bebas bual, bebas yoya!</desc>
-<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-03.jpg"/>
- </programme>
-<programme start="20260305150000 +0800" stop="20260305190000 +0800" channel="MOLEKFM">
-  <title lang="en">Molek Petang</title>
-<desc lang="en"> Ceriakan petang anda bersama Mat Dan. Interaksi bersama Mat Salleh lokal.</desc>
-<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-04.jpg"/>
- </programme>
-<programme start="20260305190000 +0800" stop="20260305200000 +0800" channel="MOLEKFM">
-  <title lang="en">Renungan Molek</title>
-<desc lang="en">Sesi inspirasi untuk cerminan diri.</desc>
-<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
- </programme>
-<programme start="20260305200000 +0800" stop="20260306000000 +0800" channel="MOLEKFM">
-  <title lang="en">Molek Malam</title>
-  <desc lang="en">Rindu pada seseorang? Anna sedia mendengar segala luahan isi hati anda.</desc>
-  <icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-05.jpg"/>
- </programme>
-<programme start="20260305070000 +0800" stop="20260305100000 +0800" channel="MANISFM">
-  <title lang="en">Manis Manis Pagi</title>
-  <desc lang="en">Manis Manis Pagi</desc>
-  <icon src="https://apimyapps.sweet.com.my/storage/media/images/pMR0kq9AxsaFjabp4WVqqSY7yN0FKbpw4zIJE9vD.jpg"/>
- </programme>
-<programme start="20260305100000 +0800" stop="20260305100000 +0800" channel="MANISFM">
-  <title lang="en">Manis Sokmo</title>
-  <desc lang="en">Manis Sokmo</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
- </programme>
-<programme start="20260305140000 +0800" stop="20260305190000 +0800" channel="MANISFM">
-  <title lang="en">Manis Xpres</title>
-  <desc lang="en">Manis Xpres</desc>
-  <icon src="https://apimyapps.sweet.com.my/storage/media/images/bAapv2nGn0JeD5LE85Jyw5mXk2QMv7EQRbTORDW8.jpg"/>
- </programme>
-<programme start="20260305210000 +0800" stop="20260305230000 +0800" channel="MANISFM">
-  <title lang="en">Manis Malam</title>
-  <desc lang="en">Manis Malam</desc>
-  <icon src="https://apimyapps.sweet.com.my/storage/media/images/WvpqvZv3kDCcCoWls304vOwLtQbPakpHZJrshYcz.jpg"/>
- </programme>
-<programme start="20260305230000 +0800" stop="20260306070000 +0800" channel="MANISFM">
-  <title lang="en">Gaya Pantai Timur</title>
-  <desc lang="en">Gaya Pantai Timur</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
- </programme>
-<programme start="20260306000000 +0800" stop="20260306060000 +0800" channel="KOOLFM">
+<programme start="20260306000000 +0800" stop="20260306050000 +0800" channel="KOOLFM">
   <title lang="en">Malaysia Dah Kool</title>
   <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
+  <icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-05.jpg"/>
  </programme>
-<programme start="20260306060000 +0800" stop="20260306120000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
- </programme>
-<programme start="20260306120000 +0800" stop="20260306180000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
- </programme>
-<programme start="20260306180000 +0800" stop="20260307000000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
+<programme start="20260306050000 +0800" stop="20260306060000 +0800" channel="KOOLFM">
+<title lang="en">Kooliah Kool FM (Ulangan)</title>
+<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+</programme>
+<programme start="20260306060000 +0800" stop="20260306100000 +0800" channel=“KOOLFM”>
+<title lang="en">Pagi On Point</title>
+<desc lang="en"> Perbualan pagi yang real, pandangan berani dan cerita komuniti.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-01.jpg"/>
+</programme>
+<programme start="20260306100000 +0800" stop="20260306150000 +0800" channel=“KOOLFM”>
+<title lang="en">Santai Kool</title>
+<desc lang="en"> Konten ringan dan positif serta lebih berinformatif.</desc>
+<icon src="https://assets.koolfm.audio/2026/02/featured_1200x630_koolfm_2025-08.jpg"/>
+</programme>
+<programme start="20260306150000 +0800" stop="20260306190000 +0800" channel=“KOOLFM”>
+<title lang="en">PM Kool</title>
+<desc lang="en"> Pengisian petang yang relevan dan perspektif yang berbeza.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-03.jpg"/>
+</programme>
+<programme start="20260306190000 +0800" stop="20260306200000 +0800" channel=“KOOLFM”>
+<title lang="en">Kooliah Kool FM</title>
+<desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
+</programme>
+<programme start="20260306200000 +0800" stop="20260307000000 +0800" channel=“KOOLFM”>
+<title lang="en">Cerita Malam Kita</title>
+<desc lang="en"> Malam yang penuh jiwa – diisi kisah, kata dan perasaan.</desc>
+<icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-04.jpg"/>
  </programme>
 <programme start="20260306000000 +0800" stop="20260306060000 +0800" channel="HOTFM">
-  <title lang="en">Terbaik Sentiasa Hangat</title>
-  <desc lang="en">Terbaik Sentiasa Hangat</desc>
-  <icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
- </programme>
+<title lang="en">Terbaik Sentiasa Hangat</title>
+<desc lang="en">Terbaik Sentiasa Hangat</desc>
+<icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
+</programme>
 <programme start="20260306060000 +0800" stop="20260306100000 +0800" channel="HOTFM">
   <title lang="en">Bekpes Hot</title>
 <desc lang="en">Gandingan Trio Breakfast show lawak yang menampilkan Johan, Fara Fauzana & AG di waktu pagi dengan Bro Amin Idris, ada juga sketsa lawak Hot Angel dan fakta menarik Seyes Ah Fara daripada Fara Fauzana.</desc>
@@ -4144,6 +4239,41 @@
   <title lang="en">Hotflix</title>
 <desc lang="en">Hantarkan dedikasi anda kepada Ayu. Ayu juga akan memainkan top 10 lagu lagu hit di TikTok pilihan Bekpes Hot Tok 10 di waktu malam serta Ayu akan berkongsi tentang gadget.</desc>
 <icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-04.jpg"/>
+ </programme>
+<programme start="20260306000000 +0800" stop="20260306080000 +0800" channel="MOLEKFM">
+  <title lang="en">Pilihan #1 Pantai Timur</title>
+  <desc lang="en">Pilihan #1 Pantai Timur</desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg"/>
+ </programme>
+<programme start="20260306080000 +0800" stop="20260306120000 +0800" channel="MOLEKFM">
+  <title lang="en">Terbaik Molek Pagi</title>
+<desc lang="en">Ulangan Terbaik Molek Pagi.</desc>
+<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
+ </programme>
+<programme start="20260306120000 +0800" stop="20260306150000 +0800" channel="MOLEKFM">
+  <title lang="en">Jumaat Penghulu Hari</title>
+<desc lang="en">Bersihkan hati, sucikan jiwa dalam Jumaat Penghulu Hari!</desc>
+<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+ </programme>
+<programme start="20260306150000 +0800" stop="20260306190000 +0800" channel="MOLEKFM">
+  <title lang="en">Molek Korner</title>
+<desc lang="en">Nak mintak lagu? Nak suara anda di udara? Boleh je, make sure call dan WhatsApp kami ok!</desc>
+<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
+ </programme>
+<programme start="20260306190000 +0800" stop="20260306200000 +0800" channel="MOLEKFM">
+  <title lang="en">Renungan Molek</title>
+<desc lang="en">Sesi inspirasi untuk cerminan diri.</desc>
+<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
+ </programme>
+<programme start="20260306200000 +0800" stop="20260306210000 +0800" channel="MOLEKFM">
+  <title lang="en">Pilihan #1 Pantai Timur</title>
+  <desc lang="en">Pilihan #1 Pantai Timur</desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg"/>
+ </programme>
+<programme start="20260306210000 +0800" stop="20260307000000 +0800" channel="MOLEKFM">
+  <title lang="en">Artis Molek Gu</title>
+<desc lang="en">Setiap minggu Qila & Anna akan bersama artis pilhan Molek, dengarkan kisah-kisah menarik dan perkembangan terkini Artis Molek Gu!</desc>
+  <icon src="https://assets.molekfm.audio/2025/05/nCBvl3pW-featured_molekfm_anp2024_1200x630-06.jpg"/>
  </programme>
 <programme start="20260306000000 +0800" stop="20260306060000 +0800" channel="FLYFM">
   <title lang="en">Playing Malaysia’s Flyest Music</title>
@@ -4207,33 +4337,33 @@
  </programme>
 <programme start="20260306060000 +0800" stop="20260306100000 +0800" channel="SURIAFM">
   <title lang="en">Pagi On Suria</title>
-<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad setiap Isnin hingga Jumaat, seawal jam 6.00 pagi hingga 10.00 pagi!</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17065353/INSIDE-PAGE_PAGI-ON-SURIA-1920X640.jpg"/>
- </programme>
+<desc lang="en">Meriahkan pagi anda bersama penyampai Pagi On Suria, Ajak, Elly dan Fad.</desc>
+<icon src=" https://media.suria.my/wp-content/uploads/2023/08/17065409/IGPOST1080X1350-616x770.jpg"/>
+</programme>
 <programme start="20260306100000 +0800" stop="20260306130000 +0800" channel="SURIAFM">
   <title lang="en">Vibe Suria</title>
-<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan dalam segmen Vibe Suria.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110840/INSIDE-PAGE_VIBE-SURIA-1920X640.jpg"/>
+<desc lang="en">Dengarkan celoteh Cik Piah mengenai tips kekeluargaan, kesihatan dan kewanitaan.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/08/17110918/IGPOST1080X1080-770x770.jpg"/>
  </programme>
 <programme start="20260306130000 +0800" stop="20260306150000 +0800" channel="SURIAFM">
   <title lang="en">Playlist Suria</title>
-<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang di segmen Playlist Suria bersama Cik Piah.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132001/INSIDE-PAGE_PLAYLIST-SURIA-1920X640.jpg"/>
+<desc lang="en">Sampaikan ucapan dan dedikasikan lagu pilihan anda untuk yang tersayang.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/08/17132535/IGPOST1080X1080-1-770x770.jpg"/>
  </programme>
 <programme start="20260306150000 +0800" stop="20260306190000 +0800" channel="SURIAFM">
   <title lang="en">Chill Petang Suria</title>
-<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria bersama Chiwan & Kai.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/18100220/INSIDE-PAGE-1920X640.png"/>
+<desc lang="en">Jadikan kesesakan petang anda lebih lancar dengan mendengar Chill Petang Suria.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2023/10/17155532/IGPOST1080X1080-770x770.png"/>
  </programme>
 <programme start="20260306190000 +0800" stop="20260306200000 +0800" channel="SURIAFM">
   <title lang="en">Kalam Suria</title>
-<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
+<desc lang="en">Sempurnakan perjalanan rohani anda dan disulami lagu berunsur ke-Tuhanan.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152340/KALAM-SURIA_FEED-SIZE1080X1080-770x770.jpg"/>
  </programme>
 <programme start="20260306180000 +0800" stop="20260307000000 +0800" channel="SURIAFM">
   <title lang="en">Kafe Suria</title>
-<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak dengan Irsyad di Kafe Suria.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2025/05/01010414/INSIDE-PAGE-KAFE-SURIA-1.png"/>
+<desc lang="en">Malam2 kan biasanya anda lepak mana? Jomla lepak di Kafe Suria.</desc>
+<icon src="https://media.suria.my/wp-content/uploads/2025/05/06160326/KAFE-SURIA-IGPOST1080X1080-770x770.png"/>
  </programme>
 <programme start="20260306000000 +0800" stop="20260306060000 +0800" channel="BESTFM">
   <title lang="en">Suara Dunia Baharu</title>
@@ -4260,12 +4390,27 @@
   <desc lang="en">Meriahkan malam anda bersama penyampai Best Night Talk, Aiman dan Hafiz.</desc>
   <icon src="https://bestfm.com.my/wp-content/uploads/2026/02/Segmen-Best-Night-Talk-1920X640.jpg-1536x512.jpeg"/>
  </programme>
-<programme start="20260305230000 +0800" stop="20260306060000 +0800" channel="CATSFM">
+<programme start="20260306140000 +0800" stop="20260306180000 +0800" channel="MANISFM">
+  <title lang="en">Manis Hujung Minggu</title>
+  <desc lang="en"> </desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260306180000 +0800" stop="20260306190000 +0800" channel="MANISFM">
+  <title lang="en"> Talaqqi Safinatunnaja</title>
+  <desc lang="en"> </desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260306200000 +0800" stop="202603007000000 +0800" channel="MANISFM">
+  <title lang="en">Manis Malam Hujung Minggu</title>
+  <desc lang="en"> </desc>
+  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
+ </programme>
+<programme start="20260306000000 +0800" stop="20260306060000 +0800" channel="CATSFM">
   <title lang="en">Antap Muzik</title>
   <desc lang="en">Antap Muzik</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/CATS.jpg"/>
  </programme>
-<programme start="20260301230000 +0800" stop="20260306100000 +0800" channel="CATSFM">
+<programme start="20260306060000 +0800" stop="20260306100000 +0800" channel="CATSFM">
   <title lang="en">CATS AM Crew</title>
 <desc lang="en">CATS Update,Apa Tek Cicer, Fakta Pelik tapi Benar, dan Mutiara Kata serta Segmen Pak Lambet.</desc>
 <icon src="https://www.catsfm.my/storage/assets/media/program/20260113140348.jpg"/>
@@ -4282,7 +4427,7 @@
  </programme>
 <programme start="20260306160000 +0800" stop="20260306200000 +0800" channel="CATSFM">
   <title lang="en">Geng Petang CATS</title>
-  <desc lang="en">">CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review.</desc>
+  <desc lang="en">CATS Update - Apa Cita Tek? - Teka-Teki - Trending Aritok - GPC Review.</desc>
   <icon src="https://www.catsfm.my/storage/assets/media/program/20251107103212.jpg"/>
  </programme>
 <programme start="20260306200000 +0800" stop="202603062300000 +0800" channel="CATSFM">
@@ -4357,28 +4502,28 @@
  </programme>
 <programme start="20260306060000 +0800" stop="20260306100000 +0800" channel="ERA SARAWAK">
   <title lang="en">Ooha Pagi ERA</title>
-  <desc lang="en">Oooooohaaaaaaaa~~ Pagi ari tok kita dah berooha dengan Ooha Pagi ERA bersama Ilmo dan Alisa Spencer Pagi ari kitak semun? Iboh bingong sebab pagi kitak akan rancak bila kitak melayan loyar sidak duak tok. Kitakurang boleh call untuk kelakar ataupun lepak dengan Dayang Qalisya Humaira dalam Koti Lah Koti! Nak Kiak Kaung dalam bahasa Sarawak? Boleh juak Bah pilih jak lagu kita tukar jadi Bahasa Sarawak!</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Oooooohaaaaaaaa~~ Pagi ari tok kita dah berooha dengan Ooha Pagi ERA. Pagi ari kitak semun? Iboh bingong sebab pagi kitak akan rancak bila kitak melayan Ooha Pagi ERA.</desc>
+  <icon src="https://media2.fishtank.my/media/era/assets2/client/2026/celcomdigi-logo/konco-pagi-era-logo/ooha-pagi-era-logo/client-logo.png"/>
  </programme>
 <programme start="20260306100000 +0800" stop="20260306130000 +0800" channel="ERA SARAWAK">
   <title lang="en">Acak Tok ERA</title>
-  <desc lang="en">Lagu yang kacak, cerita yang kacak, style yang kacak… semua pun kacak di Acak Tok ERA bersama Asyilah! Biar Asyilah yang belanja lagu-lagu back to back sambil kongsi cerita viral pakei kitakorang! Kitak suka layan game? Kamonn la! Content games pun Asyilah belanja dalam Kaki Game di Acak Tok ERA! Nak kacak biar kacak terus!</desc>
+  <desc lang="en">Lagu yang kacak, cerita yang kacak, style yang kacak… Nak kacak biar kacak terus!</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
  </programme>
-<programme start="20260306130000 +0800" stop="20260306160000 +0800" channel="ERA SARAWAK">
+<programme start="20260305130000 +0800" stop="20260305160000 +0800" channel="ERA SARAWAK">
   <title lang="en">Seranto ERA</title>
-  <desc lang="en">Tengahari kita sendu? Iboh bingong! Ummi akan neman kitak! Semua nya cover, Update yang baru, Lagu ngam yang kitak orang mok, Cerita yang pelik tapi benar? Macam-macam lagik lah Seranto Era bersama Ummi yang sentiasa ready nak teman kitak orang.</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Tengahari kita sendu? Iboh bingong! Seranto Era sentiasa ready nak teman kitak orang.</desc>
+  <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnp12dqsg96JPDrPlmpR4seFRhzZJ2mUWQQ&s"/>
  </programme>
 <programme start="20260306160000 +0800" stop="20260306200000 +0800" channel="ERA SARAWAK">
   <title lang="en">Rilek Petang ERA</title>
-  <desc lang="en">Muzik Hit Terkini</desc>
-<icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Petang-petang memang senang nak triggered. Rilek jak dengan Rilek Petang Era Tenang jak semuanya!</desc>
+<icon src="https://media2.fishtank.my/media/era/assets2/client/2025/u-mobile/rilek-petang-era-logo/rilek-petang4-logo/mheader.png"/>
  </programme>
 <programme start="20260306200000 +0800" stop="20260307000000 +0800" channel="ERA SARAWAK">
   <title lang="en">Malam ONZ ERA</title>
-  <desc lang="en">Petang-petang memang senang nak triggered. Jalan jam? Triggered. Kepak kerja or sekolah? Triggered. Perut lapar? Triggered. Rilek jak dengan Rilek Petang Era Tenang jak semuanya! Layan lagu, topic best-best, quote of the day dalam kata hari era dan…. nak carik jodoh pun boleh! Semua tok ada untuk kitak! Stress no more! Rilek jak di Rilek Petang Era.</desc>
-<icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
+  <desc lang="en">Nak makan sikda teman…nak heart to heart sikda teman..nak study, nak kerja pun sikda teman. Terpaling lonely kah yaaaa? Haaa sik kisahlah single ka or not avaiable. Malam Onz Era dikuasakan oleh Tune Talk!</desc>
+<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLYbiy0xoaERzfPcd_z45P9Cg70ROnF8O-g&s"/>
  </programme>
 <programme start="20260306000000 +0800" stop="20260306060000 +0800" channel="ERA SABAH">
   <title lang="en">Muzik Hit Terkini</title>
@@ -4387,27 +4532,27 @@
  </programme>
 <programme start="20260306060000 +0800" stop="20260306100000 +0800" channel="ERA SABAH">
   <title lang="en">Konco Pagi ERA</title>
-  <desc lang="en">Di Konco Pagi ERA ada 2A! Apa 2A? Kita ada Awang dan Anteh. Dorang dua ni akan bercerita pasal benda TERKINI yang viral dan fyp di media sosial kamu.</desc>
+  <desc lang="en">Di Konco Pagi ERA ada 2A! Apa 2A? Kita ada Awang dan Anteh.</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASBH.jpg"/>
  </programme>
 <programme start="20260306100000 +0800" stop="20260306120000 +0800" channel="ERA SABAH">
   <title lang="en">Steady Bah ERA!</title>
-  <desc lang="en">Semua ada! Cerita cerita viral dari media sosial sampai la cerita urang rumah sebelah bergaduh sebab nda ambil kain di ampaian – fake but nda ketara laugh. Ada juga KKOTD! Kata kata of the day Lagu lagu yang fyp, trending dan terkini? Semua di STEADY BAH ERA!</desc>
+  <desc lang="en">Semua ada! Cerita cerita viral dari media social.</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASBH.jpg"/>
  </programme>
 <programme start="20260306130000 +0800" stop="20260306160000 +0800" channel="ERA SABAH">
   <title lang="en">Gen-E</title>
-  <desc lang="en">Kamu tau ka, generasi pertama di dunia dikenali sebagai Silent Generation. Shhh .. Tapi sekarang ada macam-macam generasi sudah kan? Millennials, Gen z dan Gen Alpha. Dan yang terbaru, terkini .. GENERASI ERA. GEN E! Ada apa sama GEN E? Game terbaru, game yang tengah trending dan viral? Ada di KAKI GAME ERA! Ada juga lagu lagu best! Nda cukup? Kamu bulih request lagu di GEN E.</desc>
+  <desc lang="en">Yang terbaru, terkini .. GENERASI ERA. GEN E!</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASBH.jpg"/>
  </programme>
 <programme start="20260306160000 +0800" stop="20260306200000 +0800" channel="ERA SABAH">
   <title lang="en">ERAmaiti</title>
-  <desc lang="en">Urang Sabah ni kalau cakap pasal petang, dalam kepala mesti – mau tingu sunset, kena kena lagi ada lagu lagu best! Haaaaaa Ada lagiiii baaaaa Apaaa ? ERAAAAAAmaitiiiiii! Setiap hari kamu bulih call untuk join cerita best . Mau meluah pun bulihhhh ba, ada curhat! So, lepas ni. Ingat petang, ingat ERAMAITI</desc>
+  <desc lang="en">Ingat petang, ingat ERAMAITI</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASBH.jpg"/>
  </programme>
 <programme start="20260306200000 +0800" stop="20260307000000 +0800" channel="ERA SABAH">
   <title lang="en">Bah Kasi Jadi Era</title>
-  <desc lang="en">Sa suka ba ni lagu, tapi mesti lagi best kalau kena nyanyi acoustic sambil main guitar. Bah kasi jadi di ”Apa Kau Lagu! ” Kamu request, Deemike kasi jadi! Eh eh. Ada lagiiiiii tompinai, kalau kamu ada lagu sendiri – nda kisah bahasa apa pun, kita kasi jadi ba di review lagu sabah!</desc>
+  <desc lang="en">Kalau kamu ada lagu sendiri – nda kisah bahasa apa pun, kita kasi jadi ba di review lagu sabah!</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASBH.jpg"/>
  </programme>
 <programme start="20260306000000 +0800" stop="20260306060000 +0800" channel="NASIONALFM">
@@ -4516,481 +4661,6 @@
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOMUZIK.jpg"/>
  </programme>
 <programme start="20260306180000 +0800" stop="20260307000000 +0800" channel="RADIO MUZIK">
-  <title lang="en">Stesen Muzik Anda</title>
-  <desc lang="en">Stesen Muzik Anda</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOMUZIK.jpg"/>
- </programme>
-<programme start="20260306000000 +0800" stop="20260306080000 +0800" channel="MOLEKFM">
-  <title lang="en">Pilihan #1 Pantai Timur</title>
-  <desc lang="en">Pilihan #1 Pantai Timur</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg"/>
- </programme>
-<programme start="20260306080000 +0800" stop="20260306120000 +0800" channel="MOLEKFM">
-  <title lang="en">Terbaik Molek Pagi</title>
-<desc lang="en">Ulangan Terbaik Molek Pagi.</desc>
-<icon src="https://assets.molekfm.audio/2023/12/featured_molekfm_anp2023_1200x630-02.jpg"/>
- </programme>
-<programme start="20260306120000 +0800" stop="20260306150000 +0800" channel="MOLEKFM">
-  <title lang="en">Jumaat Penghulu Hari</title>
-<desc lang="en">Bersihkan hati, sucikan jiwa dalam Jumaat Penghulu Hari!</desc>
-<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
- </programme>
-<programme start="20260306150000 +0800" stop="20260306190000 +0800" channel="MOLEKFM">
-  <title lang="en">Molek Korner</title>
-<desc lang="en">Nak mintak lagu? Nak suara anda di udara? Boleh je, make sure call dan WhatsApp kami ok!</desc>
-<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
- </programme>
-<programme start="20260306190000 +0800" stop="20260306200000 +0800" channel="MOLEKFM">
-  <title lang="en">Renungan Molek</title>
-<desc lang="en">Sesi inspirasi untuk cerminan diri.</desc>
-<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
- </programme>
-<programme start="20260306200000 +0800" stop="20260306210000 +0800" channel="MOLEKFM">
-  <title lang="en">Pilihan #1 Pantai Timur</title>
-  <desc lang="en">Pilihan #1 Pantai Timur</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg"/>
- </programme>
-<programme start="20260306210000 +0800" stop="20260307000000 +0800" channel="MOLEKFM">
-  <title lang="en">Artis Molek Gu</title>
-<desc lang="en">Setiap minggu Qila & Anna akan bersama artis pilhan Molek, dengarkan kisah-kisah menarik dan perkembangan terkini Artis Molek Gu!</desc>
-  <icon src="https://assets.molekfm.audio/2025/05/nCBvl3pW-featured_molekfm_anp2024_1200x630-06.jpg"/>
- </programme>
-<programme start="20260306140000 +0800" stop="20260306180000 +0800" channel="MANISFM">
-  <title lang="en">Manis Hujung Minggu</title>
-  <desc lang="en"> </desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
- </programme>
-<programme start="20260306180000 +0800" stop="20260306190000 +0800" channel="MANISFM">
-  <title lang="en"> Talaqqi Safinatunnaja</title>
-  <desc lang="en"> </desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
- </programme>
-<programme start="20260306200000 +0800" stop="202603007000000 +0800" channel="MANISFM">
-  <title lang="en">Manis Malam Hujung Minggu</title>
-  <desc lang="en"> </desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307120000 +0800" channel="MOLEKFM">
-  <title lang="en">Pilihan #1 Pantai Timur</title>
-  <desc lang="en">Pilihan #1 Pantai Timur</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg"/>
- </programme>
-<programme start="20260307120000 +0800" stop="20260307150000 +0800" channel="MOLEKFM">
-  <title lang="en">Artis Molek Gu (Ulangan)</title>
-<desc lang="en">Setiap minggu Qila & Anna akan bersama artis pilhan Molek, dengarkan kisah-kisah menarik dan perkembangan terkini Artis Molek Gu!</desc>
-  <icon src="https://assets.molekfm.audio/2025/05/nCBvl3pW-featured_molekfm_anp2024_1200x630-06.jpg"/>
- </programme>
-<programme start="20260307150000 +0800" stop="20260307190000 +0800" channel="MOLEKFM">
-  <title lang="en">Molek Korner</title>
-<desc lang="en">Nak mintak lagu? Nak suara anda di udara? Boleh je, make sure call dan WhatsApp kami ok!</desc>
-<icon src="https://assets.molekfm.audio/2024/04/featured_molekfm_anp2023_1200x630-01.jpg"/>
- </programme>
-<programme start="20260307190000 +0800" stop="20260307200000 +0800" channel="MOLEKFM">
-  <title lang="en">Renungan Molek</title>
-<desc lang="en">Sesi inspirasi untuk cerminan diri.</desc>
-<icon src="https://assets.molekfm.audio/2022/07/featured_webstream_1200x630-03.jpg"/>
- </programme>
-<programme start="20260307200000 +0800" stop="20260308210000 +0800" channel="MOLEKFM">
-  <title lang="en">Pilihan #1 Pantai Timur</title>
-  <desc lang="en">Pilihan #1 Pantai Timur</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MOLEK.jpg"/>
- </programme>
-<programme start="20260306210000 +0800" stop="20260307000000 +0800" channel="MOLEKFM">
-  <title lang="en">Artis Molek Gu</title>
-<desc lang="en">Setiap minggu Qila & Anna akan bersama artis pilhan Molek, dengarkan kisah-kisah menarik dan perkembangan terkini Artis Molek Gu!</desc>
-  <icon src="https://assets.molekfm.audio/2025/05/nCBvl3pW-featured_molekfm_anp2024_1200x630-06.jpg"/>
- </programme>
-<programme start="20260307140000 +0800" stop="20260307160000 +0800" channel="MANISFM">
-  <title lang="en">Hits Manis Hujung Minggu</title>
-  <desc lang="en"> </desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
- </programme>
-<programme start="20260307200000 +0800" stop="20260307230000 +0800" channel="MANISFM">
-  <title lang="en"> Throwback Hits</title>
-  <desc lang="en"> </desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
- </programme>
-<programme start="20260307230000 +0800" stop="202603008070000 +0800" channel="MANISFM">
-  <title lang="en">Manis Malam Hujung Minggu</title>
-  <desc lang="en"> </desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/MANIS.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307050000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
- </programme>
-<programme start="20260307050000 +0800" stop="20260307060000 +0800" channel="KOOLFM">
-  <title lang="en">Kooliah Kool FM (Ulangan)</title>
-  <desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-  <icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
- </programme>
-<programme start="20260307060000 +0800" stop="20260307120000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
- </programme>
-<programme start="20260307120000 +0800" stop="20260307160000 +0800" channel="KOOLFM">
-  <title lang="en">Kool FM Weekend</title>
-  <desc lang="en">Hujung minggu dengan perbualan bermakna – real, segar dan berisi.</desc>
-  <icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-08.jpg"/>
- </programme>
-<programme start="20260307160000 +0800" stop="20260307190000 +0800" channel="KOOLFM">
-  <title lang="en">Malaysia Dah Kool</title>
-  <desc lang="en">Malaysia Dah Kool</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg"/>
- </programme>
-<programme start="20260307190000 +0800" stop="20260307200000 +0800" channel="KOOLFM">
-  <title lang="en">Kooliah Kool FM</title>
-  <desc lang="en"> Mesej ringkas yang menyentuh, membawa makna dan membina jiwa.</desc>
-  <icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-06.jpg"/>
- </programme>
-<programme start="20260307200000 +0800" stop="20260308000000 +0800" channel="KOOLFM">
-  <title lang="en">Power Retro Kool FM</title>
-<desc lang="en"> Nostalgia 80an & 90an – lagu evergreen yang kekal hidup.</desc>
-  <icon src="https://assets.koolfm.audio/2025/11/featured_1200x630_koolfm_2025-10.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307100000 +0800" channel="HOTFM">
-  <title lang="en">Terbaik Sentiasa Hangat</title>
-  <desc lang="en">Terbaik Sentiasa Hangat</desc>
-  <icon src="https://assets-mpa.hotfm.audio/media/Shows/2025/Featured-Image-RR-A&P-07.jpg"/>
- </programme>
-<programme start="20260307100000 +0800" stop="20260307140000 +0800" channel="HOTFM">
-  <title lang="en">Hot JL 40</title>
-  <desc lang="en">Kira turun 40 lagu terhangat mingguan di hujung minggu anda.</desc>
-  <icon src="https://assets.hotfm.audio/2026/01/Featured-Image-AP-05.jpg"/>
- </programme>
-<programme start="20260307140000 +0800" stop="20260307180000 +0800" channel="HOTFM">
-  <title lang="en">Hot FM Ucap Seru</title>
-  <desc lang="en"></desc>
-  <icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
- </programme>
-<programme start="20260307180000 +0800" stop="20260307190000 +0800" channel="HOTFM">
-  <title lang="en">Lagu Hot Yang Fresh</title>
-  <desc lang="en"></desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/HOT.jpg"/>
- </programme>
-<programme start="20260307190000 +0800" stop="20260307200000 +0800" channel="HOTFM">
-  <title lang="en">Drama Sangat@Hot FM</title>
-  <desc lang="en"></desc>
-  <icon src="https://assets.hotfm.audio/2024/07/Strim-Featured-Image-RR-AP.jpg"/>
- </programme>
-<programme start="20260307210000 +0800" stop="20260307220000 +0800" channel="HOTFM">
-  <title lang="en">Hot FM HMO</title>
-  <desc lang="en">1 jam lagu-lagu & cerita dunia Hip Hop bersama Ayu & Han Kabir.</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/HOT.jpg"/>
- </programme>
-<programme start="20260307190000 +0800" stop="20260307200000 +0800" channel="HOTFM">
-  <title lang="en">Kpop Show</title>
-  <desc lang="en">Fesyen, Makanan, Kdrama dan lagu lagu Kpop. Semuanya tentang K!</desc>
-  <icon src="https://assets.hotfm.audio/2025/08/Featured-Image-RR-AP-06.jpg"/>
- </programme>
-<programme start="20260307200000 +0800" stop="20260308000000 +0800" channel="HOTFM">
-  <title lang="en">Terbaik Sentiasa Hangat</title>
-  <desc lang="en">Terbaik Sentiasa Hangat</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/HOT.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307070000 +0800" channel="FLYFM">
-  <title lang="en">Playing Malaysia’s Flyest Music</title>
-  <desc lang="en">Playing Malaysia’s Flyest Music</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FLY.jpg"/>
- </programme>
-<programme start="20260307070000 +0800" stop="20260307090000 +0800" channel="FLYFM">
-  <title lang="en"> Best of EH! It's Ean & Haniff on the Fly Breakfast</title>
-  <desc lang="en">The best of EH! It's Ean & Haniff on the Fly Breakfast, every weekend!</desc>
-  <icon src="https://assets.flyfm.audio/2025/02/featured_shows-flyfm2025-1200x630-03.jpg"/>
- </programme>
-<programme start="20260307120000 +0800" stop="20260307120000 +0800" channel="FLYFM">
-  <title lang="en">Fly Top 40</title>
-  <desc lang="en">Counting down the Flyest music this week.</desc>
-  <icon src="https://assets.flyfm.audio/2025/02/featured_shows-flyfm2025-1200x630-01.jpg"/>
- </programme>
-<programme start="20260307120000 +0800" stop="20260307160000 +0800" channel="FLYFM">
-  <title lang="en">Fly Weekend</title>
-  <desc lang="en">Your weekends are sorted with Fifi, Raqeem, Natalie and Malaysia's flyest music.</desc>
-  <icon src="https://assets.flyfm.audio/2025/07/featured_shows-flyfm2025-1200x630-03.jpg"/>
- </programme>
-<programme start="20260307200000 +0800" stop="20260307210000 +0800" channel="FLYFM">
-  <title lang="en">TikTok Showdown</title>
-  <desc lang="en">The most trending TikTok beats of the week.</desc>
-  <icon src="https://assets.flyfm.audio/2025/01/featured_shows-flyfm2025-1200x630-10.jpg"/>
- </programme>
-<programme start="20260307210000 +0800" stop="20260308020000 +0800" channel="FLYFM">
-  <title lang="en">Fly Nite Club</title>
-  <desc lang="en">The Flyest party with mixes from Jakeman and DJ Reeve.</desc>
-  <icon src="https://assets.flyfm.audio/2024/08/featured_shows-flyfm2024-1200x630-11.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307060000 +0800" channel="SARAWAKFM">
-  <title lang="en">Layan</title>
-  <desc lang="en">Sarawak FM</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SARAWAKFM.jpg"/>
- </programme>
-<programme start="20260307060000 +0800" stop="20260307100000 +0800" channel="SARAWAKFM">
-  <title lang="en">Selamat Pagi Sarawak</title>
-  <desc lang="en">Sarawak FM</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SARAWAKFM.jpg"/>
- </programme>
-<programme start="20260307100000 +0800" stop="20260307140000 +0800" channel="SARAWAKFM">
-  <title lang="en">Ekspresi</title>
-  <desc lang="en">Sarawak FM</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SARAWAKFM.jpg"/>
- </programme>
-<programme start="20260307140000 +0800" stop="20260307180000 +0800" channel="SARAWAKFM">
-  <title lang="en">Ritma</title>
-  <desc lang="en">Sarawak FM</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SARAWAKFM.jpg"/>
- </programme>
-<programme start="20260307180000 +0800" stop="20260307210000 +0800" channel="SARAWAKFM">
-  <title lang="en">Simfoni</title>
-  <desc lang="en">Sarawak FM</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SARAWAKFM.jpg"/>
- </programme>
-<programme start="20260307210000 +0800" stop="20260308000000 +0800" channel="SARAWAKFM">
-  <title lang="en">Gatra</title>
-  <desc lang="en">Sarawak FM</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SARAWAKFM.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307100000 +0800" channel="SURIAFM">
-  <title lang="en">Muzik & Jiwa</title>
-  <desc lang="en">Muzik & Jiwa</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SURIA.jpg"/>
- </programme>
-<programme start="20260307100000 +0800" stop="20260307140000 +0800" channel="SURIAFM">
-  <title lang="en">Carta Suria Top 40</title>
-<desc lang="en">Carta Suria 40 memainkan lagu-lagu popular pilihan pendengar bersama Kai Hassan serta selebriti popular sebagai tetamu jemputan.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2023/08/24122549/INSIDE-PAGE-1920X640-1.png"/>
- </programme>
-<programme start="20260307140000 +0800" stop="20260307190000 +0800" channel="SURIAFM">
-  <title lang="en">Hello Suria</title>
-<desc lang="en">Hiburkan diri anda dengan lagu-lagu pilihan dan dedikasi ucapan setiap hari Sabtu dan Ahad.</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SURIA.jpg"/>
- </programme>
-<programme start="20260307190000 +0800" stop="20260307200000 +0800" channel="SURIAFM">
-  <title lang="en">Kalam Suria</title>
-<desc lang="en">Sempurnakan perjalanan rohani anda bersama Ustazah Datuk Dr Norhafizah Musa dengan Kalam Suria, disulami lagu berunsur ke-Tuhanan.</desc>
-<icon src="https://media.suria.my/wp-content/uploads/2024/08/08152406/KALAM-SURIA_INSIDE-PAGE-1920X640.jpg"/>
- </programme>
-<programme start="20260307200000 +0800" stop="20260308010000 +0800" channel="SURIAFM">
-  <title lang="en">Suria Cinta</title>
-  <desc lang="en">Layan perasaan anda dengan lagu-lagu cinta bersama DJ Lin.</desc>
-  <icon src="https://media.suria.my/wp-content/uploads/2023/08/08104401/INSIDE-PAGE_SURIA-CINTA-1920X640.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307100000 +0800" channel="BESTFM">
-  <title lang="en">Suara Dunia Baharu</title>
-  <desc lang="en">Suara Dunia Baharu</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/BESTFM.jpg"/>
- </programme>
-<programme start="20260307100000 +0800" stop="20260307130000 +0800" channel="BESTFM">
-  <title lang="en">Carta Best 30</title>
-  <desc lang="en">Memutarkan Lagu-lagu Terbaru & Terkini yang di pertandingkan mencari kedudukan yang Terbaik & Terbest setiap minggu, selain di selitkan dengan cerita artis dan temubual bersama selebriti tanah air.</desc>
-  <icon src="https://bestfm.com.my/wp-content/uploads/2026/01/Segmen-Best-Top-30-1920X640-1536x512.jpg"/>
- </programme>
-<programme start="20260307130000 +0800" stop="20260307140000 +0800" channel="BESTFM">
-  <title lang="en">Best Nak Up</title>
-  <desc lang="en">1 jam menampilkan lagu-lagu daripada artis-artis baru yang lahir dengan single atau album terbaharu mereka, iaitu lagu-lagu melayu dan english. Turut dimuatkan temubual bersama mereka.</desc>
-  <icon src="https://bestfm.com.my/wp-content/uploads/2026/01/Segmen-Best-Nak-Up-1920X640-1536x512.jpg"/>
- </programme>
-<programme start="20260307140000 +0800" stop="20260307200000 +0800" channel="BESTFM">
-  <title lang="en">Suara Dunia Baharu</title>
-  <desc lang="en">Suara Dunia Baharu</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/BESTFM.jpg"/>
- </programme>
-<programme start="20260307200000 +0800" stop="20260308000000 +0800" channel="BESTFM">
-  <title lang="en">Best Retro</title>
-  <desc lang="en">Meriahkan malam hujung minggu anda bersama Best Retro.</desc>
-  <icon src="https://bestfm.com.my/wp-content/uploads/2026/01/Segmen-Best-Retro-1920X640-1536x512.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307070000 +0800" channel="CATSFM">
-  <title lang="en">Antap Muzik</title>
-  <desc lang="en">Antap Muzik</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/CATS.jpg"/>
- </programme>
-<programme start="20260307070000 +0800" stop="20260307110000 +0800" channel="CATSFM">
-  <title lang="en">CATS Weekend</title>
-<desc lang="en">CATS Weekend gives you best info and music over the weekend. Happening every Saturday and Sunday, DJ will entertain you with interesting activities going on over the weekend.</desc>
-<icon src="https://www.catsfm.my/storage/assets/media/program/20251101222731.jpg"/>
- </programme>
-<programme start="20260307110000 +0800" stop="20260307130000 +0800" channel="CATSFM">
-  <title lang="en">CATS 30</title>
-<desc lang="en">Carta Mingguan.</desc>
-<icon src="https://www.catsfm.my/storage/assets/media/chart/20250416205641.jpg"/>
- </programme>
-<programme start="20260307130000 +0800" stop="20260307150000 +0800" channel="CATSFM">
-  <title lang="en">Lagu Tebilang CATS</title>
-  <desc lang="en"> Carta Mingguan Iban.</desc>
-<icon src="https://www.catsfm.my/storage/assets/media/chart/20251203175044.png"/>
- </programme>
-<programme start="20260307150000 +0800" stop="20260307160000 +0800" channel="CATSFM">
-  <title lang="en">CATS Ujung Minggu</title>
-  <desc lang="en"> CATS Ujung Minggu.</desc>
-<icon src="https://www.catsfm.my/storage/assets/media/chart/20251203175044.png"/>
- </programme>
-<programme start="20260307160000 +0800" stop="20260307230000 +0800" channel="CATSFM">
-  <title lang="en">CATS Weekend</title>
-<desc lang="en">CATS Weekend gives you best info and music over the weekend. Happening every Saturday and Sunday, DJ will entertain you with interesting activities going on over the weekend.</desc>
-<icon src="https://www.catsfm.my/storage/assets/media/program/20251101222731.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307060000 +0800" channel="KUPI-KUPIFM SARAWAK">
-  <title lang="en">Sama Dirik Pok</title>
-  <desc lang="en">Sama Dirik Pok</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KUPISWK.jpg"/>
- </programme>
-<programme start="20260307060000 +0800" stop="20260307120000 +0800" channel="KUPI-KUPIFM SARAWAK">
-  <title lang="en">Sama Dirik Pok</title>
-  <desc lang="en">Sama Dirik Pok</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KUPISWK.jpg"/>
- </programme>
-<programme start="20260307120000 +0800" stop="20260307180000 +0800" channel="KUPI-KUPIFM SARAWAK">
-  <title lang="en">Sama Dirik Pok</title>
-  <desc lang="en">Sama Dirik Pok</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KUPISWK.jpg"/>
- </programme>
-<programme start="20260307180000 +0800" stop="20260308000000 +0800" channel="KUPI-KUPIFM SARAWAK">
-  <title lang="en">Sama Dirik Pok</title>
-  <desc lang="en">Sama Dirik Pok</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KUPISWK.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307090000 +0800" channel="IKIMFM">
-  <title lang="en">Inspirasi Utama Anda</title>
-  <desc lang="en">Inspirasi Utama Anda</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/IKIM.jpg"/>
- </programme>
-<programme start="20260307090000 +0800" stop="20260307100000 +0800" channel="IKIMFM">
-  <title lang="en">Alam Ria Si Kecil</title>
-  <desc lang="en">Inspirasi Utama Anda</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/IKIM.jpg"/>
- </programme>
-<programme start="20260307100000 +0800" stop="20260307120000 +0800" channel="IKIMFM">
-  <title lang="en">Carta IKIM FM</title>
-  <desc lang="en">Inspirasi Utama Anda</desc>
-  <icon src="https://ikimfm.my/wp-content/uploads/2025/01/7-1024x731.png"/>
- </programme>
-<programme start="20260307150000 +0800" stop="20260307160000 +0800" channel="IKIMFM">
-  <title lang="en">Bahasa Arab</title>
-  <desc lang="en">Inspirasi Utama Anda</desc>
-  <icon src="https://ikimfm.my/wp-content/uploads/2025/01/8-1024x731.png"/>
- </programme>
-<programme start="20260307170000 +0800" stop="20260307190000 +0800" channel="IKIMFM">
-  <title lang="en">Evening Hours</title>
-  <desc lang="en">Inspirasi Utama Anda</desc>
-  <icon src="https://ikimfm.my/wp-content/uploads/2025/01/6-3-1024x731.png"/>
- </programme>
-<programme start="20260307190000 +0800" stop="20260308000000 +0800" channel="IKIMFM">
-  <title lang="en">Inspirasi Utama Anda</title>
-  <desc lang="en">Inspirasi Utama Anda</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/IKIM.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307070000 +0800" channel="ERA SARAWAK">
-  <title lang="en">Muzik Hit Terkini</title>
-  <desc lang="en">Muzik Hit Terkini</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
- </programme>
-<programme start="20260307070000 +0800" stop="20260307100000 +0800" channel="ERA SARAWAK">
-  <title lang="en">Borneo Pagi ERA</title>
-  <desc lang="en">Segmen Gabungan ERA Sabah & ERA Sarawak</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
- </programme>
-<programme start="20260307100000 +0800" stop="20260307180000 +0800" channel="ERA SARAWAK">
-  <title lang="en">Muzik Hit Terkini</title>
-  <desc lang="en">Muzik Hit Terkini</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
- </programme>
-<programme start="20260307180000 +0800" stop="20260308000000 +0800" channel="ERA SARAWAK">
-  <title lang="en">Muzik Hit Terkini</title>
-  <desc lang="en">Muzik Hit Terkini</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASWK.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307070000 +0800" channel="ERA SABAH">
-  <title lang="en">Muzik Hit Terkini</title>
-  <desc lang="en">Muzik Hit Terkini</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASBH.jpg"/>
- </programme>
-<programme start="20260307070000 +0800" stop="20260307100000 +0800" channel="ERA SABAH">
-  <title lang="en">Borneo Pagi ERA</title>
-  <desc lang="en">Segmen Gabungan ERA Sabah & ERA Sarawak</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASBH.jpg"/>
- </programme>
-<programme start="20260307100000 +0800" stop="20260307180000 +0800" channel="ERA SABAH">
-  <title lang="en">Muzik Hit Terkini</title>
-  <desc lang="en">Muzik Hit Terkini</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASBH.jpg"/>
- </programme>
-<programme start="20260307180000 +0800" stop="20260308000000 +0800" channel="ERA SABAH">
-  <title lang="en">Muzik Hit Terkini</title>
-  <desc lang="en">Muzik Hit Terkini</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/ERASBH.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307060000 +0800" channel="NASIONALFM">
-  <title lang="en">Nasionah GBH</title>
-  <desc lang="en">Sentiasa Di Hati</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/NASIONAL.jpg"/>
- </programme>
-<programme start="20260307060000 +0800" stop="20260307120000 +0800" channel="NASIONALFM">
-  <title lang="en">Nasional Pagi</title>
-  <desc lang="en">Sentiasa Di Hati</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/NASIONAL.jpg"/>
- </programme>
-<programme start="20260307120000 +0800" stop="20260307180000 +0800" channel="NASIONALFM">
-  <title lang="en">Nasional Petang</title>
-  <desc lang="en">Sentiasa Di Hati</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/NASIONAL.jpg"/>
- </programme>
-<programme start="20260307180000 +0800" stop="20260308000000 +0800" channel="NASIONALFM">
-  <title lang="en">Nasional Malam</title>
-  <desc lang="en">Sentiasa Di Hati</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/NASIONAL.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307060000 +0800" channel="RADIO KLASIK">
-  <title lang="en">Harmoni Klasik</title>
-  <desc lang="en">Menggamit Kenangan</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOKLASIK.jpg"/>
- </programme>
-<programme start="20260307060000 +0800" stop="20260307120000 +0800" channel="RADIO KLASIK">
-  <title lang="en">Hujung Minggu Klasik</title>
-  <desc lang="en">Menggamit Kenangan</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOKLASIK.jpg"/>
- </programme>
-<programme start="20260307120000 +0800" stop="20260307180000 +0800" channel="RADIO KLASIK">
-  <title lang="en">Hujung Minggu Klasik</title>
-  <desc lang="en">Menggamit Kenangan</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOKLASIK.jpg"/>
- </programme>
-<programme start="20260307180000 +0800" stop="20260308000000 +0800" channel="RADIO KLASIK">
-  <title lang="en">Hujung Minggu Klasik</title>
-  <desc lang="en">Menggamit Kenangan</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOKLASIK.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307060000 +0800" channel="KLFM">
-  <title lang="en">Santai Kuala Lumpur</title>
-  <desc lang="en">Rentak Interaktif Kota</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KLFM.jpg"/>
- </programme>
-<programme start="20260307060000 +0800" stop="20260307150000 +0800" channel="KLFM">
-  <title lang="en">Hujung Minggu Kuala Lumpur</title>
-  <desc lang="en">Rentak Interaktif Kota</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KLFM.jpg"/>
- </programme>
-<programme start="20260307150000 +0800" stop="20260308000000 +0800" channel="KLFM">
-  <title lang="en">Kenangan Lalu Kuala Lumpur</title>
-  <desc lang="en">Rentak Interaktif Kota</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KLFM.jpg"/>
- </programme>
-<programme start="20260307000000 +0800" stop="20260307060000 +0800" channel="RADIO MUZIK">
-  <title lang="en">Stesen Muzik Anda</title>
-  <desc lang="en">Stesen Muzik Anda</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOMUZIK.jpg"/>
- </programme>
-<programme start="20260307060000 +0800" stop="20260307120000 +0800" channel="RADIO MUZIK">
-  <title lang="en">Stesen Muzik Anda</title>
-  <desc lang="en">Stesen Muzik Anda</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOMUZIK.jpg"/>
- </programme>
-<programme start="20260307120000 +0800" stop="20260307180000 +0800" channel="RADIO MUZIK">
-  <title lang="en">Stesen Muzik Anda</title>
-  <desc lang="en">Stesen Muzik Anda</desc>
-  <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOMUZIK.jpg"/>
- </programme>
-<programme start="20260307180000 +0800" stop="20260308000000 +0800" channel="RADIO MUZIK">
   <title lang="en">Stesen Muzik Anda</title>
   <desc lang="en">Stesen Muzik Anda</desc>
   <icon src="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/RADIOMUZIK.jpg"/>
