@@ -193,11 +193,11 @@ https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 group-title="MYTV" tvg-id="505.sooka" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",Yrf Music
 https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223-unisysinfo-yrf-music-hls-sooka/playlist.m3u8
 
-#EXTINF:-1, tvg-id="CHN" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" tvg-name="RTM Roll",RTM Roll
+#EXTINF:-1, tvg-id="CHN" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" tvg-name="RTM Roll", RTM Roll
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=24095
 
-#EXTINF:-1, tvg-id="CHN" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" tvg-name="RTM Fitrah" ,RTM Fitrah
+#EXTINF:-1, tvg-id="CHN" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" tvg-name="RTM Fitrah", RTM Fitrah
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=24103
 
@@ -270,26 +270,27 @@ https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index
 #EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_Citra_Dangdut.png" group-title="MYTV",Citra Dangdut
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 
-#EXTINF:0,tvg-id="Sarawak FM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Sarawak_FM_logo_2021.png" group-title="MYTV",SARAWAKFM
+#EXTINF:0,tvg-id="Sarawak FM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Sarawak_FM_logo_2021.png" group-title="Radio",SARAWAKFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC.aac
 
-#EXTINF:0, tvg-id="KoolFM" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/KOOLFM.png" group-title="MYTV",KOOLFM
+#EXTINF:0, tvg-id="KoolFM" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/KOOLFM.png" group-title="Radio",KOOLFM
 https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
 
-#EXTINF:0,tvg-id="SINAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="MYTV",SINAR
+#EXTINF:0,tvg-id="SINAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="Radio",SINAR
 https://stream.rcs.revma.com/azatk0tbv4uvv/hls.m3u8
 
-#EXTINF:0, tvg-id="ZAYAN" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Zayan.png" group-title="MYTV",ZAYAN
+#EXTINF:0, tvg-id="ZAYAN" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Zayan.png" group-title="Radio",ZAYAN
 https://stream.rcs.revma.com/7ww2a4tbv4uvv/hls.m3u8
 
-#EXTINF:0, tvg-id="Nasional FM" tvg-logo="https://live.rtm.gov.my/nasionalfm/assets/images/nasionalfm.webp" group-title="MYTV",NASIONALFM
+#EXTINF:0, tvg-id="Nasional FM" tvg-logo="https://live.rtm.gov.my/nasionalfm/assets/images/nasionalfm.webp" group-title="Radio",NASIONALFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
 
-#EXTINF:0,tvg-id="Radio Klasik" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/RadioKlasik.png" group-title="MYTV",RADIO KLASIK
+#EXTINF:0,tvg-id="Radio Klasik" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/RadioKlasik.png" group-title="Radio",RADIO KLASIK
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
 
-#EXTINF:0, tvg-id="HotFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hot_FM_2021.svg/3840px-Hot_FM_2021.svg.png" group-title="MYTV",HOTFM
+#EXTINF:0, tvg-id="HotFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hot_FM_2021.svg/3840px-Hot_FM_2021.svg.png" group-title="Radio",HOTFM
 https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
+
 
 
 
