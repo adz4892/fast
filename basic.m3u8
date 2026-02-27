@@ -146,7 +146,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=Moonbug
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Moonbug)/master.mpd
 
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png",TV Ikim 
-#EXTGRP:MYTV MANA
+#EXTGRP:MYTV
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -194,19 +194,19 @@ https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.co
 https://amg00223-unisysinfo-yrf-music-hls-sooka-c5xsj.amagi.tv/playlist/amg00223-unisysinfo-yrf-music-hls-sooka/playlist.m3u8
 
 #EXTINF:-1, tvg-id="CHN" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" tvg-name="RTM Roll", RTM Roll
-#EXTGRP:MYTV MANA
+#EXTGRP:MYTV
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=24095
 
 #EXTINF:-1, tvg-id="CHN" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" tvg-name="RTM Fitrah", RTM Fitrah
-#EXTGRP:MYTV MANA
+#EXTGRP:MYTV
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=24103
 
 #EXTINF:-1, tvg-id="CHN" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/11/TVS_Plus_Logo_v14.png" tvg-name="TVS",TVS+
-#EXTGRP:MYTV MANA
+#EXTGRP:MYTV
 https://stream2.smg.my/live/tvsplus.m3u8
 
 #EXTINF:-1 tvg-id="CHN" ch-number=" " tvg-name="RTB Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTB_Sukmaindera.png/120px-RTB_Sukmaindera.png",RTB Sukmaindera
-#EXTGRP:MYTV MANA
+#EXTGRP:MYTV
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -290,6 +290,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAA
 
 #EXTINF:0, tvg-id="HotFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hot_FM_2021.svg/3840px-Hot_FM_2021.svg.png" group-title="Radio",HOTFM
 https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
+
 
 
 
