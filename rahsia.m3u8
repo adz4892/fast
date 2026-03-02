@@ -491,7 +491,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 
 #EXTINF:-1 tvg-id="413.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/ASTROSHOWCASE.jpg",Astro Showcase
-#EXTGRP:astro on
+#EXTGRP:astro one
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -1288,6 +1288,15 @@ https://service.samproject.my.id/unifi/Bein4.mpd
 *************************************************************************
 ********************************FMRADIO***********************************************************************************************************
 
+#EXTINF:0,tvg-id="Sarawak FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SARAWAK.jpg" group-title="FM" group-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FM.png",SARAWAKFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC.aac
+
+#EXTINF:0, tvg-id="KoolFM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg" group-title="FM",KOOLFM
+https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
+
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SURIA.jpg" group-title="FM",SURIAFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac
+
 #EXTINF:-1 tvg-id="852.astro" tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/hitz/2025/hitz_square_updated.png",HITZ
 #EXTGRP:FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -1323,14 +1332,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=7af3ec1f2db077ae6374a018cbb48510:9458ed76e85f1ad8aa7eefcdbd628908
 https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
 
-#EXTINF:-1 tvg-id="863.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_2171_v3.png",THR GEGAR
+#EXTINF:-1 tvg-id="863.astro" tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/gegar/2025/thr_gegar_square.png",THR GEGAR
 #EXTGRP:FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70b6a9d1c5f5d275accf0a8c51dbf710:a0feca3810b9227592bd893bfb9f1f89
 https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
 
-#EXTINF:-1 tvg-id="876.astro" tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/gegar/2025/thr_gegar_square.png",ZAYAN
+#EXTINF:-1 tvg-id="876.astro" tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/zayan/2025/zayan_square_updated.png",ZAYAN
 #EXTGRP:FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1372,15 +1381,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=fdd9690c43631eac67dbfb11a6d6a510:53bcece8d71ecbe7bac08a94927cf358
 https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd
  
-#EXTINF:0,tvg-id="Sarawak FM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SARAWAK.jpg" group-title="FM" group-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FM.png",SARAWAKFM
-https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC.aac
-
-#EXTINF:0, tvg-id="KoolFM" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg" group-title="FM",KOOLFM
-https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
-
-#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SURIA.jpg" group-title="FM",SURIAFM
-https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac
-
 #EXTINF:0,tvg-id="SINAR" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SINAR.jpg" group-title="Radio",SINAR
 https://stream.rcs.revma.com/azatk0tbv4uvv/hls.m3u8
 
@@ -1972,6 +1972,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d
 #EXTGRP:Others
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
+
 
 
 
