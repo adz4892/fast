@@ -698,6 +698,26 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 
 ________________________________________MALAY FILM_______________________________
 
+#EXTINF:-1 type="movie" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/289ddab636c94c579efc5824274ece22/version/4/width/1280/height/720" group-title="Malay",Travelawak Projek Bapak-Bapak Balik Kampung (2024)
+https://www.dropbox.com/scl/fi/dgakfrcdvsa89uxqzgddk/Travelawak-Bapak-Bapak-Balik-Kampung-720P_HD.mp4?rlkey=sg71cpxw4bgp7klhwkpvd7lfr&st=34sddjr8&dl=1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=6a5580676416fb8b215e23638ddcd610:07ff72561ad9723e01be293effdd6b8d
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_IVP_LAND_288x162_2024221_20439.jpg" group-title="Malay" tvg-id="NULL", 16 Puasa
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/cbfc1b59-d17a-57e3-9a55-6b72c59ef9db/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=edb936d4bce718c67da95c5958bc6010:917975e1fac313e63a89dc7680326d02
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVIHW_IVP_LAND_917x516_2024221_20444.jpg" group-title="Malay" tvg-id="NULL", 17 Puasa
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c5dfdbee-1bfb-59dc-bc04-047e7da111ef/default_dash.mpd
+
+#EXTINF:-1 type="movie" group-title="Malay" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2UjXKTrlPnEqqnhSwnZBoqxg8mq.jpg", 19 Puasa : Playboys of Plestik Hitam FHD (2024)
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Eb1gnl--JGZGu1wJ5umsGdgB9K2v5Wg_laXrShRjSUvoYw
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
@@ -3671,6 +3691,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="htt" group-title="Kids",
+
 
 
 
