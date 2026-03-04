@@ -419,6 +419,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 #https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/vsg/41FhkL5jLnyUehRCRQ1mLcHOL8PYHLGF4qHYBUrAIaFas=JHYl/dash-wv/jitp-dashisowm/2407/default_primary.mpd?aws.sessionId=50f725c4-c62e-4fd8-b0e8-24085001f361
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
+#EXTINF:-1 tvg-id="404.astro" group-title="astro one" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/ASTROBOO.jpg",Astro Boo HD
+http://217.216.110.49:8000/booQ
+
 #EXTINF:-1 tvg-id="411.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/ASTROSHOWTIME.jpg",Astro Showtime
 #EXTGRP:astro one
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1931,6 +1934,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d
 #EXTGRP:Others
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
+
 
 
 
