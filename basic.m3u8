@@ -291,6 +291,40 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAA
 #EXTINF:0, tvg-id="HotFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hot_FM_2021.svg/3840px-Hot_FM_2021.svg.png" group-title="Radio",HOTFM
 https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PWOFXKXN/Pt2XzBrmLzGRg","kid":"zkNkGgYaRPudldmGz8mmjw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=530" group-title="Unifi TV", TV3
+https://unifi.whacat.tech/TV3
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lanf1UO4l/jt6/bbMod9eQ","kid":"b5vQAwSjSXKoDl/3mv+YLw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="107.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=530" group-title="Unifi TV", Didik
+https://unifi.whacat.tech/Didik
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"chr2a5w+jEFmuLRYbR++/Q","kid":"2hyyT1XbSuGzIxnDZZIFOQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="108.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9C66E114-6607-4EB2-9F11-DE0F25C161EE/0-16x9.png?width=530" group-title="Unifi TV", 8TV
+https://unifi.whacat.tech/8TV
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JQYFw9lzT3d36cRv5aaxdg","kid":"7qCCjDjXRAelw4Stcw1yJA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="109.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/01A5D01A-1DAE-4E0F-8003-0B570E9F474E/0-16x9.png?width=530" group-title="Unifi TV", TV9
+https://unifi.whacat.tech/TV9
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uc59xhajmH4riQDORHNbBw","kid":"/mxDlh6oQB6Oi8IRsRl5YQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="122.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/2BE028DB-08C8-437F-BB78-93DEC3F03786/0-16x9.png?width=530" group-title="Unifi TV", TVS
+https://unifi.whacat.tech/TVS
 
 
 
