@@ -297,12 +297,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC.
 #EXTINF:0, tvg-id="KoolFM" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/KOOLFM.png" group-title="Radio",KOOLFM
 https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
 
-#EXTINF:0,tvg-id="SINAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="Radio",SINAR
-https://stream.rcs.revma.com/azatk0tbv4uvv/hls.m3u8
-
-#EXTINF:0, tvg-id="ZAYAN" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Zayan.png" group-title="Radio",ZAYAN
-https://stream.rcs.revma.com/7ww2a4tbv4uvv/hls.m3u8
-
 #EXTINF:0, tvg-id="Nasional FM" tvg-logo="https://live.rtm.gov.my/nasionalfm/assets/images/nasionalfm.webp" group-title="Radio",NASIONALFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
 
@@ -312,8 +306,20 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAA
 #EXTINF:0, tvg-id="HotFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hot_FM_2021.svg/3840px-Hot_FM_2021.svg.png" group-title="Radio",HOTFM
 https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
 
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://bestfmmalaysia.com/wp-content/uploads/2025/09/BESTFM-Logo-horizontal-crop.png" group-title="FM",BESTFM
+https://stream.rcs.revma.com/fk5teqrdbhuvv/hls.m3u8
 
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://assets.molekfm.audio/2021/12/hbcGelXl-logo_molekfm_master.svg" group-title="FM",MOLEKFM
+https://stream.rcs.revma.com/z56xa78mtd3vv/hls.m3u8
 
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://media.suria.my/wp-content/uploads/2023/07/31100922/suria-logo.png" group-title="FM",SURIAFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac
+
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://ikimfm.my/wp-content/uploads/2024/01/logo-ikimfm-2024-120x40.png" group-title="FM",IKIMFM
+https://ais-sa8.cdnstream1.com/5035/playlist.m3u8?aw_0_1st.playerid=IKIMFMAudioWeb
+
+#EXTINF:0, tvg-id="CATSFM" tvg-logo="https://www.catsfm.my/img/logo.png" group-title="FM",CATSFM
+https://stream.rcs.revma.com/ggz4zeuv0y3vv/hls.m3u8
 
 
 
