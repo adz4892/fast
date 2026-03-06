@@ -1,24 +1,10 @@
 ﻿#EXTM3U
-#EXTM3U url-tvg="https://walpak1.github.io/epg/astro.xml,
-https://walpak1.github.io/epg/sooka.xml,
-https://walpak1.github.io/epg/mana2.xml,
-https://walpak1.github.io/epg/unifi.xml,
-https://walpak1.github.io/epg/starhub.xml,
-https://raw.githubusercontent.com/dbghelp/mewatch-EPG/main/mewatch.xml,
-https://epg.pw/xmltv/epg_MY.xml,
-https://www.open-epg.com/files/indonesia4.xml.gz" refresh="1440"
-
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" refresh="1440" max-conn="1" refresh="24"
-
+#EXTM3U url-tvg="https://walpak1.github.io/epg/astro.xml,https://walpak1.github.io/epg/sooka.xml,https://walpak1.github.io/epg/mana2.xml,https://walpak1.github.io/epg/unifi.xml" refresh="1440"
 #EXTM3U x-tvg-url= "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" "https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
-
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml" refresh="1440" max-conn="1" refresh="24"
-
-#EXTM3U x-tvg-url="https://cutt.ly/FreeviewMY-EPG-1,https://cutt.ly/FreeviewMY-EPG-2" refresh="24"
-
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
-
+#EXTM3U x-tvg-url="https://walpak1.github.io/epg/starhub.xml,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/main/mewatch.xml,https://epg.pw/xmltv/epg_MY.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adz4892/fast/refs/heads/main/epg.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia4.xml.gz" refresh="1440"
 
 *************************************************************************
 
@@ -2044,6 +2030,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d
 #EXTGRP:Others
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
+
 
 
 
