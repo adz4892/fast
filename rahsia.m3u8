@@ -1861,11 +1861,6 @@ http://cdn6.163189.xyz/163189/ch5
 https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MSURIA.jpg" group-title="Others" tvg-id="97084" tvg-name"Suria", Suria
-https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=  :
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/MLIVE1.jpg",M Live 1
 #EXTGRP:Others
@@ -2038,11 +2033,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d
 #EXTGRP:Others
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/DISNEYJR.jpg" group-title="Others",DISNEY Jr
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/DISNEYCH.jpg" group-title="Others",DISNEY CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
