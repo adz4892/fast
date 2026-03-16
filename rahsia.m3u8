@@ -12,12 +12,15 @@
 
 #EXTINF:-1 tvg-id=" " tvg-name="" group-title="MYTV MANA" group-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/mytvsemua.png",
 
-#EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-name="TV1 HD" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TV1.jpg",TV1
+#EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TV1.jpg",TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:102, tvg-id="102.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/TV2.jpg" tvg-name="TV2",TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
