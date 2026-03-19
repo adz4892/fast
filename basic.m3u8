@@ -270,21 +270,21 @@ https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index
 #EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_Citra_Dangdut.png" group-title="MYTV",Citra Dangdut
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 
-#EXTINF:-1 tvg-id="857.astro" tvg-logo="https://media2.fishtank.my/app_themes/sinar/assets/images/logo-sinar.svg",SINAR
+#EXTINF:-1 tvg-id="857.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/Sinar.png",SINAR
 #EXTGRP:MYTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7af3ec1f2db077ae6374a018cbb48510:9458ed76e85f1ad8aa7eefcdbd628908
 https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
 
-#EXTINF:-1 tvg-id="863.astro" tvg-logo="https://media2.fishtank.my/media/gegar/assets2/logo-asset/logo-thr-gegar.png",THR GEGAR
+#EXTINF:-1 tvg-id="863.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/THR_Gegar.png",THR GEGAR
 #EXTGRP:MYTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70b6a9d1c5f5d275accf0a8c51dbf710:a0feca3810b9227592bd893bfb9f1f89
 https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
 
-#EXTINF:-1 tvg-id="876.astro" tvg-logo="https://media2.fishtank.my/app_themes/zayan/assets/images/logo-zayan.svg",ZAYAN
+#EXTINF:-1 tvg-id="876.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/Zayan.png",ZAYAN
 #EXTGRP:MYTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -306,7 +306,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAA
 #EXTINF:0, tvg-id="HotFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hot_FM_2021.svg/3840px-Hot_FM_2021.svg.png" group-title="Radio",HOTFM
 https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
 
-#EXTINF:0, tvg-id="CHN" tvg-logo="https://bestfm.com.my/wp-content/uploads/2025/09/BESTFM-Logo-horizontal-crop.png" group-title="Radio",BESTFM
+#EXTINF:0, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/BESTFM-Logo.png" group-title="Radio",BESTFM
 https://stream.rcs.revma.com/fk5teqrdbhuvv/hls.m3u8
 
 #EXTINF:0, tvg-id="CHN" tvg-logo="https://assets.molekfm.audio/2021/12/hbcGelXl-logo_molekfm_master.svg" group-title="Radio",MOLEKFM
