@@ -112,6 +112,10 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 #EXTGRP:MYTV MANA
 https://stream2.smg.my/live/tvsplus.m3u8
 
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="AstroAwani" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAwani_2025.png", Astro Awani
+#EXTGRP:MYTV MANA
+https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -346,14 +350,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
 
-#EXTINF:-1 tvg-id="308.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroQJ_2024.png",308 Astro QJ
-#EXTGRP:astro one
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://07111473bdd34b7f97104ca06d6e5501.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH14-dash/vsg/41VgwjgC31dtKU2ekhreMLu2wQNG0Mq-ScUsnwVgpsaQY=Ih6Z/dash-wv/jitp-dashisowm/2507/default_primary.mpd?aws.sessionId=063e11dc-007d-48cc-bc4c-71d2e57a654c
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
-
 #EXTINF:-1 tvg-id="309.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png",309 Celestial Movies HD
 #EXTGRP:astro one
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -368,7 +364,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
 
-#EXTINF:-1 tvg-id="311.astro" group-title="Chinese" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAOD_2024.png",311 Astro AOD
+#EXTINF:-1 tvg-id="311.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAOD_2024.png",311 Astro AOD
+#EXTGRP:astro one
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -466,9 +463,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 EXTINF:-1 tvg-id="501.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAwani_2025.png",501 Astro Awani HD
-#EXTGRP:astro one
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
+#EXTGRP:astro one
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
 
