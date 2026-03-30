@@ -905,10 +905,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd
 
 
 ###############################################################Unifi TV################################################################
+#EXTINF:-1 group-title="Unifi TV" group-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/unifitv.png",
 
 
-
-#EXTINF:-1 tvg-id="101" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=530" group-logo="https://unifi.com.my/tv/tv/assets_r/images/unifi-tv-logo-2.png" group-title="Unifi TV",TV1
+#EXTINF:-1 tvg-id="101" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=530" group-title="Unifi TV",TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
