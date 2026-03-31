@@ -115,6 +115,15 @@ https://stream2.smg.my/live/tvsplus.m3u8
 #EXTGRP:MYTV MANA
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="AstroAwani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",ASTRO AWANI
+#EXTGRP:MYTV MANA
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1734,9 +1743,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/in
 #EXTINF:-1 tvg-id="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/553.png" group-title="Indonesia",Discovery Asia 
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="171951" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/921.png" group-title="Indonesia",MDTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/935.png" group-title="Indonesia",MUSIC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -1947,9 +1959,11 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTGRP:Others
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
-#EXTINF:-1, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/440.png" tvg-name="Miramax",Miramax
+#EXTINF:-1, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/440.png" tvg-name="Miramax",Miramax Movie Channel
 #EXTGRP:Others
-https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5e08a6933238d3fb585c00a7d95e896c":"2d55d1208eaeabcc57e3b7b92c4e9f09"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
 
 #EXTINF:-1, tvg-id="Bollywood.HD.distro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/BOLLYWOOD.jpg" tvg-name="BollywooD HD",BollywooD HD
 #EXTGRP:Others
