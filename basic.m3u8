@@ -300,7 +300,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aa
 #EXTINF:0, tvg-id="CHN" tvg-logo="https://ikimfm.my/wp-content/uploads/2024/01/logo-ikimfm-2024-120x40.png" group-title="Radio",IKIMFM
 https://ais-sa8.cdnstream1.com/5035/playlist.m3u8?aw_0_1st.playerid=IKIMFMAudioWeb
 
-#EXTINF:0, tvg-id="CATSFM" tvg-logo="https://www.catsfm.my/img/logo.png" group-title="FM",CATSFM
+#EXTINF:0, tvg-id="CATSFM" tvg-logo="https://www.catsfm.my/img/logo.png" group-title="Radio",CATSFM
 https://stream.rcs.revma.com/ggz4zeuv0y3vv/hls.m3u8
 
 
