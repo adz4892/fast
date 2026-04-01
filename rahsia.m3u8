@@ -1966,24 +1966,18 @@ https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="382872" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/900.png" group-title="Others",Cinema World
-#https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/939.png" group-title="Others",Galaxy
+#EXTINF:-1 tvg-id="Galaxy - [Channel 13].id" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png" group-title="Others",Galaxy
 https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Galaxy Premium.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/940.png" group-title="Others",Galaxy Premium
+#EXTINF:-1 tvg-id="Galaxy Premium - [Channel 12].id" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png" group-title="Others",Galaxy Premium
 https://fta1-cdn-flr.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 
@@ -1991,42 +1985,42 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Studio Universal.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/938.png" group-title="Others",Studio Universal
+#EXTINF:-1 tvg-id="Studio Universal - [Channel 26].id" tvg-logo="https://i.ibb.co/LDCzm6wP/Studio-Universal.webp" group-title="Others",Studio Universal
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="UNIQUES.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/947.png" group-title="Others",UNIQUES
+#EXTINF:-1 tvg-id="UNIQUES - [Channel 6].id" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png" group-title="Others",UNIQUES
 https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="ORIGINALS.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/948.png" group-title="Others",ORIGINALS
+#EXTINF:-1 tvg-id="ORIGINALS - [Channel 7].id" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png" group-title="Others",ORIGINALS
 https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="CINEEDGE.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/943.png" group-title="Others",CINEEDGE
+#EXTINF:-1 tvg-id="CINEEDGE - [Channel 8].id" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png" group-title="Others",CINEEDGE
 https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="BUDDY STARS.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/949.png" group-title="Others",BUDDY STARS
+#EXTINF:-1 tvg-id="BUDDY STARS - [Channel 9].id" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png" group-title="Others",BUDDY STARS
 https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Superrix.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/901.png" group-title="Others",SUPERRIX
+#EXTINF:-1 tvg-id="Superrix - [Channel 10].id" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png" group-title="Others",SUPERRIX
 https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
 #EXTINF:-1 tvg-id="Arirang" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/191.png",Arirang TV
