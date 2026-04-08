@@ -50,7 +50,7 @@ http://cdn6.163189.xyz/163189/8tv
 #EXTGRP:MYTV MANA
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 
-#EXTINF:-1 tvg-id="Sukan RTM"  ch-number="111" tvg-name="SUKAN RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sukan%2B.png",Sukan+
+#EXTINF:-1 tvg-id="Sukan RTM"  ch-number="111" tvg-name="SUKAN RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/124m.png",Sukan+
 #EXTGRP:MYTV MANA
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd 
