@@ -87,7 +87,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DuniaSin 
 
-#EXTINF:-1 tvg-id="Sukan RTM"  ch-number="111" tvg-name="SUKAN RTM" group-title="MYTV" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/sukan_Trans.png",Sukan RTM
+#EXTINF:-1 tvg-id="Sukan RTM"  ch-number="111" tvg-name="SUKAN RTM" group-title="MYTV" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/sukan%2B.png",Sukan+
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd 
 
