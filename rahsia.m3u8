@@ -10,13 +10,13 @@
 
 #EXTINF:-1 tvg-id=" " tvg-name="" group-title="MYTV MANA" group-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/mytvsemua.png",
 
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/101.png", TV1
+#EXTINF:-1 tvg-id="TV1.mana2" ch-number="101" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/101.png", TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:102, tvg-id="TV2" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/102.png" tvg-name="TV2", TV2
+#EXTINF:102, tvg-id="TV2.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/102.png" tvg-name="TV2", TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTGRP:MYTV MANA
@@ -26,14 +26,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://www.tvsarawak.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TVS" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/122.png" group-title="MYTV MANA", TVS
+#EXTINF:-1 tvg-id="TVS.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/122.png" group-title="MYTV MANA", TVS
 https://live-tvs.tvsarawak.my/live/tvs.m3u8
 
-#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/113m.png", TV6
+#EXTINF:-1 tvg-id="TV6.mana2" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/113m.png", TV6
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-id="Okey" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/146.png", Okey
+#EXTINF:-1 tvg-id="TVOKEY.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/146.png", Okey
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
@@ -50,63 +50,63 @@ http://cdn6.163189.xyz/163189/8tv
 #EXTGRP:MYTV MANA
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 
-#EXTINF:-1 tvg-id="Sukan RTM"  ch-number="111" tvg-name="SUKAN RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/124m.png", Sukan+
+#EXTINF:-1 tvg-id="SUKANRTM.mana2"  ch-number="111" tvg-name="SUKAN RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/124m.png", Sukan+
 #EXTGRP:MYTV MANA
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd 
 
-#EXTINF:-1 tvg-id="Berita RTM" ch-number="123" tvg-name="BERITA RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/123m.png", RTM Berita
+#EXTINF:-1 tvg-id="BERITARTM.mana2" ch-number="123" tvg-name="BERITA RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/123m.png", RTM Berita
 #EXTGRP:MYTV MANA
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-id="RTM Asean" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/125.png", RTM Asean
+#EXTINF:-1 tvg-id="BERITARTM.mana2" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/125.png", RTM Asean
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8  
 
-#EXTINF:-1 tvg-id="TVIKIM.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/151.png", TV Ikim
+#EXTINF:-1 tvg-id="TVIKIM.mana2" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/151.png", TV Ikim
 #EXTGRP:MYTV MANA
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/189.png" tvg-name="Selangor TV", Selangor TV
+#EXTINF:-1, tvg-id="SELANGORTV.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/189.png" tvg-name="Selangor TV", Selangor TV
 #EXTGRP:MYTV MANA
 https://dedm91s0p00ib.cloudfront.net/smil:selangor/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTGRP:MYTV MANA
-#EXTINF:-1 tvg-id="" tvg-name="Enjoy TV5" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/110.png", Enjoy TV5
+#EXTINF:-1 tvg-id="TV5ENJOYTV.mana2" tvg-name="Enjoy TV5" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/110.png", TV5 Enjoy
 https://get.perfecttv.net/mytv.m3u8?channel=tv5
 
-#EXTINF:-1, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/145.png" tvg-name="RTM Roll", Roll
+#EXTINF:-1, tvg-id="Roll" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/145.png" tvg-name="RTM Roll", Roll
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=24095
 
-#EXTINF:-1, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/147.png" tvg-name="RTM Snap", Snap
+#EXTINF:-1, tvg-id="Snap" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/147.png" tvg-name="RTM Snap", Snap
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.m3u8?id=24099
 
-#EXTINF:-1, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/141.png" tvg-name="RTM Apetito", Apetito
+#EXTINF:-1, tvg-id="Apetito" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/141.png" tvg-name="RTM Apetito", Apetito
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/playlist.m3u8?id=24100
 
-#EXTINF:-1, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/148.png" tvg-name="RTM Lead", Lead
+#EXTINF:-1, tvg-id="Lead" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/148.png" tvg-name="RTM Lead", Lead
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8?id=24101
 
-#EXTINF:-1, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/142.png" tvg-name="RTM Aura", Aura
+#EXTINF:-1, tvg-id="Aura" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/142.png" tvg-name="RTM Aura", Aura
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 
-#EXTINF:-1, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/143.png" tvg-name="RTM Fitrah", Fitrah
+#EXTINF:-1, tvg-id="Fitrah" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/143.png" tvg-name="RTM Fitrah", Fitrah
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=24103
 
-#EXTINF:-1, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/144.png" tvg-name="RTM JR.", JR.
+#EXTINF:-1, tvg-id="JR" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/144.png" tvg-name="RTM JR.", JR.
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 
-#EXTINF:-1, tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png" tvg-name="TVS", TVS+
+#EXTINF:-1, tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png" tvg-name="TVS", TVS+
 #EXTGRP:MYTV MANA
 https://stream2.smg.my/live/tvsplus.m3u8
 
@@ -135,19 +135,19 @@ https://0c983129207742b6bca33b0d9613928c.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="ROCK ENT (HD)" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/473.png" group-title="MYTV MANA", Rock Entertainment
+#EXTINF:-1 tvg-id="ROCKENTERTAINMENT.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/473.png" group-title="MYTV MANA", Rock Entertainment
 https://slive.mana2.my/RockEntertainment/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="ROCK Action (HD)" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/474.png" group-title="MYTV MANA", Rock Action
+#EXTINF:-1 tvg-id="ROCKACTION.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/474.png" group-title="MYTV MANA", Rock Action
 https://slive.mana2.my/RockAction/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="ONEHD.sg" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/393.png" group-title="MYTV MANA", One
+#EXTINF:-1 tvg-id="ONEHD.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/393.png" group-title="MYTV MANA", One
 https://slive.mana2.my/OneHD/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -165,25 +165,25 @@ https://slive.mana2.my/SpotvNow/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="KCM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/153.png" group-title="MYTV MANA", KCM
+#EXTINF:-1 tvg-id="KCM.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/153.png" group-title="MYTV MANA", KCM
 https://slive.mana2.my/Kcm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/150.png" group-title="MYTV MANA", Global Trekker
+#EXTINF:-1 tvg-id="GLOBALTREKKER.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/150.png" group-title="MYTV MANA", Global Trekker
 https://slive.mana2.my/GlobalTrekker/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="ANIPLUS" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/186.png" group-title="MYTV MANA", AniPlus
+#EXTINF:-1 tvg-id="ANIPLUS.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/186.png" group-title="MYTV MANA", AniPlus
 https://slive.mana2.my/AniPlus/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="ZooMoo.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/188.png" group-title="MYTV MANA", Zoomoo
+#EXTINF:-1 tvg-id="ZOOMOO.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/188.png" group-title="MYTV MANA", Zoomoo
 https://slive.mana2.my/ZooMoo/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
