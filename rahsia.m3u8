@@ -68,7 +68,7 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 #EXTGRP:MYTV MANA
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
-#EXTINF:-1, tvg-id="SELANGORTV.mana2"  tvg-name="Selangor TV" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/189.png", Selangor TV
+#EXTINF:-1 tvg-id="SELANGORTV.mana2" tvg-name="Selangor TV" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/189.png", Selangor TV
 #EXTGRP:MYTV MANA
 https://dedm91s0p00ib.cloudfront.net/smil:selangor/playlist.m3u8
 
