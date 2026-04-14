@@ -78,35 +78,35 @@ https://dedm91s0p00ib.cloudfront.net/smil:selangor/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5ENJOYTV.mana2" tvg-name="Enjoy TV5" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/110.png", TV5 Enjoy
 https://get.perfecttv.net/mytv.m3u8?channel=tv5
 
-#EXTINF:-1, tvg-id="Roll"  tvg-name="RTM Roll" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/145.png", Roll
+#EXTINF:-1 tvg-id="Roll" tvg-name="RTM Roll" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/145.png", Roll
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=24095
 
-#EXTINF:-1, tvg-id="Snap"  tvg-name="RTM Snap" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/147.png", Snap
+#EXTINF:-1 tvg-id="Snap" tvg-name="RTM Snap" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/147.png", Snap
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.m3u8?id=24099
 
-#EXTINF:-1, tvg-id="Apetito"  tvg-name="RTM Apetito" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/141.png", Apetito
+#EXTINF:-1 tvg-id="Apetito" tvg-name="RTM Apetito" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/141.png", Apetito
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/playlist.m3u8?id=24100
 
-#EXTINF:-1, tvg-id="Lead"  tvg-name="RTM Lead" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/148.png", Lead
+#EXTINF:-1 tvg-id="Lead" tvg-name="RTM Lead" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/148.png", Lead
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8?id=24101
 
-#EXTINF:-1, tvg-id="Aura"  tvg-name="RTM Aura" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/142.png", Aura
+#EXTINF:-1 tvg-id="Aura" tvg-name="RTM Aura" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/142.png", Aura
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 
-#EXTINF:-1, tvg-id="Fitrah"  tvg-name="RTM Fitrah" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/143.png", Fitrah
+#EXTINF:-1 tvg-id="Fitrah" tvg-name="RTM Fitrah" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/143.png", Fitrah
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=24103
 
-#EXTINF:-1, tvg-id="JR"  tvg-name="RTM JR." tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/144.png", JR.
+#EXTINF:-1 tvg-id="JR" tvg-name="RTM JR." tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/144.png", JR.
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 
-#EXTINF:-1, tvg-id="24.7.Dummy.us"  tvg-name="TVS" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+
 #EXTGRP:MYTV MANA
 https://stream2.smg.my/live/tvsplus.m3u8
 
