@@ -1937,7 +1937,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTGRP:Others
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
-#EXTINF:-1, tvg-id="plex.tv.Miramax.Movie.Channel.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/miramax._SL170_FMpng_.png" tvg-name="Miramax",Miramax Movie Channel
+#EXTINF:-1 tvg-id="plex.tv.Miramax.Movie.Channel.plex" ch-number=" " tvg-name="Miramax Movie Channel" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/miramax._SL170_FMpng_.png", Miramax Movie Channel
 #EXTGRP:Others
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5e08a6933238d3fb585c00a7d95e896c":"2d55d1208eaeabcc57e3b7b92c4e9f09"}
@@ -1946,10 +1946,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/
 #EXTINF:-1, tvg-id="Bollywood.HD.distro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/BOLLYWOOD.jpg" tvg-name="BollywooD HD",BollywooD HD
 #EXTGRP:Others
 #https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/d3227daf-ea13-48c9-95a4-1619862d136e/0.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/602.png" tvg-name="AlJazeera",AlJazeera
-#EXTGRP:Others
-https://live-hls-web-aje-fa.getaj.net/AJE/05.m3u8
 
 #EXTINF:-1 tvg-id="MOVIES.NOW.in" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/442.png",Movies Now
 #EXTGRP:Others
