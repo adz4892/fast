@@ -36,13 +36,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 tvg-id="107.unifi" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/107.png" group-title="MYTV MANA", DidikTv KPM
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
-#EXTINF:-1 tvg-id="108"  tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/108.png" group-title="MYTV MANA", 8TV
+#EXTINF:-1 tvg-id="108.unifi"  tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/108.png" group-title="MYTV MANA", 8TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0cb7980e9d1d8957f9a293ed96342410": "11da1ad368d0cacffe4824b6b35e22b7"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 http://cdn6.163189.xyz/163189/8tv
 
-#EXTINF:-1 tvg-id="109" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/109.png", TV9
+#EXTINF:-1 tvg-id="109.unifi" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/109.png", TV9
 #EXTGRP:MYTV MANA
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 
