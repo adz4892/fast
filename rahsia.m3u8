@@ -56,7 +56,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-id="BERITARTM.mana2" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/125.png", RTM Asean
+#EXTINF:-1 tvg-id="BERITARTM.mana2" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/worldrtm.png", RTM World
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8  
 
@@ -659,7 +659,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 
 #EXTINF:-1 tvg-id="701.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png", 701 AXN HD
 #EXTGRP:astro one
@@ -722,7 +722,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 
 #EXTINF:-1 tvg-id="801.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png", 801 Astro Arena
 #EXTGRP:astro one
