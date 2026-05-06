@@ -1891,71 +1891,71 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/914.png" group-title="Indonesia",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/916.png",TRANS TV
+#EXTINF:-1 tvg-id="TransTV" group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/916.png",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/917.png",TRANS 7
+#EXTINF:-1 tvg-id="Trans7" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/917.png",TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/954.png",TV ONE
+#EXTINF:-1 tvg-id="TVOne" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/954.png",TV ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TVONE/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/953.png",ANTV
+#EXTINF:-1 tvg-id="ANTV" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/953.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/911.png",SCTV
+#EXTINF:-1 tvg-id="SCTV" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/911.png",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-SCTV/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/912.png",INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/912.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/921.png",MDTV
+#EXTINF:-1 tvg-id="MDTV" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/921.png",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-NET/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/920.png",RTV
+#EXTINF:-1 tvg-id="RTV" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/920.png",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-RAJAWALITV/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/918.png",RCTI
+#EXTINF:-1 tvg-id="RCTI" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/918.png",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-RCTI/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/913.png",MNCTV
+#EXTINF:-1 tvg-id="MNCTV" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/913.png",MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-MNCTV/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/915.png",GTV
+#EXTINF:-1 tvg-id="GTV" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/915.png",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-GLOBALTV/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="httpshttps://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/958.png",KOMPAS TV
+#EXTINF:-1 tvg-id="Kompas TV" group-title="INDONESIA" tvg-logo="httpshttps://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/958.png",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/957.png",METRO TV
+#EXTINF:-1 tvg-id="Metro TV" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/957.png",METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-METROTV/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/956.png",BALI TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/956.png",BALI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-BALITV/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/914.png",TVRI NASIONAL
+#EXTINF:-1 tvg-id="TVRI" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/914.png",TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TVRI/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/904.png",TVRI SPORT
+#EXTINF:-1 tvg-id="TVRI Sport" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/904.png",TVRI SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/955.png",KNOWLEDGE+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/955.png",KNOWLEDGE+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-KNOWLEDGE/playlist.m3u8
 
@@ -2036,7 +2036,7 @@ https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/play
 #EXTGRP:Others
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=999c783c19f6412fbd874ed21e17c9c2:494421f360d98a7fdda924130d662272
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561803/index.mpd
+#https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561803/index.mpd
 
 #EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/181.png",Channel 5
 #EXTGRP:Others
