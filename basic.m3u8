@@ -95,7 +95,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-id="RTM Asean" tvg-name="TV1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/960px-RTM_Asean_%282024%29.svg.png" group-title="MYTV",RTM Asean
+#EXTINF:-1 tvg-id="RTM World" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/worldrtm.png" group-title="MYTV",RTM World
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8  
 
 #EXTINF:-1 group-title="MYTV" tvg-id="AstroAwani" tvg-name="AstroAwani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Astro_Awani_%282025%29.png", Astro Awani
