@@ -1497,7 +1497,7 @@ https://stream.rcs.revma.com/488kt4sbv4uvv/hls.m3u8
 https://stream.rcs.revma.com/4p3nqmmbv4uvv/hls.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-id="SARAWAKFM.mana2" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-muzik-fm.f72f3271.png",RADIO MUZIK
-https://listen.radioking.com/radio/663445/stream/727324
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUZIKFMAAC.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-id="SYOK KENYALANG" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KENYALANG.jpg",KENYALANG
 https://stream.rcs.revma.com/qyg9zmvbv4uvv/hls.m3u8
