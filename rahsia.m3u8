@@ -1962,7 +1962,7 @@ https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/play
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=siar
 
-#EXTINF:-1 tvg-id="AstroSensasi" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Sensasi_%28Dec_2024%29.png" group-title="Others",Astro Sensasi
+#EXTINF:-1 tvg-id="AstroSensasi" tvg-name="" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/123.png" group-title="Others",Astro Sensasi
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=sensasi
 
