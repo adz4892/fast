@@ -56,6 +56,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
+#EXTINF:-1 tvg-id="BERITARTM.mana2" tvg-name="TV1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/RTM_Klik_logo.png", MOTO GP
+#EXTGRP:MYTV MANA
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BERITARTM.mana2" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/worldrtm.png", RTM World
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8  
