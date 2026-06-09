@@ -1970,26 +1970,6 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=siar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=sensasi
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/fifaplus.png" group-title="Others",FIFA+ 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79955689ceb43a2e9d8e557c2ecafa3a:ddafb9bd901f518a12600197613c7f32
-https://d7pd9oqdl4d44.cloudfront.net/2026_03_30_13_54_57_ac3e36a0-8580-4ec7-9f5f-33e3da960642/PROD_CMAF_CENC/index-dash.mpd
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/fifaplus.png" group-title="Others",FIFA+ 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cef371c6d553cb48b9f59a7a9381178:cdce47742cc2422fdd6a13e9370e938f
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_22_53_576e7e26-be6b-45b4-a390-06a59cdcefe7/PROD_CMAF_CENC/index-dash.mpd
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/fifaplus.png" group-title="Others",FIFA+ 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d804b77242823dd0bae5da9ec22eaa96:041bebc99ddee8052ea2183f73f80e21
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_55_05_3264f91a-d12a-4199-ac18-e2680cf38b66/PROD_CMAF_CENC/index-dash.mpd
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/fifaplus.png" group-title="Others",FIFA+ 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7091e3891c92317b8ec56be68a88781e:2c1ed39cfe1b526854ed2442f65b54b2
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_26_46_ee37399c-8810-4f4b-a7cd-846f66ebd8e9/PROD_CMAF_CENC/index-dash.mpd
-
 #EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/181.png",Channel 5
 #EXTGRP:Others
 http://cdn6.163189.xyz/163189/ch5
@@ -2323,6 +2303,81 @@ https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="Backup Channels",Al Quran Al Kareem TV
 https://aloula-redirect.vercel.app/7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fifa1" tvg-name="" group-title="Unifi TV" group-logo="" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-1.png", Unifi FIFA1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
+https://get.perfecttv.net/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=fifa1&kid=10e21143-9874-4f38-80cc-96653568da55
+
+#EXTINF:-1 tvg-id="fifa2" tvg-name="" group-title="Unifi TV" group-logo="" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-2.png", Unifi FIFA2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
+https://get.perfecttv.net/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=fifa2&kid=60a3773d-e405-4a96-80d6-ca2277870a97
+
+#EXTINF:-1 tvg-id="fifa3" tvg-name="" group-title="Unifi TV" group-logo="" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-3.png", Unifi FIFA3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
+https://get.perfecttv.net/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
+
+#EXTINF:-1  group-title="Backup Channels" tvg-id="AstroPrima.my" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,105 Prima E
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
+#https://get.perfecttv.net/1080.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=primafhd|authorization=Bearer
+https://load.perfecttv.net/rwt.m3u8?username=vip_jtomgvsk&password=3ck0XZBg&channel=prima
+
+#EXTINF:-1 tvg-id="ArenaBola" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/arenabola.png" group-title="Backup Channels",803 Arena Bola E
+##KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
+https://load.perfecttv.net/rwt.m3u8?username=vip_jtomgvsk&password=3ck0XZBg&channel=bola1
+
+#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/arenabola2.png" group-title="Backup Channels",804 Arena Bola 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+https://get.perfecttv.net/dash2.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=arenabola2
+
+#EXTINF:-1 group-logo="" group-title="Backup Channels" tvg-id="AstroCeria.my" tvg-logo="https://get.perfecttv.net/logo/ceria2.png" group-logo="" ,205 Ceria
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
+#KODIPROP:inputstream.adaptive.license_key=337ef92bfeeb4b599248841cc916ce24:a31f174c1abe17c2b08fb94dd521283c
+#https://get.perfecttv.net/dash2.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=ceria
+https://cf.perfecttv.net/rwt.m3u8?username=vip_jtomgvsk&password=3ck0XZBg&channel=ceria
+
+EXTINF:-1 tvg-id="TV3.my" ch-number="103" tvg-name="TV3" group-title="Backup Channels" tvg-logo="https://get.perfecttv.net/logo/tv3.png",103 TV3 HD (B)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+https://get.perfecttv.net/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=TV3&kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
+
+#EXTINF:-1 tvg-id="NTV7" tvg-logo="https://get.perfecttv.net/logo/ntv7.png" group-logo="" group-title="Backup Channels",104 TV7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
+https://get.perfecttv.net/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=Didik&kid=6f9bd003-04a3-4972-a80e-5ff79aff982f
+
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="Backup Channels"  tvg-logo="https://get.perfecttv.net/logo/8tv.png",105 8TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
+https://get.perfecttv.net/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=8TV&kid=da1cb24f-55db-4ae1-b323-19c365920539
+
+#EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="Backup Channels" tvg-logo="https://get.perfecttv.net/logo/tv9.png",106 TV9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
+#https://get.perfecttv.net/dash2.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=tv9
+#KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
+https://get.perfecttv.net/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=TV9&kid=eea0828c-38d7-4407-a5c3-84ad730d7224
 
 
 
