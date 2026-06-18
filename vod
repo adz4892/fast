@@ -17871,46 +17871,6 @@ https://get.perfecttv.net/get_tonton2.m3u8?username=vip_jtomgvsk&password=3ck0XZ
 #EXTINF:-1 tvg-id="" tvg-name="Old Guard 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg" group-title="▶ VOD NETFLIX",998-Old Guard 2 (2025)
 https://get.perfecttv.net/okayru.mpd?id=10645922843343
 
-#EXTINF:-1 tvg-id="" tvg-name="109 Awesome" tvg-logo="https://get.perfecttv.net/logo/awesome.png" group-title="MALAYSIA",109 Awesome
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2708.ts?channel=awesome
-#EXTINF:-1 tvg-id="ANTV.id" group-title="INDONESIA" tvg-logo="https://get.perfecttv.net/logo/antv.png",5 ANTV (web)
-https://get.perfecttv.net/vidiolive.mpd?username=vip_jtomgvsk&password=3ck0XZBg&video_id=782
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://get.perfecttv.net/logo/indosiar.png" group-title="INDONESIA",Indosiar
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://get.perfecttv.net/logo/indosiar.png" group-title="INDONESIA",Indosiar (web) 
-https://get.perfecttv.net/vidiolive.mpd?username=vip_jtomgvsk&password=3ck0XZBg&video_id=205
-#EXTINF:-1 tvg-id="" tvg-name="Trans7" tvg-logo="https://get.perfecttv.net/logo/trans7.png" group-title="INDONESIA",Trans7
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
-#EXTINF:-1 tvg-id="" tvg-name="Trans Tv" tvg-logo="https://get.perfecttv.net/logo/transtv.png" group-title="INDONESIA",Trans Tv
-https://get.perfecttv.net/vidiolive.mpd?username=vip_jtomgvsk&password=3ck0XZBg&video_id=733
-#EXTINF:-1 tvg-id="" tvg-name="138 Thrill" tvg-logo="https://get.perfecttv.net/logo/thrill.png" group-title="MOVIES",138 Thrill
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2703.ts?channel=thrill
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://get.perfecttv.net/logo/rcti.png" group-title="INDONESIA",RCTI
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-https://get.perfecttv.net/dashVision2.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=rcti
-
-#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://get.perfecttv.net/logo/mnctv.png" group-title="INDONESIA",MNCTV
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://get.perfecttv.net/logo/sctv.png" group-title="INDONESIA",SCTV
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
-#EXTINF:-1 tvg-id="" tvg-name="149 Galaxy Premium" tvg-logo="https://get.perfecttv.net/logo/galaxypremium.png" group-title="MOVIES",149 Galaxy Premium
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2695.ts?channel=galaxypremium
-###EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://get.perfecttv.net/logo/galaxy.png" group-title="MOVIES",148 Galaxy
-###http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2694.ts?channel=galaxy
-#EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://get.perfecttv.net/logo/starmovies.png" group-title="MOVIES",152 Star Movies
-#http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2687.ts?channel=starmovies
-https://cf.perfecttv.net/rwt.m3u8?username=vip_jtomgvsk&password=3ck0XZBg&channel=starmovies
-#EXTINF:-1 tvg-id="" tvg-name="153 Star Movies Select" tvg-logo="https://get.perfecttv.net/logo/starmoviesselect.png" group-title="MOVIES",153 Star Movies Select
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/4602.ts?channel=starmovieselect
-#EXTINF:-1 tvg-id="" tvg-name="151 &Prive" tvg-logo="https://get.perfecttv.net/logo/privehd.png" group-title="MOVIES",151 &Prive
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2686.ts?channel=privehd
-#EXTINF:-1 tvg-id="" tvg-name="150 &flix" tvg-logo="https://get.perfecttv.net/logo/flixhd.png" group-title="MOVIES",150 &flix
-http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2685.ts?channel=flixhd
-#EXTINF:-1 tvg-id="" tvg-name="119 Ria(B)" tvg-logo="https://get.perfecttv.net/logo/ria.png" group-title="MALAYSIA",119 Ria(B)
-#http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2678.ts?channel=riahd
-#EXTINF:-1 tvg-id="" tvg-name="118 Prima (B)" tvg-logo="https://get.perfecttv.net/logo/prima.png" group-title="MALAYSIA",118 Prima (B)
-#http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2677.ts?channel=primahd
 #EXTINF:-1 tvg-id="" tvg-name="6 Underground (2019) N2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="▶ VOD NETFLIX",999-6 Underground (2019) N2
 http://103.107.198.46:8080/movie/vip_3klp0es8/wg3piwEs/2400.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Family Affair (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg" group-title="▶ VOD NETFLIX",A Family Affair (2024)
