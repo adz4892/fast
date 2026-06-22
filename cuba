@@ -178,7 +178,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 
 **************************************************************************************************************************************************
-#EXTINF:-1 group-title="astro one" group-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/astroone.png",
+#EXTINF:-1 group-title="astro one" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkuUhzNb_CGczn-R2Y5C37qac7mAPBE6RPVA0a-K7r-Ys4XWPs2iXij48&s=10",
 
 #EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogoNew.png", 101 TV1 HD
 #EXTGRP:astro one
@@ -1729,8 +1729,7 @@ https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/play
 
 ++++++++++++++++++++++++++++++++++++++others++++++++++++++++++++++++++
 
-#EXTINF:-1 group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/my-astro/banners/icon_plug-play.png" 
-#EXTGRP:Others
+#EXTINF:-1 group-title="Indonesia" group-logo="https://aseamarine.sg/wp-content/uploads/2020/06/Others.png",
 
 EXTINF:-1 tvg-id="TV3.my" ch-number="103" tvg-name="TV3" group-title="Others" tvg-logo="https://get.perfecttv.net/logo/tv3.png",TV3 HD
 #KODIPROP:inputstream=inputstream.adaptive
