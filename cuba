@@ -1277,7 +1277,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LABUAN_FMAAC.a
 https://stream.rcs.revma.com/axht8yawe1bwv/hls.m3u8
 ________________________________SD___________________________________
 
-#EXTINF:-1 group-title="Vision+" group-logo="https://upload.wikimedia.org/wikipedia/id/6/62/Logo_Vision%2B_App.png",
+#EXTINF:-1 group-title="Vision+" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqlKwNcU5jl8Z6CLK_NYc84J4aNqKlj9CyVme4Y9pQwS8CcGJ4NWfBzvo&s=10",
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1732,7 +1732,6 @@ https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/play
 #EXTINF:-1 group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/my-astro/banners/icon_plug-play.png" 
 #EXTGRP:Others
 
-
 EXTINF:-1 tvg-id="TV3.my" ch-number="103" tvg-name="TV3" group-title="Others" tvg-logo="https://get.perfecttv.net/logo/tv3.png",TV3 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1768,8 +1767,6 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://rtm-images.glueapi.io/320x0/system/OkeyDolby.png", RTM Okey
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey/DASH/okey.mpd
-
-
 
 #EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/181.png",Channel 5
 #EXTGRP:Others
@@ -1841,14 +1838,12 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="MNX.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/443.png",MNX HD
 #EXTGRP:Others
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
-https://get.perfecttv.net/dashVision.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=mnxhd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTINF:-1 tvg-id="MN+.HD.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/441.png",MN+
 #EXTGRP:Others
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
-https://get.perfecttv.net/dashVision.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=mnplus
 https://times-ott-live.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_drm_mnplus/out/v1/254ff351a5d543a88abf92189bff886e/index.mpd
 https://times-ott-live.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_drm_mnxhd/out/v1/405c7c835d534bc8afcf9cd5daa7f77d/index.mpd
  
@@ -1891,7 +1886,7 @@ https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zew
 #KODIPROP:inputstream.adaptive.license_key={"50a71b1ce9eb116cd7bd98a946d71109":"08b8b340baeebca12ef50a52c6ec1d1d"}
 https://a191aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/xocfcvmh5j/out/v1/844e15e5a0bd40c48a5a39ba08d2cd50/cenc.mpd
 
-#EXTINF:-1 tvg-id="REAL_DISASTER_CHANNEL" tvg-name="Real Disaster Channel" tvg-logo="https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/featuredImage.jpg" group-title="Others",Real Disaster Channel
+#EXTINF:-1 tvg-id="REAL_DISASTER_CHANNEL" tvg-name="Real Disaster Channel" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Real_Disaster._SL500_FMpng_.png" group-title="Others",Real Disaster Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
