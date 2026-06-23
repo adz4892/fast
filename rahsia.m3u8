@@ -1979,7 +1979,7 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdn.siar.us/
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nusantara_TV.png/250px-Nusantara_TV.png" group-title="Indonesia",Nusantara TV
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/959.png" group-title="Indonesia",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
