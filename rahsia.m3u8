@@ -1962,24 +1962,24 @@ https://aloula-redirect.vercel.app/7/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#EXTINF:-1 tvg-id="MDTV.id" group-title="Indonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png",MDTV
+#EXTINF:-1 tvg-id="MDTV.id" group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/921.png",MDTV
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=875
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#EXTINF:-1 tvg-id="Moji" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" group-title="Indonesia", MOJI TV
+#EXTINF:-1 tvg-id="Moji" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/936.png" group-title="Indonesia", MOJI TV
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=206
  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="Indonesia",RTV
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/920.png" group-title="Indonesia",RTV
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdn.siar.us/
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/npPL9VlWMJ5owmeupR7ucPjdGl4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png" group-title="Indonesia",Nusantara TV
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nusantara_TV.png/250px-Nusantara_TV.png" group-title="Indonesia",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1987,58 +1987,58 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Indonesia",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/911.png" group-title="Indonesia",SCTV
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png",SCTV
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/911.png",SCTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/912.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://ratu77.adptv.workers.dev/index.mpd?id=205&type=dash
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/mr5QpD3T/ezgif-1-5b5ec93378.png",MOJI
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/936.png",MOJI
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://ratu77.adptv.workers.dev/index.mpd?id=206&type=dash
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/gjys36Lh/ezgif-7ae685bdab8a1811.png",TV ONE
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/954.png",TV ONE
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://ratu77.adptv.workers.dev/index.mpd?id=783&type=dash
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/44twY7gq/ezgif-6a5fadaf3ade2391.png",ANTV
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/953.png",ANTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://ratu77.adptv.workers.dev/index.mpd?id=782&type=dash
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/3NjfvngV/ezgif-389467c34311aaa0.png",KOMPAS TV
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/958.png",KOMPAS TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://ratu77.adptv.workers.dev/index.mpd?id=874&type=dash
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/WbQ67s7p/metro-tv-id.png",METRO TV
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/957.png",METRO TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://ratu77.adptv.workers.dev/index.mpd?id=777&type=dash
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/MKdJcr01/rajawali-tv-id.png",RTV
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/920.png",RTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://ratu77.adptv.workers.dev/index.mpd?id=1561&type=dash
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/DzxTt5C9/ezgif-7-56f3bf48d5.png",MDTV
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/921.png",MDTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
