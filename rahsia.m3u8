@@ -32,8 +32,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-id="TVOKEY.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/146.png", Okey
 #EXTGRP:MYTV MANA
-https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/HLS/okey1.m3u8
-https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/HLS/okey1.m3u8?id=3
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-id="8TV.tonton"  tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/108.png" group-title="MYTV MANA", 8TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2037,6 +2036,8 @@ https://ratu77.adptv.workers.dev/index.mpd?id=1561&type=dash
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://ratu77.adptv.workers.dev/index.mpd?id=875&type=dash
 
+#EXTINF:-1 tvg-logo="http://tv9.co.id/img/logotv9.png" group-title="Indonesia" ,TV9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 
 ___________________________________________________________________________________________________SOOKA
@@ -2159,15 +2160,21 @@ https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=  :
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/192.png",M Live 1
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276318742%27&EntityType=%27Item%27&EntityId=%2797073%27&Width=488&Height=249",M Live 1
 #EXTGRP:Others
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/193.png",M Live 2
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276318744%27&EntityType=%27Item%27&EntityId=%2797078%27&Width=515&Height=250",M Live 2
 #EXTGRP:Others
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvAPN1XkaodgywgdZVy6Us1UCXT5mnghfVg&s", M Live 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/611.png",CNA HD
 #EXTGRP:Others
