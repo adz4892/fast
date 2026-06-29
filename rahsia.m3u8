@@ -1374,10 +1374,10 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 
 #EXTINF:-1 tvg-id=" " tvg-name="" group-title="Radio" group-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/FM.png",
 
-#EXTINF:-1 group-title="Radio" tvg-id="KOOLFM.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/KOOLFM.jpg",KOOL FM
+#EXTINF:-1 group-title="Radio" tvg-id="KOOLFM.mana2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/enegmv.png",KOOL FM
 https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
 
-#EXTINF:-1 group-title="Radio" tvg-id="SARAWAKFM.mana2" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/SARAWAK_FM.png",SARAWAK FM
+#EXTINF:-1 group-title="Radio" tvg-id="SARAWAKFM.mana2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/dlarxd.png",SARAWAK FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC.aac
 
 #EXTINF:-1 group-title="Radio" tvg-id="SURIAFM.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SURIA.jpg",SURIA
