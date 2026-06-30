@@ -35,10 +35,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
 
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/system/SukanDolby.png", SUKAN+
-#EXTGRP:MYTV MANA
-https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
-
 #EXTINF:-1 tvg-id="8TV.tonton"  tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/108.png" group-title="MYTV MANA", 8TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0cb7980e9d1d8957f9a293ed96342410": "11da1ad368d0cacffe4824b6b35e22b7"}
@@ -48,6 +44,7 @@ http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 tvg-id="SUKAN.mana2"  ch-number="111" tvg-name="SUKAN RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/124m.png", Sukan+
 #EXTGRP:MYTV MANA
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd 
 
 #EXTINF:-1 tvg-id="BERITARTM.mana2" ch-number="123" tvg-name="BERITA RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/123m.png", RTM Berita
