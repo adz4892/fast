@@ -2345,12 +2345,12 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/orgtigwisa/
 #KODIPROP:inputstream.adaptive.license_key=5d264da818cdcc2b79aed140c7513d30:f72e7aee419cfb474ee38ba664c5edef
 https://a51aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/9w8aklof7x/out/v1/9d30f39ba2464bb4a764e337ba0f03ad/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id"  tvg-logo="https://i.ibb.co.com/1zFVnXg/makkahlive.png" group-title="Others", MAKKAH LIVE 🕋 ☪
+#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id"  tvg-logo="https://play-lh.googleusercontent.com/jaKKh-RTzpUSJOcLF93KwdFoYNj0dJXSfsuEWMUt-cJSc_wvfGUMg6u_R_bTajehbG6gQ6c1Kmm-Ct4tCvpZ=w600-h300-pc0xffffff-pd" group-title="Others", MAKKAH LIVE 🕋 ☪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co.com/3zB0gVk/madinahlive.png" group-title="Others", MADINAH LIVE ☪
+#EXTINF:-1   tvg-logo="https://lh3.googleusercontent.com/GsjxSPe8eYNLMH966xTljZdiXk2H68vWfEm7XM9VJ6BW1UemJEbwlxur8XSWqGVX9IlY" group-title="Others", MADINAH LIVE ☪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
