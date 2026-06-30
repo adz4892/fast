@@ -53,7 +53,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-id="BERITARTM.mana2" ch-number="123" tvg-name="BERITA RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/123m.png", RTM Berita
 #EXTGRP:MYTV MANA
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/master.m3u8 https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/master.m3u8?id=5 
+https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/master.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/master.m3u8?id=5 
 
 #EXTINF:-1 tvg-id="RTM Asean.rtm" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/worldrtm.png", RTM World
 #EXTGRP:MYTV MANA
@@ -184,11 +186,13 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 tvg-id="TV6.mana2" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png", Dewan Rakyat
 #EXTGRP:MYTV MANA
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 
 #EXTINF:-1 tvg-id="TV6.mana2" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDN_bckg.png", Dewan Negara
 #EXTGRP:MYTV MANA
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
