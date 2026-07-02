@@ -209,7 +209,7 @@ https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://ptv2026.com/fifawc.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=fifa1&kid=10e21143-9874-4f38-80cc-96653568da55
+#https://ptv2026.com/fifawc.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=fifa1&kid=10e21143-9874-4f38-80cc-96653568da55
 
 #EXTINF:-1 tvg-id="fifa2" tvg-name="" group-title="MYTV MANA" group-logo="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.jpg?width=176&updatedTime=undefined&dt=Web", Unifi FIFA2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -217,7 +217,7 @@ https://ptv2026.com/fifawc.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=f
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://ptv2026.com/fifawc2.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=fifa2&kid=60a3773d-e405-4a96-80d6-ca2277870a97
+#https://ptv2026.com/fifawc2.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=fifa2&kid=60a3773d-e405-4a96-80d6-ca2277870a97
 
 #EXTINF:-1 tvg-id="fifa3" tvg-name="" group-title="MYTV MANA" group-logo="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.jpg?width=176&updatedTime=undefined&dt=Web", Unifi FIFA3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -225,7 +225,7 @@ https://ptv2026.com/fifawc2.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://ptv2026.com/fifawc3.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
+#https://ptv2026.com/fifawc3.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
 
 #EXTINF:-1 tvg-id="fifa4" tvg-name="" group-title="MYTV MANA" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9DB657EE-7589-4D2A-B4D5-C04B7BFAEB61/0-16x9.jpg?width=341&updatedTime=2026-06-24T14:14:47Z&dt=Web", Unifi FIFA4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -233,7 +233,7 @@ https://ptv2026.com/fifawc3.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=44698807b32844cdaa459f51970a57b8:00faf338044bfccf10f33fda008eb8eb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://ptv2026.com/fifawc4.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=fifa4&kid=44698807-b328-44cd-aa45-9f51970a57b8
+#https://ptv2026.com/fifawc4.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=fifa4&kid=44698807-b328-44cd-aa45-9f51970a57b8
 
 
 
