@@ -27,9 +27,9 @@ https://live-tvs.tvsarawak.my/live/tvs.m3u8
 
 #EXTINF:-1 tvg-id="TV6.mana2" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/113m.png", TV6
 #EXTGRP:MYTV MANA
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
 #EXTINF:-1 tvg-id="Okey.rtm" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/146.png", OKEY
 #EXTGRP:MYTV MANA
