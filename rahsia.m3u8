@@ -426,14 +426,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 #EXTGRP:astro one
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a2285bc4c5593c6ec41e95494f6b510:b10ab951eab1556c78b410ce0cd6dfef
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5211/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5211/default_primary.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
 #EXTGRP:astro one
 #EXTINF:-1 tvg-id="393.astro" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/393a.png", 393 Astro Daebak
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5211/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5211/default_primary.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
