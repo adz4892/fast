@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml,https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://github.com/AqFad2811/epg/raw/main/sooka.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/my.xml,https://github.com/dbghelp/StarHub-TV-EPG/raw/main/starhub.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://github.com/dbghelp/mewatch-EPG/raw/main/mewatch.xml,https://www.open-epg.com/files/indonesia4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz,https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml,https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml" refresh="1440" vod_library="https://raw.githubusercontent.com/adz4892/fast/refs/heads/main/vod" billed-msg="الحمد لله"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml,https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://github.com/AqFad2811/epg/raw/main/sooka.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/my.xml,https://github.com/dbghelp/StarHub-TV-EPG/raw/main/starhub.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://github.com/dbghelp/mewatch-EPG/raw/main/mewatch.xml,https://www.open-epg.com/files/indonesia4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz,https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml,htt://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml" refresh="1440" vod_library="https://raw.githubusercontent.com/adz4892/fast/refs/heads/main/vod" billed-msg="الحمد لله"
 ************************************************************************
 
 ********************************MALAYSIA**********************************************************************************************************
@@ -1978,21 +1978,21 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
-#EXTINF:-1 tvg-id="Entertainment.id" tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-m.png" group-title="Vision+",Entertainment
+#EXTINF:-1 tvg-id="Ent.id" tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-m.png" group-title="Vision+",Entertainment
 https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
-#EXTINF:-1 tvg-id="Celebrities TV.id" tvg-logo="https://www.visionplus.id/images/repository/642/642-LOGO-m.png" group-title="Vision+",CelebritiesTV (V+)
+#EXTINF:-1 tvg-id="CelebritiesTV.id" tvg-logo="https://www.visionplus.id/images/repository/642/642-LOGO-m.png" group-title="Vision+",CelebritiesTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
-#EXTINF:-1 tvg-id="Hanacaraka TV.id"  tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-m.png" group-title="Vision+",Hanacaraka TV (V+)
+#EXTINF:-1 tvg-id="HanacarakaTV.id"  tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-m.png" group-title="Vision+",Hanacaraka TV
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 **************************************************
