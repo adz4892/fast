@@ -193,15 +193,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/system/FIFA-WC-1-Dolby.png", FIFA WC 1
 #EXTGRP:MYTV MANA
-https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd
+#https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/system/FIFA-WC-2-Dolby.png", FIFA WC 2
 #EXTGRP:MYTV MANA
-https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd
+#https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/system/FIFA-WC-3-Dolby.png", FIFA WC 3
 #EXTGRP:MYTV MANA
-https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
+#https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
 
 #EXTINF:-1 tvg-id="fifa1" tvg-name="" group-title="MYTV MANA" group-logo="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.jpg?width=100&updatedTime=undefined&dt=Web", Unifi FIFA1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
