@@ -6,13 +6,6 @@
 
 #EXTINF:-1 tvg-id=" " tvg-name="" group-title="MYTV MANA" group-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/mytvsemua.png",
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://www.tvsarawak.my/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TVS.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/122.png" group-title="MYTV MANA", TVS (test)
-https://dmetpubdxs86y.cloudfront.net/smil:tvs/manifest.mpd?id=1
-
 #EXTINF:-1 tvg-id="TV1.rtm" ch-number="101" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/101.png", TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -2474,3 +2467,69 @@ https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="auto.baby.shark.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnTqk9_I2NI_kp_DHASX6ccAEPu5he2X8-2ANe0sBsqA&s=10" group-title="Others",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sensasi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8F641B7A-CC55-497E-9C73-B1F10ADA7541/0-16x9.png?width=530" group-title="Others",Sensasi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ba270026f0a4b29956ace51335fb1ac:edb6adbe31609226e737e515ba813169
+##https://ptv2026.com/xsensasi/xsensasi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=sensasi
+https://ptv2026.com/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=Sensasi&kid=6ba27002-6f0a-4b29-956a-ce51335fb1ac
+
+#EXTINF:-1 tvg-id="" tvg-id="pesonahd" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=530" group-title="Others",Pesona HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
+https://ptv2026.com/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=Pesona&kid=d6a2211c-ff95-4597-9f6f-1a09851fa495
+
+#EXTINF:-1 tvg-id="inspirasi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=530" group-title="Others",Inspirasi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
+https://ptv2026.com/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=Inspirasi&kid=94bfaa51-ce3c-4acf-b8a8-d5a7229316b6
+
+#EXTINF:-1 tvg-id="salamhd" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1CE8DFF2-DF3E-4EFD-8D01-3D261D0890DD/0-16x9.png?width=530" group-title="Others",Salam HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
+https://ptv2026.com/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=Salam&kid=32b2e717-61af-4641-900f-87df03c48cb2
+
+#EXTINF:-1 tvg-id="duniasinemahd" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=530" group-title="Others",Dunia Sinema HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+https://ptv2026.com/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=DuniaSin&kid=01a17625-701e-4734-b02a-a22c8657bd6f
+
+#EXTINF:-1 tvg-id="siar" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F101B330-8D9C-4670-9DE3-2C53E8866EA0/0-16x9.png?width=530" group-title="Others",SIAR 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
+https://ptv2026.com/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
+
+#EXTINF:-1 tvg-id="degup" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=530" group-title="Others",DEGUP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
+https://ptv2026.com/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=DEGUP&kid=a1623b76-6e4b-48eb-88ce-a29e1c309cc7
+
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9A5A508C-BB3A-4139-8C2F-8B092336F192/0-16x9.png?width=530" group-title="Others",HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://ptv2026.com/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
+
+#EXTINF:-1 tvg-id="hbohits" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/054D31F0-3639-4ADB-AB0D-9B8621E0190D/0-16x9.png?width=530" group-title="Others",HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
+https://ptv2026.com/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
+
+#EXTINF:-1 tvg-id="hbofamily" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/31780236-3056-4866-AE99-B3C33D65B073/0-16x9.png?width=530" group-title="Others",HBO Family  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
+https://ptv2026.com/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=HBOF&kid=98e8255f-ae9b-41ae-bb33-4645a916c82b
+
