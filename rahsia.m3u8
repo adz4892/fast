@@ -23,7 +23,7 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 #EXTVLCOPT:http-referrer=https://www.tvsarawak.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TVS.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/122.png" group-title="MYTV MANA", TVS
-https://live-tvs.tvsarawak.my/live/tvs.m3u8
+#https://live-tvs.tvsarawak.my/live/tvs.m3u8
 
 #EXTINF:-1 tvg-id="TV6.mana2" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/113m.png", TV6
 #EXTGRP:MYTV MANA
