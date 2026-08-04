@@ -193,19 +193,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/CommonwealthLogo1.png", Komanwel 1
 #EXTGRP:MYTV MANA
-https://d30aylox5wvifh.cloudfront.net/live/media0/cg1/DASH/cg1.mpd
+#https://d30aylox5wvifh.cloudfront.net/live/media0/cg1/DASH/cg1.mpd
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/CommonwealthLogo2.png", Komanwel 2
 #EXTGRP:MYTV MANA
-https://d30aylox5wvifh.cloudfront.net/live/media0/cg2/DASH/cg2.mpd
+#https://d30aylox5wvifh.cloudfront.net/live/media0/cg2/DASH/cg2.mpd
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/CommonwealthLogo3.png", Komanwel 3
 #EXTGRP:MYTV MANA
-https://d30aylox5wvifh.cloudfront.net/live/media0/cg3/DASH/cg3.mpd
+#https://d30aylox5wvifh.cloudfront.net/live/media0/cg3/DASH/cg3.mpd
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/CommonwealthLogo4.png", Komanwel 4
 #EXTGRP:MYTV MANA
-https://d30aylox5wvifh.cloudfront.net/live/media0/cg4/DASH/cg4.mpd
+#https://d30aylox5wvifh.cloudfront.net/live/media0/cg4/DASH/cg4.mpd
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/system/FIFA-WC-1-Dolby.png", FIFA WC 1
 #EXTGRP:MYTV MANA
