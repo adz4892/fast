@@ -1747,7 +1747,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" ch-number=" " tvg-name="RTB Sukmaindera" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/195.png",RTB Sukmaindera
 #EXTGRP:Others
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8?id=2
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b1120000_sleng.m3u8?id=2
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="Others", RTB GO LIVE
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
@@ -1773,10 +1773,6 @@ https://tglmp03.akamaized.net/out/v1/a3992c3d704443c991a8586e01a4cc1c/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5e08a6933238d3fb585c00a7d95e896c":"2d55d1208eaeabcc57e3b7b92c4e9f09"}
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
-
-#EXTINF:-1, tvg-id="Bollywood.HD.distro" tvg-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/BOLLYWOOD.jpg" tvg-name="BollywooD HD",BollywooD HD
-#EXTGRP:Others
-#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/d3227daf-ea13-48c9-95a4-1619862d136e/0.m3u8
 
 #EXTINF:-1 tvg-id="MOVIES.NOW.in" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/442.png",Movies Now
 #EXTGRP:Others
