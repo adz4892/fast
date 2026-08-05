@@ -854,33 +854,31 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_primary.mpd
 ###############################################################Unifi TV################################################################
 #EXTINF:-1 group-title="Unifi TV" group-logo="https://raw.githubusercontent.com/adz4892/tv/refs/heads/main/unifitv.png",
 
-EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=530"  group-title="Unifi TV",TV3 HD
+EXTINF:-1 tvg-id="tv3" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=530" group-title="Unifi TV",TV3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
 https://get.perfecttv.net/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=TV3&kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
-#EXTINF:-1 tvg-id="didiktv" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=530" group-title="Unifi TV",NTV7
+#EXTINF:-1 tvg-id="didiktv" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=530" group-title="Unifi TV",DidikTV KPM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
 https://get.perfecttv.net/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=Didik&kid=6f9bd003-04a3-4972-a80e-5ff79aff982f
 
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="Unifi TV"  tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9C66E114-6607-4EB2-9F11-DE0F25C161EE/0-16x9.png?width=530",8TV
+#EXTINF:-1 tvg-id="8tv" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9C66E114-6607-4EB2-9F11-DE0F25C161EE/0-16x9.png?width=530" group-title="Unifi TV",8TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
 https://get.perfecttv.net/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=8TV&kid=da1cb24f-55db-4ae1-b323-19c365920539
 
-#EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="Unifi TV" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/01A5D01A-1DAE-4E0F-8003-0B570E9F474E/0-16x9.png?width=530",TV9
+#EXTINF:-1 tvg-id="tv9" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/01A5D01A-1DAE-4E0F-8003-0B570E9F474E/0-16x9.png?width=530" group-title="Unifi TV",TV9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
-#https://get.perfecttv.net/dash2.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=tv9
 #KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
 https://get.perfecttv.net/myunifi.mpd?username=vip_jtomgvsk&password=3ck0XZBg&channel=TV9&kid=eea0828c-38d7-4407-a5c3-84ad730d7224
 
