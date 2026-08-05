@@ -1747,7 +1747,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" ch-number=" " tvg-name="RTB Sukmaindera" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/195.png",RTB Sukmaindera
 #EXTGRP:Others
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8?id=2
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="Others", RTB GO LIVE
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
