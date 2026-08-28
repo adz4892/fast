@@ -924,7 +924,7 @@ https://load.ptv2026.com/rwt.m3u8?username=vip_jtomgvsk&password=3ck0XZBg&channe
 #====movies========
 
 
-#EXTINF:-1 player-buffer="2" tvg-id="hiyah" ch-number="288" tvg-name="HiYah" tvg-logo="https://ptv2026.com/logo/hiyah.png" group-title="MOVIES", Hi-Yah
+#EXTINF:-1 player-buffer="2" tvg-id="hiyah" ch-number="288" tvg-name="HiYah" tvg-logo="https://ptv2026.com/logo/hiyah.png" group-title="Perfect TV", Hi-Yah
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 
 
@@ -1981,9 +1981,6 @@ https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playli
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
-
-#EXTINF:-1 player-buffer="2" tvg-id="" ch-number="288" tvg-name="HiYah" tvg-logo="https://ptv2026.com/logo/hiyah.png" group-title="Others",Hi-Yah
-https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="auto.baby.shark.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnTqk9_I2NI_kp_DHASX6ccAEPu5he2X8-2ANe0sBsqA&s=10" group-title="Others",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
