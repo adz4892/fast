@@ -1712,11 +1712,11 @@ https://beetv.my.id/stream/vd.m3u8?ch=sctv
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://beetv.my.id/stream/vd.m3u8?ch=antv
 
-#EXTINF:-1 tvg-id="Trans 7.id"  tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="Indonesia", TRANS 7
+#EXTINF:-1 tvg-id="Trans 7.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/917.png" group-title="Indonesia", TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 http://013tv.com:8080/F33848/cbd9779b/162502
 
-#EXTINF:-1 tvg-id="Trans TV.id" tvg-logo="https://i.ibb.co.com/k3S01Fh/transtv.png" group-title="Indonesia", TRANS TV
+#EXTINF:-1 tvg-id="Trans TV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/916.png" group-title="Indonesia", TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 http://013tv.com:8080/F33848/cbd9779b/162503
 
