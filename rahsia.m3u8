@@ -82,6 +82,13 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 #EXTGRP:MYTV MANA
 https://stream2.smg.my/live/tvsplus.m3u8
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+ (test)
+#EXTGRP:MYTV MANA
+https://d2eiz814z6ai4n.cloudfront.net/smil:tvsplus/chunklist_b2756000_slmsa.m3u8?CMCD=cid%3D%22111%22%2Cot%3Dm%2Cmp-schema%3D%22Live%20Channel%22%2Csf%3Dh%2Csid%3D%225d415ab8-ad5b-431c-ab2d-ebc81da58e7c%22%2Cmp-site%3D%22TVS%20Sarawak%22%2Cst%3Dv%2Csu%2Cmp-user%3D0
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
