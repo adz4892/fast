@@ -82,13 +82,6 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 #EXTGRP:MYTV MANA
 https://stream2.smg.my/live/tvsplus.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+ (test)
-#EXTGRP:MYTV MANA
-https://d2eiz814z6ai4n.cloudfront.net/smil:tvsplus/chunklist_b2756000_slmsa.m3u8
-
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -1054,7 +1047,7 @@ https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
 #EXTINF:-1 group-title="Audio" tvg-id="Sarawak FM.rtm" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/dlarxd.png",SARAWAK FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC.aac
 
-#EXTINF:-1 group-title="Audio" tvg-id="Sarawak FM.rtm" tvg-logo="https://rtm-images.glueapi.io/420x0/radio-asset/RadioBorneo1.png",GEMA BORNEO
+#EXTINF:-1 group-title="Audio" tvg-id="Sarawak FM.rtm" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/RadioBorneo1.png",GEMA BORNEO
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BORNEOAAC.aac
 
 #EXTINF:-1 group-title="Audio" tvg-id="SURIAFM.mana2" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SURIA.jpg",SURIA
