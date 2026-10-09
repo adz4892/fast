@@ -51,7 +51,7 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Drama Sangat" tvg-name="Drama Sangat" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=150&appID=TONTON", Drama Sangat (T)
 #EXTGRP:MYTV MANA
-https://live-03.tonton.com.my/1791523969/e4403b7e0d826ed90baf1a37c3d4e7f0784fe760a46405c7886dbc44c23e5b9b/ds/04.m3u8
+https://live-03.tonton.com.my/1791528909/e0a0f5cc167ab8b4cae0626689987f0f003219a2b7afd296ffd4a27bfa3c3ea8/ds/master.m3u8
 
 #EXTINF:-1 tvg-id="Okey.rtm" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/146.png", OKEY
 #EXTGRP:MYTV MANA
