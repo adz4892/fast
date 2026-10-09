@@ -1560,6 +1560,10 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
 https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
 
+#EXTINF:-1 tvg-id="24.7.Dummy.us" ch-number=" " tvg-name="Live" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/033/003/902/small/live-icon-for-streaming-live-broadcast-blog-television-event-live-show-news-live-video-png.png",Live Event Badminton
+#EXTGRP:Others
+https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/42ef9c34-2ae5-4b11-b6dc-f3a5378a582d/HLS_ENC/stream_06/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=  :
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276318742%27&EntityType=%27Item%27&EntityId=%2797073%27&Width=488&Height=249",M Live 1
