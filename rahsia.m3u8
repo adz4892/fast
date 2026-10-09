@@ -23,7 +23,7 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", TV3 (T)
 #EXTGRP:MYTV MANA
-https://live-02.tonton.com.my/1791526462/ff4ec3c29aa659ddb0e3bf104a73e4317308e24fd94a00ac53d43db169d83308/tv3/04.m3u8
+#https://live-02.tonton.com.my/1791526462/ff4ec3c29aa659ddb0e3bf104a73e4317308e24fd94a00ac53d43db169d83308/tv3/04.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -37,14 +37,14 @@ https://live-02.tonton.com.my/1791526462/ff4ec3c29aa659ddb0e3bf104a73e4317308e24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="148.astro" tvg-name="8TV" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", 8TV (T)
 #EXTGRP:MYTV MANA
-https://live-02.tonton.com.my/1791526305/126ca98d40734891413cd1ee55905b74b8dfe4d6e7303a8f251b3e9c414b89e2/8tv/04.m3u8
+#https://live-02.tonton.com.my/1791526305/126ca98d40734891413cd1ee55905b74b8dfe4d6e7303a8f251b3e9c414b89e2/8tv/04.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=150&appID=TONTON", TV9 (T)
 #EXTGRP:MYTV MANA
-https://live-02.tonton.com.my/1791526310/20880c19d47b525052ab5c3e4cfda35a34174b3799667b00e1fddb7eed5f8260/tv9/04.m3u8
+https://cuwf8jayq1.tenbytecdn.com/live/mysport/playlist.m3u8?md5=S49Jot-Vy4kC3JTleB28cw&expires=1791517118
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
