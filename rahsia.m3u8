@@ -77,6 +77,13 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://www.tvsinspire.my/watch/tvs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TVS.mana2" tvg-logo="https://www.tvsinspire.my/_next/image?url=%2Fbranding%2Ftvs-inspire-wordmark.png&w=256&q=75" group-title="MYTV MANA", TVS
+https://live-tvs.tvsarawak.my/live/tvs.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+
 #EXTGRP:MYTV MANA
@@ -84,10 +91,17 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://www.tvsinspire.my/en/watch/tvsplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+
 #EXTGRP:MYTV MANA
-https://d2eiz814z6ai4n.cloudfront.net/smil:tvsplus/chunklist_b2756000_slmsa.m3u8?CMCD=cid%3D%22111%22%2Cot%3Dm%2Cmp-schema%3D%22Live%20Channel%22%2Csf%3Dh%2Csid%3D%225b882339-3a22-4931-b62d-69a2c1681ed3%22%2Cmp-site%3D%22TVS%20Sarawak%22%2Cst%3Dv%2Csu%2Cmp-user%3D0
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=150&appID=TONTON", Drama Sangat (test)
+#EXTGRP:MYTV MANA
+https://live-03.tonton.com.my/1791523969/e4403b7e0d826ed90baf1a37c3d4e7f0784fe760a46405c7886dbc44c23e5b9b/ds/04.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
