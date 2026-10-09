@@ -23,7 +23,7 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", TV3 (T)
 #EXTGRP:MYTV MANA
-#https://live-02.tonton.com.my/1791526462/ff4ec3c29aa659ddb0e3bf104a73e4317308e24fd94a00ac53d43db169d83308/tv3/04.m3u8
+https://live-ssar-02.tonton.com.my/tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a0201685a5b17521fbd&did=c21dac8e-f245-e411-b0cb-4917c4f9fd64&dnt=0&ifatype=sessionid&plt=web&lot_auds=&ttd_uid2=A4AAAEiTM52NNjORAYAZvfvf8f_nf9XcVeh05t_h1fIlxsifA5mC1d9XPsixMf0KKuuJYcLwBj5-u6ORRYqObmyikmqc8HNWxNNwNPGTBGcEGziN9tZNzcjVnqgh1ZqpJhVDkqCRvJHbhfAhBuKydvmebXSDhvx4r9kH5g0iv0zOUhY4Yl32S1-5Lg85sUtEMAZ2_kFdkmvvEguUIEN3QG0tVw&exp=1791528994&hmac=0x0b4757db0f856ef9fd2be4828b92387d61733277737ccee61f93854f58645639
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
