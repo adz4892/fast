@@ -49,13 +49,6 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="kool-fm" tvg-name="MySports" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/f87690b6-e679-403f-b37a-c52a29f4db5f/poster.png", MYSPORTS
-#EXTGRP:MYTV MANA
-https://cuwf8jayq1.tenbytecdn.com/live/mysport/playlist.m3u8?md5=S49Jot-Vy4kC3JTleB28cw&expires=1791517118
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Drama Sangat" tvg-name="Drama Sangat" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=150&appID=TONTON", Drama Sangat (T)
 #EXTGRP:MYTV MANA
 https://live-03.tonton.com.my/1791523969/e4403b7e0d826ed90baf1a37c3d4e7f0784fe760a46405c7886dbc44c23e5b9b/ds/04.m3u8
@@ -119,10 +112,17 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="kool-fm" tvg-name="MySports" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/f87690b6-e679-403f-b37a-c52a29f4db5f/poster.png", MYSPORTS
+#EXTGRP:MYTV MANA
+https://cuwf8jayq1.tenbytecdn.com/live/mysport/playlist.m3u8?md5=S49Jot-Vy4kC3JTleB28cw&expires=1791517118
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://www.tvsinspire.my/watch/tvs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TVS.mana2" tvg-logo="https://www.tvsinspire.my/_next/image?url=%2Fbranding%2Ftvs-inspire-wordmark.png&w=256&q=75" group-title="MYTV MANA", TVS
-https://live-tvs.tvsarawak.my/live/tvs.m3u8
+#https://live-tvs.tvsarawak.my/live/tvs.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -137,7 +137,7 @@ https://live-tvs.tvsarawak.my/live/tvs.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+
 #EXTGRP:MYTV MANA
-https://cuwf8jayq1.tenbytecdn.com/abr-drm/tvs/playlist.m3u8?md5=J4zQ_C3OMazmBqEXtZS4Gg&expires=1791517608
+#https://cuwf8jayq1.tenbytecdn.com/abr-drm/tvs/playlist.m3u8?md5=J4zQ_C3OMazmBqEXtZS4Gg&expires=1791517608
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
