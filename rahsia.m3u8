@@ -1127,7 +1127,7 @@ https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
 #EXTINF:-1 group-title="Audio" tvg-id="Sarawak FM.rtm" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/dlarxd.png",SARAWAK FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC.aac
 
-#EXTINF:-1 group-title="Audio" tvg-id="bernama-radio" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/RadioBorneo1.png",GEMA BORNEO
+#EXTINF:-1 group-title="Audio" tvg-id="bernama-radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2WkeKQYh0LDAC8v3UJnNxOQgwq7jddF2hRdzobPCF5tUuDNLslYGCig4&s=10",GEMA BORNEO
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BORNEOAAC.aac
 
 #EXTINF:-1 group-title="Audio" tvg-id="suria-fm" tvg-logo="https://raw.githubusercontent.com/adz4892/radio/refs/heads/main/SURIA.jpg",SURIA
