@@ -119,6 +119,20 @@ https://cuwf8jayq1.tenbytecdn.com/live/mysport/playlist.m3u8?md5=S49Jot-Vy4kC3JT
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="kool-fm" tvg-name="USIMtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXh1uijf7osgKeVNsOnu7XC3zCfL6q7cnkTFqzpY3Rg&s", USIM TV
+#EXTGRP:MYTV MANA
+https://cuwf8jayq1.tenbytecdn.com/live/usimtv/playlist.m3u8?md5=7Nh5YAp_rgrfUyOD0nLSKw&expires=1791517980
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="siaratv" tvg-name="siaratv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_27AMiClyktKIolZYBY-T2C-l5MLI0rNDtYxG9De-w&s=10", SIARA TV
+#EXTGRP:MYTV MANA
+https://cuwf8jayq1.tenbytecdn.com/live/siaratv/playlist.m3u8?md5=7ygYiSTxvQRH6P9s-H-ayw&expires=1791518156
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://www.tvsinspire.my/watch/tvs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TVS.mana2" tvg-logo="https://www.tvsinspire.my/_next/image?url=%2Fbranding%2Ftvs-inspire-wordmark.png&w=256&q=75" group-title="MYTV MANA", TVS
