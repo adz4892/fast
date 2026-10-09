@@ -21,9 +21,30 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="103.astro" tvg-name="TV9" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", TV3 (T)
+#EXTGRP:MYTV MANA
+https://live-ssar-02.tonton.com.my/1791523867/d62aa987acd8352a2684b3650b15a93544c7019167cfcdccb6ef60e4ea42f5a8/tv3/04.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="147.astro" tvg-name="TV9" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", DIDIKTV (T)
+#EXTGRP:MYTV MANA
+https://live-ssar-02.tonton.com.my/1791525338/ff1b42fd34d1d794e58dbf3b15bc4b20c48e572b7c444aac79cf24b5ec530b40/ntv7/04.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="147.astro" tvg-name="TV9" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON", 8TV (T)
+#EXTGRP:MYTV MANA
+https://live-ssar-02.tonton.com.my/1791525968/1205f1395653ce5b48ff419ccc945105abdc9a3a2287fa20a1ac0832726cb227/8tv/01.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=150&appID=TONTON", TV9 (T)
 #EXTGRP:MYTV MANA
-https://live-03.tonton.com.my/1791524196/5f8088407d065bef2cf376d814dfb1b7d7d7729d2b8a8aa58077ed78a9e48a8f/ds/01.m3u8
+https://live-ssar-02.tonton.com.my/1791525343/719e73cbf8bd1153468513826f855429ebf39dd4f4db1add02d4d7431399aa0b/tv9/04.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
