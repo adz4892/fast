@@ -18,6 +18,20 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/DASH/tv1.mpd
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=150&appID=TONTON", TV9 (T)
+#EXTGRP:MYTV MANA
+https://live-03.tonton.com.my/1791523969/e4403b7e0d826ed90baf1a37c3d4e7f0784fe760a46405c7886dbc44c23e5b9b/ds/04.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=150&appID=TONTON", Drama Sangat (T)
+#EXTGRP:MYTV MANA
+https://live-03.tonton.com.my/1791523969/e4403b7e0d826ed90baf1a37c3d4e7f0784fe760a46405c7886dbc44c23e5b9b/ds/04.m3u8
+
 #EXTINF:-1 tvg-id="Okey.rtm" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/146.png", OKEY
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
@@ -95,13 +109,6 @@ https://live-tvs.tvsarawak.my/live/tvs.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+
 #EXTGRP:MYTV MANA
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=150&appID=TONTON", Drama Sangat (test)
-#EXTGRP:MYTV MANA
-https://live-03.tonton.com.my/1791523969/e4403b7e0d826ed90baf1a37c3d4e7f0784fe760a46405c7886dbc44c23e5b9b/ds/04.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
