@@ -113,21 +113,21 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="kool-fm" tvg-name="MySports" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/f87690b6-e679-403f-b37a-c52a29f4db5f/poster.png", MYSPORTS
+#EXTINF:-1 tvg-id="mysport" tvg-name="MySports" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/f87690b6-e679-403f-b37a-c52a29f4db5f/poster.png", MYSPORTS
 #EXTGRP:MYTV MANA
 https://cuwf8jayq1.tenbytecdn.com/live/mysport/playlist.m3u8?md5=S49Jot-Vy4kC3JTleB28cw&expires=1791517118
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="kool-fm" tvg-name="USIMtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXh1uijf7osgKeVNsOnu7XC3zCfL6q7cnkTFqzpY3Rg&s", USIM TV
+#EXTINF:-1 tvg-id="usim-tv" tvg-name="USIMtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXh1uijf7osgKeVNsOnu7XC3zCfL6q7cnkTFqzpY3Rg&s", USIM TV
 #EXTGRP:MYTV MANA
 https://cuwf8jayq1.tenbytecdn.com/live/usimtv/playlist.m3u8?md5=7Nh5YAp_rgrfUyOD0nLSKw&expires=1791517980
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="siaratv" tvg-name="siaratv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_27AMiClyktKIolZYBY-T2C-l5MLI0rNDtYxG9De-w&s=10", SIARA TV
+#EXTINF:-1 tvg-id="siara-tv" tvg-name="siaratv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_27AMiClyktKIolZYBY-T2C-l5MLI0rNDtYxG9De-w&s=10", SIARA TV
 #EXTGRP:MYTV MANA
 https://cuwf8jayq1.tenbytecdn.com/live/siaratv/playlist.m3u8?md5=7ygYiSTxvQRH6P9s-H-ayw&expires=1791518156
 
