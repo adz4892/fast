@@ -70,9 +70,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF:-1 tvg-id="RTM World.rtm" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/worldrtm.png", RTM World
 #EXTGRP:MYTV MANA
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/world/DASH/world.mpd
+
+#EXTINF:-1 tvg-id="RTM World.rtm" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/worldrtm.png", RTM World
+#EXTGRP:MYTV MANA
+#https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+#https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8
+#https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 
 #EXTINF:-1 tvg-id="TVIKIM.mana2" tvg-name="TV Ikim" tvg-country="MY" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/151.png", TV Ikim
 #EXTGRP:MYTV MANA
