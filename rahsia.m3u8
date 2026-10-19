@@ -77,11 +77,6 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/world/DASH/world.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d30aylox5wvifh.cloudfront.net/smil:ag1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="RTM" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/6cb8b5c0-b4bc-4fa2-9f34-57efa0ea9cfe/logo.png", MANISFM
-#EXTGRP:MYTV MANA
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://cuwf8jayq1.tenbytecdn.com/radio/manisfm/playlist.m3u8?md5=-4mzQAqlpkKFGmGPpguH3g&expires=1792393854
-
 #EXTINF:-1 tvg-id="RTM World.rtm" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/worldrtm.png", RTM World
 #EXTGRP:MYTV MANA
 #https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
@@ -96,52 +91,52 @@ https://cuwf8jayq1.tenbytecdn.com/radio/manisfm/playlist.m3u8?md5=-4mzQAqlpkKFGm
 #EXTGRP:MYTV MANA
 https://dedm91s0p00ib.cloudfront.net/smil:selangor/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ROLL.rtm" tvg-name="RTM Roll" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/145.png", Roll
+#EXTINF:-1 tvg-id="ROLL.rtm" tvg-name="RTM Roll" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/ROLL.png", Roll
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=24095
 
-#EXTINF:-1 tvg-id="Snap.rtm" tvg-name="RTM Snap" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/147.png", Snap
+#EXTINF:-1 tvg-id="Snap.rtm" tvg-name="RTM Snap" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/SNAP%20MALAY.png", Snap
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.m3u8?id=24099
 
-#EXTINF:-1 tvg-id="Apetito.rtm" tvg-name="RTM Apetito" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/141.png", Apetito
+#EXTINF:-1 tvg-id="Apetito.rtm" tvg-name="RTM Apetito" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/APETTO.png", Apetito
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/playlist.m3u8?id=24100
 
-#EXTINF:-1 tvg-id="Lead.rtm" tvg-name="RTM Lead" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/148.png", Lead
+#EXTINF:-1 tvg-id="Lead.rtm" tvg-name="RTM Lead" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/LEAD.png", Lead
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8?id=24101
 
-#EXTINF:-1 tvg-id="Aura.rtm" tvg-name="RTM Aura" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/142.png", Aura
+#EXTINF:-1 tvg-id="Aura.rtm" tvg-name="RTM Aura" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/AURA.png", Aura
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 
-#EXTINF:-1 tvg-id="Fitrah.rtm" tvg-name="RTM Fitrah" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/143.png", Fitrah
+#EXTINF:-1 tvg-id="Fitrah.rtm" tvg-name="RTM Fitrah" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/FITRAH.png", Fitrah
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=24103
 
-#EXTINF:-1 tvg-id="JR..rtm" tvg-name="RTM JR." tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/144.png", JR.
+#EXTINF:-1 tvg-id="JR..rtm" tvg-name="RTM JR." tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/JR..png", JR.
 #EXTGRP:MYTV MANA
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="mysport" tvg-name="MySports" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/f87690b6-e679-403f-b37a-c52a29f4db5f/poster.png", MYSPORTS
+#EXTINF:-1 tvg-id="mysport" tvg-name="MySports" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/MYSPORTS.png", MYSPORTS
 #EXTGRP:MYTV MANA
 https://cuwf8jayq1.tenbytecdn.com/live/mysport/playlist.m3u8?md5=S49Jot-Vy4kC3JTleB28cw&expires=1791517118
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="usim-tv" tvg-name="USIMtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXh1uijf7osgKeVNsOnu7XC3zCfL6q7cnkTFqzpY3Rg&s", USIM TV
+#EXTINF:-1 tvg-id="usim-tv" tvg-name="USIMtv" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/USIMTV.png", USIM TV
 #EXTGRP:MYTV MANA
 https://cuwf8jayq1.tenbytecdn.com/live/usimtv/playlist.m3u8?md5=7Nh5YAp_rgrfUyOD0nLSKw&expires=1791517980
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="siara-tv" tvg-name="siaratv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_27AMiClyktKIolZYBY-T2C-l5MLI0rNDtYxG9De-w&s=10", SIARA TV
+#EXTINF:-1 tvg-id="siara-tv" tvg-name="siaratv" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/SIARATV.png", SIARA TV
 #EXTGRP:MYTV MANA
 https://cuwf8jayq1.tenbytecdn.com/live/siaratv/playlist.m3u8?md5=7ygYiSTxvQRH6P9s-H-ayw&expires=1791518156
 
