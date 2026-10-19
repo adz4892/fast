@@ -77,7 +77,7 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/world/DASH/world.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d30aylox5wvifh.cloudfront.net/smil:ag1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="RTM" tvg-logo="https://www.anugerahseriangkasa.gov.my/wp-content/uploads/2026/04/logo-asa-2026.png", manisfm
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="RTM" tvg-logo="https://www.anugerahseriangkasa.gov.my/wp-content/uploads/2026/04/logo-asa-2026.png", MANISFM
 #EXTGRP:MYTV MANA
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://cuwf8jayq1.tenbytecdn.com/radio/manisfm/playlist.mpd
