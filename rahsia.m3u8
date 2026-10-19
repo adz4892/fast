@@ -235,6 +235,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 https://mvts.live/zes-prima
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
+#EXTINF:-1 tvg-id="astro316" group-title="astro one" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima (B)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://linears2-playback.astro.com.my/vsg/418roZ9Lems5qCKdepdqGq-9vVZKZU6aK_Irfvj4DpGg4=gLfj/dash-wv/jitp-linearwm/1000/default_primary.mpd
+https://mt02.aa.astro.com.my/default_ott.mpd
+
 #EXTINF:-1 tvg-id="astro315" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png" ,106 Astro Oasis
 #EXTGRP:astro one
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -496,8 +504,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
 #EXTINF:-1 tvg-id="astro603" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFAMTime_2026.png", 412 Astro FAM Time
 #EXTGRP:astro one
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5186/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wzb9fIuxjRe_Y8nkYDKo7Q","kid":"B_pqn3_ngGu6mw6X0KxbEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0.2171.93 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro454" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png", 413 Astro Showcase
@@ -1434,6 +1442,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="24.7.Dummy.us" ch-number=" " tvg-name="RTB Sukmaindera" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/195.png",RTB Sukmaindera
 #EXTGRP:Others
 #https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/SHEMAROO%20BOLLYWOOD.png" group-title="Others",SHEMAROO BOLLYWOOD
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" ch-number=" " tvg-name="RTB Sukmaindera" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/195.png",RTB Sukmaindera
 #EXTGRP:Others
