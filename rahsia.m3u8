@@ -1117,19 +1117,19 @@ https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 tvg-id="JomNgaji" group-title="Sooka" ch-number="130" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/130.png", Jom Ngaji
 https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd
 
-#EXTINF:-1 tvg-id="901.astro" group-title="Sooka" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-64px,h-64px,q-80,f-webp/https://d1kuznfi1q1kpt.cloudfront.net/biz/media/2026-06/astro-biz-logo.png",901 Lifestyle
+#EXTINF:-1 tvg-id="901.astro" group-title="Sooka" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/Lifestyle.png",Lifestyle
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_10/dash.mpd
 
-#EXTINF:-1 tvg-id="902.astro" group-title="Sooka" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-64px,h-64px,q-80,f-webp/https://d1kuznfi1q1kpt.cloudfront.net/biz/media/2026-06/astro-biz-logo.png",902 Local
+#EXTINF:-1 tvg-id="902.astro" group-title="Sooka" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/Local.png",Local
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_9/dash.mpd
 
-#EXTINF:-1 tvg-id="903.astro" group-title="Sooka" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-64px,h-64px,q-80,f-webp/https://d1kuznfi1q1kpt.cloudfront.net/biz/media/2026-06/astro-biz-logo.png",903 Asian
+#EXTINF:-1 tvg-id="903.astro" group-title="Sooka" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/Asian.png",Asian
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_8/dash.mpd
 
-#EXTINF:-1 tvg-id="904.astro" group-title="Sooka" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-64px,h-64px,q-80,f-webp/https://d1kuznfi1q1kpt.cloudfront.net/biz/media/2026-06/astro-biz-logo.png",904 Movies
+#EXTINF:-1 tvg-id="904.astro" group-title="Sooka" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/Movies.png",Movies
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_11/dash.mpd
 
@@ -1436,6 +1436,13 @@ https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.m
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/sulthanpamenan/IPTV_Master/main/Logos/Kids/Oktolidays.png" group-title="Others",Oktolidays
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd|clearkey=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
+
 #EXTINF:-1 tvg-id="24.7.Dummy.us" ch-number=" " tvg-name="Live" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/033/003/902/small/live-icon-for-streaming-live-broadcast-blog-television-event-live-show-news-live-video-png.png",Live Event Badminton
 #EXTGRP:Others
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/42ef9c34-2ae5-4b11-b6dc-f3a5378a582d/HLS_ENC/stream_06/index.m3u8
@@ -1600,6 +1607,17 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6666006923928981117_darknow/AGG_SOURCE/600/208?proposition=NBCUOTT&territory=US" group-title="Others" channel-id="DE4000002I3" tvg-id="Moviesphere by Lionsgate" , Moviesphere by Lionsgate
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/sulthanpamenan/IPTV_Master/main/Logos/Competition%20Reality/Hell's%20Kitchen.png" group-title="Others",Hell's Kitchen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36&Origin=https://tv.garden&Referer=https://tv.garden/
+https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36&Origin=https://tv.garden&Referer=https://tv.garden/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/sulthanpamenan/IPTV_Master/main/Logos/History%20+%20Science/World%20War%20TV.png" group-title="Others",World War TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36&Origin=https://tv.garden&Referer=https://tv.garden/
+https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36&Origin=https://tv.garden&Referer=https://tv.garden/
 
 
 
