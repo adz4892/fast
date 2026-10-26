@@ -1558,13 +1558,13 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6666006923928981117_darknow/AGG_SOURCE/600/208?proposition=NBCUOTT&territory=US" group-title="Others" channel-id="DE4000002I3" tvg-id="Moviesphere by Lionsgate" , Moviesphere by Lionsgate
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/sulthanpamenan/IPTV_Master/main/Logos/Competition%20Reality/Hell's%20Kitchen.png" group-title="Others",Hell's Kitchen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/971.png" group-title="Others",Hell's Kitchen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36&Origin=https://tv.garden&Referer=https://tv.garden/
 https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36&Origin=https://tv.garden&Referer=https://tv.garden/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/sulthanpamenan/IPTV_Master/main/Logos/History%20+%20Science/World%20War%20TV.png" group-title="Others",World War TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/970.png" group-title="Others",World War TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36&Origin=https://tv.garden&Referer=https://tv.garden/
