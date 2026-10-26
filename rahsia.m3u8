@@ -1174,18 +1174,6 @@ ________________________________SD___________________________________
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=056
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="Indonesia",TransTV (V+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=006
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="Indonesia",Trans7 (V+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=007
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Indonesia",Indosiar (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1219,7 +1207,7 @@ https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/in
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=rcti
+https://rplus.inisemar.my.id/rcti.m3u
 
 #EXTINF:-1 tvg-id="MNCTV.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/913.png" group-title="Indonesia",MNC TV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -1227,7 +1215,7 @@ https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=rcti
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=mnctv
+https://rplus.inisemar.my.id/mnctv.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/915.png" group-title="Indonesia",GTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -1235,18 +1223,7 @@ https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=mnctv
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=gtv
-
-#EXTINF:-1 tvg-id="MNCTV.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/913.png" group-title="Indonesia",MNC TV (R+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/918.png" group-title="Indonesia",RCTI (R+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+https://rplus.inisemar.my.id/gtv.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="Indonesia",TransTV
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
@@ -1264,43 +1241,25 @@ https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-#https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-#http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
-https://beetv.my.id/stream/vd.m3u8?ch=indosiar
+http://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia" ,SCTV (Vidio)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
-#http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
-https://beetv.my.id/stream/vd.m3u8?ch=sctv
-
-#EXTINF:-1 group-title="Indonesia" tvg-name="ANTV" tvg-logo="https://object-streamo.emonaja.com/img/antv.png", ANTV (Vidio)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#https://beetv.my.id/stream/vd.m3u8?ch=antv
-
-#EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/917.png" group-title="Indonesia", TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-http://013tv.com:8080/F33848/cbd9779b/162502
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/916.png" group-title="Indonesia", TRANS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-http://013tv.com:8080/F33848/cbd9779b/162503
+http://tvratu.my.id/vid/index.mpd?id=204&type=dash
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/917.png" group-title="Indonesia",Trans7
-#https://video.detik.com/trans7/smil:trans7.smil/chunklist_w127267210_b744100_sleng.m3u8
+https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/916.png" group-title="Indonesia",TransTV
-#https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8
+https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/rtv.png" group-title="Indonesia",Rajawali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1394,7 +1353,7 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=206
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
 #EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/920.png" group-title="Indonesia",RTV
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 #EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://object-streamo.emonaja.com/img/rtv.png" group-title="Indonesia",Rajawali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1406,14 +1365,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 #EXTVLCOPT:http-referrer=https://cdn.siar.us/
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/959.png" group-title="Indonesia",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/911.png" group-title="Indonesia",SCTV
-https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="Indonesia" ,TV9 Nu
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
