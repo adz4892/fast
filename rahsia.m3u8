@@ -85,7 +85,7 @@ https://d30aylox5wvifh.cloudfront.net/smil:ag1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVIKIM.mana2" tvg-name="TV Ikim" tvg-country="MY" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/151.png", TV Ikim
 #EXTGRP:MYTV MANA
-#https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+https://d2erojrnrpvv8s.cloudfront.net/assets/35f6a2e1-794c-4c90-b6eb-6e374f9b4fda/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="SELANGORTV.mana2" tvg-name="Selangor TV" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/189.png", Selangor TV
 #EXTGRP:MYTV MANA
