@@ -1174,14 +1174,14 @@ ________________________________SD___________________________________
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=056
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
-#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia",Indosiar (V+)
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia",Indosiar (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
-#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia",SCTV (V+)
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia",SCTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1255,7 +1255,6 @@ https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100
 
 #EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/905.png" group-title="Indonesia",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/903.png" group-title="Indonesia",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
