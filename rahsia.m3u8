@@ -57,6 +57,14 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
 
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://t3.ftcdn.net/jpg/09/65/00/32/360_F_965003211_5kFkgnZqmEKpIZ3ALIE2JCVqS8K3aaY8.jpg" tvg-name=",LIVE MAKKAH
+#EXTGRP:MYTV MANA
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://www.freepnglogos.com/uploads/masjid-png/png-masjid-nabawi-transparent-masjid-nabawi-images-28.png" tvg-name=",LIVE MADINAH
+#EXTGRP:MYTV MANA
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
+
 #EXTINF:-1 tvg-id="Sukan RTM.rtm"  ch-number="111" tvg-name="SUKAN RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/124m.png", Sukan+
 #EXTGRP:MYTV MANA
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
