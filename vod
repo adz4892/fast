@@ -4,6 +4,13 @@
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=3dfcc88385d2dd7ce2e2a69e05646d10:9591125780282db23b880d7b88b82638
+#EXTINF:-1 tvg-logo="https://cdn.mingguanwanita.my/2026/11/MW-Feature-Image-8-696x385.png.webp" group-title="GV" tvg-id="NULL", GV Fantasia EP01
+https://vodc.dp.sooka.my/ecf88f72b45eafb007a08e3559e593c0-665b2ad2e645d5836a1f-1/ecf88f72b45eafb007a08e3559e593c0-665b2ad2e645d5836a1f-1/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=3dfcc88385d2dd7ce2e2a69e05646d10:9591125780282db23b880d7b88b82638
 #EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FZBPQ_p_IVP_PORT_390x585_34939_2024313_165852.jpg" group-title="P. RAMLEE" tvg-id="NULL", Ahmad Albab
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e4a0b502-49cf-513c-abf3-a63f84d67df4/default_dash.mpd
 
