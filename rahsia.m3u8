@@ -1539,6 +1539,26 @@ https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8|User-Agent=Mozilla/5.0 (
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36&Origin=https://tv.garden&Referer=https://tv.garden/
 https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36&Origin=https://tv.garden&Referer=https://tv.garden/
 
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://linear-poster.astro.com.my/prod/logo/LoveNature_HD.png",Love Nature
+#EXTGRP:Others
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgzG0zYo53Po9rQEgHOPqUIHs3eDFFAnc7tKt7bR0wNJWR6iMpq4kbeSo&s=10",Real Wild
+#EXTGRP:Others
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://www.wired2fish.com/wp-content/uploads/2024/10/logo-wired2fish.png",Wired 2 Fish
+#EXTGRP:Others
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/motogp.png",MotoGP
+#EXTGRP:Others
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
 
 
