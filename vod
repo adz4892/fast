@@ -1,11 +1,32 @@
 #EXTM3U: refresh="301" billed-msg="📺 Video On Demand Library"
 
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/0x0/movie/SETINGGAN_THUMBNAIL.jpg" group-title="RTM",Setinggan (1981)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://sooka.my/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=3dfcc88385d2dd7ce2e2a69e05646d10:9591125780282db23b880d7b88b82638
-#EXTINF:-1 tvg-logo="https://cdn.mingguanwanita.my/2026/11/MW-Feature-Image-8-696x385.png.webp" group-title="GV" tvg-id="NULL", GV Fantasia EP01
-https://vodc.dp.sooka.my/ecf88f72b45eafb007a08e3559e593c0-665b2ad2e645d5836a1f-1/ecf88f72b45eafb007a08e3559e593c0-665b2ad2e645d5836a1f-1/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/50272a55-9347-4b9e-9e08-aa39291e84e3/SETINGGAN-EP1.m3u8?id=37707
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/0x0/movie/MAIN-MAIN-HANTU_THUMB.jpg" group-title="RTM",Main-Main Hantu (1990)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/64bc51e5-28b3-4c87-a31b-ded994597c15/MainMainCintaRTMKLIK20251021.m3u8?id=29732
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/0x0/movie/ZOMBI-KAMPUNG-PISANG-THUMB.jpg" group-title="RTM",Zombi Kampung Pisang (2007)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/f7bf2bb4-3b4f-4910-bd0b-9d25ab0b7966/ZombiKampungPisangRTM20251021.m3u8?id=29731
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/0x0/movie/adaapacinta.jpg" group-title="RTM",Ada Apa Dengan Cinta? (2002)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/14230623-c321-4fa5-90c4-3869fb65c58f/AdaApaDenganCintaRTMKLIKV2.m3u8?id=29951
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
