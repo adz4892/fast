@@ -244,6 +244,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
+###http://46.38.157.60:19890/trams/2925/playlist.m3u8?token=passwd
 http://iptv12k.com:35461/m260807962950028/111111/13636
 
 #EXTINF:-1 tvg-id="astro193" group-title="astro one" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",Ria HD 2
