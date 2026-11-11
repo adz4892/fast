@@ -120,7 +120,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/tvalhijrah/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/abr-drm/tvs/playlist.m3u8?md5=PAtbQ9ePJQ32NGL4ki1Xcw&expires=1794375158
+#https://cuwf8jayq1.tenbytecdn.com/abr-drm/tvs/playlist.m3u8?md5=PAtbQ9ePJQ32NGL4ki1Xcw&expires=1794375158
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+
 #EXTGRP:MYTV MANA
