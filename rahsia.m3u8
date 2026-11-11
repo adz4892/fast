@@ -12,7 +12,7 @@
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/DASH/tv1.mpd
 
-#EXTINF:-1 tvg-id="101.ManaTV" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1
+#EXTINF:-1 tvg-id="tv1" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
 #EXTVLCOPT:network-caching=12000
@@ -31,7 +31,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/tv1/playlist.m3u8
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd
 
-#EXTINF:-1 tvg-id="102.ManaTV" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
+#EXTINF:-1 tvg-id="tv2" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
 #EXTVLCOPT:network-caching=12000
@@ -83,7 +83,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/tv2/playlist.m3u8
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
 
-#EXTINF:-1 tvg-id="110.ManaTV" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/146.png",TV Okey
+#EXTINF:-1 tvg-id="tv-okey" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/146.png",TV Okey
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
 #EXTVLCOPT:network-caching=12000
@@ -96,7 +96,7 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cuwf8jayq1.tenbytecdn.com/live/tvokey/playlist.m3u8
 
-#EXTINF:-1 tvg-id="114.ManaTV" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV Alhijrah
+#EXTINF:-1 tvg-id="tv-alhijrah" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV Alhijrah
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
 #EXTVLCOPT:network-caching=12000
@@ -109,13 +109,13 @@ https://cuwf8jayq1.tenbytecdn.com/live/tvokey/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cuwf8jayq1.tenbytecdn.com/live/tvalhijrah/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://img.magnific.com/free-vector/realistic-islamic-pilgrimage_23-2148555081.jpg?semt=ais_hybrid&w=740&q=80" tvg-name=",LIVE MAKKAH
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+
 #EXTGRP:MYTV MANA
-http://m.live.net.sa:1935/live/quran/gmswf.m3u8
-
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://www.freepnglogos.com/uploads/masjid-png/png-masjid-nabawi-transparent-masjid-nabawi-images-28.png" tvg-name=",LIVE MADINAH
-#EXTGRP:MYTV MANA
-http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-referrer=https://www.tvsarawak.my/
+#EXTVLCOPT:http-origin=https://www.tvsarawak.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0
+https://d2eiz814z6ai4n.cloudfront.net/smil:tvsplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sukan RTM.rtm"  ch-number="111" tvg-name="SUKAN RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/124m.png", Sukan+
 #EXTGRP:MYTV MANA
@@ -123,165 +123,7 @@ http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd 
 
-#EXTINF:-1 tvg-id="Berita RTM.rtm" ch-number="123" tvg-name="BERITA RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/123m.png", RTM Berita
-#EXTGRP:MYTV MANA
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-
-#EXTINF:-1 tvg-id="123.ManaTV" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/123m.png",Berita RTM
-#EXTVLCOPT:http-origin=https://mana2.my
-#EXTVLCOPT:http-referrer=https://mana2.my/
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/live/beritartm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="502.Astro" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png",Bernama TV
-#EXTVLCOPT:http-origin=https://mana2.my
-#EXTVLCOPT:http-referrer=https://mana2.my/
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/live/bernama/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTM World.rtm" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/RTMWorld.png", RTM World
-#EXTGRP:MYTV MANA
-https://d25tgymtnqzu8s.cloudfront.net/live/media0/world/DASH/world.mpd
-
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/motogp.png", MotoGP
-#EXTGRP:MYTV MANA
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d30aylox5wvifh.cloudfront.net/smil:ag1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTM World.rtm" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/worldrtm.png", RTM World
-#EXTGRP:MYTV MANA
-#https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-#https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8
-#https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
-
-#EXTINF:-1 tvg-id="TVIKIM.mana2" tvg-name="TV Ikim" tvg-country="MY" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/151.png", TV Ikim
-#EXTGRP:MYTV MANA
-https://d2erojrnrpvv8s.cloudfront.net/assets/35f6a2e1-794c-4c90-b6eb-6e374f9b4fda/hls/master.m3u8
-
-#EXTINF:-1 tvg-id="SELANGORTV.mana2" tvg-name="Selangor TV" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/189.png", Selangor TV
-#EXTGRP:MYTV MANA
-https://dedm91s0p00ib.cloudfront.net/smil:selangor/playlist.m3u8
-
-#EXTINF:-1 tvg-id="222.ManaTV" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/RT.png",Russia Today (RT)
-#EXTVLCOPT:http-origin=https://mana2.my
-#EXTVLCOPT:http-referrer=https://mana2.my/
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/live/rti/playlist.m3u8
-
-#EXTINF:-1 tvg-id="612.Unifi" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/euronews.png" group-title="MYTV MANA",Euronews
-#EXTVLCOPT:http-origin=https://mana2.my
-#EXTVLCOPT:http-referrer=https://mana2.my/
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/live/euronews/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Taiwan.Plus.in" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/taiwanplus.png",TaiwanPlus
-#EXTVLCOPT:http-origin=https://mana2.my
-#EXTVLCOPT:http-referrer=https://mana2.my/
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/live/xtaiwanplus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="216.ManaTV" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png",Al-Jazeera English
-#EXTVLCOPT:http-origin=https://mana2.my
-#EXTVLCOPT:http-referrer=https://mana2.my/
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/abr/aljazeeraenglishhd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="215.ManaTV" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png",Channel News Asia
-#EXTVLCOPT:http-origin=https://mana2.my
-#EXTVLCOPT:http-referrer=https://mana2.my/
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/live/cna/playlist.m3u8
-
-#EXTINF:-1 tvg-id="220.ManaTV" group-title="MYTV MANA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=272",NHK World Japan
-#EXTVLCOPT:http-origin=https://mana2.my
-#EXTVLCOPT:http-referrer=https://mana2.my/
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/live/nhkworld/playlist.m3u8
-
-#EXTINF:-1 tvg-id="40.Sooka" group-title="MYTV MANA" tvg-logo="https://aqfadtv.xyz/logos/FreeMovies.png",Free Movies
-#EXTVLCOPT:http-origin=https://mana2.my
-#EXTVLCOPT:http-referrer=https://mana2.my/
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/live/freemovies/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DROPBEATERZ.PREVIEW" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="MYTV MANA",The Indonesia Channel
-#EXTVLCOPT:http-origin=https://mana2.my
-#EXTVLCOPT:http-referrer=https://mana2.my/
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/live/theindonesiachannel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="4.RTMKlik" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sukan_RTM_TVGuide.png" group-title="MYTV MANA",RTM Sukan+
+#EXTINF:-1 tvg-id="sukan-rtm" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sukan_RTM_TVGuide.png" group-title="MYTV MANA",RTM Sukan+
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
 #EXTVLCOPT:network-caching=12000
@@ -294,7 +136,231 @@ https://cuwf8jayq1.tenbytecdn.com/live/theindonesiachannel/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://0pnspbp7iq.tenbytecdn.com/live/sukanrtm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="228.ManaTV" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/MYSPORTS.png" group-title="MYTV MANA",MYSPORTS
+#EXTINF:-1 tvg-id="Berita RTM.rtm" ch-number="123" tvg-name="BERITA RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/123m.png", RTM Berita
+#EXTGRP:MYTV MANA
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#EXTINF:-1 tvg-id="berita-rtm" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/123m.png",Berita RTM
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/beritartm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="siara-tv" tvg-name="siaratv" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/SIARATV.png",Siara TV
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/siaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="usim-tv" tvg-name="USIMtv" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/USIMTV.png", USIM TV
+#EXTGRP:MYTV MANA
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/usimtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bernama" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png",Bernama TV
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/bernama/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="RTM World.rtm" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/RTMWorld.png", RTM World
+#EXTGRP:MYTV MANA
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/world/DASH/world.mpd
+
+#EXTINF:-1 tvg-id="live.rtm" ch-number="" tvg-name="RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/motogp.png", MotoGP
+#EXTGRP:MYTV MANA
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d30aylox5wvifh.cloudfront.net/smil:ag1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTM World.rtm" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/worldrtm.png", RTM World
+#EXTGRP:MYTV MANA
+#https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+#https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8
+#https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
+
+#EXTINF:-1 tvg-id="tv-ikim" tvg-name="TV Ikim" tvg-country="MY" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/151.png", TV Ikim
+#EXTGRP:MYTV MANA
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/tvikim/playlist.m3u8
+
+#EXTINF:-1 tvg-id="borneo-tv" tvg-name="BorneoTV" tvg-country="MY" tvg-logo="https://admin.borneotv.my/storage/logos/7AKzEfmK037MU6LJV2HsDehBdhLGCOxsgl0XFfLg.jpg", Borneo TV
+#EXTGRP:MYTV MANA
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/borneotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="selangor-tv" tvg-name="Selangor TV" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/189.png", Selangor TV
+#EXTGRP:MYTV MANA
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/selangortv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="selangor-tv" tvg-name="Selangor TV" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/189.png", Selangor TV
+#EXTGRP:MYTV MANA
+https://dedm91s0p00ib.cloudfront.net/smil:selangor/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rt-international" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/RT.png",Russia Today (RT)
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/rti/playlist.m3u8
+
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/euronews.png" group-title="MYTV MANA",Euronews
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/euronews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="taiwanplus" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/taiwanplus.png",TaiwanPlus
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/xtaiwanplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="al-jazeera-english-hd" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png",Al-Jazeera English
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/abr/aljazeeraenglishhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cna" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png",Channel News Asia
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/cna/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nhk-world" group-title="MYTV MANA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=272",NHK World Japan
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/nhkworld/playlist.m3u8
+
+#EXTINF:-1 tvg-id="free-movies" group-title="MYTV MANA" tvg-logo="https://aqfadtv.xyz/logos/FreeMovies.png",Free Movies
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/freemovies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="the-indonesia-channel" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="MYTV MANA",The Indonesia Channel
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/theindonesiachannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mysport" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/MYSPORTS.png" group-title="MYTV MANA",MYSPORTS
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
 #EXTVLCOPT:network-caching=12000
@@ -306,6 +372,14 @@ https://0pnspbp7iq.tenbytecdn.com/live/sukanrtm/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cuwf8jayq1.tenbytecdn.com/live/mysport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://img.magnific.com/free-vector/realistic-islamic-pilgrimage_23-2148555081.jpg?semt=ais_hybrid&w=740&q=80" tvg-name=",LIVE MAKKAH
+#EXTGRP:MYTV MANA
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://www.freepnglogos.com/uploads/masjid-png/png-masjid-nabawi-transparent-masjid-nabawi-images-28.png" tvg-name=",LIVE MADINAH
+#EXTGRP:MYTV MANA
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
 
 #EXTINF:-1 tvg-id="ROLL.rtm" tvg-name="RTM Roll" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/ROLL.png", Roll
 #EXTGRP:MYTV MANA
@@ -337,30 +411,10 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="usim-tv" tvg-name="USIMtv" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/USIMTV.png", USIM TV
-#EXTGRP:MYTV MANA
-https://cuwf8jayq1.tenbytecdn.com/live/usimtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="200.ManaTV" tvg-name="siaratv" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/SIARATV.png",Siara TV
-#EXTVLCOPT:http-origin=https://mana2.my
-#EXTVLCOPT:http-referrer=https://mana2.my/
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/live/siaratv/playlist.m3u8
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://www.tvsinspire.my/watch/tvs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TVS.mana2" tvg-logo="https://www.tvsinspire.my/_next/image?url=%2Fbranding%2Ftvs-inspire-wordmark.png&w=256&q=75" group-title="MYTV MANA", TVS
-https://cuwf8jayq1.tenbytecdn.com/live/tvs/playlist.m3u8
+#https://cuwf8jayq1.tenbytecdn.com/live/tvs/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -368,22 +422,6 @@ https://cuwf8jayq1.tenbytecdn.com/live/tvs/playlist.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+
 #EXTGRP:MYTV MANA
 #https://stream2.smg.my/live/tvsplus.m3u8
-
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+
-#EXTGRP:MYTV MANA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-referrer=https://www.tvsarawak.my/
-#EXTVLCOPT:http-origin=https://www.tvsarawak.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0
-https://d2eiz814z6ai4n.cloudfront.net/smil:tvsplus/playlist.m3u8
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://www.tvsinspire.my/en/watch/tvsplus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+
-#EXTGRP:MYTV MANA
-#https://cuwf8jayq1.tenbytecdn.com/abr-drm/tvs/playlist.m3u8?md5=J4zQ_C3OMazmBqEXtZS4Gg&expires=1791517608
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -420,6 +458,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
+
 
 
 **************************************************************************************************************************************************
