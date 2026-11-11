@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml,https://raw.githubusercontent.com/v-epg/as-epg/main/astro_epg.xml,https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/kerklangsi/MY-tv/refs/heads/main/epg.xml,https://github.com/AqFad2811/epg/raw/main/sooka.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/my.xml,https://github.com/dbghelp/StarHub-TV-EPG/raw/main/starhub.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://github.com/dbghelp/mewatch-EPG/raw/main/mewatch.xml,https://www.open-epg.com/files/indonesia4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz,https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml,htt://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml" refresh="1440" vod_library="https://raw.githubusercontent.com/adz4892/fast/refs/heads/main/vod" billed-msg="الحمد لله"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml,https://raw.githubusercontent.com/saiyanzz/mytv-mana2/refs/heads/main/manatv.xml,https://raw.githubusercontent.com/v-epg/as-epg/main/astro_epg.xml,https://github.com/zultan-m/astro-epg/raw/main/astro.xml,https://raw.githubusercontent.com/kerklangsi/MY-tv/refs/heads/main/epg.xml,https://github.com/AqFad2811/epg/raw/main/sooka.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/my.xml,https://github.com/dbghelp/StarHub-TV-EPG/raw/main/starhub.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://github.com/dbghelp/mewatch-EPG/raw/main/mewatch.xml,https://www.open-epg.com/files/indonesia4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz,https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml,htt://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml" refresh="1440" vod_library="https://raw.githubusercontent.com/adz4892/fast/refs/heads/main/vod" billed-msg="الحمد لله"
 ************************************************************************
 
 ********************************MALAYSIA**********************************************************************************************************
@@ -96,7 +96,7 @@ https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cuwf8jayq1.tenbytecdn.com/live/tvokey/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv-alhijrah" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV Alhijrah
+#EXTINF:-1 tvg-id="astro149" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV Alhijrah
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
 #EXTVLCOPT:network-caching=12000
@@ -109,7 +109,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/tvokey/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cuwf8jayq1.tenbytecdn.com/live/tvalhijrah/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvs" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVS.png", 122 TVS
+#EXTINF:-1 tvg-id="tvs" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVS.png", TVS
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
 #EXTVLCOPT:network-caching=12000
@@ -120,7 +120,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/tvalhijrah/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/abr-drm/tvs/playlist.m3u8
+https://cuwf8jayq1.tenbytecdn.com/abr-drm/tvs/playlist.m3u8?md5=PAtbQ9ePJQ32NGL4ki1Xcw&expires=1794375158
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+
 #EXTGRP:MYTV MANA
@@ -136,7 +136,7 @@ https://d2eiz814z6ai4n.cloudfront.net/smil:tvsplus/playlist.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd 
 
-#EXTINF:-1 tvg-id="sukan-rtm" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sukan_RTM_TVGuide.png" group-title="MYTV MANA",RTM Sukan+
+#EXTINF:-1 tvg-id="Sukan RTM.rtm" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sukan_RTM_TVGuide.png" group-title="MYTV MANA",RTM Sukan+
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
 #EXTVLCOPT:network-caching=12000
@@ -180,7 +180,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/beritartm/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cuwf8jayq1.tenbytecdn.com/live/siaratv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="usim-tv" tvg-name="USIMtv" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/USIMTV.png", USIM TV
+#EXTINF:-1 tvg-id="USIM TV" tvg-name="USIMtv" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/USIMTV.png", USIM TV
 #EXTGRP:MYTV MANA
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
@@ -192,7 +192,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/siaratv/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/live/usimtv/playlist.m3u8
+https://cuwf8jayq1.tenbytecdn.com/live/usimtv/playlist.m3u8?md5=XnQD6vOZqBsv76Pa02Kl3A&expires=1794374673
 
 #EXTINF:-1 tvg-id="bernama" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png",Bernama TV
 #EXTVLCOPT:http-origin=https://mana2.my
@@ -212,16 +212,10 @@ https://cuwf8jayq1.tenbytecdn.com/live/bernama/playlist.m3u8
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/world/DASH/world.mpd
 
-#EXTINF:-1 tvg-id="live.rtm" ch-number="" tvg-name="RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/motogp.png", MotoGP
+#EXTINF:-1 tvg-id="MotoGP 2026.rtm" ch-number="" tvg-name="RTM" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/motogp.png", MotoGP
 #EXTGRP:MYTV MANA
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d30aylox5wvifh.cloudfront.net/smil:ag1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTM World.rtm" tvg-name="TV1 HD" tvg-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/worldrtm.png", RTM World
-#EXTGRP:MYTV MANA
-#https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-#https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8
-#https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 
 #EXTINF:-1 tvg-id="tv-ikim" tvg-name="TV Ikim" tvg-country="MY" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/151.png", TV Ikim
 #EXTGRP:MYTV MANA
@@ -237,7 +231,7 @@ https://d30aylox5wvifh.cloudfront.net/smil:ag1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cuwf8jayq1.tenbytecdn.com/live/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-id="borneo-tv" tvg-name="BorneoTV" tvg-country="MY" tvg-logo="https://admin.borneotv.my/storage/logos/7AKzEfmK037MU6LJV2HsDehBdhLGCOxsgl0XFfLg.jpg", Borneo TV
+#EXTINF:-1 tvg-id="BORNEO TV" tvg-name="BorneoTV" tvg-country="MY" tvg-logo="https://admin.borneotv.my/storage/logos/7AKzEfmK037MU6LJV2HsDehBdhLGCOxsgl0XFfLg.jpg", Borneo TV
 #EXTGRP:MYTV MANA
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
@@ -429,13 +423,6 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 #EXTINF:-1 tvg-id="TVS.mana2" tvg-logo="https://www.tvsinspire.my/_next/image?url=%2Fbranding%2Ftvs-inspire-wordmark.png&w=256&q=75" group-title="MYTV MANA", TVS
 #https://cuwf8jayq1.tenbytecdn.com/live/tvs/playlist.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TVS+" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/119.png", TVS+
-#EXTGRP:MYTV MANA
-#https://stream2.smg.my/live/tvsplus.m3u8
-
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -460,13 +447,13 @@ https://0c983129207742b6bca33b0d9613928c.mediatailor.ap-southeast-1.amazonaws.co
 #EXTGRP:MYTV MANA
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV6.mana2" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", Dewan Rakyat
+#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", Dewan Rakyat
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 
-#EXTINF:-1 tvg-id="TV6.mana2" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", Dewan Negara
+#EXTINF:-1 tvg-id="Dewan Negara.rtm" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", Dewan Negara
 #EXTGRP:MYTV MANA
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8
