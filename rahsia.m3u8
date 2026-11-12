@@ -1172,7 +1172,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/bernama/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cuwf8jayq1.tenbytecdn.com/live/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BORNEO TV" tvg-name="BorneoTV" tvg-country="MY" tvg-logo="https://admin.borneotv.my/storage/logos/7AKzEfmK037MU6LJV2HsDehBdhLGCOxsgl0XFfLg.jpg", Borneo TV
+#EXTINF:-1 tvg-id="BORNEO TV" tvg-name="BorneoTV" tvg-country="MY" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/borneotv.png", Borneo TV
 #EXTGRP:MYTV MANA
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
