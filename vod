@@ -42,28 +42,28 @@ https://d13snj70thqlha.cloudfront.net/8ffe8fa7-7573-4ced-9747-dfa755c62706/manif
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d13snj70thqlha.cloudfront.net/394e0818-ff31-49ce-92a1-42afd6e1cf84/BintangRTMPlus-Siri1-SitiNurhaliza.m3u8?id=26528
 
-#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/640x0/program/DatoSiti1.jpg" group-title="RTM",Bintang RTM+ : Episod 2 : Dato' Sri Siti Nurhaliza
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/640x0/program/DatoSiti3.jpg" group-title="RTM",Bintang RTM+ : Episod 2 : Dato' Sri Siti Nurhaliza
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d13snj70thqlha.cloudfront.net/db6c5cf2-3b49-40b1-a078-076c246974e6/BintangRTMPlus-siri2-SitiNurhaliza.m3u8?id=26529
 
-#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/640x0/program/DatoSiti1.jpg" group-title="RTM",Bintang RTM+ : Episod 3 : Datuk Jamal Abdillah
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/640x0/program/FEATUREDPROGRAMBINTANGRTMDATOJAMAL.jpg" group-title="RTM",Bintang RTM+ : Episod 3 : Datuk Jamal Abdillah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d13snj70thqlha.cloudfront.net/6d4715bd-ffce-45e8-945f-7ba582fc1a36/BintangRTMPlus-e3.m3u8?id=26530
 
-#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/640x0/program/DatoSiti1.jpg" group-title="RTM",Bintang RTM+ : Episod 4 : Ramlah Ram
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/640x0/program/RamlahRam+.jpg" group-title="RTM",Bintang RTM+ : Episod 4 : Ramlah Ram
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d13snj70thqlha.cloudfront.net/f4a7c071-33e9-403c-9093-c36db2de3028/BintangRTMPlus-e4.m3u8?id=26531
 
-#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/640x0/program/DatoSiti1.jpg" group-title="RTM",Bintang RTM+ : Episod 5 : Datuk Sudirman Haji Arshad
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/640x0/program/SudirmanPlus.jpg" group-title="RTM",Bintang RTM+ : Episod 5 : Datuk Sudirman Haji Arshad
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
