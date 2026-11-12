@@ -77,6 +77,62 @@ https://d13snj70thqlha.cloudfront.net/07460346-bdb8-4f47-8cce-22834aed777e/Binta
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d13snj70thqlha.cloudfront.net/3223efff-8bab-482a-ac50-c9beb5763e65/KonsertIramaNurani.m3u8?id=37505
 
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/program/Sudirman222.jpeg" group-title="RTM",The Best Of Dato' Sudirman Haji Arshad
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/a44e6bd3-0732-4788-9dd7-2bf291ff37a1/TheBestOfDatoSudirmanHajiArshad.m3u8?id=23571
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/program/POSTERSITI2.jpg" group-title="RTM",HMI Aidilfitri Bersama Siti Nurhaliza
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/f9b796cc-5d5e-4428-8d4e-5bfee8c16620/HMIAidilfitriBersamaSitiNurhaliza-20250331.m3u8?id=24697
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/undefined/OH_FATIMAH_MOBILE_FEATURED.jpg" group-title="RTM",Oh Fatimah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/67c70fca-3917-4958-b0d6-3e5152f56e2f/OH-FATIMAH-EP1.m3u8?id=37709
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/undefined/TAK-KISAHLAH-BEB-MOBILE-FEATURED.jpg" group-title="RTM",Tak Kisahlah Beb
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/d676950c-849e-4fde-8a30-913f61881ac5/TAK-KISAHLAH-BEB-EP1.m3u8?id=37708
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/Kecoh_Betul_POSTER.jpg" group-title="RTM",Kecoh Betul
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/a6a9e55e-680d-4e04-b25a-eced8d8201db/RTMKLIK_KECOHBETUL_2025_HD.m3u8?id=29761
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/PakTam-Duda_POSTER.jpg" group-title="RTM",Pak Tam Duda
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/be67b285-d233-4be9-be69-8d42b0c178a9/RTMKLIK_PAKTAMDUDA_2025_HD.m3u8?id=29764
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/Wira-Angkasa_POSTER.jpg" group-title="RTM",Wira Angkasa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/be67b285-d233-4be9-be69-8d42b0c178a9/RTMKLIK_PAKTAMDUDA_2025_HD.m3u8?id=29764
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/SayangSalmahPOSTER.jpg" group-title="RTM",Sayang Salmah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/0574273e-d44b-4f18-ace7-517889895403/RTMKLIK_SAYANGSALMAH_2025_HD.m3u8?id=29766
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
