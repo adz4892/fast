@@ -70,6 +70,13 @@ https://d13snj70thqlha.cloudfront.net/f4a7c071-33e9-403c-9093-c36db2de3028/Binta
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d13snj70thqlha.cloudfront.net/07460346-bdb8-4f47-8cce-22834aed777e/BintangRTMPlus-e5.m3u8?id=26532
 
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/KonsertIramaNurani.jpg" group-title="RTM",Konsert Irama Nurani
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/3223efff-8bab-482a-ac50-c9beb5763e65/KonsertIramaNurani.m3u8?id=37505
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
