@@ -1552,7 +1552,7 @@ https://proxy-v.rctiplus.id/live/web/muslimtv/index.m3u8
 https://proxy-v.rctiplus.id/live/web/musictv/index.m3u8
 
 **************************************************
-#EXTINF:-1 group-title="Indonesia" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5QFE5iO14XkCgEVtVauhIE6PR47W5-cFrMDN2DKHseQ&s=10",
+#EXTINF:-1 group-title="Indonesia" group-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/idntv.png",
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/918.png" group-title="Indonesia",RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
