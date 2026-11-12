@@ -133,6 +133,21 @@ https://d13snj70thqlha.cloudfront.net/be67b285-d233-4be9-be69-8d42b0c178a9/RTMKL
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d13snj70thqlha.cloudfront.net/0574273e-d44b-4f18-ace7-517889895403/RTMKLIK_SAYANGSALMAH_2025_HD.m3u8?id=29766
 
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/undefined/ONG-BAK-MOBILE-FEATURED.jpg" group-title="RTM",Ong Bak 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/16c911b0-fa59-47b8-8b48-34db8660e9af/BANGKOK-WARRIOR-EP1.m3u8?id=38287
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/HantuPunBolehPitam_Mobile.jpg" group-title="RTM",Hantu Pun Boleh Pitam
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d13snj70thqlha.cloudfront.net/931bfefb-9768-45db-a9f7-37f60073ba69/manifest.m3u8?id=38549
+
+==================================================================================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
