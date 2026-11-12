@@ -1027,33 +1027,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_primary.mpd
 ********************************MYTV********************************************************
 #EXTINF:-1 tvg-id=" " tvg-name="" group-title="MYTV MANA" group-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/mytvsemua.png",
 
-#EXTINF:-1 tvg-id="tv1" group-title="MYTV MANA" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/390ee527-dc83-4d8f-b9c6-e4df873f2dc9/poster.png",SURIA
-#EXTVLCOPT:http-origin=https://mana2.my
-#EXTVLCOPT:http-referrer=https://mana2.my/
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/radio/suriafm/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="tv1" group-title="MYTV MANA" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/390ee527-dc83-4d8f-b9c6-e4df873f2dc9/poster.png",KOOL FM
-#EXTVLCOPT:http-origin=https://mana2.my
-#EXTVLCOPT:http-referrer=https://mana2.my/
-#EXTVLCOPT:network-caching=12000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=linear
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/radio/koolfm/playlist.m3u8?md5=xCibBGG03s108injavECVA&expires=1794467477
-
 #EXTINF:-1 tvg-id="tv1" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
