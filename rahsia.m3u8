@@ -1037,6 +1037,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_primary.mpd
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+	https://cuwf8jayq1.tenbytecdn.com/live/tv1/abr/tv1_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/tv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv2" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
@@ -1050,6 +1051,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/tv1/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/tv2/abr/tv2_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/tv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv-okey" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/146.png",TV Okey
@@ -1063,6 +1065,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/tv2/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/tvokey/abr/tvokey_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/tvokey/playlist.m3u8
 
 #EXTINF:-1 tvg-id="astro149" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV Alhijrah
@@ -1076,6 +1079,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/tvokey/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/tvalhijrah/abr/tvalhijrah_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/tvalhijrah/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvs" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVS.png", TVS
@@ -1102,6 +1106,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/tvalhijrah/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://0pnspbp7iq.tenbytecdn.com/live/sukanrtm/abr/sukanrtm_480p/chunks.m3u8
 https://0pnspbp7iq.tenbytecdn.com/live/sukanrtm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="berita-rtm" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/123m.png",Berita RTM
@@ -1115,6 +1120,7 @@ https://0pnspbp7iq.tenbytecdn.com/live/sukanrtm/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/beritartm/abr/beritartm_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/beritartm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="siara-tv" tvg-name="siaratv" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/SIARATV.png",Siara TV
@@ -1128,6 +1134,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/beritartm/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/siaratv/abr/siaratv_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/siaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USIM TV" tvg-name="USIMtv" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/USIMTV.png", USIM TV
@@ -1142,6 +1149,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/siaratv/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/usimtv/abr/usimtv_720p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/usimtv/playlist.m3u8?md5=XnQD6vOZqBsv76Pa02Kl3A&expires=1794374673
 
 #EXTINF:-1 tvg-id="bernama" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png",Bernama TV
@@ -1155,6 +1163,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/usimtv/playlist.m3u8?md5=XnQD6vOZqBsv76Pa
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/bernama/abr/bernamatv_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/bernama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv-ikim" tvg-name="TV Ikim" tvg-country="MY" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/151.png", TV Ikim
@@ -1169,6 +1178,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/bernama/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/tvikim/abr/tvikim_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BORNEO TV" tvg-name="BorneoTV" tvg-country="MY" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/borneotv.png", Borneo TV
@@ -1183,6 +1193,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/tvikim/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/borneotv/abr/borneotv_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/borneotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="selangor-tv" tvg-name="Selangor TV" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/189.png", Selangor TV
@@ -1197,9 +1208,10 @@ https://cuwf8jayq1.tenbytecdn.com/live/borneotv/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/selangortv/abr/selangortv_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/selangortv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rt-international" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/RT.png",Russia Today (RT)
+#EXTINF:-1 tvg-id="rt-international" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/RT.png",RT
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
 #EXTVLCOPT:network-caching=12000
@@ -1210,6 +1222,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/selangortv/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/rti/abr/rti_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/rti/playlist.m3u8
 
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/euronews.png" group-title="MYTV MANA",Euronews
@@ -1223,6 +1236,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/rti/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/euronews/abr/euronews_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/euronews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="taiwanplus" group-title="MYTV MANA" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/taiwanplus.png",TaiwanPlus
@@ -1236,6 +1250,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/euronews/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/xtaiwanplus/abr/xtaiwanplus_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/xtaiwanplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="al-jazeera-english-hd" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png",Al-Jazeera English
@@ -1249,6 +1264,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/xtaiwanplus/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/abr/aljazeeraenglishhd/abr/aljazeeraenglishhd_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/abr/aljazeeraenglishhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cna" group-title="MYTV MANA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png",Channel News Asia
@@ -1262,9 +1278,10 @@ https://cuwf8jayq1.tenbytecdn.com/abr/aljazeeraenglishhd/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/cna/abr/cna_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/cna/playlist.m3u8
 
-#EXTINF:-1 tvg-id="nhk-world" group-title="MYTV MANA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=272",NHK World Japan
+#EXTINF:-1 tvg-id="nhk-world" group-title="MYTV MANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPOhkWJfkm-FcT4agmxooYSDpQbvXjMkbygX7ELFiIag&s=10",NHK World Japan
 #EXTVLCOPT:http-origin=https://mana2.my
 #EXTVLCOPT:http-referrer=https://mana2.my/
 #EXTVLCOPT:network-caching=12000
@@ -1275,6 +1292,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/cna/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/nhkworld/abr/nhkworld_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/nhkworld/playlist.m3u8
 
 #EXTINF:-1 tvg-id="free-movies" group-title="MYTV MANA" tvg-logo="https://aqfadtv.xyz/logos/FreeMovies.png",Free Movies
@@ -1288,6 +1306,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/nhkworld/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/freemovies/abr/freemovies_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/freemovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="the-indonesia-channel" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="MYTV MANA",The Indonesia Channel
@@ -1301,6 +1320,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/freemovies/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/theindonesiachannel/abr/theindonesiachannel_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/theindonesiachannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mysport" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/MYSPORTS.png" group-title="MYTV MANA",MYSPORTS
@@ -1314,6 +1334,7 @@ https://cuwf8jayq1.tenbytecdn.com/live/theindonesiachannel/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cuwf8jayq1.tenbytecdn.com/live/mysport/abr/mysport_480p/chunks.m3u8
 https://cuwf8jayq1.tenbytecdn.com/live/mysport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Arirang" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/191.png",Arirang TV
@@ -1328,14 +1349,8 @@ https://cuwf8jayq1.tenbytecdn.com/live/mysport/playlist.m3u8
 #EXTVLCOPT:http-continuous=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cuwf8jayq1.tenbytecdn.com/live/arirang/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.mana2.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Arirang" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/191.png",Arirang TV
-#EXTGRP:MYTV MANA
 https://cuwf8jayq1.tenbytecdn.com/live/arirang/abr/arirang_480p/chunks.m3u8
+https://cuwf8jayq1.tenbytecdn.com/live/arirang/playlist.m3u8
 
 ###############################################################Perfect TV################################################################
 #EXTINF:-1 group-title="Perfect TV" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQzO3wtv-TwuHwcy04taf7i5rfH3D9DII5GeN4x672A&s=10",
@@ -1984,6 +1999,13 @@ https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="557.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="Others",Animal Planet
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://login.bheem.tv/bpk-tv/22052/output/index.mpd
 
 
 
