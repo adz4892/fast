@@ -1316,19 +1316,19 @@ https://cuwf8jayq1.tenbytecdn.com/live/theindonesiachannel/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cuwf8jayq1.tenbytecdn.com/live/mysport/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.mana2.my/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="USIM TV" tvg-name="USIMtv" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/USIMTV.png", USIM TV
+#EXTINF:-1 tvg-id="Arirang" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/191.png",Arirang TV
 #EXTGRP:MYTV MANA
-https://cuwf8jayq1.tenbytecdn.com/live/usimtv/abr/usimtv_480p/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.mana2.my/
+#EXTVLCOPT:http-origin=https://mana2.my
+#EXTVLCOPT:http-referrer=https://mana2.my/
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=linear
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 OPR/138.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="tv-ikim" tvg-name="TV Ikim" tvg-country="MY" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/151.png", TV Ikim
-#EXTGRP:MYTV MANA
-https://cuwf8jayq1.tenbytecdn.com/live/tvikim/abr/tvikim_480p/chunks.m3u8
+https://cuwf8jayq1.tenbytecdn.com/live/arirang/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.mana2.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
