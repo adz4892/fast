@@ -101,6 +101,55 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b1096000_slENG.m3u8
 https://d30aylox5wvifh.cloudfront.net/smil:ag1/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="94.RTMKlik" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/RTM_Klik_logo.png/250px-RTM_Klik_logo.png" group-title="RTMKlik",RTM Event 1
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/event1/DASH/event1.mpd
+
+#EXTINF:-1 tvg-id="95.RTMKlik" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/RTM_Klik_logo.png/250px-RTM_Klik_logo.png" group-title="RTMKlik",RTM Event 2
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/event2/DASH/event2.mpd
+
+#EXTINF:-1 tvg-id="96.RTMKlik" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/RTM_Klik_logo.png/250px-RTM_Klik_logo.png" group-title="RTMKlik",RTM Event 3
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/event3/DASH/event3.mpd
+
+#EXTINF:-1 tvg-id="109.RTMKlik" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/RTM_Klik_logo.png/250px-RTM_Klik_logo.png" group-title="RTMKlik",RTM Event 4
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/event4/DASH/event4.mpd
+
+#EXTINF:-1 tvg-id="107.RTMKlik" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/RTM_Klik_logo.png/250px-RTM_Klik_logo.png" group-title="RTMKlik",RTM Event 5
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/event5/DASH/event5.mpd
+
+#EXTINF:-1 tvg-id="108.RTMKlik" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/RTM_Klik_logo.png/250px-RTM_Klik_logo.png" group-title="RTMKlik",RTM Event 6
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/live/media0/event6/DASH/event6.mpd
+
+#EXTINF:-1 tvg-id="97.RTMKlik" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/RTM_Klik_logo.png/250px-RTM_Klik_logo.png" group-title="RTMKlik",RTM Event 7
+#EXTVLCOPT:http-origin=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://d30aylox5wvifh.cloudfront.net/smil:ag1/playlist.m3u8
+
 **************************************************************************************************************************************************
 #EXTINF:-1 group-title="astro one" group-logo="https://raw.githubusercontent.com/adz4892/tvlogo/refs/heads/main/astroone.png",
 
