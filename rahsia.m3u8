@@ -1531,6 +1531,24 @@ https://proxy-v.rctiplus.id/live/web/zoomoo/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://proxy-v.rctiplus.id/live/web/jaktv/index.m3u8
 
+#EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-m.png",Globe Trekker
+#EXTGRP:RCTI+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8
+
+#EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-m.png",Thrill
+#EXTGRP:RCTI+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/thrill/index.m3u8
+
+#EXTINF:-1 tvg-id="BuddyStar.id" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png",Buddy Stars
+#EXTGRP:RCTI+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/buddystars/index.m3u8
+
 **************************************************
 #EXTINF:-1 group-title="Indonesia" group-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/idntv.png",
 
