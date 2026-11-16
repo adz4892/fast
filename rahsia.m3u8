@@ -1413,64 +1413,7 @@ ________________________________SD___________________________________
 #EXTINF:-1 group-title="Vision+" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqlKwNcU5jl8Z6CLK_NYc84J4aNqKlj9CyVme4Y9pQwS8CcGJ4NWfBzvo&s=10",
 
 
-#EXTINF:-1 tvg-id="KidsTV.id" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png" group-title="Vision+",Kids TV (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=056
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png" group-title="Vision+",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9
-https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png" group-title="Vision+",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=8
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
-
-#EXTINF:-1 tvg-id="MNCTV.id"  tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="Vision+",MNCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=2&type=drm&token=apistech
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="Vision+",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1&type=drm&token=apistech
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-
-#EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="Vision+",Trans7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=7&type=drm&token=apistech
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="Vision+",TransTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=6&type=drm&token=apistech
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-
-#EXTINF:-1 tvg-id="MDTV.id@HD" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png",MDTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=23&type=drm&token=apistech
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 =========================================================================================================================================================
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV
@@ -1492,6 +1435,12 @@ https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/rtv/index.m3u8
+
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV
+#EXTGRP:Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/hapykids/index.m3u8
 
 #EXTINF:-1 tvg-id="Moji.id@SD" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1573,6 +1522,27 @@ https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/916.png" group-title="Indonesia",TransTV
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png",Indosiar
+#EXTGRP:Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png",Indosiar
+#EXTGRP:Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
+https://vidsemar.pages.dev/terraluna3/205.mpd
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png",SCTV
+#EXTGRP:Indonesia
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/rtv.png" group-title="Indonesia",Rajawali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
