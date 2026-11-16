@@ -1431,6 +1431,16 @@ https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 
+#EXTINF:-1 tvg-id="TransTV.id@SD" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",TransTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id@SD" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
+
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1481,6 +1491,26 @@ https://proxy-v.rctiplus.id/live/web/muslimtv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/musictv/index.m3u8
+
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-m.png",DreamWorks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/dreamworks/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJrAsia.sg@SD" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png",Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" group-title="Vision+" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png",Zoo Moo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/zoomoo/index.m3u8
+
+#EXTINF:-1 tvg-id="JakTV.id@SD" group-title="Vision+" tvg-logo="https://jak-tv.com/assets/img/logo%202.png",JakTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/jaktv/index.m3u8
 
 **************************************************
 #EXTINF:-1 group-title="Indonesia" group-logo="https://raw.githubusercontent.com/adz4892/utlogo/refs/heads/main/idntv.png",
