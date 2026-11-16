@@ -1447,7 +1447,7 @@ https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
 https://proxy-v.rctiplus.id/live/web/rtv/index.m3u8
 
 #EXTINF:-1 tvg-id="KidsTV.id" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV
-#EXTGRP:Indonesia
+#EXTGRP:Vision+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://proxy-v.rctiplus.id/live/web/hapykids/index.m3u8
